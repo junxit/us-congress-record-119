@@ -33,5 +33,7 @@ was said and what was laid before each chamber; how each member voted is
 not derivable from it, and the text of a measure is not here either.
 
 Measures named in a document are cross-referenced by citation in that
-document's front matter. The text of each one is a branch in
-[`us-congress-bills-119`](https://github.com/junxit/us-congress-bills-119).
+document's front matter, as plain text rather than as links: the
+sibling `us-congress-bills` shard for this Congress does not exist, and
+a link to a repository nobody has created is a 404 repeated across
+every document that carries it.
