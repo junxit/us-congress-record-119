@@ -26,6 +26,23 @@ revisions appear in the bound edition rather than here. When GPO
 publishes it this shard gains a second branch, and the difference
 between what was said and what was printed becomes diffable.
 
+## Issue days with no readable document
+
+1 issue day(s) were listed upstream and every granule in them
+failed to produce text, so they have no commit at all.
+
+## Granules with no text
+
+4 granule(s) are listed in their issue and have no
+readable HTML rendition, so the issue's index skips a number where each
+one should be. Ordinals are assigned over every listed granule
+precisely so the hole stays visible rather than being closed up.
+
+- `CREC-2026-09-16-dailydigest`
+- `CREC-2026-09-16-extensions`
+- `CREC-2026-09-16-house`
+- `CREC-2026-09-16-senate`
+
 ## What this repository is not
 
 The Record is a record of *proceedings*, not of outcomes. It reports what
