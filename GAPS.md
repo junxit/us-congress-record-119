@@ -6,7 +6,7 @@ The 119th Congress sat from 2025-01-03 to 2027-01-02.
 
 | Edition | Branch | Issue days | Documents | First | Last |
 |---|---|---|---|---|---|
-| Daily edition (CREC) | `daily` | 350 | 52,149 | 2025-01-03 | 2026-08-27 |
+| Daily edition (CREC) | `daily` | 351 | 52,299 | 2025-01-03 | 2026-08-31 |
 | Bound edition (CRECB) | `bound` | 0 | 0 | — | — |
 
 Every figure above is read back out of the branch itself, not counted by
