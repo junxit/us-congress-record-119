@@ -6,7 +6,7 @@ The 119th Congress sat from 2025-01-03 to 2027-01-02.
 
 | Edition | Branch | Issue days | Documents | First | Last |
 |---|---|---|---|---|---|
-| Daily edition (CREC) | `daily` | 362 | 53,724 | 2025-01-03 | 2026-09-21 |
+| Daily edition (CREC) | `daily` | 364 | 54,102 | 2025-01-03 | 2026-09-22 |
 | Bound edition (CRECB) | `bound` | 0 | 0 | — | — |
 
 Every figure above is read back out of the branch itself, not counted by
@@ -25,23 +25,6 @@ is provisional: members may revise and extend their remarks, and those
 revisions appear in the bound edition rather than here. When GPO
 publishes it this shard gains a second branch, and the difference
 between what was said and what was printed becomes diffable.
-
-## Issue days with no readable document
-
-1 issue day(s) were listed upstream and every granule in them
-failed to produce text, so they have no commit at all.
-
-## Granules with no text
-
-4 granule(s) are listed in their issue and have no
-readable HTML rendition, so the issue's index skips a number where each
-one should be. Ordinals are assigned over every listed granule
-precisely so the hole stays visible rather than being closed up.
-
-- `CREC-2026-09-16-dailydigest`
-- `CREC-2026-09-16-extensions`
-- `CREC-2026-09-16-house`
-- `CREC-2026-09-16-senate`
 
 ## What this repository is not
 
