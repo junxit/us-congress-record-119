@@ -1,0 +1,46 @@
+---
+granule: CREC-2025-01-06-pt1-PgD14
+date: 2025-01-06
+edition: CREC
+section: DAILYDIGEST
+page: D14
+citation: 171 Cong. Rec. D14
+---
+
+# Daily Digest/Highlights + Senate
+
+**Measures:** S. 5
+
+```
+                                            Monday, January 6, 2025
+
+[[Page D14]]
+
+                              Daily Digest
+
+
+HIGHLIGHTS
+
+      The House and Senate met in joint session to count electoral 
+      votes.
+
+
+                                 Senate
+
+
+Chamber Action
+Routine Proceedings, pages S31-S34
+Measures Introduced: One bill was introduced, as follows: S. 5. 
+                                                               Page S34
+Electoral Ballot Count: Senate met in Joint Session with the House of 
+Representatives to count the electoral ballots of the States cast in 
+the election of the President and Vice President of the United States. 
+                                                               Page S34
+Messages from the House:                                   
+  Pages S33-34
+Measures Read the First Time:                                  
+  Page S32
+Adjournment: Senate convened at 12 noon and adjourned at 1:36 p.m., 
+until 11 a.m. on Tuesday, January 7, 2025. (For Senate's program, see 
+the remarks of the Majority Leader in today's Record on page S34.)
+```
