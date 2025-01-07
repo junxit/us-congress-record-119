@@ -1,0 +1,43 @@
+---
+granule: CREC-2025-01-07-pt1-PgH52-2
+date: 2025-01-07
+edition: CREC
+section: HOUSE
+page: H52
+citation: 171 Cong. Rec. H52
+---
+
+# IN RECOGNITION OF PENN STATE WOMEN'S VOLLEYBALL TEAM
+
+**Speaking:** Thompson, Glenn (T000467) [R-PA]
+
+```
+          IN RECOGNITION OF PENN STATE WOMEN'S VOLLEYBALL TEAM
+
+  (Mr. THOMPSON of Pennsylvania asked and was given permission to 
+address the House for 1 minute and to revise and extend his remarks.)
+  Mr. THOMPSON of Pennsylvania. Madam Speaker, I rise to recognize Penn 
+State women's volleyball team's victory in the national championship.
+  Penn State made history with its 3-1 win over Louisville in the NCAA 
+Division I Women's Volleyball Championship in front of a record crowd 
+of over 21,860 fans. This was the Nittany Lions' eighth national title 
+in the program's history.
+  This victory didn't happen by chance. It is the result of relentless 
+hard work, discipline, and teamwork. These women showed us what it 
+means to commit fully. At every practice, every set, and every match, 
+they gave their all.
+  This success is possible because of the incredible leadership of the 
+coaching staff, whose mentorship has shaped this team not only into 
+champions, but also into outstanding young leaders.
+  Penn State Coach Katie Schumacher-Cawley became the first woman coach 
+to win the NCAA Division I volleyball title.
+  The road to the championship wasn't easy for Coach Schumacher-Cawley. 
+In October, she announced she was diagnosed with breast cancer.
+  This championship win isn't just about a trophy. It is about a story 
+of strength, resilience, and the values that define Penn State. These 
+women make us all proud to wear blue and white.
+  I congratulate Penn State women's volleyball on their national 
+championship. We are.
+
+                          ____________________
+```
