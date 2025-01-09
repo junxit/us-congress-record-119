@@ -1,0 +1,67 @@
+---
+granule: CREC-2025-01-09-pt1-PgE13
+date: 2025-01-09
+edition: CREC
+section: EXTENSIONS
+page: E13
+citation: 171 Cong. Rec. E13
+---
+
+# HONORING COLONEL ROBERT BARTRAN
+
+**Speaking:** Kelly, Trent (K000388) [R-MS]
+
+```
+                    HONORING COLONEL ROBERT BARTRAN
+
+                                 ______
+                                 
+
+                            HON. TRENT KELLY
+
+                             of mississippi
+
+                    in the house of representatives
+
+                       Thursday, January 9, 2025
+
+  Mr. KELLY of Mississippi. Mr. Speaker, I rise today to celebrate 
+Colonel Robert Bartran's service, career, and accomplishments. For over 
+36 years, he served selflessly in the Mississippi Army National Guard.
+  After earning his commission in 1995 from the Officer's Candidate 
+Course, he began a long and distinguished career. He holds an 
+associate's degree from Hinds Community College, a bachelors degree 
+from the University of Southern Mississippi, and a masters degree from 
+Liberty University. His military education includes Basic Training, the 
+Engineer Officers Basic and Advanced Courses, the Command and General 
+Staff Officer Course, and many other military and civilian law 
+enforcement schools, as well as courses in transportation, human 
+resources, maintenance, and leadership.
+  He served at the platoon, company, battalion, major subordinate 
+command, and state levels. Throughout his distinguished service, 
+Colonel Bartran exhibited extraordinary vision, unwavering 
+professionalism, dynamic leadership, and deep compassion. He served 
+across the United States and around the world, including in Guantanamo 
+Bay, Cuba, and Afghanistan. His years of experience and training in law 
+enforcement, border security, and criminal justice made him an 
+invaluable asset to counterterrorism, counter-narcotics initiatives, 
+and counterinsurgency operations. His exceptional management skills and 
+profound concern for the well-being of all soldiers culminated in his 
+role as the Director of the Mississippi National Guard Counterdrug 
+Program.
+  Colonel Bartran's distinguished career is marked by his numerous 
+awards and decorations, a testament to his exceptional service. Among 
+his accolades are the Bronze Star Medal, seven Meritorious Service 
+Medals, three Army Commendation Medals, the Iraq Campaign and 
+Afghanistan Campaign Medals, the Humanitarian Medal, and the Air 
+Assault Badge, along with numerous other federal and state awards. 
+These honors reflect his dedication and commitment to his duty, 
+inspiring pride and honor in all who have served alongside him, 
+including myself.
+  His commitment to his family, his service to our country, and his 
+contributions to Mississippi are testaments to his character. Colonel 
+Bartran is a true American hero, a proud Mississippian Guardsman, and a 
+man for whom we are immensely grateful.
+
+                          ____________________
+```
