@@ -1,0 +1,50 @@
+---
+granule: CREC-2025-01-13-pt1-PgE19
+date: 2025-01-13
+edition: CREC
+section: EXTENSIONS
+page: E19
+citation: 171 Cong. Rec. E19
+---
+
+# HONORING TEXAS-24 HOMETOWN HERO DANNY HUYNH
+
+**Speaking:** Van Duyne, Beth (V000134) [R-TX]
+
+```
+              HONORING TEXAS-24 HOMETOWN HERO DANNY HUYNH
+
+                                 ______
+                                 
+
+                          HON. BETH VAN DUYNE
+
+                                of texas
+
+                    in the house of representatives
+
+                        Monday, January 13, 2025
+
+  Ms. VAN DUYNE. Mr. Speaker, I rise to honor our Texas-24 Hometown 
+Hero Danny Huynh, a senior at Harmony School of Innovation in Euless, 
+for his dedicated volunteerism. As Vice President of the school chapter 
+of Key Club International, Danny organized volunteer events for local 
+nonprofits, raised funds for community projects, and assisted 
+international causes. Additionally, he volunteers at the River Legacy 
+Nature Center's Fall Festival and the Huong Tu Foundation, accumulating 
+over 400 hours of service.
+  As a member of the Hoa Dao Lion Dance Association and as a leadership 
+intern at Camp Invention, Danny has shown dedication to athletics, the 
+arts, and helping his fellow students. His involvement in the National 
+Honor Society led him to fundraise for National Child Abuse Prevention 
+Month and facilitate food donations to charitable organizations. 
+Committed to continuing his service, Danny plans to pursue a nursing 
+degree at the University of Pennsylvania after receiving a full-ride 
+scholarship.
+  Danny's involvement and selflessness as such a young age sets a great 
+example for students looking to follow his lead and make a positive 
+impact in our community. I wish him the best of luck in college and 
+beyond.
+
+                          ____________________
+```

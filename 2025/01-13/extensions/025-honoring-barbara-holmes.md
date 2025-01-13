@@ -1,0 +1,56 @@
+---
+granule: CREC-2025-01-13-pt1-PgE22-3
+date: 2025-01-13
+edition: CREC
+section: EXTENSIONS
+page: E22
+citation: 171 Cong. Rec. E22
+---
+
+# HONORING BARBARA HOLMES
+
+**Speaking:** Torres, Ritchie (T000486) [D-NY]
+
+```
+                        HONORING BARBARA HOLMES
+
+                                 ______
+                                 
+
+                          HON. RITCHIE TORRES
+
+                              of new york
+
+                    in the house of representatives
+
+                        Monday, January 13, 2025
+
+  Mr. TORRES of New York. Mr. Speaker, I want to celebrate the life and 
+work of a Bronx icon, Barbara Holmes. As her daughter put it, ``She 
+fought for the rights of her children, her neighbors and their 
+children, her neighborhood and colleagues. No matter the fight she 
+continued to fight a good one.'' This sentiment captures the light and 
+good she brought into the world.
+  Barbara always fought for what was right. In the 60's, the Board of 
+Education teachers went on strike. Barbara organized school parents to 
+make sure that not a single child was stopped from getting their 
+education. Later in the 70's, as she attended Bronx Community College, 
+her rights were violated. This led Barbara and her colleagues to stage 
+a weeklong sit-in on campus to ensure their right to attend college was 
+respected.
+  Barbara touched the lives of countless individuals in her community 
+as the President of the Community Council of Police Service Area 7. In 
+her role, she was dedicated to assisting residents of NYCHA 
+Developments with a wide range of challenges, particularly those 
+related to public safety. As Tenant Association President, Barbara 
+consistently went above and beyond. She organized programs to provide 
+food for families in need, as well as toys and school supplies for 
+children. Barbara accomplished all of this while tirelessly working to 
+support the families and communities she served.
+  Barbara was all about community and family. She worked for the 
+benefit of others until the day she passed, and the entire community 
+will be forever grateful. Her spirit will live on through the Barbara 
+Holmes Impact Foundation and her entire Bronx family.
+
+                          ____________________
+```

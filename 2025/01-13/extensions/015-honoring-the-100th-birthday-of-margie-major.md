@@ -1,0 +1,63 @@
+---
+granule: CREC-2025-01-13-pt1-PgE20
+date: 2025-01-13
+edition: CREC
+section: EXTENSIONS
+page: E20
+citation: 171 Cong. Rec. E20
+---
+
+# HONORING THE 100TH BIRTHDAY OF MARGIE MAJOR
+
+**Speaking:** Veasey, Marc A. (V000131) [D-TX]
+
+```
+              HONORING THE 100TH BIRTHDAY OF MARGIE MAJOR
+
+                                 ______
+                                 
+
+                          HON. MARC A. VEASEY
+
+                                of texas
+
+                    in the house of representatives
+
+                        Monday, January 13, 2025
+
+  Mr. VEASEY. Mr. Speaker, I rise today to celebrate a remarkable 
+woman, someone whose contributions to our community and to the lives of 
+so many are truly unparalleled. On November 19, 2024, Ms. Margie Major 
+celebrated a milestone 100th birthday, and it is my honor to recognize 
+her incredible life.
+  Born and raised in Fort Worth, Texas, Margie's roots run deep in this 
+city. She grew up in the historic Southside before her family moved to 
+the Como neighborhood, which became an iconic African American 
+Community. There, her parents founded Holloway Grocery Store, where 
+Margie worked alongside her mother and sister, learning the values of 
+hard work and service early on.
+  Margie's educational journey began at the historic I.M. Terrell High 
+School, where she graduated at just 15 years old. She went on to earn a 
+Bachelor of Science in Physical Education from Hampton Institute--now 
+Hampton University--at 19 and later completed a Master of Arts in Dance 
+at Columbia University. After returning home to Fort Worth, she spent 
+decades as an educator, first teaching at her alma mater, I.M. Terrell, 
+and later at Southwest High School, shaping the lives of countless 
+young people.
+  Margie didn't stop there. She went on to become a guidance counselor 
+at Paschal High School, serving the community for an astounding 46 
+years. Her commitment to education didn't end with her retirement. She 
+has been deeply involved in organizations such as Delta Sigma Theta 
+Sorority, Inc., serving as President of the Fort Worth Alumnae Chapter, 
+and the Jubilee Theatre, where she held leadership positions.
+  Beyond her professional accomplishments, Margie has been a tireless 
+community advocate, a founding member of St. Simon Episcopal Church, 
+and a charter member of both Ft. Worth Chapter Charms, Inc. and the 
+Perennial Cultural Club. Her impact is felt across Fort Worth, and her 
+legacy will undoubtedly endure for generations to come.
+  Today, we honor Margie Major for her 100 years of grace, leadership, 
+and service. Happy birthday to Margie. Her life is an inspiration to us 
+all.
+
+                          ____________________
+```

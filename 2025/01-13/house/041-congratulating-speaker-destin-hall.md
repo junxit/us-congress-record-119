@@ -1,0 +1,38 @@
+---
+granule: CREC-2025-01-13-pt1-PgH109-2
+date: 2025-01-13
+edition: CREC
+section: HOUSE
+page: H109
+citation: 171 Cong. Rec. H109
+---
+
+# CONGRATULATING SPEAKER DESTIN HALL
+
+**Speaking:** Moore, Tim (M001236) [R-NC]
+
+```
+                              {time}  1915
+                   CONGRATULATING SPEAKER DESTIN HALL
+
+  (Mr. MOORE of North Carolina asked and was given permission to 
+address the House for 1 minute and to revise and extend his remarks.)
+  Mr. MOORE of North Carolina. Mr. Speaker, I rise today to honor North 
+Carolina's speaker of the house, Destin Hall. Last week, I had the 
+privilege of passing the gavel to him, and I have full faith and 
+confidence that he will ensure that our statehouse will continue to 
+serve the people of North Carolina with integrity, purpose, and 
+dedication.
+  As a mentor and a colleague, I have watched Destin grow into an 
+exceptional leader who listens, collaborates, and fights tirelessly for 
+the people of North Carolina. His commitment to his constituents and 
+his vision for a stronger, more prosperous State make him uniquely 
+suited to this role.
+  At this critical time, as we work to rebuild western North Carolina, 
+address inflation, and strengthen our communities, I know Speaker Hall 
+will guide the North Carolina State House with wisdom and resolve. It 
+has been an honor to work alongside him, and I look forward to the 
+positive impact he will make as speaker of the statehouse.
+
+                          ____________________
+```
