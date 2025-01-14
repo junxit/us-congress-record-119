@@ -1,0 +1,39 @@
+---
+granule: CREC-2025-01-14-pt1-PgH124-8
+date: 2025-01-14
+edition: CREC
+section: HOUSE
+page: H124
+citation: 171 Cong. Rec. H124
+---
+
+# MEAN, CRUEL BULLYING TACTIC
+
+**Speaking:** McGovern, James P. (M000312) [D-MA]
+
+```
+                      MEAN, CRUEL BULLYING TACTIC
+
+  (Mr. McGOVERN asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. McGOVERN. Mr. Speaker, it is no surprise that the Republican 
+Party of Matt Gaetz and former GOP Speaker Dennis Hastert is the same 
+party that is obsessed with passing a bill today which I call the child 
+predator empowerment act.
+  Republicans are passing a bill that allows any adult in a school to 
+inspect the genitals of our kids before they are allowed to play 
+sports. That is right, Republicans' creepy, weird obsession with your 
+kids' private parts now means they are passing bills that let them 
+inspect what is in your kids' pants.
+  What is wrong with them? As a parent, I find this terrifying and 
+downright sick. Let me be clear, every kid should be able to play 
+sports, and this bill is just a mean, cruel bullying tactic.
+  My Republican colleagues are obsessed with passing a bill to protect 
+predators. How about they pass a bill to protect jobs or pass a bill to 
+fight wildfires or lower grocery prices? No, no, no, Republicans are 
+weirdly obsessed with talking about transgender people and using that 
+as an excuse to protect and even empower child predators.
+  I think, Mr. Speaker, that we all know the reason why.
+
+                          ____________________
+```
