@@ -1,0 +1,45 @@
+---
+granule: CREC-2025-01-15-pt1-PgH172-6
+date: 2025-01-15
+edition: CREC
+section: HOUSE
+page: H172
+citation: 171 Cong. Rec. H172
+---
+
+# REMEMBERING THE VICTIMS OF THE BOURBON STREET TERRORIST ATTACK
+
+**Speaking:** Carter, Troy A. (C001125) [D-LA]
+
+```
+     REMEMBERING THE VICTIMS OF THE BOURBON STREET TERRORIST ATTACK
+
+  (Mr. CARTER of Louisiana asked and was given permission to address 
+the House for 1 minute and to revise and extend his remarks.)
+  Mr. CARTER of Louisiana. Mr. Speaker, I rise today in memory of 
+Martin ``Tiger'' Bech, William ``Billy'' DiMaio, Elliot Wilkinson, 
+Nicole Perez, Kareem Badawi, Brandon Taylor, Nikyra Dedeaux, Matthew 
+Tenedorio, Hubert Gauthreaux, Edward Pettifer, Reggie Hunter, Drew 
+Dauphin, Terrence Kennedy, and LaTasha Polk.
+  These precious lives were taken from us far too soon. We honor them 
+not just as names but as fathers, mothers, children, and friends who 
+brought light to New Orleans and to this world.
+
+[[Page H173]]
+
+  Last week, I stood with President Biden at the Bourbon Street 
+memorial. We reflected on the profound loss felt by our community and 
+our Nation. In the quiet of St. Louis Cathedral, we lit candles and 
+prayed for healing for the injured survivors, for the grieving 
+families, and for a city shaken but not broken.
+  This was not just an attack on New Orleans; it was an assault on our 
+shared humanity, our spirit of joy, and our enduring strength.
+  Let me be clear: New Orleans will never let these lives be forgotten. 
+We will rise from this pain with unity, love, and resilience as we 
+always do.
+  Mr. Speaker, may God continue to bless the victims, their families, 
+the great city of New Orleans, the great State of Louisiana, and the 
+great United States of America.
+
+                          ____________________
+```
