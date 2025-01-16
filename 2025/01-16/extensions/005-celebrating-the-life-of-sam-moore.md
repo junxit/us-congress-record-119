@@ -1,0 +1,57 @@
+---
+granule: CREC-2025-01-16-pt1-PgE39-6
+date: 2025-01-16
+edition: CREC
+section: EXTENSIONS
+page: E39
+citation: 171 Cong. Rec. E39
+---
+
+# CELEBRATING THE LIFE OF SAM MOORE
+
+**Speaking:** Sanchez, Linda T. (S001156) [D-CA]
+
+```
+                   CELEBRATING THE LIFE OF SAM MOORE
+
+                                 ______
+                                 
+
+                         HON. LINDA T. SANCHEZ
+
+                             of california
+
+                    in the house of representatives
+
+                       Thursday, January 16, 2025
+
+  Ms. SANCHEZ. Mr. Speaker, I rise today to honor the life and legacy 
+of Sam Moore, who passed away last week at the age of 89.
+
+[[Page E40]]
+
+  Sam Moore was a legendary soul singer whose voice became a 
+cornerstone of the 1960's music scene. Born on October 12, 1935, in 
+Miami, Florida, he rose to fame as one half of the iconic duo Sam & 
+Dave.
+  Alongside his partner Dave Prater, Sam recorded unforgettable hits 
+like ``Soul Man'' and ``Hold On, I'm Comin'.'' Bridging rhythm and 
+blues, gospel, and soul, their songs are still celebrated today for 
+their raw energy and emotional depth.
+  After parting ways with Dave in the 1970's, Sam pursued a successful 
+solo career, continuing to influence generations of musicians. He 
+earned multiple Grammy Awards and was inducted into the Rock and Roll 
+Hall of Fame.
+  When Sam looked to retire, he learned that his record company had not 
+been properly paying his royalties and that he had barely any money in 
+his pension, leading Sam to become an advocate for artists' rights. 
+It's through that advocacy that I had the pleasure of getting to know 
+Sam and his lovely wife, Joyce.
+  Sam Moore's contributions to music have left a lasting imprint, 
+influenced generations of artists and ensured his place as one of soul 
+music's most celebrated figures. And his story reminds us of the 
+importance of the arts in our society and the need to fairly compensate 
+artists for their work.
+
+                          ____________________
+```

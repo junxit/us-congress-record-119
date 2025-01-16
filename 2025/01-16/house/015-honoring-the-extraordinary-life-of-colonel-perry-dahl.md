@@ -1,0 +1,46 @@
+---
+granule: CREC-2025-01-16-pt1-PgH191
+date: 2025-01-16
+edition: CREC
+section: HOUSE
+page: H191
+citation: 171 Cong. Rec. H191
+---
+
+# HONORING THE EXTRAORDINARY LIFE OF COLONEL PERRY DAHL
+
+**Speaking:** Lee, Laurel M. (L000597) [R-FL]
+
+```
+         HONORING THE EXTRAORDINARY LIFE OF COLONEL PERRY DAHL
+
+  (Ms. LEE of Florida asked and was given permission to address the 
+House for 1 minute and to revise and extend her remarks.)
+  Ms. LEE of Florida. Mr. Speaker, I rise today to honor the 
+extraordinary life and service of Colonel Perry Dahl, one of the last 
+World War II fighter aces, who passed away on December 2, 2024, in 
+Tampa, Florida, at the age of 101.
+  Throughout his 37-year career in the U.S. Army and U.S. Air Force, 
+Colonel Dahl left behind a legacy of courage, sacrifice, and commitment 
+to our Nation.
+  Colonel Dahl enlisted in the Washington National Guard in 1940, and 
+in 1944 became an ace where he went on to fly numerous World War II 
+missions, defending fellow pilots, and surviving capture from adversary 
+forces.
+  He displayed immense courage and perseverance during a mission that 
+earned him the Silver Star, the United States Armed Forces' third-
+highest military decoration for valor in combat.
+  After World War II, Dahl continued his distinguished service, 
+eventually retiring at the rank of colonel in 1978. In recognition of 
+his heroic service, Colonel Dahl has since received numerous accolades, 
+including the distinguished Bronze Star, the Air Medal, and the 2015 
+Congressional Gold Medal.
+  It is my privilege to honor the life of Colonel Dahl, a decorated 
+veteran and true American hero in the 15th District of Florida. His 
+legacy lives on in the lives he protected and the freedoms he fought to 
+preserve.
+  May Colonel Dahl rest in peace and may his story continue to inspire 
+for generations to come.
+
+                          ____________________
+```
