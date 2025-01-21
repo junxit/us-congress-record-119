@@ -1,0 +1,35 @@
+---
+granule: CREC-2025-01-21-pt1-PgH256
+date: 2025-01-21
+edition: CREC
+section: HOUSE
+page: H256
+citation: 171 Cong. Rec. H256
+---
+
+# REPORTS OF COMMITTEES ON PUBLIC BILLS AND RESOLUTIONS
+
+**Measures:** S. 5, H.Res. 53, H.R. 471
+
+```
+         REPORTS OF COMMITTEES ON PUBLIC BILLS AND RESOLUTIONS
+
+  Under clause 2 of rule XIII, reports of committees were delivered to 
+the Clerk for printing and reference to the proper calendar, as 
+follows:
+
+       Mr. AUSTIN SCOTT of Georgia: Committee on Rules. House 
+     Resolution 53. Resolution providing for consideration of the 
+     bill (H.R. 471) to expedite under the National Environmental 
+     Policy Act of 1969 and improve forest management activities 
+     on National Forest System lands, on public lands under the 
+     jurisdiction of the Bureau of Land Management, and on Tribal 
+     lands to return resilience to overgrown, fire-prone forested 
+     lands, and for other purposes, and providing for 
+     consideration of the bill (S. 5) to require the Secretary of 
+     Homeland Security to take into custody aliens who have been 
+     charged in the United States with theft, and for other 
+     purposes (Rept. 119-1). Referred to the House Calendar.
+
+                          ____________________
+```

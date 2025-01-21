@@ -1,0 +1,60 @@
+---
+granule: CREC-2025-01-21-pt1-PgH234-2
+date: 2025-01-21
+edition: CREC
+section: HOUSE
+page: H234
+citation: 171 Cong. Rec. H234
+---
+
+# CALLING FOR WILDFIRE RECOVERY AID WITH NO STRINGS ATTACHED
+
+**Speaking:** Barragan, Nanette Diaz (B001300) [D-CA]
+
+```
+       CALLING FOR WILDFIRE RECOVERY AID WITH NO STRINGS ATTACHED
+
+  The SPEAKER pro tempore. The Chair recognizes the gentlewoman from 
+California (Ms. Barragan) for 5 minutes.
+  Ms. BARRAGAN. Mr. Speaker, I rise today with a heavy heart for the 
+thousands of California families who have been devastated by the recent 
+wildfires in and around the Los Angeles area.
+  Homes have been burned to the ground. Lives have been lost. Family 
+pets are gone. Precious family photos and sentimental belongings have 
+been charred, damaged, and, in many cases, totally destroyed.
+  The fires didn't just destroy personal possessions. The fires took 
+away the safe place we gather with family and call home, and it took 
+out entire communities.
+  What I saw, what I witnessed on my tours of the fire-damaged areas, 
+was heartbreaking, devastating, just unreal. It was like being in a war 
+zone. There was a smell of burnt trees and homes, with smoke still in 
+the air, as firefighters continue to put out smoldering fires. The ash 
+irritates your eyes.
+  What was equally heartbreaking was the evidence of a desperate panic 
+to evacuate, shown by the abandoned cars left in the middle of the 
+streets, many charred, as I imagine people started to run to safety.
+
+  Yet, I also saw our brave firefighters. I say thank you to them and 
+our first responders for being on the front lines and for all that they 
+are doing.
+  There will be a long road to recovery. We must stand with our 
+neighbors, with our friends, with humankind. It is the right thing to 
+do. It is the compassionate thing to do. It is what we have done 
+repeatedly when communities face natural disasters.
+  It does not matter if you are in Louisiana, Florida, Georgia, or 
+California. When our communities suffer, we must pull together as one 
+to help communities with the aid they need to rebuild.
+  When hurricanes hit Florida, Georgia, and North Carolina over the 
+years, we didn't say, ``Don't send aid because of politics.'' When the 
+Speaker's home State of Louisiana suffered losses and devastation, we 
+didn't say, ``Let's attach strings to the aid.''
+  We don't do that because, above all, we help our fellow Americans. We 
+don't turn tragic situations caused by natural disasters into political 
+fights. Let's not start now.
+  I implore my colleagues to put politics aside, to love thy neighbor 
+as yourself, to support a bipartisan recovery effort with no strings 
+attached that builds a safer, more resilient future for our communities 
+harmed by the wildfires.
+
+                          ____________________
+```
