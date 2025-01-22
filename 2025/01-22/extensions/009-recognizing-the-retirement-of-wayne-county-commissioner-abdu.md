@@ -1,0 +1,46 @@
+---
+granule: CREC-2025-01-22-pt1-PgE56-5
+date: 2025-01-22
+edition: CREC
+section: EXTENSIONS
+page: E56
+citation: 171 Cong. Rec. E56
+---
+
+# RECOGNIZING THE RETIREMENT OF WAYNE COUNTY COMMISSIONER ABDUL "AL" HAIDOUS
+
+**Speaking:** Tlaib, Rashida (T000481) [D-MI]
+
+```
+ RECOGNIZING THE RETIREMENT OF WAYNE COUNTY COMMISSIONER ABDUL ``AL'' 
+                                HAIDOUS
+
+                                 ______
+                                 
+
+                           HON. RASHIDA TLAIB
+
+                              of michigan
+
+                    in the house of representatives
+
+                      Wednesday, January 22, 2025
+
+  Ms. TLAIB. Mr. Speaker, today the 12th Congressional District 
+recognizes and celebrates Wayne County Commissioner Abdul ``Al'' 
+Haidous for his more than 40 years of public service to the City of 
+Wayne and Wayne County and congratulates him on his retirement.
+  Born in Lebanon, Al came to the City of Wayne five decades ago and 
+made a name for himself in the community running Al's Friendly Market 
+with the help of his wife, Mary, for 35 years. As the first Arab 
+American mayor in Wayne County, his leadership paved the way for future 
+leaders and was an inspiration to so many.
+  In 2014, he was elected to the Wayne County Commission. For 14 years, 
+he served our residents with dedication and resilience, always focusing 
+on bringing people together. I thank Commissioner Haidous for his 
+decades of public service. His legacy will continue to inspire our 
+community in the years to come. Please join me in recognizing 
+Commissioner Al Haidous as we wish him well in his retirement.
+
+                          ____________________
+```

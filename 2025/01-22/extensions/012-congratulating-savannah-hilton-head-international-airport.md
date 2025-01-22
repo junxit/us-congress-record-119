@@ -1,0 +1,50 @@
+---
+granule: CREC-2025-01-22-pt1-PgE57-2
+date: 2025-01-22
+edition: CREC
+section: EXTENSIONS
+page: E57
+citation: 171 Cong. Rec. E57
+---
+
+# CONGRATULATING SAVANNAH/HILTON HEAD INTERNATIONAL AIRPORT
+
+**Speaking:** Carter, Earl L. "Buddy" (C001103) [R-GA]
+
+```
+       CONGRATULATING SAVANNAH/HILTON HEAD INTERNATIONAL AIRPORT
+
+                                 ______
+                                 
+
+                     HON. EARL L. ``BUDDY'' CARTER
+
+                               of georgia
+
+                    in the house of representatives
+
+                      Wednesday, January 22, 2025
+
+  Mr. CARTER of Georgia. Mr. Speaker, I rise today to congratulate the 
+Savannah/Hilton Head International Airport, which has been recognized 
+as the No. 1 airport in the U.S. by the Conde Nast Traveler Readers' 
+Choice awards.
+  This is the fifth consecutive year that the airport has been awarded 
+this incredible honor, recognizing the effort staff puts forth to 
+ensure a great travel experience.
+  In addition to outstanding customer service, the Reader's Choice 
+Awards recognized the airport's unique southern charm and intimate, 
+inviting atmosphere.
+  This prestigious recognition is awarded based on feedback from over 
+500,000 survey respondents and is known as one of the longest running 
+and most respected awards in the travel industry.
+  The airport was recognized alongside distinguished restaurants, 
+hotels, and resorts located all over the world.
+  The repeated acknowledgement of the airport demonstrates its 
+commitment to world-class service and providing passengers with 
+enjoyable travel experiences.
+  I congratulate the team at the Savannah/Hilton Head International 
+Airport on this exceptional honor and continued excellence.
+
+                          ____________________
+```

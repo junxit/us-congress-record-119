@@ -1,0 +1,64 @@
+---
+granule: CREC-2025-01-22-pt1-PgE55-5
+date: 2025-01-22
+edition: CREC
+section: EXTENSIONS
+page: E55
+citation: 171 Cong. Rec. E55
+---
+
+# RECOGNIZING TERESA COX
+
+**Speaking:** Swalwell, Eric (S001193) [D-CA]
+
+```
+                         RECOGNIZING TERESA COX
+
+                                 ______
+                                 
+
+                           HON. ERIC SWALWELL
+
+                             of california
+
+                    in the house of representatives
+
+                      Wednesday, January 22, 2025
+
+  Mr. SWALWELL. Mr. Speaker, I rise to recognize Teresa Cox in 
+recognition of her service on the Fremont City Council, which concluded 
+on Tuesday, December 10, 2024.
+  The daughter of teachers, Teresa received a Bachelor of Science in 
+Nuclear Engineering from Northwestern University, becoming the first 
+African-American woman to do so in the Nation. She returned to school 
+to receive her Master of Business Administration from the University of 
+Rochester.
+  Teresa began her public service in Fremont as a member of the 
+Economic Development Advisory Commission. During her eight years on the 
+commission, she served as chair and spearheaded a mission to China to 
+strengthen international economic ties.
+  Continuing to break glass ceilings, Teresa was the first African-
+American elected to the Ohlone Community College Board of Trustees in 
+2008, where she served for 12 years as vice chair. As a trustee, she 
+worked to secure a multimillion-dollar bond passage to improve campus 
+infrastructure, championed diversity through campus celebrations, and 
+fought for the advancement of women and minorities in leadership roles.
+  In 2020, Teresa made history again the first African-American to 
+serve on Fremont's City Council as a councilmember for the sixth 
+district. There, Teresa supported affordable housing projects, led 
+community clean-ups, and sponsored four National Night Out events. She 
+was also appointed to the U.S. Department of Commerce California 
+District Export Council on Small and Minority Women-Owned Businesses 
+under the Obama Administration with reappointments under Presidents 
+Trump and Biden.
+  Teresa's years of support for public education and economic 
+development have been critical to Fremont's success. As she enters this 
+new chapter, I join the community in wishing Teresa well-deserved rest, 
+relaxation, and quality time with her children, David and Jacqueline.
+
+[[Page E56]]
+
+  
+
+                          ____________________
+```

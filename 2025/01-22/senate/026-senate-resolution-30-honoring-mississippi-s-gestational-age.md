@@ -1,0 +1,98 @@
+---
+granule: CREC-2025-01-22-pt1-PgS303-3
+date: 2025-01-22
+edition: CREC
+section: SENATE
+page: S303
+citation: 171 Cong. Rec. S303
+---
+
+# SENATE RESOLUTION 30--HONORING MISSISSIPPI'S GESTATIONAL AGE ACT
+
+**Speaking:** Hyde-Smith, Cindy (H001079) [R-MS]
+
+**Measures:** S.Res. 30
+
+```
+                         SUBMITTED RESOLUTIONS
+
+                                 ______
+                                 
+
+    SENATE RESOLUTION 30--HONORING MISSISSIPPI'S GESTATIONAL AGE ACT
+
+  Mrs. HYDE-SMITH (for herself, Mr. Wicker, Mr. Hoeven, Mr. Marshall, 
+Mr. Ricketts, Mr. Lee, and Mr. Banks) submitted the following 
+resolution; which was referred to the Committee on the Judiciary:
+
+                               S. Res. 30
+
+       Whereas, on January 15, 2018, Mississippi State 
+     Representative Becky Currie of Brookhaven, Mississippi 
+     introduced the Gestational Age Act to protect unborn children 
+     from elective abortion after 15 weeks gestation;
+       Whereas, on March 19, 2018, the Gestational Age Act was 
+     passed by the Mississippi State Legislature, approved by 
+     Mississippi Governor Phil Bryant, and enacted into law;
+       Whereas, in May 2021, the United States Supreme Court 
+     agreed to review Dobbs v. Jackson Women's Health, 597 U.S. 
+     215 (2022), a challenge to the constitutionality of the 
+     Gestational Age Act, where the question before the Court was 
+     whether all pre-viability prohibitions on elective abortion 
+     are unconstitutional; and
+       Whereas, on June 24, 2022, the United States Supreme Court 
+     issued its historical decision in Dobbs v. Jackson Women's 
+     Health, holding that ``the Constitution does not confer a 
+     right to abortion. Roe and Casey must be overruled, and the 
+     authority to regulate abortion must be returned to the people 
+     and their elected representatives.'': Now, therefore, be it
+       Resolved, That the Senate--
+       (1) expresses profound gratitude to Mississippi State 
+     Representative Becky Currie for introducing the catalyst that 
+     ultimately brought about the historical victory of 
+     overturning Roe v. Wade, 410 U.S. 113 (1973) and Planned 
+     Parenthood v. Casey, 503 U.S. 833 (1992); and
+       (2) honors life-affirming States across the country that 
+     have enacted laws aimed to value and protect the inherent 
+     dignity of every mother and unborn child.
+
+  Mrs. HYDE-SMITH. Mr. President, I would like to enter into the Record 
+a resolution honoring Representative Becky Currie in this role in 
+history that she plays.
+  Today, I am introducing a Senate resolution honoring the Mississippi 
+Gestational Age Act:
+
+       Whereas, on January 15, 2018, Mississippi State 
+     Representative Becky Currie of Brookhaven, Mississippi 
+     introduced the Gestational Age Act to protect unborn children 
+     from elective abortion after 15 weeks gestation;
+       Whereas, on March 19, 2018, the Gestational Age Act was 
+     passed by the Mississippi State Legislature, approved by 
+     Mississippi Governor Phil Bryant, and enacted into law;
+       Whereas, in May 2021, the United States Supreme Court 
+     agreed to review Dobbs v. Jackson Women's Health . . . a 
+     challenge to the constitutionality of the Gestational Age 
+     Act, where the question before the Court was whether all pre-
+     viability prohibitions on elective abortion are 
+     unconstitutional; and
+       Whereas, on June 24, 2022, the United States Supreme Court 
+     issued its historical decision in Dobbs v. Jackson Women's 
+     Health, holding that ``the Constitution does not confer a 
+     right to abortion. Roe and Casey must be overruled, and the 
+     authority to regulate abortion must be returned to the people 
+     and their elected representatives.'': Now, therefore, be it
+       Resolved, That the Senate--
+       (1) expresses profound gratitude to Mississippi State 
+     Representative Becky Currie for introducing the catalyst that 
+     ultimately brought about the historical victory of 
+     overturning Roe v. Wade . . . and Planned Parenthood v. 
+     Casey; and
+
+[[Page S304]]
+
+       (2) honors life-affirming States across the country that 
+     have enacted laws aimed to value and protect the inherent 
+     dignity of every mother and unborn child.
+
+                          ____________________
+```

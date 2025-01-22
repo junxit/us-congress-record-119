@@ -1,0 +1,57 @@
+---
+granule: CREC-2025-01-22-pt1-PgE56-2
+date: 2025-01-22
+edition: CREC
+section: EXTENSIONS
+page: E56
+citation: 171 Cong. Rec. E56
+---
+
+# HONORING THE 30TH ANNIVERSARY OF NORTH OF THE JAMES
+
+**Speaking:** McClellan, Jennifer L. (M001227) [D-VA]
+
+```
+          HONORING THE 30TH ANNIVERSARY OF NORTH OF THE JAMES
+
+                                 ______
+                                 
+
+                       HON. JENNIFER L. McCLELLAN
+
+                              of virginia
+
+                    in the house of representatives
+
+                      Wednesday, January 22, 2025
+
+  Ms. McCLELLAN. Mr. Speaker, I rise today to honor North of the James 
+magazine, a distinguished publication that has been a cornerstone of 
+the Richmond, Virginia, community for over three decades. Established 
+in November 1994 as Northside magazine by founders Charles McGuigan, 
+Joany Flick, and Ellen Zagorin, the magazine has consistently delivered 
+in-depth profiles, features, and reviews celebrating the vibrant 
+culture and history of the areas north of the James River.
+  From its inception, North of the James has been committed to 
+authentic storytelling, forgoing canned content in favor of narratives 
+that resonate with its readers. This dedication to quality journalism 
+has earned the magazine numerous accolades from the Virginia Press 
+Association for excellence in writing, photography, and design.
+  The magazine's unwavering support for local businesses and nonprofit 
+organizations has significantly contributed to the economic and social 
+fabric of the Richmond metro area. By highlighting the endeavors of 
+these longstanding establishments, North of the James has played an 
+instrumental role in fostering a more equitable and prosperous 
+community.
+  Throughout its history, the magazine has adapted to changing times, 
+including a temporary shift to an online-only format during the COVID-
+19 pandemic to ensure the safety of its readers and staff. Despite 
+these unforeseen obstacles, North of the James has maintained a 
+reputation as a trusted source of information for its loyal readers.
+  As North of the James celebrates its 30th anniversary, I ask my 
+colleagues to join me in celebrating the magazine's enduring legacy and 
+invaluable contributions to the Richmond community. May it continue to 
+inform, engage, and inspire for many years.
+
+                          ____________________
+```
