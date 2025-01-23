@@ -1,0 +1,20 @@
+---
+granule: CREC-2025-01-23-pt1-PgH388-31
+date: 2025-01-23
+edition: CREC
+section: HOUSE
+page: H388
+citation: 171 Cong. Rec. H388
+---
+
+# Constitutional Authority Statement for H.R. 677
+
+**Measures:** H.R. 677
+
+```
+           By Ms. HAGEMAN:
+       H.R. 677.
+       Congress has the power to enact this legislation pursuant 
+     to the following:
+       Article I Section 8
+```

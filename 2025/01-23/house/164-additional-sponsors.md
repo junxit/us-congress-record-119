@@ -1,0 +1,108 @@
+---
+granule: CREC-2025-01-23-pt1-PgH389-35
+date: 2025-01-23
+edition: CREC
+section: HOUSE
+page: H389
+citation: 171 Cong. Rec. H389
+---
+
+# ADDITIONAL SPONSORS
+
+**Measures:** H.R. 21, H.Res. 23, H.R. 24, H.J.Res. 24, H.J.Res. 28, H.Res. 29, H.R. 31, H.R. 32, H.R. 45, H.Res. 52, H.R. 137, H.R. 151, H.R. 163, H.R. 224, H.R. 232, H.R. 247, H.R. 262, H.R. 271, H.R. 273, H.R. 309, H.R. 323, H.R. 350, H.R. 378, H.R. 389, H.R. 404, H.R. 425, H.R. 429, H.R. 430, H.R. 431, H.R. 469, H.R. 470, H.R. 471, H.R. 472, H.R. 478, H.R. 482, H.R. 484, H.R. 485, H.R. 486, H.R. 499, H.R. 500, H.R. 520, H.R. 522, H.R. 530, H.R. 539, H.R. 569, H.R. 573, H.R. 574, H.R. 576, H.R. 584, H.R. 589, H.R. 599, H.R. 600, H.R. 606, H.R. 608, H.R. 609, H.R. 610, H.R. 618, H.R. 624, H.R. 629, H.R. 630, H.R. 632
+
+```
+                          ADDITIONAL SPONSORS
+
+  Under clause 7 of rule XII, sponsors were added to public bills and 
+resolutions, as follows:
+
+       H.R. 21: Mr. Bentz, Mr. Westerman, Mr. Gimenez, and Mr. 
+     Roy.
+       H.R. 24: Mr. Hamadeh of Arizona.
+       H.R. 31: Mr. LaLota.
+       H.R. 32: Mr. Stauber.
+       H.R. 45: Mr. LaHood, Mr. Schmidt, Mr. Rutherford, Mr. 
+     Comer, and Mr. DesJarlais.
+       H.R. 137: Mr. Lucas, Mr. Fallon, Mr. Moore of Utah, Mr. 
+     McCormick, Mrs. Wagner, Mr. Moore of North Carolina, Mr. 
+     Finstad, and Mr. Timmons.
+       H.R. 151: Mrs. Biggs of South Carolina.
+       H.R. 163: Mr. Comer.
+       H.R. 224: Mr. Stauber.
+       H.R. 232: Ms. Sherrill.
+       H.R. 247: Ms. Craig.
+       H.R. 262: Mr. Sessions.
+       H.R. 271: Mr. Rutherford.
+       H.R. 273: Mr. Simpson.
+       H.R. 309: Mrs. Torres of California, Mr. LaHood, and Mr. 
+     Fields.
+       H.R. 323: Mr. LaLota.
+       H.R. 350: Mr. LaHood.
+       H.R. 378: Mr. LaHood.
+       H.R. 389: Mr. Cuellar.
+       H.R. 404: Ms. Boebert.
+       H.R. 425: Mr. Comer, Mr. Palmer, Mr. Bacon, and Mr. Gosar.
+       H.R. 429: Mr. Pappas, Mr. Norcross, and Mr. Rutherford.
+       H.R. 430: Mr. Mullin.
+       H.R. 431: Mr. Barr.
+       H.R. 469: Mr. Owens, Mr. McGovern, Mr. Tonko, Mr. Van Drew, 
+     and Mr. Wilson of South Carolina.
+       H.R. 470: Mr. Mills and Mr. Steube.
+       H.R. 471: Mr. Sessions.
+       H.R. 472: Mrs. Biggs of South Carolina.
+       H.R. 478: Mr. Scott Franklin of Florida, Mr. Huizenga, Mr. 
+     Knott, and Mr.Timmons.
+       H.R. 482: Ms. Tenney.
+       H.R. 484: Ms. Titus and Mr. Garcia of Illinois.
+
+[[Page H390]]
+
+  
+
+       H.R. 485: Mr. Garamendi.
+       H.R. 486: Mr. Keating.
+       H.R. 499: Mr. Turner of Texas, Mr. Vicente Gonzalez of 
+     Texas, and Mrs. Fletcher.
+       H.R. 500: Mr. Lawler.
+       H.R. 520: Mr. Rutherford.
+       H.R. 522: Mr. Fallon.
+       H.R. 530: Mr. LaLota.
+       H.R. 539: Mr. Soto, Mr. Scott Franklin of Florida, Mr. 
+     LaHood, Mr. Nehls,
+       Ms. Sewell, Ms. Hoyle of Oregon, Mrs. Cherfilus-McCormick, 
+     Mr. Gooden, Mr. Hern of Oklahoma, Mr. Burlison, Ms. Tlaib, 
+     and Mr. Comer.
+       H.R. 569: Mr. Rutherford, Ms. Hageman, Mr. Fallon, Mrs. 
+     Miller of Illinois, Mr. Guest, and Mr. Haridopolos.
+       H.R. 573: Mr. Mann.
+       H.R. 574: Mr. Fallon and Mr. Moore of Utah.
+       H.R. 576: Ms. Omar, Ms. Clarke of New York, Mrs. Foushee, 
+     Ms. Lee of Pennsylvania, Mr. Carter of Louisiana, and Mr. 
+     Smith of Washington.
+       H.R. 584: Mr. Van Orden.
+       H.R. 589: Mr. Rutherford, Ms. Boebert, and Mr. Cline.
+       H.R. 599: Mr. Williams of Texas, Mr. Rutherford, and Mr. 
+     Guest.
+       H.R. 600: Mrs. Luna.
+       H.R. 606: Mr. Gosar and Ms. Boebert.
+       H.R. 608: Ms. Crockett.
+       H.R. 609: Ms. Crockett, Ms. Hoyle of Oregon, and Ms. Titus.
+       H.R. 610: Ms. Crockett, Ms. Hoyle of Oregon, and Ms. Titus.
+       H.R. 618: Mr. Amodei of Nevada.
+       H.R. 624: Mr. Cline, Mr. Fallon, and Mr. Langworthy.
+       H.R. 629: Mr. Grothman and Mr. Ezell.
+       H.R. 630: Mr. Panetta.
+       H.R. 632: Mr. Grothman and Mr. Mann.
+       H.J. Res. 24: Mr. Johnson of South Dakota.
+       H.J. Res. 28: Mr. McDowell.
+       H. Res. 23: Mr. McGarvey, Mr. Scott of Virginia, Ms. Clarke 
+     of New York, Mr. Davis of Illinois, Mrs. Torres of 
+     California, Mr. Latimer, Mrs. Ramirez, Mr. Espaillat, Ms. 
+     Kelly of Illinois, Mrs. Foushee, Mr. Frost, Mr. Ivey, Mr. 
+     Johnson of Georgia, Mr. Moskowitz, Mrs. McIver, Mr. Soto, Ms. 
+     Brownley, Mr. Subramanyam, Mr. Bera, Mr. Pocan, Mr. Thanedar, 
+     Mr. Deluzio, and Mrs. Hayes.
+       H. Res. 29: Ms. Meng.
+       H. Res. 52: Mr. Grijalva and Mr. Garcia of Illinois.
+```

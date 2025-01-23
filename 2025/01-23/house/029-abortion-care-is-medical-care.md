@@ -1,0 +1,44 @@
+---
+granule: CREC-2025-01-23-pt1-PgH311
+date: 2025-01-23
+edition: CREC
+section: HOUSE
+page: H311
+citation: 171 Cong. Rec. H311
+---
+
+# ABORTION CARE IS MEDICAL CARE
+
+**Speaking:** Conaway, Herbert C. (C001136) [D-NJ]
+
+```
+                     ABORTION CARE IS MEDICAL CARE
+
+  (Mr. CONAWAY asked and was given permission to address the House for 
+1 minute.)
+  Mr. CONAWAY. Mr. Speaker, I rise today not just as a Member of 
+Congress, but as a physician who has treated patients for 30 years. I 
+express my strong opposition to the House Republican reproductive 
+healthcare surveillance act.
+  Let me make one thing clear: Over my 30 years of practice, I have 
+come to treat patients in the most difficult times of their lives, and 
+I understand full well that no one but the doctor and the patient 
+should be in that examination room.
+  Like any other issue, abortion care is medical care and needs to be 
+treated by a physician trained to deal with that very difficult 
+situation for women.
+  Unfortunately, the bill we are considering today undermines medical 
+expertise and seeks to bully physicians into not providing the care 
+that they have been trained to provide according to the best medical 
+science.
+  This bill is just another attempt to strip women of their 
+reproductive freedom by pushing misinformation that endangers not only 
+the lives of women but the public health at large.
+  Like with any other medical issue, politicians are not equipped, 
+generally not trained, to manage the healthcare of patients, but we 
+hope they will address the important needs of public health.
+  Mr. Speaker, let the doctors and patients lead the way on healthcare, 
+and let women make the decisions that are their right to make.
+
+                          ____________________
+```

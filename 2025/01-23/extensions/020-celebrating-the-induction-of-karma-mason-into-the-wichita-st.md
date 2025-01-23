@@ -1,0 +1,50 @@
+---
+granule: CREC-2025-01-23-pt1-PgE65-3
+date: 2025-01-23
+edition: CREC
+section: EXTENSIONS
+page: E65
+citation: 171 Cong. Rec. E65
+---
+
+# CELEBRATING THE INDUCTION OF KARMA MASON INTO THE WICHITA STATE UNIVERSITY'S SHOCKER SPORTS HALL OF FAME
+
+**Speaking:** Estes, Ron (E000298) [R-KS]
+
+```
+    CELEBRATING THE INDUCTION OF KARMA MASON INTO THE WICHITA STATE 
+                UNIVERSITY'S SHOCKER SPORTS HALL OF FAME
+
+                                 ______
+                                 
+
+                             HON. RON ESTES
+
+                               of kansas
+
+                    in the house of representatives
+
+                       Thursday, January 23, 2025
+
+  Mr. ESTES. Mr. Speaker, I rise today to congratulate Ms. Karma Mason 
+on her induction into Wichita State University's Shocker Sports Hall of 
+Fame.
+  This award was presented to Karma in honor of her contribution to the 
+Wichita State University Championship Bowling Team from 1975 to 1978. 
+Her exceptional talent and leadership proved instrumental to her team's 
+success as she led them to the first national collegiate championship, 
+culminating in three national championship teams over the course of her 
+time at WSU.
+  Karma is a highly accomplished bowler with an outstanding record. 
+Some of her impressive bowling achievements include a 196 average 
+tournament score and a high tournament score of 279. She demonstrated 
+leadership, hard work and dedication to the sport as team captain and 
+anchor bowler for three years straight, proving integral to her team's 
+success.
+  Karma's recent Hall of Fame recognition is just one of her many 
+accolades throughout her long and successful career, and she continues 
+to make Kansas proud. On behalf of the people of the Fourth 
+Congressional District of Kansas, I congratulate Karma.
+
+                          ____________________
+```

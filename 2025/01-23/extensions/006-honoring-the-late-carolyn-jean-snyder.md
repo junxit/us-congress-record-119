@@ -1,0 +1,57 @@
+---
+granule: CREC-2025-01-23-pt1-PgE62-2
+date: 2025-01-23
+edition: CREC
+section: EXTENSIONS
+page: E62
+citation: 171 Cong. Rec. E62
+---
+
+# HONORING THE LATE CAROLYN JEAN SNYDER
+
+**Speaking:** Lieu, Ted (L000582) [D-CA]
+
+```
+                 HONORING THE LATE CAROLYN JEAN SNYDER
+
+                                 ______
+                                 
+
+                             HON. TED LIEU
+
+                             of california
+
+                    in the house of representatives
+
+                       Thursday, January 23, 2025
+
+  Mr. LIEU. Mr. Speaker, I rise to honor the life and legacy of my 
+friend, Carolyn Jean Snyder. She passed away peacefully on Friday, 
+December 6, 2024, surrounded by her loving family. Carolyn was a 
+community leader and realtor in the community of Torrance.
+  Carolyn Snyder was born in South Charleston, West Virginia on 
+September 9, 1937, to her parents Boyd and Josephine O'Dell. In 1956, 
+Carolyn moved along with her parents to Torrance, California.
+  In Torrance, Carolyn was a dedicated community leader and a 
+successful realtor with over 25 years of experience. In her free time, 
+Carolyn served the community of Torrance in numerous ways. As a 
+Commissioner on Aging, she served the residents of the city and 
+advocated for the needs of aging people. Carolyn was active in the 
+Parent Teachers Association as well as the Pacific Coast Little League 
+and the American Youth Soccer Organization. She supported the Torrance 
+Education Foundation and the local Relay for Life. For over 40 years, 
+Carolyn volunteered for the Torrance Memorial Hospital, assisting this 
+important institution with its annual Holiday Festival, an important 
+event for our community.
+  Beyond Carolyn's numerous contributions to the South Bay, she also 
+loved being with her family and friends. She traveled a great deal and 
+loved camping and sewing. It was an honor for my wife Betty and I to 
+have known Carolyn.
+  Carolyn is survived by her children, James Franklin Campbell, Troy 
+Campbell, Todd Snyder, and Tori Parker, eight grandchildren, five great 
+grandchildren and siblings, nephews, nieces and cousins. Carolyn left 
+an indelible mark on the community of Torrance and will be deeply 
+missed.
+
+                          ____________________
+```

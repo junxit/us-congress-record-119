@@ -1,0 +1,58 @@
+---
+granule: CREC-2025-01-23-pt1-PgE62-4
+date: 2025-01-23
+edition: CREC
+section: EXTENSIONS
+page: E62
+citation: 171 Cong. Rec. E62
+---
+
+# RECOGNIZING THE SERVICE OF MAJOR GENERAL CHRISTOPHER P. CALLAHAN
+
+**Speaking:** Amo, Gabe (A000380) [D-RI]
+
+```
+    RECOGNIZING THE SERVICE OF MAJOR GENERAL CHRISTOPHER P. CALLAHAN
+
+                                 ______
+                                 
+
+                             HON. GABE AMO
+
+                            of rhode island
+
+                    in the house of representatives
+
+                       Thursday, January 23, 2025
+
+  Mr. AMO. Mr. Speaker, it is my distinct honor to recognize the 44th 
+Adjutant General of Rhode Island, Major General Christopher P. 
+Callahan. After a storied career of more than four decades of service 
+to our country, I would like to take a moment to express my profound 
+gratitude and admiration for Major General Callahan's steadfast 
+contributions to our state in advance of his retirement on January 31, 
+2025.
+  Since 2015, Major General Callahan has faithfully carried out the 
+duties as Adjutant General and Commanding General of the Rhode Island 
+National Guard. As the senior-most officer and strategic leader of our 
+state's military forces, he is responsible for the mission readiness of 
+all Army and Air National Guard units in the Ocean State. Over the past 
+decade, more than 3,000 soldiers and airmen have skillfully and 
+successfully deployed on missions around the globe thanks to Major 
+General Callahan's leadership.
+  But beyond the logistical demands of ensuring that the National Guard 
+is well-equipped, well-trained, and well-led, Major General Callahan 
+capably navigated our community through the once-in-a-generation 
+challenges presented by the COVID-19 pandemic. Thanks to Major General 
+Callahan, the Rhode Island National Guard played an instrumental role 
+in our state's robust vaccination efforts. As I look back on how we 
+came together to keep Rhode Islanders safe, his example shines as a 
+testament to courageous leadership during uncertain times.
+  Mr. Speaker, I am thankful for General Callahan's willingness to 
+answer the call and serve our Nation with distinction. He has nobly 
+served his fellow Americans and fellow Rhode Islanders for more than 40 
+years and our state will deeply miss his steady presence and wealth of 
+experience. I thank him for his service and dedication.
+
+                          ____________________
+```

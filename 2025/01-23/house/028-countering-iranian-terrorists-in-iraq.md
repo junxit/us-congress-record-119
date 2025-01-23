@@ -1,0 +1,46 @@
+---
+granule: CREC-2025-01-23-pt1-PgH310-8
+date: 2025-01-23
+edition: CREC
+section: HOUSE
+page: H310
+citation: 171 Cong. Rec. H310
+---
+
+# COUNTERING IRANIAN TERRORISTS IN IRAQ
+
+**Speaking:** Wilson, Joe (W000795) [R-SC]
+
+```
+                 COUNTERING IRANIAN TERRORISTS IN IRAQ
+
+  (Mr. WILSON of South Carolina asked and was given permission to 
+address the House for 1 minute and to revise and extend his remarks.)
+  Mr. WILSON of South Carolina. Mr. Speaker, Iraq has been oppressed by 
+kleptocrats who support Iranian terrorism. Sadly, Iran-backed militias, 
+the Badr Organization, are part of the Iraqi Government, including the 
+national security adviser. Badr was armed by terrorist Soleimani.
+  Iran-backed militias in Iraq should be designated as terrorists, as 
+Congressman Greg Steube and the Republican Study Committee have 
+proposed. There must be sanctions on kleptocrat politicians complicit 
+with Iran, such as former Prime Minister al-Maliki.
+  Any aid to Iraq should be conditioned on not going to terrorists. 
+Brett McGurk's policy of replacing ISIS with Iran has failed. President 
+Donald Trump will reinstitute policies of maximum pressure on Iran, 
+stopping Iraq's
+
+[[Page H311]]
+
+purchase of Iranian electricity as he responds to the Tehran regime 
+plot to assassinate him while they were shouting: ``Death to Israel, 
+death to America.''
+  In conclusion, God bless our troops as the global war on terrorism 
+continues. Open borders for dictators puts all Americans at risk of 
+more attacks as warned by the FBI. Trump is protecting American 
+families.
+  Americans opposed rigged elections in Georgia and support the 
+legitimate President Salome Zourabichvili of Georgia as protests build 
+for free and fair elections in the nation of Georgia.
+
+                          ____________________
+```

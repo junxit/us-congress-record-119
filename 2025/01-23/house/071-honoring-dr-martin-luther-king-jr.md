@@ -1,0 +1,51 @@
+---
+granule: CREC-2025-01-23-pt1-PgH352-6
+date: 2025-01-23
+edition: CREC
+section: HOUSE
+page: H352
+citation: 171 Cong. Rec. H352
+---
+
+# HONORING DR. MARTIN LUTHER KING, JR.
+
+**Speaking:** Stevens, Haley M. (S001215) [D-MI]
+
+```
+                  HONORING DR. MARTIN LUTHER KING, JR.
+
+  (Ms. STEVENS asked and was given permission to address the House for 
+1 minute and to revise and extend her remarks.)
+  Ms. STEVENS. Mr. Speaker, I rise today to honor the life and legacy 
+of Dr. Martin Luther King, Jr.
+  This past Monday, our Nation celebrated MLK Day, a powerful reminder 
+of the ongoing effort for equality and justice and the profound impact 
+an individual can make.
+  It is also a day spent volunteering and a day of action. I am so 
+deeply proud of the schools across Oakland County, Michigan, who 
+engaged in volunteer activities.
+  I also would like to share some of Dr. King's powerful words that 
+resonate not only with me, but I believe speak to the moments that we 
+find ourselves in today:
+  ``Injustice anywhere is a threat to justice everywhere.''
+  ``Darkness cannot drive out darkness; only light can do that. Hate 
+cannot drive out hate; only love can do that.''
+  ``The arc of the moral universe is long but it bends toward 
+justice.''
+
+[[Page H353]]
+
+  ``We must learn to live together as brothers or perish together as 
+fools.''
+  ``I have decided to stick with love. Hate is too great a burden to 
+bear.''
+  ``Our lives begin to end the day we become silent about things that 
+matter.''
+  Lastly, ``Life's most persistent and urgent question is: `What are 
+you doing for others?' ''
+  In service, we honor Dr. King's legacy, and we commit to his written 
+words from the Birmingham jail that we continue to strive toward 
+justice.
+
+                          ____________________
+```

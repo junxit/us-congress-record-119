@@ -1,0 +1,46 @@
+---
+granule: CREC-2025-01-23-pt1-PgE61-2
+date: 2025-01-23
+edition: CREC
+section: EXTENSIONS
+page: E61
+citation: 171 Cong. Rec. E61
+---
+
+# CONGRATULATING PROSECUTOR VICTOR VIGLUICCI ON HIS RETIREMENT AS PORTAGE COUNTY PROSECUTOR
+
+**Speaking:** Sykes, Emilia Strong (S001223) [D-OH]
+
+```
+CONGRATULATING PROSECUTOR VICTOR VIGLUICCI ON HIS RETIREMENT AS PORTAGE 
+                           COUNTY PROSECUTOR
+
+                                 ______
+                                 
+
+                        HON. EMILIA STRONG SYKES
+
+                                of ohio
+
+                    in the house of representatives
+
+                       Thursday, January 23, 2025
+
+  Mrs. SYKES. Mr. Speaker, I would like to extend my congratulations to 
+Victor Vigluicci for his service as the Portage County Prosecutor, and 
+my sincere gratitude for all that he has done for the people of Ohio's 
+13th Congressional District, the ``Birthplace of Champions.'' I have 
+appreciated his partnership as we worked together to expand opportunity 
+and deliver results for our shared constituents.
+  His drive to lead is commendable, and I have no doubt that he has 
+bettered countless lives as a result of his steadfast service. 
+Throughout his time in office, he proved to be a true public servant 
+and leader. He led by example through his perseverance, compassion, and 
+dedication to his role in the community.
+  As he goes on to continue serving our community in new ways, I wish 
+him all the best in his future endeavors. On behalf of Ohio's 13th 
+Congressional District, I thank him for his commitment to the people of 
+Portage County and Northeast Ohio.
+
+                          ____________________
+```
