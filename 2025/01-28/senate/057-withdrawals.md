@@ -1,0 +1,28 @@
+---
+granule: CREC-2025-01-28-pt1-PgS447-4
+date: 2025-01-28
+edition: CREC
+section: SENATE
+page: S447
+citation: 171 Cong. Rec. S447
+---
+
+# WITHDRAWALS
+
+```
+                              WITHDRAWALS
+
+  Executive Message transmitted by the President to the Senate on 
+January 28, 2025 withdrawing from further Senate consideration the 
+following nominations:
+       FRANK BISIGNANO, OF NEW JERSEY, TO BE COMMISSIONER OF 
+     SOCIAL SECURITY, VICE MARTIN O'MALLEY, RESIGNED, WHICH WAS 
+     SENT TO THE SENATE ON JANUARY 20, 2025.
+       ADAM BOEHLER, OF TENNESSEE, TO BE SPECIAL PRESIDENTIAL 
+     ENVOY FOR HOSTAGE AFFAIRS, WHICH WAS SENT TO THE SENATE ON 
+     JANUARY 20, 2025.
+       MICHAEL DUFFY, OF VIRGINIA, TO BE UNDER SECRETARY OF 
+     DEFENSE FOR ACQUISITION AND SUSTAINMENT, VICE WILLIAM A. 
+     LAPLANTE, JR., RESIGNED, WHICH WAS SENT TO THE SENATE ON 
+     JANUARY 20, 2025.
+```
