@@ -1,0 +1,41 @@
+---
+granule: CREC-2025-02-04-pt1-PgH454
+date: 2025-02-04
+edition: CREC
+section: HOUSE
+page: H454
+citation: 171 Cong. Rec. H454
+---
+
+# AMERICA IS UNDER ATTACK
+
+**Speaking:** Cohen, Steve (C001068) [D-TN]
+
+```
+                        AMERICA IS UNDER ATTACK
+
+  (Mr. COHEN asked and was given permission to address the House for 1 
+minute.)
+  Mr. COHEN. Mr. Speaker, in this House, Democrats and Republicans came 
+together, as they appropriately should, to remember the victims of the 
+plane crash last week.
+  We should also come together and remind our President that we don't 
+know what the cause of it was, and it certainly wasn't DEI. DEI has 
+never caused deaths in this country's history. Never. We need to come 
+together and remember we were all on this floor when it was invaded on 
+January 6 by insurrectionists.
+  I don't think one of my colleagues on the other side has questioned 
+the pardons given to all the January 6 insurrectionists who tried to 
+take over this government, nor have they stood up to a President and 
+his aide, private citizen Elon Musk, who are doing unconstitutional 
+duties to take over government branches, which they don't have the 
+right to do, that only Congress can pass bills to change. Only Congress 
+can cut out spending under Article I. They can try to change the 
+Constitution on birthright citizenships, but only Congress can begin a 
+constitutional amendment.
+  We need to stand up for America. America is under attack as much as 
+it was on January 6.
+  God bless America, and I hope we continue to exist as a democracy.
+
+                          ____________________
+```

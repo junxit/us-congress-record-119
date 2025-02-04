@@ -1,0 +1,59 @@
+---
+granule: CREC-2025-02-04-pt1-PgE88-4
+date: 2025-02-04
+edition: CREC
+section: EXTENSIONS
+page: E88
+citation: 171 Cong. Rec. E88
+---
+
+# THANKING JOSEPH C. PICOLLA FOR HIS SERVICE TO THE U.S. HOUSE OF REPRESENTATIVES
+
+**Speaking:** Steil, Bryan (S001213) [R-WI]
+
+```
+    THANKING JOSEPH C. PICOLLA FOR HIS SERVICE TO THE U.S. HOUSE OF 
+                            REPRESENTATIVES
+
+                                 ______
+                                 
+
+                            HON. BRYAN STEIL
+
+                              of wisconsin
+
+                    in the house of representatives
+
+                       Tuesday, February 4, 2025
+
+  Mr. STEIL. Mr. Speaker, on behalf of Ranking Member Morelle and 
+myself, I kindly request that you join me in congratulating Joseph C. 
+Picolla on his retirement from the position of House Inspector General. 
+His retirement marks the culmination of 16 years of dedicated service 
+to the House.
+  Joe began his service with the House in the Office of the Inspector 
+General in 2008 as a Management Analyst. Over the years, Joe advanced 
+to management and then leadership roles, initially serving as Assistant 
+Director and Director of the Management Advisory Services team. He 
+later became the Deputy Inspector General before assuming the role of 
+Acting Inspector General in June 2021. On April 25, 2022, Joe was 
+officially named the sixth Inspector General of the House of 
+Representatives. During his tenure as Inspector General, the Office of 
+the Inspector General completed numerous audits and advisories 
+targeting high-risk areas within the House and identifying significant 
+process improvements and efficiencies to benefit the institution in the 
+future.
+  Prior to joining the House, Joe held positions in major financial 
+institutions managing IT service operations, including Technology Help 
+Desks, Availability Management, Incident and Problem Management, and 
+Software Portfolio Change Management, targeting high-risk areas. In 
+addition to his professional work, he dedicated 15 years to 
+volunteering with local law enforcement in his community.
+  We extend our heartfelt congratulations and gratitude to Joe for his 
+unwavering commitment to service, his dedication, and his leadership 
+while serving the U.S. House of Representatives. We thank him for his 
+contributions and wish him the best as he embarks on this new chapter 
+in his life.
+
+                          ____________________
+```

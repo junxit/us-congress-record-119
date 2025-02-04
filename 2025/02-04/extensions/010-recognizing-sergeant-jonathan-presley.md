@@ -1,0 +1,47 @@
+---
+granule: CREC-2025-02-04-pt1-PgE87
+date: 2025-02-04
+edition: CREC
+section: EXTENSIONS
+page: E87
+citation: 171 Cong. Rec. E87
+---
+
+# RECOGNIZING SERGEANT JONATHAN PRESLEY
+
+**Speaking:** Comer, James (C001108) [R-KY]
+
+```
+                 RECOGNIZING SERGEANT JONATHAN PRESLEY
+
+                                 ______
+                                 
+
+                            HON. JAMES COMER
+
+                              of kentucky
+
+                    in the house of representatives
+
+                       Tuesday, February 4, 2025
+
+  Mr. COMER. Mr. Speaker, I rise today to recognize Sergeant Jonathan 
+Presley of the Frankfort Police Department for being awarded the 2024 
+Medal of Valor for his bravery demonstrated while responding to a 
+critical situation within Franklin County.
+  During a high-risk pursuit with an armed suspect who had barricaded 
+himself in a vehicle following a multi-jurisdictional pursuit, Sergeant 
+Presley demonstrated excellent courage and tactical precision through 
+his coordinated response with Lieutenant Smither to de-escalate a 
+potentially lethal situation successfully.
+  Throughout this critical situation, Sergeant Presley successfully 
+disarmed the subject. His actions and exceptional teamwork skills 
+allowed a peaceful resolution for all involved.
+  Sergeant Presley voluntarily performed extraordinary acts of bravery. 
+His actions went above and have made him deserving of this fine honor. 
+I am confident that Sergeant Presley will continue to serve as an 
+exemplary role model for law enforcement officers across the 1st 
+Congressional District and the entire Commonwealth of Kentucky.
+
+                          ____________________
+```

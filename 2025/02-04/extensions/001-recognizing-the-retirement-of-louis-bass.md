@@ -1,0 +1,58 @@
+---
+granule: CREC-2025-02-04-pt1-PgE85-2
+date: 2025-02-04
+edition: CREC
+section: EXTENSIONS
+page: E85
+citation: 171 Cong. Rec. E85
+---
+
+# RECOGNIZING THE RETIREMENT OF LOUIS BASS
+
+**Speaking:** Rogers, Mike D. (R000575) [R-AL]
+
+```
+                RECOGNIZING THE RETIREMENT OF LOUIS BASS
+
+                                 ______
+                                 
+
+                            HON. MIKE ROGERS
+
+                               of alabama
+
+                    in the house of representatives
+
+                       Tuesday, February 4, 2025
+
+  Mr. ROGERS of Alabama. Mr. Speaker, I rise today to recognize the 
+retirement of Louis Bass, CEO of Regional Medical Center Health System 
+(RMC) in Anniston, Alabama.
+  Louis has dedicated 26 years of his career to RMC Health System, 
+culminating in a decade of service as CEO. Prior to this leadership 
+role, he served as the system's CFO.
+  During his tenure, Mr. Bass led RMC through the COVID pandemic and 
+spearheaded several key accomplishments. He integrated Stringfellow 
+Memorial Hospital into the RMC family, allowing the transformation of 
+inpatient care. He helped transform RMC Foundation to better invest in 
+needs of the hospital and expanded access to serve the community. Bass 
+improved nurse education through the donation of Jacksonville Medical 
+Center to Jacksonville State University and helped position RMC for a 
+financially stable future and success by securing HUD funds to 
+refinance and make needed capital improvements.
+  Louis is a dedicated community leader, serving on the boards of Blue 
+Cross Blue Shield of Alabama, Vizient Southeast, the JSU Foundation and 
+the RMC Foundation. He is also an active member of the Calhoun County 
+Chamber of Commerce and Rotary Club.
+  Louis and his wife, Debbie, are the proud parents of Jordan and 
+Ashley Bass, Corey and Hazuki Bass, and Lauren and Trey Shaw. They are 
+blessed with four grandchildren: Claire, Jonathan, Emma, and Owen Bass, 
+and Baker and Brewer Shaw.
+  Mr. Bass is a devoted member of Hillcrest Baptist Church, where he 
+serves as a Deacon.
+  Mr. Speaker, please join me in recognizing Louis on his retirement 
+and thanking him for his service to Northeast Alabama. I congratulate 
+Louis.
+
+                          ____________________
+```

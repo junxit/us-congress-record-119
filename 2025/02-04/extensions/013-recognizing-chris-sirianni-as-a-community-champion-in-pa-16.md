@@ -1,0 +1,64 @@
+---
+granule: CREC-2025-02-04-pt1-PgE87-4
+date: 2025-02-04
+edition: CREC
+section: EXTENSIONS
+page: E87
+citation: 171 Cong. Rec. E87
+---
+
+# RECOGNIZING CHRIS SIRIANNI AS A COMMUNITY CHAMPION IN PA-16
+
+**Speaking:** Kelly, Mike (K000376) [R-PA]
+
+```
+      RECOGNIZING CHRIS SIRIANNI AS A COMMUNITY CHAMPION IN PA-16
+
+                                 ______
+                                 
+
+                            HON. MIKE KELLY
+
+                            of pennsylvania
+
+                    in the house of representatives
+
+                       Tuesday, February 4, 2025
+
+  Mr. KELLY of Pennsylvania. Mr. Speaker, I rise today to honor and 
+recognize the work and dedication of Mr. Chris Sirianni, founder of 
+Brewerie. In 2006, The Brewerie established itself as Erie's only brew 
+pub and restaurant. With a deep passion for beer, they took it upon 
+themselves to create brews that they loved, serve food that we 
+relished, and provide a space that was unique.
+  Throughout their journey of operating a brewpub and restaurant, they 
+have consistently shown their dedication to supporting local 
+individuals, non-profits, and businesses in the area. Since they 
+started, their goal has been to make a positive impact on the 
+revitalization of downtown Erie and the historic Union Station. By 
+reviving these significant locations, they have helped create a strong 
+community connection.
+  Their values are centered around three principles that shape 
+everything they do. First, they focus on crafting superior products, 
+ensuring that every beer brewed, and every dish served exceeds 
+expectations. The second principle is a deep commitment to caring for 
+their staff and patrons by creating an environment where everyone feels 
+valued, respected, and part of the family. Finally, they place a strong 
+emphasis on being community-oriented and driven, believing that their 
+success is linked to the success of the people and businesses around 
+them.
+  Years later, these principles still drive their operations, impacting 
+not just the excellence
+
+[[Page E88]]
+
+of their products but also their consistent commitment to enhance the 
+Erie community. Their beliefs have not only upheld their business but 
+have also contributed to a more unified downtown Erie.
+  Because of this, and as Co-Chair of the House Small Brewers Caucus, I 
+am honored to highlight Mr. Chris Sirianni, as the PA-16 community 
+champion. THE BREWERIE at Union Station, ``Erie's Original Brewpub & 
+Restaurant.''
+
+                          ____________________
+```

@@ -1,0 +1,20 @@
+---
+granule: CREC-2025-02-04-pt1-PgH461-9
+date: 2025-02-04
+edition: CREC
+section: HOUSE
+page: H461
+citation: 171 Cong. Rec. H461
+---
+
+# Constitutional Authority Statement for H.R. 963
+
+**Measures:** H.R. 963
+
+```
+           By Mr. RYAN:
+       H.R. 963.
+       Congress has the power to enact this legislation pursuant 
+     to the following:
+       Article 1
+```
