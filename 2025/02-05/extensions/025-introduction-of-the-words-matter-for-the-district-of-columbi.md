@@ -1,0 +1,50 @@
+---
+granule: CREC-2025-02-05-pt1-PgE99
+date: 2025-02-05
+edition: CREC
+section: EXTENSIONS
+page: E99
+citation: 171 Cong. Rec. E99
+---
+
+# INTRODUCTION OF THE WORDS MATTER FOR THE DISTRICT OF COLUMBIA COURTS ACT
+
+**Speaking:** Norton, Eleanor Holmes (N000147) [D-DC]
+
+```
+ INTRODUCTION OF THE WORDS MATTER FOR THE DISTRICT OF COLUMBIA COURTS 
+                                  ACT
+
+                                 ______
+                                 
+
+                       HON. ELEANOR HOLMES NORTON
+
+                      of the district of columbia
+
+                    in the house of representatives
+
+                      Wednesday, February 5, 2025
+
+  Ms. NORTON. Mr. Speaker, today, I introduce the Words Matter for the 
+District of Columbia Courts Act, which would remove the term 
+``retarded'' from Title 11 of the District of Columbia Code and replace 
+it with more appropriate and respectful terms. Last Congress, the 
+Senate passed this bill by unanimous consent. Senators Jerry Moran and 
+Gary Peters are introducing the companion bill.
+  Removing the term from the law has bipartisan support. In 2010, 
+Congress removed several instances of the term from federal law by 
+passing Rosa's Law (P.L. 111-256). Last Congress, I joined Republican 
+and Democratic colleagues in introducing the Words Matter Act, which 
+would remove several more instances of the term from federal law.
+  The term is used three times in Title 11 of the D.C. Code, and, under 
+the D.C. Home Rule Act, only Congress can amend Title 11 of the D.C. 
+Code.
+  There was a time when the term was a clinical term, but in more 
+recent years, it has become a slur used against people with 
+intellectual disabilities. Words indisputably matter, and I know our 
+country is better than keeping such language in our law.
+  I urge my colleagues to support this bill.
+
+                          ____________________
+```

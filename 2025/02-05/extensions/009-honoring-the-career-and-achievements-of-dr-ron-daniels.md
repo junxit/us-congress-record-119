@@ -1,0 +1,64 @@
+---
+granule: CREC-2025-02-05-pt1-PgE94-3
+date: 2025-02-05
+edition: CREC
+section: EXTENSIONS
+page: E94
+citation: 171 Cong. Rec. E94
+---
+
+# HONORING THE CAREER AND ACHIEVEMENTS OF DR. RON DANIELS
+
+**Speaking:** Jackson, Jonathan L. (J000309) [D-IL]
+
+```
+        HONORING THE CAREER AND ACHIEVEMENTS OF DR. RON DANIELS
+
+                                 ______
+                                 
+
+                        HON. JONATHAN L. JACKSON
+
+                              of illinois
+
+                    in the house of representatives
+
+                      Wednesday, February 5, 2025
+
+  Mr. JACKSON of Illinois. Mr. Speaker, Dr. Ron Daniels is the 
+President of the Institute of the Black World 21st Century and Founder 
+of the Haiti Support Project. Dr. Daniels is a longtime advocate for 
+the African diaspora in the U.S. and a leading figure in the field of 
+Africana studies.
+  As a Distinguished Professor of history, political, science and Pan 
+African studies, he has dedicated his career to preparing the next 
+generation of leaders to lead in these vital fields.
+  As the Deputy Campaign Manager for my father, Reverend Jesse 
+Jackson's 1988 Presidential campaign, Dr. Daniels worked tirelessly to 
+advance the vital issues and causes my father has advocated for 
+decades. Dr. Daniels ran as an independent candidate for President in 
+1992 as an extension of his commitment to fulfilling the vision and 
+mission of the Rainbow/PUSH organization.
+  Dr. Daniels has been a leading figure in some of the most significant 
+social and political movements over the last six decades, including 
+Freedom Inc. in Youngstown, Ohio; the African Liberation Day Support 
+Committee, which spawned the first African Liberation Day (ALD) USA; 
+the National Black Political Assembly (NBPA); National Black 
+Independent Political Party (NBIPP); and the African American 
+Progressive Action Network (AAPAN). Dr. Daniels played a key role in 
+the formation of the National African American Leadership Summit 
+(NAALS), and he was a member of the Executive Council of the National 
+Organizing Committee of the historic Million Man March and Day of 
+Absence in 1995 and the Millions More Movement in 2005. He currently 
+serves as Convener of the National African American Reparations 
+Commission (NAARC), which has emerged a driving force in the U.S. and 
+global reparations movements.
+  Dr. Ron Daniel's work and career has advanced the interests of the 
+African Diaspora in the U.S. and helped to enable Continental Africans, 
+Afro-Caribbeans and Afro-Latinos to gain greater representation and 
+recognition for their contributions in our Nation's history.
+  Mr. Speaker, I ask that my colleagues join me in recognizing his 
+career and achievements.
+
+                          ____________________
+```

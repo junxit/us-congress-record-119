@@ -1,0 +1,41 @@
+---
+granule: CREC-2025-02-05-pt1-PgH484-2
+date: 2025-02-05
+edition: CREC
+section: HOUSE
+page: H484
+citation: 171 Cong. Rec. H484
+---
+
+# REINSTATING OUR SERVICEMEMBERS
+
+**Speaking:** Grothman, Glenn (G000576) [R-WI]
+
+```
+                     REINSTATING OUR SERVICEMEMBERS
+
+  (Mr. GROTHMAN asked and was given permission to address the House for 
+1 minute.)
+  Mr. GROTHMAN. Mr. Speaker, it seems like every day there has been 
+such good news coming out of the White House. It is easy to lose track 
+of some of the executive orders coming from President Trump, but I 
+would like to bring attention to one today.
+  Once this executive order is in effect, there is nothing Democrats 
+will be able to do to stop it. That is the executive order reinstating 
+servicemembers discharged under the military's COVID-19 vaccination 
+mandate.
+  It is hard to believe that only 4 years ago we had a President who 
+was demanding that all our brave servicemembers had to take an 
+experimental vaccine, and if they didn't take it, they would be removed 
+from the service.
+  President Trump has reinstated these folks. President Trump is a 
+great man of compassion. He is a man who respects independent thought; 
+unlike a lot of people who feel: One guy who went to college told me 
+this, so I better do it.
+  I know a lot of other people who didn't get the vaccine. They did a 
+very good job of researching the vaccine and had solid reasons for not 
+getting it. I thank President Trump for reinstating all of our brave 
+servicemen who were unfairly forced from the military.
+
+                          ____________________
+```
