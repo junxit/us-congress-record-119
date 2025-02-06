@@ -1,0 +1,36 @@
+---
+granule: CREC-2025-02-06-pt1-PgH536-5
+date: 2025-02-06
+edition: CREC
+section: HOUSE
+page: H536
+citation: 171 Cong. Rec. H536
+---
+
+# UNELECTED BILLIONAIRE AGENDA
+
+**Speaking:** Stevens, Haley M. (S001215) [D-MI]
+
+```
+                      UNELECTED BILLIONAIRE AGENDA
+
+  (Ms. STEVENS asked and was given permission to address the House for 
+1 minute and to revise and extend her remarks.)
+  Ms. STEVENS. Mr. Speaker, today, I stood with the House Democratic 
+leader, Hakeem Jeffries, the House Democratic Whip, Katherine Clark, 
+our House Democratic Chair, Pete Aguilar, and Congressman Sean Casten 
+to introduce the Taxpayer Data Protection Act because what is going on 
+in the Treasury Department is lawless and wrong and frightening for the 
+American people.
+  Elon Musk should not have access to your data and to the payment 
+systems. What is going on? Mr. Speaker, I deliver this statement and 
+this bill to this Chamber calling on all of my colleagues to join 
+because I was a Treasury employee.
+  I served in the Treasury during the Barack Obama administration. In 
+fact, I worked in a time of crisis, the Great Recession, when General 
+Motors and Chrysler were staring bankruptcy in the face. Millions of 
+jobs were on the line. We were doing the work for the American people, 
+not threatening their payments and their data.
+
+                          ____________________
+```
