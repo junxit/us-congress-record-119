@@ -1,0 +1,60 @@
+---
+granule: CREC-2025-02-10-pt1-PgE111
+date: 2025-02-10
+edition: CREC
+section: EXTENSIONS
+page: E111
+citation: 171 Cong. Rec. E111
+---
+
+# RECOGNIZING RITA PRICE-SIMPSON'S 50 YEARS OF SERVICE TO INDIANA HIGH SCHOOL SPORTS
+
+**Speaking:** Stutzman, Marlin A. (S001188) [R-IN]
+
+```
+ RECOGNIZING RITA PRICE-SIMPSON'S 50 YEARS OF SERVICE TO INDIANA HIGH 
+                             SCHOOL SPORTS
+
+                                 ______
+                                 
+
+                        HON. MARLIN A. STUTZMAN
+
+                               of indiana
+
+                    in the house of representatives
+
+                       Monday, February 10, 2025
+
+  Mr. STUTZMAN. Mr. Speaker, I rise as a proud Hoosier representing the 
+3rd district of Indiana. We have beautiful landscapes and many storied 
+histories, but above all we have terrific people who make up our 
+fantastic district.
+  Today, I'm proud to recognize one such Hoosier. Rita Price-Simpson 
+has been on WRSW radio for 65 years. On that historic station, she has 
+broadcast boys and girls basketball games and football games for 50 
+years. That is quite a milestone, and Rita is truly a remarkable woman.
+  She has been inducted into the Indiana High School Basketball Hall of 
+Fame, the Indiana Broadcasters Hall of Fame, and the Kosciusko County 
+Basketball Hall of Fame. She has also received the Indiana Torchbearers 
+Award from the Indiana Commission For Women and The Sportscaster of The 
+Year Award from the Indiana Sportswriters and Sportscasters 
+Association, along with that, she was named the Kosciusco County Woman 
+of The Year.
+  For her tremendous accomplishments, in fact, WRSW named her studio at 
+the station ``The Rita Price Studio.'' Going along with all those 
+honors, if you look closely at the basketball court at Tippecanoe 
+Valley High School, you will see it has been aptly named the ``Rita 
+Price-Simpson Court.'' To this day, she continues working in sales and 
+broadcasts 65 basketball games and 10 football games every year.
+  She is happily married with 3 daughters and 5 grandchildren. She has 
+been president of the Mentone Chamber Of Commerce, and she is an active 
+member of the Mentone United Methodist Church.
+  But today she is recognized for the work she loves desperately, and 
+obviously, Mr. Speaker, she loves and honors high school sports right 
+here in her home state of Indiana.
+  I'm proud to make her name known throughout our Nation's capitol . . 
+. and the fruited plain.
+
+                          ____________________
+```

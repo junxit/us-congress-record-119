@@ -1,0 +1,70 @@
+---
+granule: CREC-2025-02-10-pt1-PgE110-3
+date: 2025-02-10
+edition: CREC
+section: EXTENSIONS
+page: E110
+citation: 171 Cong. Rec. E110
+---
+
+# RECOGNIZING GIRL SCOUTS OF SOUTHEASTERN MICHIGAN AT THE UNITED NATIONS 69TH COMMISSION ON THE STATUS OF WOMEN
+
+**Speaking:** Thanedar, Shri (T000488) [D-MI]
+
+```
+RECOGNIZING GIRL SCOUTS OF SOUTHEASTERN MICHIGAN AT THE UNITED NATIONS 
+                 69TH COMMISSION ON THE STATUS OF WOMEN
+
+                                 ______
+                                 
+
+                           HON. SHRI THANEDAR
+
+                              of michigan
+
+                    in the house of representatives
+
+                       Monday, February 10, 2025
+
+  Mr. THANEDAR. Mr. Speaker, I rise today to recognize Sonja Dunlap, 
+Lauren Hatto, Jasmine Hunley and Soren O'Dell from Girl Scouts of 
+Southeastern Michigan, who have been selected to represent Girl Scouts 
+of the USA at the United Nations' 69th Commission on the Status of 
+Women.
+  Each year, Girl Scouts of the USA (GSUSA) joins over 5,000 women and 
+girls from around the world at the United Nations headquarters in New 
+York to participate in the Commission on the Status of Women (CSW). 
+Delegates representing GSUSA undergo a rigorous application process and 
+training to prepare them for their participation in the CSW. As 
+delegates, girls will have an opportunity to engage with GSUSA's work 
+around global advocacy, learn about global issues, see firsthand how 
+global entities function, and let their voices be heard on key global 
+issues impacting girls and young women.
+  The Commission on the Status of Women is a functional commission of 
+the United Nations, dedicated exclusively to shaping global standards 
+on gender equality as well as the advancement and empowerment of women 
+and girls. Every year, national representatives of Member States gather 
+for a two-week session to evaluate progress on gender equality, 
+identify challenges, set global standards, and formulate concrete 
+policies to promote gender equality and the advancement of women 
+worldwide. As NGO Consultative members, Girl Scouts of the USA and the 
+World Association of Girl Guides and Girl Scouts participate to bring 
+the voice of girls and young women to the global stage.
+  The focus of the sixty-ninth session will be on the review and 
+appraisal of the implementation of the Beijing Declaration and Platform 
+for Action and the outcomes of the 23rd special session of the General 
+Assembly. The review will include an assessment of current challenges 
+that affect the implementation of the Platform for Action and the 
+achievement of gender equality and the empowerment of women and its 
+contribution towards the full realization of the 2030 Agenda for 
+Sustainable Development.
+
+[[Page E111]]
+
+  Mr. Speaker, on behalf of Michigan's 13th Congressional District, I 
+congratulate these four outstanding young women on their selection, and 
+I thank them for their leadership. We wish them the best of luck in 
+their future endeavors.
+
+                          ____________________
+```
