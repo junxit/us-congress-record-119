@@ -1,0 +1,85 @@
+---
+granule: CREC-2025-02-12-pt1-PgS931
+date: 2025-02-12
+edition: CREC
+section: SENATE
+page: S931
+citation: 171 Cong. Rec. S931
+---
+
+# SENATE RESOLUTION 75--EXPRESSING THE SENSE OF THE SENATE THAT MEMBER COUNTRIES OF NATO MUST COMMIT AT LEAST 2 PERCENT OF THEIR NATIONAL GROSS DOMESTIC PRODUCT TO NATIONAL DEFENSE SPENDING TO HOLD...
+
+**Measures:** S.Res. 75
+
+```
+                         SUBMITTED RESOLUTIONS
+
+                                 ______
+                                 
+
+ SENATE RESOLUTION 75--EXPRESSING THE SENSE OF THE SENATE THAT MEMBER 
+  COUNTRIES OF NATO MUST COMMIT AT LEAST 2 PERCENT OF THEIR NATIONAL 
+GROSS DOMESTIC PRODUCT TO NATIONAL DEFENSE SPENDING TO HOLD LEADERSHIP 
+OR BENEFIT AT THE EXPENSE OF THOSE COUNTRIES WHO MEET THEIR OBLIGATIONS
+
+  Mr. TILLIS (for himself, Mr. Justice, Mr. Cornyn, Mr. Sheehy, Mr. 
+Lee, Mr. Daines, and Mrs. Capito) submitted the following resolution; 
+which was referred to the Committee on Foreign Relations:
+
+                               S. Res. 75
+
+       Whereas, in 2014, the heads of state and governments of the 
+     member countries of the North Atlantic Treaty Organization 
+     (commonly known as ``NATO'') renewed their earlier commitment 
+     to invest 2 percent of their national gross domestic product 
+     (referred to in this preamble as ``GDP'') to defense spending 
+     to help ensure the continued military readiness of NATO;
+       Whereas NATO considers the 2 percent commitment as a floor 
+     and not a ceiling for what member countries of NATO have 
+     committed to invest in their national defense efforts;
+       Whereas the current global security environment has caused 
+     the current leadership of NATO and the United States to 
+     consider raising this commitment even higher;
+       Whereas 23 of the 31 member countries spent at least 2 
+     percent of their GDP on national defense in 2024; and
+       Whereas, since the year 2000, NATO has lost almost 
+     $2,000,000,000,000 in mutual defense spending capability from 
+     member countries not meeting the commitment of 2 percent of 
+     their GDP towards defense; and
+       Whereas it is in the interest of all member countries to 
+     meet the 2 percent minimum commitment or have a plan in place 
+     to do so before the opening session of the NATO Summit in The 
+     Hague, which is scheduled to take place in June 2025: Now, 
+     therefore, be it
+       Resolved, That it is the sense of the Senate that--
+       (1) any citizen of a member country of the North Atlantic 
+     Treaty Organization (commonly known as ``NATO'') that is not 
+     meeting its commitment to spend 2 percent of its gross 
+     domestic product (referred to in this resolution as ``GDP'') 
+     on national defense should not be allowed to hold any 
+     position within the leadership of NATO, including positions 
+     such as--
+       (A) the Secretary General of NATO;
+       (B) the Deputy Secretary General of NATO;
+       (C) any Assistant Secretaries General of NATO;
+       (D) the NATO Spokesperson; and
+       (E) any uniformed military leadership or command positions 
+     within the structure of NATO at the 2-star (OF-7) level or 
+     above; and
+       (2) any member country of NATO that fails to meet its 
+     commitment to spend 2 percent of its GDP on national defense 
+     should not be allowed to host any significant formal or 
+     informal meetings, conferences, or summits of NATO at the 
+     ministerial level or above, outside established routine 
+     corporate processes of NATO that direct military operations 
+     or coordination at a headquarters location, that would 
+     provide substantial economic benefit to the economy and 
+     enable the ability for that member country to receive 
+     international recognition, including--
+       (A) the NATO Summit;
+       (B) meetings of NATO Ministers of Foreign Affairs;
+       (C) NATO Parliamentary Assembly sessions; and
+       (D) the NATO Youth Summit or similar events.
+
+                          ____________________
+```

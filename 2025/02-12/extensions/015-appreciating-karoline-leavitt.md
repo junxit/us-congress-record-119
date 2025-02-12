@@ -1,0 +1,56 @@
+---
+granule: CREC-2025-02-12-pt1-PgE120-4
+date: 2025-02-12
+edition: CREC
+section: EXTENSIONS
+page: E120
+citation: 171 Cong. Rec. E120
+---
+
+# APPRECIATING KAROLINE LEAVITT
+
+**Speaking:** Wilson, Joe (W000795) [R-SC]
+
+```
+                     APPRECIATING KAROLINE LEAVITT
+
+                                 ______
+                                 
+
+                            HON. JOE WILSON
+
+                           of south carolina
+
+                    in the house of representatives
+
+                      Wednesday, February 12, 2025
+
+  Mr. WILSON of South Carolina. Mr. Speaker, just recently, Karoline 
+Leavitt gave her welcomed first press conference as White House Press 
+Secretary serving with President Donald Trump.
+  As a 2019 graduate from Saint Anselm College in New Hampshire, 
+Karoline is the youngest person to hold this critical position as the 
+public voice of the President.
+  Initially working as an intern in the first Trump administration, she 
+later rose to assistant press secretary, followed by communications 
+director for the greatly talented Congresswoman Elise Stefanik, soon to 
+be the American Ambassador to the United Nations.
+  Karoline most recently was the National Press Secretary on the Trump 
+re-election campaign, gaining the trust of the President, where he 
+stated, ``Karoline is smart, tough, and . . . a highly effective 
+communicator. I have the utmost confidence she will . . . help deliver 
+our message to the American people as we Make America Great Again.''
+  In conclusion, God Bless Our Troops as the Global War on Terrorism 
+continues. Open borders for dictators put all Americans at risk of more 
+9/11 attacks imminent as warned by the FBI. Trump will reinstitute 
+existing laws to protect American families with Peace Through Strength.
+  I am grateful to have hosted legitimate President Salome 
+Zourabichvili of the nation of Georgia for the Trump Inauguration as 
+she protests the rigged election of president in that country.
+
+[[Page E121]]
+
+  
+
+                          ____________________
+```

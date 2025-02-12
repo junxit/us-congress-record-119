@@ -1,0 +1,22 @@
+---
+granule: CREC-2025-02-12-pt1-PgH677-24
+date: 2025-02-12
+edition: CREC
+section: HOUSE
+page: H677
+citation: 171 Cong. Rec. H677
+---
+
+# Constitutional Authority Statement for H.R. 1245
+
+**Measures:** H.R. 1245
+
+```
+           By Mr. EDWARDS:
+       H.R. 1245.
+       Congress has the power to enact this legislation pursuant 
+     to the following:
+       Article I, Section 8, Clause 3
+       ``Regulate commerce with foreign nations, and among the 
+     several states, and with the Indian tribes.''
+```

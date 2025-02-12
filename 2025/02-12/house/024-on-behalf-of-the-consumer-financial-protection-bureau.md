@@ -1,0 +1,41 @@
+---
+granule: CREC-2025-02-12-pt1-PgH653-8
+date: 2025-02-12
+edition: CREC
+section: HOUSE
+page: H653
+citation: 171 Cong. Rec. H653
+---
+
+# ON BEHALF OF THE CONSUMER FINANCIAL PROTECTION BUREAU
+
+**Speaking:** Lee, Susie (L000590) [D-NV]
+
+```
+         ON BEHALF OF THE CONSUMER FINANCIAL PROTECTION BUREAU
+
+  (Ms. LEE of Nevada asked and was given permission to address the 
+House for 1 minute.)
+  Ms. LEE of Nevada. Mr. Speaker, I rise today on behalf of the 
+Consumer Financial Protection Bureau.
+  Let me tell you what the CFPB has done to protect working families 
+for years, such as capping bank overdraft fees and credit card late 
+fees, suing big banks for taking advantage of families, saving 
+Americans over $20 billion from abusive corporations.
+  Now, Elon Musk and DOGE want to kill it because it is better for 
+billionaires and big corporations and not for you.
+  Let me be clear: This does nothing to make your life more affordable. 
+It is quite the opposite. In fact, none of what the Trump 
+administration has done so far is making life more affordable for 
+working Nevadans.
+  If you are concerned about these attacks on working families and 
+attacks on our Constitution itself, I implore you to call your nearest 
+Republican.
+  Let's face it: They control Congress, and it is up to them to stand 
+up and help us stop this unconstitutional power grab and deliver on 
+their promise to make life more affordable for you.
+  The SPEAKER pro tempore. Members are reminded to address their 
+remarks to the Chair.
+
+                          ____________________
+```
