@@ -1,0 +1,122 @@
+---
+granule: CREC-2025-02-13-pt1-PgH712-17
+date: 2025-02-13
+edition: CREC
+section: HOUSE
+page: H712
+citation: 171 Cong. Rec. H712
+---
+
+# ADDITIONAL SPONSORS
+
+**Measures:** H.J.Res. 20, H.R. 22, H.Res. 23, H.J.Res. 35, H.Res. 70, H.Res. 71, H.Res. 126, H.R. 210, H.R. 250, H.R. 271, H.R. 272, H.R. 307, H.R. 309, H.R. 330, H.R. 396, H.R. 412, H.R. 424, H.R. 433, H.R. 451, H.R. 452, H.R. 465, H.R. 484, H.R. 486, H.R. 498, H.R. 539, H.R. 645, H.R. 649, H.R. 657, H.R. 712, H.R. 738, H.R. 743, H.R. 748, H.R. 768, H.R. 785, H.R. 816, H.R. 821, H.R. 846, H.R. 852, H.R. 879, H.R. 899, H.R. 909, H.R. 932, H.R. 934, H.R. 937, H.R. 973, H.R. 977, H.R. 989, H.R. 1004, H.R. 1008, H.R. 1009, H.R. 1024, H.R. 1029, H.R. 1037, H.R. 1039, H.R. 1041, H.R. 1052, H.R. 1059, H.R. 1061, H.R. 1066, H.R. 1076, H.R. 1084, H.R. 1086, H.R. 1089, H.R. 1099, H.R. 1101, H.R. 1106, H.R. 1120, H.R. 1121, H.R. 1127, H.R. 1131, H.R. 1150, H.R. 1153, H.R. 1155, H.R. 1163, H.R. 1164, H.R. 1171, H.R. 1172, H.R. 1196, H.R. 1198, H.R. 1224, H.R. 1233, H.R. 1237, H.R. 1248, H.R. 1250, H.R. 1251, H.R. 1253
+
+```
+                          ADDITIONAL SPONSORS
+
+  Under clause 7 of rule XII, sponsors were added to public bills and 
+resolutions, as follows:
+
+       H.R. 22: Mr. Huizenga.
+       H.R. 210: Ms. Lofgren.
+       H.R. 250: Mr. Aderholt, Mr. Veasey, and Mr. Valadao.
+       H.R. 271: Mr. Guthrie, Ms. Fedorchak, Mr. McGuire, and Mr. 
+     Yakym.
+       H.R. 272: Mr. Guthrie, Ms. Fedorchak, and Mr. McGuire.
+       H.R. 307: Mr. Stanton, Mrs. Cherfilus-McCormick, Mr. 
+     Carson, and Ms. Craig.
+       H.R. 309: Mrs. Radewagen and Mr. McCaul.
+       H.R. 330: Mr. Griffith and Mr. Pfluger.
+       H.R. 396: Mr. Garcia of Illinois.
+       H.R. 412: Ms. Tlaib.
+       H.R. 424: Mr. Pfluger.
+       H.R. 433: Mr. Vargas, Mr. Cohen, Mr. Goldman of New York, 
+     and Ms. McClellan.
+       H.R. 451: Mr. Meuser and Mr. Timmons.
+       H.R. 452: Mr. Mrvan.
+       H.R. 465: Mr. Bean of Florida and Mr. Van Drew.
+       H.R. 484: Mr. Keating.
+       H.R. 486: Mr. Thompson of Mississippi.
+       H.R. 498: Mr. Weber of Texas.
+       H.R. 539: Mr. Moran, Ms. McDonald Rivet, and Mrs. Wagner.
+       H.R. 645: Mr. Nehls.
+       H.R. 649: Ms. Foxx, Mr. LaMalfa, Mr. Thompson of 
+     Mississippi, Mr. Crawford, and Mr. Onder.
+       H.R. 657: Ms. Salinas.
+       H.R. 712: Mrs. Dingell.
+       H.R. 738: Mr. David Scott of Georgia.
+       H.R. 743: Mr. Thompson of California.
+       H.R. 748: Mr. Van Drew.
+       H.R. 768: Mrs. Hayes.
+       H.R. 785: Mr. Suozzi.
+       H.R. 816: Mr. Van Drew.
+       H.R. 821: Mr. Lieu and Ms. Brownley.
+       H.R. 846: Mr. Frost.
+       H.R. 852: Mr. Frost.
+       H.R. 879: Mr. Cohen and Mr. Owens.
+       H.R. 899: Mr. Nehls.
+       H.R. 909: Mr. Meuser, Mr. Yakym, Mr. Strong, Mr. LaLota, 
+     Mr. Panetta, and Mr. Aderholt.
+       H.R. 932: Ms. Salinas.
+       H.R. 934: Mr. Van Drew.
+       H.R. 937: Mr. Van Drew.
+       H.R. 973: Mr. Bacon.
+       H.R. 977: Mr. Rogers of Alabama.
+       H.R. 989: Ms. Moore of Wisconsin, Mr. Figures, and Ms. 
+     Crockett.
+       H.R. 1004: Ms. Tlaib.
+       H.R. 1008: Mr. LaLota, Ms. Clarke of New York, Mr. Suozzi, 
+     Mr. Riley of New York, Ms. Velazquez, Mr. Meeks, Mr. Mannion, 
+     Ms. Gillen, and Mr. Espaillat.
+       H.R. 1009: Mr. LaLota, Ms. Clarke of New York, Mr. Suozzi, 
+     Mr. Riley of New York, Ms. Velazquez, Mr. Meeks, Mr. Mannion, 
+     Ms. Gillen, and Mr. Espaillat.
+       H.R. 1024: Ms. Kamlager-Dove.
+       H.R. 1029: Mr. Van Orden.
+       H.R. 1037: Mr. Donalds, Mr. Yakym, and Mr. Rulli.
+       H.R. 1039: Mr. Collins, Mr. Haridopolos, and Mr. 
+     Fitzgerald.
+       H.R. 1041: Mr. Messmer.
+       H.R. 1052: Mr. Van Drew.
+       H.R. 1059: Ms. Van Duyne.
+       H.R. 1061: Mr. Hernandez, Mrs. Trahan, Mr. Frost, and Ms. 
+     Meng.
+       H.R. 1066: Mr. Van Drew.
+       H.R. 1076: Ms. McDonald Rivet and Mr. Mann.
+       H.R. 1084: Mr. LaMalfa.
+       H.R. 1086: Mr. Bacon and Mr. LaMalfa.
+       H.R. 1089: Ms. Boebert and Mr. Wilson of South Carolina.
+       H.R. 1099: Mr. Moskowitz.
+       H.R. 1101: Ms. Clarke of New York, Ms. Tokuda, Mr. David 
+     Scott of Georgia, and Ms. Stansbury.
+       H.R. 1106: Mr. Case.
+       H.R. 1120: Ms. Mace.
+       H.R. 1121: Mr. Barr, Mrs. Dingell, and Mr. Dunn of Florida.
+       H.R. 1127: Mrs. Harshbarger.
+       H.R. 1131: Mr. Barrett.
+       H.R. 1150: Mr. Steil and Mr. Fitzgerald.
+       H.R. 1153: Mr. Cuellar.
+       H.R. 1155: Mr. Issa.
+       H.R. 1163: Mrs. Fischbach.
+       H.R. 1164: Mr. Lieu.
+       H.R. 1171: Ms. Davids of Kansas, Mr. Carey, and Ms. Van 
+     Duyne.
+       H.R. 1172: Mr. Van Drew.
+       H.R. 1196: Mr. Costa and Mr. Panetta.
+       H.R. 1198: Mr. Bean of Florida.
+       H.R. 1224: Mr. Van Drew.
+       H.R. 1233: Mr. McClintock.
+       H.R. 1237: Mr. Langworthy.
+       H.R. 1248: Mr. Mast.
+       H.R. 1250: Mr. Crenshaw.
+       H.R. 1251: Ms. Kamlager-Dove and Ms. DeGette.
+       H.R. 1253: Mr. Mann.
+       H.J. Res. 20: Mr. Langworthy.
+       H.J. Res. 35: Mr. Griffith.
+       H. Res. 23: Mr. Kennedy of New York, Mr. Panetta, and Mr. 
+     Sorensen.
+       H. Res. 70: Ms. McBride, Mr. Latimer, and Mrs. McClain 
+     Delaney.
+       H. Res. 71: Mr. Luttrell.
+       H. Res. 126: Mr. Frost.
+```
