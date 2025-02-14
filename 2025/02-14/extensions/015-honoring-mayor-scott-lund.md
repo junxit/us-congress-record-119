@@ -1,0 +1,66 @@
+---
+granule: CREC-2025-02-14-pt1-PgE132-4
+date: 2025-02-14
+edition: CREC
+section: EXTENSIONS
+page: E132
+citation: 171 Cong. Rec. E132
+---
+
+# HONORING MAYOR SCOTT LUND
+
+**Speaking:** Omar, Ilhan (O000173) [D-MN]
+
+```
+                       HONORING MAYOR SCOTT LUND
+
+                                 ______
+                                 
+
+                            HON. ILHAN OMAR
+
+                              of minnesota
+
+                    in the house of representatives
+
+                       Friday, February 14, 2025
+
+  Ms. OMAR. Mr. Speaker, I rise today to honor the distinguished career 
+of Scott Lund, the former Mayor of Fridley. He recently retired after 
+nearly five decades of dedicated service to his community. Throughout 
+his tenure, Mayor Lund has been a devoted leader, guiding the city to 
+become a safe, vibrant, and welcoming place to live. His leadership has 
+been instrumental in advancing numerous projects that have contributed 
+to the city's growth and development.
+  Mayor Lund moved to Fridley in 1979 and became involved in the 
+community out of a commitment to giving back to others. He married his 
+wife, Cindy, in 1976, and they have three children and four 
+grandchildren. Mayor Lund has owned his own manufactured home sales and 
+service business for 48 years. Elected to office in 2000, and 
+continuously re-elected by the residents of Fridley, he has worked 
+tirelessly as an advocate for residents.
+  Those who worked closely with Mayor Lund admired his commitment to 
+public service and his unwavering dedication to all of his fellow 
+neighbors in Fridley. He has always been active in the community, 
+engaging with residents, listening to their concerns, and advocating 
+for their needs. Mayor Lund's hands-on approach to leadership has truly 
+set him apart as a public servant.
+  Under his leadership, Fridley has experienced transformative change. 
+One of Mayor Lund's most significant contributions was his emphasis on 
+environmental stewardship. He championed the redevelopment of the 
+Northern Stacks industrial campus, a project that revitalized a vital 
+city at area, cleaned up soil contamination, and reduced pollution. 
+Additionally, Mayor Lund spearheaded a $30 million initiative to 
+improve the city's park system, ensuring Fridley remains a beautiful 
+and livable community for generations.
+  Mayor Scott Lund embodies excellence, integrity, and leadership. His 
+long and impactful
+
+[[Page E133]]
+
+career is a testament to the difference that dedicated public service 
+can make. It is an honor to thank him for his remarkable service and to 
+celebrate his well-deserved retirement.
+
+                          ____________________
+```
