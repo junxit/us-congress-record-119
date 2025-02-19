@@ -1,0 +1,46 @@
+---
+granule: CREC-2025-02-19-pt1-PgS1051-8
+date: 2025-02-19
+edition: CREC
+section: SENATE
+page: S1051
+citation: 171 Cong. Rec. S1051
+---
+
+# Text of Senate Amendment 152
+
+**Speaking:** Reed, Jack (R000122) [D-RI]
+
+```
+  SA 152. Mr. REED submitted an amendment intended to be proposed by 
+him to the concurrent resolution S. Con. Res. 7, setting forth the 
+congressional budget for the United States Government for fiscal year 
+2025 and setting forth the appropriate budgetary levels for fiscal 
+years 2026 through 2034; which was ordered to lie on the table; as 
+follows:
+
+       At the end of title III, add the following:
+
+     SEC. 3___. DEFICIT-NEUTRAL RESERVE FUND RELATING TO REVERSING 
+                   THE DECLINE IN LITERACY SKILLS FOR CHILDREN AND 
+                   ADULTS OF THE UNITED STATES.
+
+       The Chairman of the Committee on the Budget of the Senate 
+     may revise the allocations of a committee or committees, 
+     aggregates, and other appropriate levels in this resolution, 
+     and make adjustments to the
+
+[[Page S1052]]
+
+     pay-as-you-go ledger, for one or more bills, joint 
+     resolutions, amendments, amendments between the Houses, 
+     motions, or conference reports relating to reversing the 
+     decline in literacy skills for children and adults of the 
+     United States, which may include increasing funding for adult 
+     education or evidence-based literacy instruction in public 
+     schools, by the amounts provided in such legislation for 
+     those purposes, provided that such legislation would not 
+     increase the deficit over the period of the total of fiscal 
+     years 2025 through 2034.
+                                 ______
+```

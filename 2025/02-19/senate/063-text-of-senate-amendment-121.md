@@ -1,0 +1,48 @@
+---
+granule: CREC-2025-02-19-pt1-PgS1047-5
+date: 2025-02-19
+edition: CREC
+section: SENATE
+page: S1047
+citation: 171 Cong. Rec. S1047
+---
+
+# Text of Senate Amendment 121
+
+**Speaking:** Warner, Mark R. (W000805) [D-VA]
+
+```
+  SA 121. Mr. WARNER submitted an amendment intended to be proposed by 
+him to the concurrent resolution S. Con. Res. 7, setting forth the 
+congressional budget for the United States Government for fiscal year 
+2025 and setting forth the appropriate budgetary levels for fiscal 
+years 2026 through 2034; which was ordered to lie on the table; as 
+follows:
+
+       At the appropriate place in title IV, add the following:
+
+     SEC. 4___. POINT OF ORDER AGAINST CONSIDERING FUNDING 
+                   LEGISLATION FOR THE OFFICE OF THE PRESIDENT 
+                   WHILE THERE IS PENDING LITIGATION ALLEGING A 
+                   VIOLATION OF THE TAKE CARE CLAUSE.
+
+       (a) Point of Order.--It shall not be in order in the Senate 
+     to consider any bill, joint resolution, motion, amendment, 
+     amendment between the Houses, or conference report that 
+     provides new budget authority for the Office of the President 
+     or the White House Office during any period during which 
+     there is litigation pending against the President or another 
+     officer or employee of the executive branch alleging a 
+     violation of the requirement under article II, section 3 of 
+     the Constitution of the United States that the President 
+     ``shall take Care that the Laws be faithfully executed'' 
+     (commonly known as the ``Take Care Clause'').
+       (b) Waiver and Appeal.--Subsection (a) may be waived or 
+     suspended in the Senate only by an affirmative vote of three-
+     fifths of the Members, duly chosen and sworn. An affirmative 
+     vote of three-fifths of the Members of the Senate, duly 
+     chosen and sworn, shall be required to sustain an appeal of 
+     the ruling of the Chair on a point of order raised under 
+     subsection (a).
+                                 ______
+```
