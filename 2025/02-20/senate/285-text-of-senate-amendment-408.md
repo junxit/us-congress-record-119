@@ -1,0 +1,44 @@
+---
+granule: CREC-2025-02-20-pt1-PgS1189-3
+date: 2025-02-20
+edition: CREC
+section: SENATE
+page: S1189
+citation: 171 Cong. Rec. S1189
+---
+
+# Text of Senate Amendment 408
+
+**Speaking:** Bennet, Michael F. (B001267) [D-CO]
+
+```
+  SA 408. Mr. BENNET (for himself, Mr. Blumenthal, and Ms. Warren) 
+submitted an amendment intended to be proposed by him to the concurrent 
+resolution S. Con. Res. 7, setting forth the congressional budget for 
+the United States Government for fiscal year 2025 and setting forth the 
+appropriate budgetary levels for fiscal years 2026 through 2034; which 
+was ordered to lie on the table; as follows:
+
+       At the end of title III, add the following:
+
+     SEC. 3___. DEFICIT-NEUTRAL RESERVE FUND RELATING TO ENSURING 
+                   THAT ACTIVE-DUTY MILITARY, RESERVE, OR NATIONAL 
+                   GUARD MEMBERS ARE NOT ENGAGED IN DOMESTIC LAW 
+                   ENFORCEMENT ACTIVITIES AT THE UNITED STATES 
+                   SOUTHERN BORDER.
+
+       The Chairman of the Committee on the Budget of the Senate 
+     may revise the allocations of a committee or committees, 
+     aggregates, and other appropriate levels in this resolution, 
+     and make adjustments to the pay-as-you-go ledger, for one or 
+     more bills, joint resolutions, amendments, amendments between 
+     the Houses, motions, or conference reports relating to 
+     ensuring that active-duty military, reserve, or National 
+     Guard members are not engaged in domestic law enforcement 
+     activities at the United States southern border by the 
+     amounts provided in such legislation for those purposes, 
+     provided that such legislation would not increase the deficit 
+     over the period of the total of fiscal years 2025 through 
+     2034.
+                                 ______
+```
