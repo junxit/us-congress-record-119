@@ -1,0 +1,67 @@
+---
+granule: CREC-2025-02-21-pt1-PgE150-2
+date: 2025-02-21
+edition: CREC
+section: EXTENSIONS
+page: E150
+citation: 171 Cong. Rec. E150
+---
+
+# HONORING POLICE WEEK IN PUERTO RICO
+
+**Speaking:** Hernandez, Pablo Jose (H001103) [D-PR]
+
+```
+                  HONORING POLICE WEEK IN PUERTO RICO
+
+                                 ______
+                                 
+
+                       HON. PABLO JOSE HERNANDEZ
+
+                             of puerto rico
+
+                    in the house of representatives
+
+                       Friday, February 21, 2025
+
+  Mr. HERNANDEZ. Mr. Speaker, I rise today to recognize the courageous 
+and dedicated men and women of the Puerto Rico Police Department as we 
+commemorate Police Week from February 17 to February 23, 2025. Every 
+day, law enforcement officers put their lives on the line to protect 
+our communities, uphold the rule of law, and ensure that justice 
+prevails. Their sacrifices often go unnoticed, but today, we take a 
+moment to express our deepest appreciation for their service and 
+commitment.
+  While no institution is without its challenges, we must acknowledge 
+the unwavering dedication of our police officers who work tirelessly to 
+make our communities safer. Their role is not only to enforce the law 
+but also to serve with integrity, fairness, and a deep sense of 
+responsibility.
+  In Puerto Rico, we have exceptional law enforcement professionals who 
+have demonstrated exemplary service. I want to take this opportunity to 
+highlight some of the distinguished members of the Puerto Rico Police 
+Department's Puerto Nuevo Precinct 282, who have gone above and beyond 
+in 2024:
+  Director of the Year: Captain Ruben Gomez Sanabria
+  Outstanding Male Officer: Agent Daniel Ayala Almodovar
+  Outstanding Female Officer: Agent Gretchen M. Arroyo Rivera
+  Distinguished Officers:
+  Agent Nicasio Lima Candelano
+  Agent Jeannette Gonzalez Vazquez
+  Agent Marangelly De Leon Sustache
+  Outstanding Civilian Personnel: Ms. Grisel Morales Guadalupe
+  These individuals exemplify the highest standards of public service 
+and professionalism. Their dedication reminds us of the importance of 
+supporting our law enforcement officers with the resources, training, 
+and respect they deserve.
+  As we mark Police Week, let us reaffirm our commitment to those who 
+serve and protect. Let us work together to ensure that law enforcement 
+agencies have the tools they need to carry out their mission while 
+fostering trust and accountability within our communities.
+  Mr. Speaker, today and every day, I stand with the brave men and 
+women of the Puerto Rico Police Department, and I urge my colleagues to 
+join me in honoring their service.
+
+                          ____________________
+```

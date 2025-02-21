@@ -1,0 +1,67 @@
+---
+granule: CREC-2025-02-21-pt1-PgE144-2
+date: 2025-02-21
+edition: CREC
+section: EXTENSIONS
+page: E144
+citation: 171 Cong. Rec. E144
+---
+
+# HONORING DETECTIVE KELSEA NELSON
+
+**Speaking:** Thompson, Mike (T000460) [D-CA]
+
+```
+                    HONORING DETECTIVE KELSEA NELSON
+
+                                 ______
+                                 
+
+                           HON. MIKE THOMPSON
+
+                             of california
+
+                    in the house of representatives
+
+                       Friday, February 21, 2025
+
+  Mr. THOMPSON of California. Mr. Speaker, I rise today to honor 
+Detective Kelsea Nelson of the Santa Rosa Police Department. I have 
+named Detective Nelson as the California 4th District's Public Safety 
+Hero of the Year for Sonoma County because of her extraordinary 
+selflessness, dedication, and service to others.
+  Detective Nelson was born in Southern California but has called 
+Sonoma County home since she was four years old. Her family resides in 
+Santa Rosa, and her partner works in victim advocacy, serving many of 
+the same vulnerable populations she does. She earned an Associate of 
+Arts degree in Humanities from Santa Rosa Junior College and a Bachelor 
+of Arts in Sociology with an emphasis in Law and Society from the 
+University of California, Davis.
+  Detective Nelson began her career with the Santa Rosa Police 
+Department in 2016 as a Records Technician. She transitioned to a 
+police officer role in 2018 and took her current assignment as a 
+Domestic Violence and Sexual Assault Detective in 2023. In addition to 
+her investigative duties, Detective Nelson serves her department as a 
+drone operator, honor guard member and defensive tactics instructor. 
+She has also volunteered as a Crisis Line Counselor with Verity, Sonoma 
+County's sexual assault crisis support organization.
+  Her outstanding work on a missing juvenile case exemplifies her 
+dedication to protecting the most vulnerable. In May 2024, she led an 
+investigation into a missing juvenile case, utilizing the National 
+Crime Information Center's (NCIC) resources to track a suspect across 
+multiple states. Her swift and strategic efforts, in coordination with 
+federal and local law enforcement, led to the safe recovery of the 
+juvenile and the apprehension of the suspect, who now faces multiple 
+state and federal charges. Detective Nelson's exceptional work earned 
+her the NCIC 2024 Success Story of the Year award, a testament to her 
+skill, dedication, and relentless pursuit of justice.
+  Detective Nelson's work shows her selfless dedication and service at 
+the highest levels to our community and the Law Enforcement profession.
+  Mr. Speaker, it is fitting and proper that we recognize and honor 
+Detective Kelsea Nelson for her outstanding service. Her tireless 
+dedication to justice and public safety makes our community a better 
+and safer place. We congratulate her on this well-earned recognition 
+and thank her for her continued service.
+
+                          ____________________
+```
