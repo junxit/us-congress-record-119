@@ -1,0 +1,50 @@
+---
+granule: CREC-2025-02-24-pt1-PgH735
+date: 2025-02-24
+edition: CREC
+section: HOUSE
+page: H735
+citation: 171 Cong. Rec. H735
+---
+
+# HONORING BELOVED IOWAN DAVE HEATON
+
+**Speaking:** Miller-Meeks, Mariannette (M001215) [R-IA]
+
+```
+                              {time}  1215
+                   HONORING BELOVED IOWAN DAVE HEATON
+
+  The SPEAKER pro tempore. The Chair recognizes the gentlewoman from 
+Iowa (Mrs. Miller-Meeks) for 5 minutes.
+  Mrs. MILLER-MEEKS. Mr. Speaker, I rise today to honor the late Dave 
+Heaton, a beloved Iowan, whose passing on February 12 at age 84 has 
+left his wife Carmen; daughter, Mary Elizabeth; the city of Mount 
+Pleasant; and Iowa in mourning.
+  Dave graduated from Iowa Wesleyan College in Mount Pleasant, and he 
+enlisted in the U.S. Army Reserve and served with an engineering 
+battalion in Washington, Iowa. He taught social studies and government 
+at Van Buren High School, and he also was an assistant coach for the 
+girls' basketball team and a defensive coach for the football team.
+  Before public service, Dave and his wife, Carmen, ran the Iris 
+Restaurant for 42 years, and Dave's family in Sigourney, Iowa, ran 
+restaurants as well. The Iris Restaurant was a community hub where he 
+carved roast beef and listened to everyone who entered. Known as the 
+best boss, he made it into southeast Iowa's finest dining spot.
+  For 24 years, Dave served in the Iowa House of Representatives, where 
+his pragmatic compassion shaped mental health, human services, and 
+education policy. As chair of the Labor, Health and Human Services, 
+Education, and Related Agencies Appropriations Subcommittee, he turned 
+conviction into progress.
+  His reach extended to education, working with school boards, and 
+inspiring leaders like Jesse Howard. Healthcare in general, but also 
+mental health, were his focus, and later in life he served on the board 
+of directors of the National Alliance of Mental Illness.
+  He was a giant of a man: mentor, friend and neighbor. Always humble 
+and always selfless, Dave Heaton's legacy of dedication, kindness, and 
+service defines what public life should be. Iowa stands stronger 
+because of him.
+  Rest in peace, Dave. You will definitely be missed.
+
+                          ____________________
+```

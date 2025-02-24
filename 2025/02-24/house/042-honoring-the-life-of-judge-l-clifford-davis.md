@@ -1,0 +1,42 @@
+---
+granule: CREC-2025-02-24-pt1-PgH751-4
+date: 2025-02-24
+edition: CREC
+section: HOUSE
+page: H751
+citation: 171 Cong. Rec. H751
+---
+
+# HONORING THE LIFE OF JUDGE L. CLIFFORD DAVIS
+
+**Speaking:** Veasey, Marc A. (V000131) [D-TX]
+
+```
+              HONORING THE LIFE OF JUDGE L. CLIFFORD DAVIS
+
+  (Mr. VEASEY asked and was given permission to address the House for 1 
+minute.)
+  Mr. VEASEY. Mr. Speaker, I rise today to celebrate the extraordinary 
+life of Judge L. Clifford Davis who passed away February 15 at 100 
+years old.
+  Judge Davis was a remarkable man and had been a judge. He was 
+appointed by Governor Mark White back in the eighties to serve as a 
+criminal justice judge.
+  However, what he will be known and remembered for is that he was the 
+lawyer back in the 1950s who worked to desegregate the Mansfield 
+Independent School District. Before Judge Davis worked on this case, 
+Black children from Mansfield literally were bused on Trailways buses 
+from Mansfield all the way out in the country into Fort Worth every day 
+just so they could get an education.
+  Judge Davis worked with Thurgood Marshall and other lawyers to make 
+sure that school systems like Mansfield were integrated. It was ugly. 
+They hung effigies up of Judge Davis in the school, and the principal 
+literally let them stay there for weeks just to make a point that they 
+were standing against integration.
+  His mentorship to so many young lawyers around Tarrant County and the 
+things that he accomplished in his life to help make Tarrant County, 
+Fort Worth, and Mansfield a better place for all will never be 
+forgotten.
+
+                          ____________________
+```
