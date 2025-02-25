@@ -1,0 +1,46 @@
+---
+granule: CREC-2025-02-25-pt1-PgE159-3
+date: 2025-02-25
+edition: CREC
+section: EXTENSIONS
+page: E159
+citation: 171 Cong. Rec. E159
+---
+
+# RECOGNIZING THE CITY OF DOUGLASVILLE, GEORGIA ON ITS SESQUICENTENNIAL BIRTHDAY
+
+**Speaking:** McBath, Lucy (M001208) [D-GA]
+
+```
+ RECOGNIZING THE CITY OF DOUGLASVILLE, GEORGIA ON ITS SESQUICENTENNIAL 
+                                BIRTHDAY
+
+                                 ______
+                                 
+
+                            HON. LUCY McBATH
+
+                               of georgia
+
+                    in the house of representatives
+
+                       Tuesday, February 25, 2025
+
+  Mrs. McBATH. Mr. Speaker, I am proud to recognize the City of 
+Douglasville on the occasion of its Sesquicentennial Birthday. For 150 
+years, Douglasville has contributed to the rich history of the state of 
+Georgia, and I am honored to uplift today's remarkable milestone. Back 
+home in my district, constituents will gather this evening at the 
+Douglas County Museum of History & Art for a reflection on the history 
+of the city and a celebration of the progress they hope to make in the 
+future.
+  I want to commend Mayor Rochelle Robinson, the Douglasville City 
+Council, and every resident who made this week's celebration possible. 
+It is thanks to the devotion of public servants like them who make 
+Douglasville such a wonderful community in which to live, work, and 
+raise a family.
+  I congratulate the City of Douglasville on reaching 150 years, and 
+Happy Birthday.
+
+                          ____________________
+```

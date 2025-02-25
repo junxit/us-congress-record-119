@@ -1,0 +1,188 @@
+---
+granule: CREC-2025-02-25-pt1-PgH837-38
+date: 2025-02-25
+edition: CREC
+section: HOUSE
+page: H837
+citation: 171 Cong. Rec. H837
+---
+
+# ADDITIONAL SPONSORS
+
+**Measures:** H.Con.Res. 4, H.R. 7, H.Con.Res. 8, H.J.Res. 20, H.Res. 23, H.J.Res. 25, H.J.Res. 28, H.J.Res. 31, H.J.Res. 35, H.R. 36, H.R. 60, H.Res. 70, H.Res. 73, H.Res. 100, H.Res. 106, H.Res. 110, H.Res. 120, H.R. 135, H.Res. 136, H.R. 137, H.R. 139, H.Res. 148, H.Res. 153, H.Res. 154, H.Res. 159, H.R. 243, H.R. 247, H.R. 264, H.R. 265, H.R. 322, H.R. 330, H.R. 425, H.R. 433, H.R. 436, H.R. 451, H.R. 452, H.R. 483, H.R. 485, H.R. 486, H.R. 516, H.R. 539, H.R. 551, H.R. 573, H.R. 581, H.R. 597, H.R. 628, H.R. 644, H.R. 649, H.R. 703, H.R. 715, H.R. 740, H.R. 744, H.R. 745, H.R. 801, H.R. 821, H.R. 830, H.R. 833, H.R. 862, H.R. 879, H.R. 882, H.R. 884, H.R. 894, H.R. 905, H.R. 909, H.R. 911, H.R. 934, H.R. 944, H.R. 989, H.R. 1000, H.R. 1002, H.R. 1004, H.R. 1007, H.R. 1024, H.R. 1065, H.R. 1083, H.R. 1085, H.R. 1086, H.R. 1099, H.R. 1106, H.R. 1111, H.R. 1121, H.R. 1144, H.R. 1150, H.R. 1151, H.R. 1169, H.R. 1171, H.R. 1175, H.R. 1181, H.R. 1196, H.R. 1200, H.R. 1207, H.R. 1229, H.R. 1252, H.R. 1259, H.R. 1262, H.R. 1266, H.R. 1267, H.R. 1291, H.R. 1312, H.R. 1313, H.R. 1314, H.R. 1321, H.R. 1336, H.R. 1346, H.R. 1350, H.R. 1354, H.R. 1364, H.R. 1383, H.R. 1386, H.R. 1389, H.R. 1394, H.R. 1407, H.R. 1414, H.R. 1415, H.R. 1422, H.R. 1437, H.R. 1458, H.R. 1475, H.R. 1484, H.R. 1488, H.R. 1494, H.R. 1496, H.R. 1505, H.R. 1507, H.R. 1530, H.R. 1535
+
+```
+                          ADDITIONAL SPONSORS
+
+  Under clause 7 of rule XII, sponsors were added to public bills and 
+resolutions, as follows:
+
+       H.R. 7: Mr. Kustoff.
+       H.R. 36: Mr. Panetta.
+       H.R. 60: Mr. Moore of Alabama.
+       H.R. 135: Ms. Castor of Florida.
+       H.R. 137: Mr. McGuire.
+       H.R. 139: Mr. Haridopolos and Ms. Lee of Florida.
+       H.R. 243: Mr. Panetta.
+       H.R. 247: Mr. Bishop and Ms. Salinas.
+       H.R. 264: Mr. Moulton.
+       H.R. 265: Mr. Moulton.
+       H.R. 322: Ms. Salinas.
+       H.R. 330: Mr. Latta.
+       H.R. 425: Mr. Donalds, Mr. Shreve, and Mr. Mills.
+       H.R. 433: Mr. Grijalva and Ms. Sherrill.
+       H.R. 436: Mr. Costa.
+       H.R. 451: Mr. Murphy and Mr. Carey.
+       H.R. 452: Mr. Timmons, Ms. Kaptur, and Mr. Tonko.
+       H.R. 483: Mr. LaHood.
+       H.R. 485: Mr. David Scott of Georgia.
+       H.R. 486: Mr. Smith of Washington.
+       H.R. 516: Mr. Shreve.
+       H.R. 539: Mr. Van Orden.
+       H.R. 551: Mr. Smith of Missouri, Mr. Van Drew, and Mr. 
+     Donalds.
+
+[[Page H838]]
+
+  
+
+       H.R. 573: Mr. LaMalfa.
+       H.R. 581: Ms. Elfreth.
+       H.R. 597: Mr. Estes and Mr. Amodei of Nevada.
+       H.R. 628: Mr. Shreve.
+       H.R. 644: Mr. Harder of California and Ms. McBride.
+       H.R. 649: Mr. Johnson of South Dakota.
+       H.R. 703: Mr. Evans of Colorado.
+       H.R. 715: Mrs. Kiggans of Virginia.
+       H.R. 740: Mr. Webster of Florida.
+       H.R. 744: Mr. Carson.
+       H.R. 745: Mr. Thompson of Pennsylvania.
+       H.R. 801: Mr. Barr.
+       H.R. 821: Ms. Craig, Ms. Chu, and Mr. Raskin.
+       H.R. 830: Mr. Bera.
+       H.R. 833: Mr. Huizenga.
+       H.R. 862: Mrs. Cherfilus-McCormick.
+       H.R. 879: Ms. Adams, Mr. Norcross, Mr. Flood, Ms. McDonald 
+     Rivet, Mr. Rutherford, and Ms. Ross.
+       H.R. 882: Mr. Van Drew.
+       H.R. 884: Mr. Van Drew.
+       H.R. 894: Ms. Craig.
+       H.R. 905: Ms. Tokuda.
+       H.R. 909: Mr. Carbajal.
+       H.R. 911: Ms. Pou.
+       H.R. 934: Mr. LaMalfa.
+       H.R. 944: Ms. Simon and Ms. Kamlager-Dove.
+       H.R. 989: Mr. Mrvan and Mr. Sherman.
+       H.R. 1000: Mr. Tony Gonzales of Texas.
+       H.R. 1002: Mr. Landsman and Ms. Bonamici.
+       H.R. 1004: Ms. Omar and Mr. Harder of California.
+       H.R. 1007: Ms. Wasserman Schultz.
+       H.R. 1024: Mr. Moore of Utah, Mr. Ciscomani, Mr. Beyer, and 
+     Mr. Wilson of South Carolina.
+       H.R. 1065: Mrs. Kim, Mr. Morelle, Mr. Harder of California, 
+     and Ms. Jacobs.
+       H.R. 1083: Mr. Davis of North Carolina.
+       H.R. 1085: Mr. Evans of Pennsylvania, Ms. Tokuda, and Ms. 
+     Dean of Pennsylvania.
+       H.R. 1086: Mr. Feenstra.
+       H.R. 1099: Ms. Lee of Pennsylvania and Mr. Keating.
+       H.R. 1106: Mr. Landsman, Mr. Sorensen, and Ms. Davids of 
+     Kansas.
+       H.R. 1111: Mr. Quigley.
+       H.R. 1121: Mr. Gimenez.
+       H.R. 1144: Mr. Wilson of South Carolina, Mrs. Radewagen, 
+     and Mr. Valadao.
+       H.R. 1150: Mr. Van Orden.
+       H.R. 1151: Mr. Self and Mr. Grothman.
+       H.R. 1169: Ms. Van Duyne.
+       H.R. 1171: Mr. Van Drew and Mr. Pocan.
+       H.R. 1175: Mr. Stauber.
+       H.R. 1181: Mr. Grothman, Mr. Valadao, Mr. Latta, Mr. Weber 
+     of Texas, and Mr. Nehls.
+       H.R. 1196: Mr. Latimer, Mr. Grijalva, and Ms. Sherrill.
+       H.R. 1200: Ms. Craig.
+       H.R. 1207: Mr. Ezell.
+       H.R. 1229: Mr. Fitzpatrick, Ms. Wilson of Florida, Mr. 
+     Moskowitz, Mr. Davis of North Carolina, Mr. Reschenthaler, 
+     Mr. Bishop, Ms. Lois Frankel of Florida, Mr. Smith of New 
+     Jersey, Mrs. Kiggans of Virginia, and Mr. David Scott of 
+     Georgia.
+       H.R. 1252: Mr. Wilson of South Carolina.
+       H.R. 1259: Ms. Tlaib, Ms. Norton, and Mr. Grijalva.
+       H.R. 1262: Mr. Diaz-Balart, Mr. Wilson of South Carolina, 
+     Mr. LaHood, Mr. Van Drew, Ms. Malliotakis, Mr. Larson of 
+     Connecticut, Mr. Bishop, Ms. DelBene, Mr. Harder of 
+     California, Mr. Grijalva, Mr. Schneider, Ms. Scanlon, Mr. 
+     Finstad, and Mr. Huizenga.
+       H.R. 1266: Mr. Finstad, Ms. Davids of Kansas, and Mr. 
+     Yakym.
+       H.R. 1267: Ms. Davids of Kansas.
+       H.R. 1291: Mr. Harder of California.
+       H.R. 1312: Mr. Gill of Texas.
+       H.R. 1313: Mr. LaMalfa.
+       H.R. 1314: Mrs. Foushee.
+       H.R. 1321: Mr. Peters and Ms. Sherrill.
+       H.R. 1336: Mr. Harder of California.
+       H.R. 1346: Mr. Shreve.
+       H.R. 1350: Ms. McBride.
+       H.R. 1354: Mr. Meeks and Mrs. Foushee.
+       H.R. 1364: Mr. Valadao.
+       H.R. 1383: Ms. Maloy, Mr. Fulcher, Mr. Panetta, Mr. Harder 
+     of California, Ms. Pettersen, Mr. Khanna, Mr. Krishnamoorthi, 
+     Ms. DelBene, and Ms. Bonamici.
+       H.R. 1386: Mr. Lawler.
+       H.R. 1389: Ms. Waters.
+       H.R. 1394: Mr. Van Orden.
+       H.R. 1407: Mr. LaHood.
+       H.R. 1414: Mr. Miller of Ohio.
+       H.R. 1415: Mr. Westerman.
+       H.R. 1422: Mr. Fitzpatrick, Ms. Salazar, Mr. Wilson of 
+     South Carolina, Mr. Davis of North Carolina, Mr. 
+     Reschenthaler, Mr. Crenshaw, Mr. Tony Gonzales of Texas, Ms. 
+     Lois Frankel of Florida, Mr. Bishop, Mr. David Scott of 
+     Georgia, Mr. Gimenez, Mr. Smith of New Jersey, Mrs. Kiggans 
+     of Virginia, Mr. Bost, Ms. Wasserman Schultz, and Mr. 
+     Tiffany.
+       H.R. 1437: Mr. Ciscomani, Ms. Moore of Wisconsin, Ms. 
+     Sewell, and Ms. Norton.
+       H.R. 1458: Mr. Van Orden.
+       H.R. 1475: Mr. Valadao and Mr. McDowell.
+       H.R. 1484: Mr. Moulton, Mr. Panetta, Mr. Grijalva, and Mr. 
+     Raskin.
+       H.R. 1488: Mr. Cole and Ms. DelBene.
+       H.R. 1494: Mr. Austin Scott of Georgia and Mr. Davis of 
+     North Carolina.
+       H.R. 1496: Mr. Krishnamoorthi, Mr. Valadao, and Mr. Veasey.
+       H.R. 1505: Mr. Smith of New Jersey.
+       H.R. 1507: Mrs. Luna and Mr. Haridopolos.
+       H.R. 1530: Mrs. Hayes and Mr. Latimer.
+       H.R. 1535: Ms. Salinas.
+       H.J. Res. 20: Mr. Yakym.
+       H.J. Res. 25: Mr. Timmons.
+       H.J. Res. 28: Mrs. Biggs of South Carolina.
+       H.J. Res. 31: Mr. Van Drew.
+       H.J. Res. 35: Ms. Fedorchak.
+       H. Con. Res. 4: Mr. Obernolte.
+       H. Con. Res. 8: Mrs. Hinson and Mr. Lawler.
+       H. Res. 23: Mr. Gottheimer, Ms. Scholten, Ms. Ross, Ms. 
+     Stansbury, Mr. Ryan, and Mr. Thompson of California.
+       H. Res. 70: Mr. Meeks, Ms. Castor of Florida, Mr. Thompson 
+     of California, Mr. Gomez, Mr. Case, Ms. Brown, Mr. Quigley, 
+     Mr. Mullin, Mr. Harder of California, and Ms. McDonald Rivet.
+       H. Res. 73: Mr. Costa.
+       H. Res. 100: Mr. Moulton.
+       H. Res. 106: Mr. Huizenga.
+       H. Res. 110: Mrs. Biggs of South Carolina.
+       H. Res. 120: Mr. Conaway.
+       H. Res. 136: Ms. Meng.
+       H. Res. 148: Mr. Connolly.
+       H. Res. 153: Ms. Pou and Mr. Raskin.
+       H. Res. 154: Mr. Meeks, Ms. Dean of Pennsylvania, Mr. 
+     Cohen, Ms. Johnson of Texas, Mr. Lieu, Mr. Hoyer, Mrs. 
+     Dingell, Mr. Pallone, Ms. Norton, Ms. Titus, Mr. Davis of 
+     Illinois, Ms. Scanlon, and Mr. Moulton.
+       H. Res. 159: Ms. Kelly of Illinois, Mrs. McBath, Mr. 
+     Nadler, Ms. Strickland, Ms. Elfreth, Ms. Dean of 
+     Pennsylvania, Ms. Balint, Ms. Lee of Nevada, Ms. Pou, Mr. 
+     McGovern, Ms. Brown, and Ms. Ross.
+```
