@@ -1,0 +1,48 @@
+---
+granule: CREC-2025-02-27-pt1-PgH891-7
+date: 2025-02-27
+edition: CREC
+section: HOUSE
+page: H891
+citation: 171 Cong. Rec. H891
+---
+
+# HONORING GREGORY E. WALZ
+
+**Speaking:** Lawler, Michael (L000599) [R-NY]
+
+```
+                        HONORING GREGORY E. WALZ
+
+  (Mr. LAWLER asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. LAWLER. Mr. Speaker, I rise today to honor the life and service 
+of Sergeant Gregory E. Walz of the Town of Pound Ridge Police 
+Department.
+  Greg dedicated his life to serving others. Before his career in law 
+enforcement, he worked as an EMT and paramedic, providing lifesaving 
+care across Westchester County.
+  In 2008, he joined the Pound Ridge Police Department, where his 
+skill, dedication, and leadership left a lasting impact.
+  Throughout his career, Greg was a mentor, protector, and friend to so 
+many. His expertise saved lives, and his commitment to public safety 
+earned him the respect of his fellow officers and the community he 
+served.
+  As a police officer, Greg was honored with the Top Cop award by 
+Westchester County for his outstanding efforts in
+
+[[Page H892]]
+
+traffic safety through DWI enforcement.
+  In 2016, he was promoted to detective, where he took on investigative 
+work and played a key role in training new officers. Just this month, 
+Greg was promoted to sergeant, a testament to his unwavering commitment 
+to Pound Ridge.
+
+  His passing is a tremendous loss to the Pound Ridge community, and my 
+thoughts are with his wife, Lisa, his family, and his loved ones.
+  Today, we honor his service, his sacrifice, and his legacy. May he 
+rest in peace.
+
+                          ____________________
+```

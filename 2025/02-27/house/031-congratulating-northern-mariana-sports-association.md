@@ -1,0 +1,39 @@
+---
+granule: CREC-2025-02-27-pt1-PgH892-2
+date: 2025-02-27
+edition: CREC
+section: HOUSE
+page: H892
+citation: 171 Cong. Rec. H892
+---
+
+# CONGRATULATING NORTHERN MARIANA SPORTS ASSOCIATION
+
+**Speaking:** King-Hinds, Kimberlyn (K000404) [R-MP]
+
+```
+           CONGRATULATING NORTHERN MARIANA SPORTS ASSOCIATION
+
+  (Ms. KING-HINDS asked and was given permission to address the House 
+for 1 minute and to revise and extend her remarks.)
+  Ms. KING-HINDS. Mr. Speaker, I rise to offer my heartfelt 
+congratulations to the Northern Mariana Sports Association and all of 
+our athletes in the Northern Mariana Islands who are celebrating the 
+40th anniversary of this great community organization today, February 
+27.
+  Being an athlete has given me so much, and it is not just about 
+sports. It is about building self-confidence, understanding teamwork, 
+and finding value in ourselves and our abilities, lessons essential 
+both on the field and in life.
+  I have seen firsthand how critical the support of governing 
+organizations like NMSA is to smaller sports groups in our islands and 
+to giving our athletes moments of triumph and lessons for life that 
+become a part of who they are.
+  For all NMSA does in our community and for the lives they have 
+shaped, they have my sincere gratitude and congratulations. To all CNMI 
+athletes, especially those who are being recognized this week, they 
+make the Northern Marianas proud. I am honored to share their stories 
+and amplify their voices here in Congress.
+
+                          ____________________
+```

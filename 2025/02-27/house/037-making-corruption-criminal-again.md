@@ -1,0 +1,40 @@
+---
+granule: CREC-2025-02-27-pt1-PgH893-2
+date: 2025-02-27
+edition: CREC
+section: HOUSE
+page: H893
+citation: 171 Cong. Rec. H893
+---
+
+# MAKING CORRUPTION CRIMINAL AGAIN
+
+**Speaking:** Liccardo, Sam T. (L000607) [D-CA]
+
+```
+                    MAKING CORRUPTION CRIMINAL AGAIN
+
+  (Mr. LICCARDO asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. LICCARDO. Mr. Speaker, let's make corruption criminal again.
+  Three days before his inauguration, President-elect Trump launched 
+the Trump meme coin. Trump's partners and some investors based in China 
+pumped up the price, making hundreds of millions of dollars with early 
+selling while the price was high.
+  As they sold, though, the price plummeted. They duped more than 
+800,000 Americans, who collectively lost $2 billion. Welcome to what 
+experts refer to as a ``rug pull.''
+  When I was a criminal prosecutor, we had a different name for this. 
+It was ``corruption.''
+  Foreign interests got the best Presidency money can buy. Donald Trump 
+got richer, and Americans got screwed.
+  Today, I introduced the MEME Act, which prohibits top Federal 
+officials from issuing, sponsoring, or promoting financial assets, with 
+criminal and civil penalties.
+  Mr. Speaker, our public offices do not belong to us. They belong to 
+the American people, and they are not for sale.
+  The SPEAKER pro tempore. Members are reminded to refrain from 
+engaging in personalities toward the President.
+
+                          ____________________
+```
