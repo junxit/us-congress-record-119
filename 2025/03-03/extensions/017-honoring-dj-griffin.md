@@ -1,0 +1,54 @@
+---
+granule: CREC-2025-03-03-pt1-PgE180-3
+date: 2025-03-03
+edition: CREC
+section: EXTENSIONS
+page: E180
+citation: 171 Cong. Rec. E180
+---
+
+# HONORING DJ GRIFFIN
+
+**Speaking:** Guthrie, Brett (G000558) [R-KY]
+
+```
+                          HONORING DJ GRIFFIN
+
+                                 ______
+                                 
+
+                           HON. BRETT GUTHRIE
+
+                              of kentucky
+
+                    in the house of representatives
+
+                         Monday, March 3, 2025
+
+  Mr. GUTHRIE. Mr. Speaker, I rise today to give my sincere thanks to 
+my Communications Director, DJ Griffin, who recently ended his tenure 
+with my office.
+  A proud graduate of Colgate University, DJ began his Washington, DC 
+career as a Senior Associate Director of Research for the Republican 
+National Committee. The White Plains, New York native then began 
+working on Capitol Hill as a Communications Director for Congressman 
+Mike Collins prior to joining my office.
+  In 2023, I welcomed DJ to my office as the Communications Director 
+and he has been devoted to achieving the goals of our office and has 
+made a lasting impact on the communications to our district, keeping 
+our constituents informed of what was going on in Washington, DC, DJ 
+has proven to be an extremely valuable member of my team by clearly 
+communicating what is happening in the halls of Congress with my 
+constituents and helping me to secure the Chairmanship of the House 
+Committee on Energy and Commerce.
+  I want to thank DJ Griffin for his work serving Kentucky's Second 
+District as a dedicated public servant. While it is a loss for my 
+staff,
+
+[[Page E181]]
+
+I am grateful for his time serving the constituents of my district and 
+wish him all the best on his next chapter in the United States Senate.
+
+                          ____________________
+```

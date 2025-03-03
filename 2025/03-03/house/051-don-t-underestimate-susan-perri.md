@@ -1,0 +1,41 @@
+---
+granule: CREC-2025-03-03-pt1-PgH941-3
+date: 2025-03-03
+edition: CREC
+section: HOUSE
+page: H941
+citation: 171 Cong. Rec. H941
+---
+
+# DON'T UNDERESTIMATE SUSAN PERRI
+
+**Speaking:** Subramanyam, Suhas (S001230) [D-VA]
+
+```
+                    DON'T UNDERESTIMATE SUSAN PERRI
+
+  (Mr. SUBRAMANYAM asked and was given permission to address the House 
+for 1 minute and to revise and extend his remarks.)
+  Mr. SUBRAMANYAM. Mr. Speaker, last week, the first speaker in line at 
+my townhall was Susan Perri.
+  My colleagues wouldn't know it at first, but Susan has difficulty 
+speaking. Within the last 6 months, she had a 7-centimeter tumor 
+removed from her adrenal gland, but Susan is refusing to stay quiet.
+  She made sure to be the first in line to share her story and how the 
+Republican budget cuts to Medicaid and research will impact her, her 
+family, and the American people. I could hear her loud and clear.
+  That is why I am honored that Susan will be my guest at the 
+President's joint address because we should all hear her voice, too.
+  Susan is a retired special education teacher from Fauquier County. 
+Her husband is a retired Postal Service employee of 44 years, worried 
+about his retirement benefits getting cut. Her son has cystic fibrosis, 
+and her son has benefited from cutting-edge NIH research and lifesaving 
+medication approved by the Federal Government.
+  As this administration is cutting the very science that saves lives, 
+Susan's fight gives me hope that we can all make our voices heard and 
+fight for change.
+  Don't underestimate Susan, and don't underestimate the American 
+people.
+
+                          ____________________
+```
