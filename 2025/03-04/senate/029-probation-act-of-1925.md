@@ -1,0 +1,33 @@
+---
+granule: CREC-2025-03-04-pt1-PgS1489-3
+date: 2025-03-04
+edition: CREC
+section: SENATE
+page: S1489
+citation: 171 Cong. Rec. S1489
+---
+
+# PROBATION ACT OF 1925
+
+**Speaking:** Coons, Christopher A. (C001088) [D-DE]
+
+```
+                         PROBATION ACT OF 1925
+
+  Mr. COONS. Mr. President, today, Tuesday March 4, is the 100th 
+anniversary of the Probation Act of 1925. The act created our Nation's 
+Federal probation system and, for the first time, authorized Federal 
+judges to impose a sentence of probation as an alternative to 
+incarceration. Alternatives to incarceration like probation facilitate 
+the fair administration of justice, enhance public safety, and 
+positively impact the lives of individuals who become involved with the 
+Federal courts. Our Nation's probation officers and staff do deeply 
+difficult and too-often unheralded work that plays a critical role in 
+the functioning of our criminal justice system, and I am committed to 
+doing what I can in the U.S. Senate to support them in what they do. I 
+firmly believe that we owe them a debt of gratitude for their service, 
+and I am especially grateful for the incredible work of Delaware's 
+probation officers and staff working to make Delaware safer every day.
+
+                          ____________________
+```
