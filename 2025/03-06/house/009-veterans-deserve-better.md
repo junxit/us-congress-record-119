@@ -1,0 +1,40 @@
+---
+granule: CREC-2025-03-06-pt1-PgH1014
+date: 2025-03-06
+edition: CREC
+section: HOUSE
+page: H1014
+citation: 171 Cong. Rec. H1014
+---
+
+# VETERANS DESERVE BETTER
+
+**Speaking:** McGarvey, Morgan (M001220) [D-KY]
+
+```
+                        VETERANS DESERVE BETTER
+
+  (Mr. McGARVEY asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. McGARVEY. Mr. Speaker, Louisvillian Tim Nicolazzi has dedicated 
+his life to service. He served in the Air Force and then Army, 
+deploying to Kuwait and Iraq, where he earned a Bronze Star.
+  After his honorable discharge, Tim's call to public service brought 
+him to HUD, where he has helped victims of domestic abuse in Louisville 
+find safety, helped veterans get off the streets, and helped first-time 
+home buyers achieve their American Dream.
+  A few weeks ago, Tim was fired with no notice and no severance or 
+compassion.
+  As we speak, the Trump administration is carrying out the biggest 
+layoff of veterans in history, including tens of thousands announced 
+just last night.
+  That is why today I am cosponsoring an act to protect veterans' jobs 
+and to reinstate veterans who have been illegally fired by Elon Musk 
+and DOGE.
+  Veterans put on the uniform. They served something higher than 
+themselves. They deserve better.
+  Mr. Speaker, I thank Tim for all of his service. I won't stop 
+fighting for veterans like him.
+
+                          ____________________
+```

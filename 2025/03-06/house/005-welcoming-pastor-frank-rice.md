@@ -1,0 +1,47 @@
+---
+granule: CREC-2025-03-06-pt1-PgH1013-5
+date: 2025-03-06
+edition: CREC
+section: HOUSE
+page: H1013
+citation: 171 Cong. Rec. H1013
+---
+
+# WELCOMING PASTOR FRANK RICE
+
+**Speaking:** Davis, Donald G. (D000230) [D-NC]
+
+```
+                      WELCOMING PASTOR FRANK RICE
+
+  The SPEAKER. Without objection, the gentleman from North Carolina 
+(Mr. Davis) is recognized for 1 minute.
+  There was no objection.
+  Mr. DAVIS of North Carolina. Mr. Speaker, with honor I stand before 
+you to introduce Pastor Frank Rice, an extraordinary man of faith and a 
+true pillar in our community.
+  Originally from West Virginia, he felt God's call on his life at the 
+age of 13. He dedicated his youth to studying theology, and it was at 
+Southeastern College where he met the love of his life, Genell. 
+Together they were blessed with four wonderful children.
+  For 25 years, Pastor Rice has devoted his life to ministry in eastern 
+North Carolina, including the past 12 years as the senior pastor at 
+Mount Calvary Free Will Baptist Church and administrator of Mount 
+Calvary Christian Academy in Hookerton, North Carolina.
+  However, his work doesn't stop there. Hailing from a long line of 
+veterans, Pastor Rice has a deep commitment to our men and women in 
+uniform, constantly reaching out to offer them God's Word.
+  He is also known for God and Country Day to honor the first 
+responders: fire and rescue, EMS, law enforcement, government 
+officials, and all branches of the military.
+
+  I am incredibly proud to call Pastor Rice a beloved member of my home 
+community.
+  Mr. Speaker, it is with great honor I present him today. Pastor 
+Rice's passion for God's work truly inspires me. He challenges each and 
+every one of us to walk boldly in our faith, striving to make the world 
+a better place through our actions and devotion to God.
+  Mr. Speaker, I thank him for this morning's prayer.
+
+                          ____________________
+```

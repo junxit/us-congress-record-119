@@ -1,0 +1,42 @@
+---
+granule: CREC-2025-03-06-pt1-PgH1024-3
+date: 2025-03-06
+edition: CREC
+section: HOUSE
+page: H1024
+citation: 171 Cong. Rec. H1024
+---
+
+# REMEMBERING LARRY GERSTNER
+
+**Speaking:** Taylor, David J. (T000490) [R-OH]
+
+```
+                              {time}  1130
+                       REMEMBERING LARRY GERSTNER
+
+  (Mr. TAYLOR asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. TAYLOR. Mr. Speaker, I rise today to remember the life of Larry 
+Gerstner, an outstanding businessman who was well loved by his 
+community and spent his life in service to it.
+  Larry was born in Columbus, Ohio, and grew up on a small farm in 
+Hilliard. Earning a bachelor's degree in civil engineering from the 
+University of Cincinnati, Larry joined the Peace Corps in 1971 and 
+spent 3 years in Tonga constructing the main island's road and 
+country's first jet field.
+  Upon returning to the States, Larry was elected Hocking County 
+Engineer in 1976 and later served as a board member for the Hocking 
+Hills Tourism Association.
+  Larry created numerous businesses that grew Hocking County's tourism 
+industry, most known for the Columbus Washboard Company, the very last 
+maker of washboards in the United States. One of his incredible 
+washboards is displayed in my office for Ohioans to enjoy, similar to 
+this one that I hold in my hand today.
+  After an 18-year fight with cancer, with his devoted wife, Joyce, by 
+his side, Larry passed away in February of 2025. Larry will be dearly 
+missed in Hocking County and across Ohio, but the legacy of his life of 
+service will continue.
+
+                          ____________________
+```
