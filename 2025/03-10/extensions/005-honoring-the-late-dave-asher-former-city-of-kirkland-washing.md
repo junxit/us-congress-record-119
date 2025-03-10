@@ -1,0 +1,58 @@
+---
+granule: CREC-2025-03-10-pt1-PgE193-6
+date: 2025-03-10
+edition: CREC
+section: EXTENSIONS
+page: E193
+citation: 171 Cong. Rec. E193
+---
+
+# HONORING THE LATE DAVE ASHER, FORMER CITY OF KIRKLAND, WASHINGTON COUNCILMEMBER
+
+```
+   HONORING THE LATE DAVE ASHER, FORMER CITY OF KIRKLAND, WASHINGTON 
+                             COUNCILMEMBER
+
+                                 ______
+                                 
+
+                         HON. SUZAN K. DelBENE
+
+                             of washington
+
+                    in the house of representatives
+
+                         Monday, March 10, 2025
+
+  Ms. DelBene. Mr Speaker, I rise today to honor the late Former 
+Councilmember for the City of Kirkland, Dave Asher. During his 20 years 
+with the council, Mr. Asher was committed to community service and 
+devoted to
+
+[[Page E194]]
+
+empowering the citizens of Kirkland and enhancing civic engagement. 
+Known for his philosophy of ``promises made, promises kept,'' Mr. Asher 
+advocated a vision of public safety, walkability, fiscal 
+responsibility, and environmental sustainability. His actions as a 
+public servant have left a lasting impact on his community and he will 
+be remembered for his extensive contributions to the city.
+  Prior to his tenure on Kirkland's city council, Mr. Asher served for 
+over two decades in the United States Army. He took on the roles of 
+Infantryman, Aviator, and Logistician with assignments in the U.S., 
+Asia, and Europe. After his service he joined the University of 
+Washington, eventually becoming the Chief Financial Officer for UW 
+educational outreach. During this time, he was Vice Chair of the 
+Kirkland Alliance of Neighborhoods and Chair of the Rose Hill 
+Neighborhood Association. He was also a member of the Kiwanis Club of 
+Kirkland and was recognized for his notable ability in recruiting 
+members. Mr. Asher was also a devoted husband to his wife Hae-Sun for 
+over 40 years, showing support, respect, and partnership through every 
+milestone in their marriage.
+  Mr. Asher will be remembered as a dedicated public servant and an 
+upstanding member of the Kirkland community. Mr. Speaker, I ask my 
+colleagues to join me in honoring Former City Councilmember Dave Asher 
+and the legacy his work has left behind.
+
+                          ____________________
+```

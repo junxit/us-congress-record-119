@@ -1,0 +1,46 @@
+---
+granule: CREC-2025-03-10-pt1-PgE196
+date: 2025-03-10
+edition: CREC
+section: EXTENSIONS
+page: E196
+citation: 171 Cong. Rec. E196
+---
+
+# CONGRATULATING GERTRUDE PAULINE WHITENER MILBURN ON HER 100TH BIRTHDAY
+
+**Speaking:** Edwards, Chuck (E000246) [R-NC]
+
+```
+ CONGRATULATING GERTRUDE PAULINE WHITENER MILBURN ON HER 100TH BIRTHDAY
+
+                                 ______
+                                 
+
+                           HON. CHUCK EDWARDS
+
+                           of north carolina
+
+                    in the house of representatives
+
+                         Monday, March 10, 2025
+
+  Mr. EDWARDS. Mr. Speaker, I rise today to congratulate Gertrude 
+Pauline Whitener Milburn on turning 100 years old later this week on 
+March 14th.
+  Gertrude Pauline Whitener Milburn was born on March 14, 1925, and 
+grew up in a small textile community known as Brookford, located in 
+Hickory, North Carolina She had two brothers and a sister.
+  Gertrude met Bill Milburn while he was serving in the Navy during 
+World War II, and they married in December 1945 after his discharge. 
+They had two children, Patricia Milburn Link and Randolph Lee Milburn, 
+and lived in Lincolnton, North Carolina, until 1967, when they moved to 
+Lake Norman.
+  Gertrude spent her entire career in the textile industry. She is the 
+proud grandmother of four, with ten great-grandchildren and five great-
+great-grandchildren. She is not shy to be blunt and share her many 
+years of wisdom with the younger generations.
+  On behalf of all of Western North Carolina, I congratulate Gertrude.
+
+                          ____________________
+```

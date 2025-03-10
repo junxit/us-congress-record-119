@@ -1,0 +1,49 @@
+---
+granule: CREC-2025-03-10-pt1-PgE198
+date: 2025-03-10
+edition: CREC
+section: EXTENSIONS
+page: E198
+citation: 171 Cong. Rec. E198
+---
+
+# INTRODUCTION OF THE SALARY TRANSPARENCY ACT
+
+**Speaking:** Norton, Eleanor Holmes (N000147) [D-DC]
+
+```
+              INTRODUCTION OF THE SALARY TRANSPARENCY ACT
+
+                                 ______
+                                 
+
+                       HON. ELEANOR HOLMES NORTON
+
+                      of the district of columbia
+
+                    in the house of representatives
+
+                         Monday, March 10, 2025
+
+  Ms. NORTON. Mr. Speaker, today, I introduce the Salary Transparency 
+Act, which would require employers to provide the salary range for jobs 
+in advertisements and interviews and to existing employees.
+  Several states have enacted laws relating to salary range disclosure, 
+and the Federal Government should follow their lead and make salary 
+range disclosure a national requirement. Salary transparency is an 
+important tool to combat the gender and race pay gap. Salary secrecy 
+facilitates both intentional and unintentional pay discrimination and 
+perpetuates the pay gap.
+  Studies have consistently shown that when women negotiate for their 
+salaries, they negotiate for less than similarly situated men. 
+Frequently, this is because the salary they request is a certain 
+percentage higher than their current salary. Because women on average 
+make less than men, this practice perpetuates the pay gap. The same is 
+true for people of color, who earn less on average than their white 
+counterparts. Requiring employers to disclose the salary range for a 
+job will help address this harmful aspect of salary negotiations and 
+lead to a reduction in the gender and race pay gap.
+  I urge my colleagues to support this bill.
+
+                          ____________________
+```

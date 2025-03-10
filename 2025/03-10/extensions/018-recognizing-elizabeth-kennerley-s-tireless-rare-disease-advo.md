@@ -1,0 +1,54 @@
+---
+granule: CREC-2025-03-10-pt1-PgE197-2
+date: 2025-03-10
+edition: CREC
+section: EXTENSIONS
+page: E197
+citation: 171 Cong. Rec. E197
+---
+
+# RECOGNIZING ELIZABETH KENNERLEY'S TIRELESS RARE DISEASE ADVOCACY
+
+**Speaking:** Fitzpatrick, Brian K. (F000466) [R-PA]
+
+```
+    RECOGNIZING ELIZABETH KENNERLEY'S TIRELESS RARE DISEASE ADVOCACY
+
+                                 ______
+                                 
+
+                       HON. BRIAN K. FITZPATRICK
+
+                            of pennsylvania
+
+                    in the house of representatives
+
+                         Monday, March 10, 2025
+
+  Mr. FITZPATRICK. Mr. Speaker, I rise today to recognize an 
+extraordinary constituent from my district, Elizabeth Kennerley. As a 
+rare disease patient, advocate, and unwavering supporter of inclusive 
+healthcare, Liz has devoted her life to making a meaningful impact on 
+her community and those affected by rare diseases. She continues to 
+inspire those around her, with her astounding selflessness and 
+resilience.
+  Liz's journey is one that few can imagine. As someone who lives with 
+the burden of a rare disease, Liz has not only used her personal 
+journey to advocate for others but has also dedicated herself to 
+advocating on Capitol Hill for those living with rare diseases. She is 
+also a dedicated member of the Rare Disease Diversity Coalition (RDDC), 
+where she works to ensure that the needs of rare disease patients are 
+heard. Liz's work with the RDDC has been instrumental in promoting 
+inclusivity in healthcare policy.
+  The RDDC proudly awarded Liz this year's RISE Award, as she 
+consistently embodies the very essence of what RISE stands for 
+Resilience, Inspiration, Strength, and Empowerment.
+  As Liz would say, ``being a patient with a rare disease is the 
+hardest job in the world,'' a sentiment that highlights the incredible 
+challenges and resilience required to live with a rare disease. Through 
+her unwavering dedication, Liz ensures that the voices of rare disease 
+patients are heard. We thank her for her dedicated service to our 
+community.
+
+                          ____________________
+```
