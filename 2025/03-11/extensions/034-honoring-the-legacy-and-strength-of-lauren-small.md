@@ -1,0 +1,59 @@
+---
+granule: CREC-2025-03-11-pt1-PgE208-4
+date: 2025-03-11
+edition: CREC
+section: EXTENSIONS
+page: E208
+citation: 171 Cong. Rec. E208
+---
+
+# HONORING THE LEGACY AND STRENGTH OF LAUREN SMALL
+
+**Speaking:** Fong, Vince (F000480) [R-CA]
+
+```
+            HONORING THE LEGACY AND STRENGTH OF LAUREN SMALL
+
+                                 ______
+                                 
+
+                            HON. VINCE FONG
+
+                             of california
+
+                    in the house of representatives
+
+                        Tuesday, March 11, 2025
+
+  Mr. FONG. Mr. Speaker, I rise today to honor the legacy of Lauren 
+Paige Small, whose courage in the face of cancer will continue to 
+inspire countless individuals.
+  Lauren Small was born on August 1, 1994, to her caring parents, Kevin 
+and Tuesdy in
+
+[[Page E209]]
+
+Bakersfield, California. She was an engaged student at both Olive Drive 
+Elementary and Norris Middle School, with hobbies including music, 
+horseback riding, tennis, swimming. wakeboarding, skiing, and eating 
+her favorite food--mashed potatoes. Though many people fear riding or 
+simply mounting a horse, Lauren fearlessly pranced and galloped on her 
+cherished horse, Nickel Citation Nickie, winning Rookie of the Year, 
+Champion Walk/Job, and placing in the top ten finalists at the 2005 
+Bakersfield Open Horse Show.
+  She won these awards and pursued these hobbies while she fought an 
+intense battle with cancer, one to which she would unfortunately 
+succumb on December 1, 2005. Though cancer had cruelly afflicted Lauren 
+since 2003, she shocked her doctors, parents, and peers with her 
+continued joy in life. Even as she endured the pains of chemotherapy 
+and other health related challenges, she remained positive and 
+continued to pursue her passion for horseback riding.
+  While Lauren is no longer with us, her drive and enthusiasm in her 
+final years remain in the memories of all those who knew her. Lauren is 
+survived by her parents, her brother, Kyle, great aunt, her 
+grandparents, aunts, uncles, great uncles, and cousins, all of whom 
+continue to deeply love and miss her.
+  Mr. Speaker, I urge my colleagues to join me as we remember the 
+undaunted life of Lauren Small and carry on her legacy of upholding 
+strength.
+```

@@ -1,0 +1,55 @@
+---
+granule: CREC-2025-03-11-pt1-PgE204-2
+date: 2025-03-11
+edition: CREC
+section: EXTENSIONS
+page: E204
+citation: 171 Cong. Rec. E204
+---
+
+# HONORING DR. STANLEY AND PEARL GOODMAN
+
+**Speaking:** Wasserman Schultz, Debbie (W000797) [D-FL]
+
+```
+                 HONORING DR. STANLEY AND PEARL GOODMAN
+
+                                 ______
+                                 
+
+                     HON. DEBBIE WASSERMAN SCHULTZ
+
+                               of florida
+
+                    in the house of representatives
+
+                        Tuesday, March 11, 2025
+
+  Ms. WASSERMAN SCHULTZ. Mr. Speaker, I rise today to recognize and 
+honor Dr. Stanley and Pearl Goodman, two extraordinary individuals 
+whose unwavering dedication to service, philanthropy, and cultural 
+enrichment has profoundly impacted South Florida and beyond.
+  Since making Broward County, Florida then home in 1962, Dr. Stanley 
+and Pearl Goodman have been steadfast champions of initiatives that 
+uplift individuals, families, and seniors. Then generosity and 
+leadership have played a vital role in expanding social services, 
+advancing education, promoting Jewish values, fostering a love for the 
+arts, and supporting groundbreaking research in Multiple Myeloma.
+  Through their philanthropy, the Goodmans have cultivated a spirit of 
+giving, inspiring others to contribute their time, talents, and 
+resources to causes that create lasting change. Their contributions 
+have not only provided immediate support to those in need but have also 
+established a legacy of enduring impact through endowments and promised 
+gifts that will benefit generations to come.
+  Today, we recognize and celebrate Dr. Stanley and Pearl Goodman for 
+their remarkable generosity, vision, and commitment to strengthening 
+our community. Their efforts serve as a beacon of inspiration, 
+reminding us of the power of service and the profound impact 
+compassionate, thoughtful individuals can make on others.
+  On behalf of the constituents of Florida's 25th District, I extend my 
+deepest gratitude to Dr. Stanley and Pearl Goodman for their lifelong 
+contributions. May their legacy of kindness and philanthropy continue 
+to enrich lives for years to come.
+
+                          ____________________
+```

@@ -1,0 +1,39 @@
+---
+granule: CREC-2025-03-11-pt1-PgH1129-5
+date: 2025-03-11
+edition: CREC
+section: HOUSE
+page: H1129
+citation: 171 Cong. Rec. H1129
+---
+
+# REPUBLICAN CR VOTE IS SHAMEFUL
+
+**Speaking:** Dexter, Maxine (D000635) [D-OR]
+
+```
+                     REPUBLICAN CR VOTE IS SHAMEFUL
+
+  (Ms. DEXTER asked and was given permission to address the House for 1 
+minute and to revise and extend her remarks.)
+  Ms. DEXTER. Mr. Speaker, what happened today is disgraceful.
+  House Republicans have abandoned working Americans. They are taking 
+housing and food from our seniors, children, and families. They have 
+abandoned our veterans, the people who have bled for our country so 
+that we can be free.
+  They have given this administration and its illegitimate mercenaries 
+free license to gut agencies and services.
+  Mr. Speaker, make no mistake, the vote the Republicans took today is 
+a shameful turn for this body.
+  In the words of Donzaleigh Abernathy, the daughter of Reverend Ralph 
+Abernathy, best friend to Martin Luther King and a civil rights leader:
+
+       We will not go quietly into this reality. The American 
+     people want you to fight back, fight on, and stand strong for 
+     truth, justice, and equality for all.
+
+  Mr. Speaker, I say to Donzaleigh and Oregon that I will continue to 
+fight, and I hope they will stay with me in this fight.
+
+                          ____________________
+```
