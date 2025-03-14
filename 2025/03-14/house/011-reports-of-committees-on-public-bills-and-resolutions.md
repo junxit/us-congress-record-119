@@ -1,0 +1,31 @@
+---
+granule: CREC-2025-03-14-pt1-PgH1158-2
+date: 2025-03-14
+edition: CREC
+section: HOUSE
+page: H1158
+citation: 171 Cong. Rec. H1158
+---
+
+# REPORTS OF COMMITTEES ON PUBLIC BILLS AND RESOLUTIONS
+
+**Measures:** H.R. 1048
+
+```
+         REPORTS OF COMMITTEES ON PUBLIC BILLS AND RESOLUTIONS
+
+  Under clause 2 of rule XIII, reports of committees were delivered to 
+the Clerk for printing and reference to the proper calendar, as 
+follows:
+
+       Mr. WALBERG: Committee on Education and Workforce. H.R. 
+     1048. A bill to amend the Higher Education Act of 1965 to 
+     strengthen disclosure requirements relating to foreign gifts 
+     and contracts, to prohibit contracts between institutions of 
+     higher education and certain foreign entities and countries 
+     of concern, and for other purposes; with an amendment (Rept. 
+     119-16). Referred to the Committee of the Whole House of the 
+     state of the Union.
+
+                          ____________________
+```

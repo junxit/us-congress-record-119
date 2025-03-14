@@ -1,0 +1,61 @@
+---
+granule: CREC-2025-03-14-pt1-PgE215-4
+date: 2025-03-14
+edition: CREC
+section: EXTENSIONS
+page: E215
+citation: 171 Cong. Rec. E215
+---
+
+# PROVIDING FOR CONGRESSIONAL DISAPPROVAL OF THE RULE SUBMITTED BY THE INTERNAL REVENUE SERVICE RELATING TO "GROSS PROCEEDS REPORTING BY BROKERS THAT REGULARLY PROVIDE SERVICES EFFECTUATING DIGITAL...
+
+**Speaking:** Simon, Lateefah (S001231) [D-CA]
+
+**Measures:** H.J.Res. 25
+
+```
+ PROVIDING FOR CONGRESSIONAL DISAPPROVAL OF THE RULE SUBMITTED BY THE 
+  INTERNAL REVENUE SERVICE RELATING TO ``GROSS PROCEEDS REPORTING BY 
+  BROKERS THAT REGULARLY PROVIDE SERVICES EFFECTUATING DIGITAL ASSET 
+                                SALES''
+
+                                 ______
+                                 
+
+                               speech of
+
+                          HON. LATEEFAH SIMON
+
+                             of california
+
+                    in the house of representatives
+
+                        Tuesday, March 11, 2025
+
+  Ms. SIMON. Mr Speaker, I will vote for H.J. Res. 25, a joint 
+resolution providing for congressional disapproval under chapter 8 of 
+title
+
+[[Page E216]]
+
+5, United States Code, of the rule submitted by the Internal Revenue 
+Service relating to ``Gross Proceeds Reporting by Brokers that 
+Regularly Provide Services Effectuating Digital Asset Sales.''
+  My constituents in the East Bay are among the many adopters of 
+digital assets and cryptocurrencies. And while I have consistently 
+opposed any Congressional Review Act (CRA) joint resolutions advanced 
+by the House Majority--and am concerned about the loss in critical tax 
+revenue as a result of this CRA--I believe the digital asset space 
+offers new pathways for economic opportunity, especially for 
+historically marginalized communities; and I strongly believe we must 
+craft an inclusive regulatory framework that protects consumers, holds 
+bad actors accountable, and supports financial inclusion for those who 
+utilize these services.
+  I welcome the opportunity to work with my colleagues to thoughtfully 
+legislate oversight of and implement necessary guardrails around 
+digital assets so that we protect consumers--especially Black and Brown 
+entrepreneurs, small investors, and working people--and promote 
+innovation.
+
+                          ____________________
+```
