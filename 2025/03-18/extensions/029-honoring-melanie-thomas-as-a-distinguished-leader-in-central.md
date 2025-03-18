@@ -1,0 +1,61 @@
+---
+granule: CREC-2025-03-18-pt1-PgE226-2
+date: 2025-03-18
+edition: CREC
+section: EXTENSIONS
+page: E226
+citation: 171 Cong. Rec. E226
+---
+
+# HONORING MELANIE THOMAS AS A DISTINGUISHED LEADER IN CENTRAL FLORIDA FOR WOMEN'S HISTORY MONTH
+
+**Speaking:** Soto, Darren (S001200) [D-FL]
+
+```
+ HONORING MELANIE THOMAS AS A DISTINGUISHED LEADER IN CENTRAL FLORIDA 
+                       FOR WOMEN'S HISTORY MONTH
+
+                                 ______
+                                 
+
+                            HON. DARREN SOTO
+
+                               of florida
+
+                    in the house of representatives
+
+                        Tuesday, March 18, 2025
+
+  Mr. SOTO. Mr. Speaker, Melanie Thomas of Saint Cloud, Florida is the 
+public affairs officer for the Orlando VA Health Care System (OVAHCS), 
+where she leads strategic communication efforts to enhance public 
+awareness and engagement for Veteran healthcare services.
+  With a strong background in public relations, media relations, and 
+strategic communication, Melanie plays a vital role in shaping the 
+organization's messaging, fostering transparency and strengthening 
+connections with Veterans, stakeholders, and the broader community.
+  In her role, Melanie oversees media outreach, crisis communication, 
+and community engagement initiatives, ensuring that Veterans and their 
+families are well-informed about the services and resources available 
+to them. She collaborates with leadership, government agencies, and 
+community partners to promote the mission of serving those who've 
+served.
+  Driven by her servant leader approach and her commitment to effective 
+communication, Melanie works diligently to amplify the voices of 
+Veterans and highlight the impactful work of the Orlando VA Healthcare 
+System. Her expertise in storytelling, branding, and stakeholder 
+relations makes her an invaluable asset to advancing programming for 
+Veterans and healthcare services.
+  Prior to her current role, she served as the public affairs officer 
+for the North Florida/South Georgia Veterans Health System (NF/SGVHS), 
+was a public affairs specialist and TCF intern for the Bay Pines VA 
+Healthcare System, and held a voluntary service assistant position with 
+public affairs collateral duties at the Wilkes-Barre VA Medical Center 
+in Wilkes-Barre, Pennsylvania.
+  Mrs. Thomas holds a master's degree in business administration and an 
+undergraduate degree in organizational communication with 
+concentrations in public relations and rhetoric from Wilkes University 
+located in Wilkes-Barre, Pennsylvania.
+
+                          ____________________
+```
