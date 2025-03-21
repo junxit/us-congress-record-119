@@ -1,0 +1,60 @@
+---
+granule: CREC-2025-03-21-pt1-PgE233
+date: 2025-03-21
+edition: CREC
+section: EXTENSIONS
+page: E233
+citation: 171 Cong. Rec. E233
+---
+
+# CELEBRATING CSD VIKINGS BOYS' BASKETBALL TEAM BECOMING THE MARYLAND 1A STATE CHAMPIONS FOR THE 2024-25 SEASON
+
+**Speaking:** Harris, Andy (H001052) [R-MD]
+
+```
+CELEBRATING CSD VIKINGS BOYS' BASKETBALL TEAM BECOMING THE MARYLAND 1A 
+                 STATE CHAMPIONS FOR THE 2024-25 SEASON
+
+                                 ______
+                                 
+
+                            HON. ANDY HARRIS
+
+                              of maryland
+
+                    in the house of representatives
+
+                         Friday, March 21, 2025
+
+  Mr. HARRIS of Maryland. Mr. Speaker, it is my privilege to recognize 
+the Cambridge-South Dorchester Vikings Boys' Basketball Team on 
+becoming the Maryland 1A State Champions for the 2024-2025 season.
+  On March 14, 2025, the Vikings secured a thrilling 36-33 overtime 
+victory against The SEED School at the University of Maryland's Xfinity 
+Center, marking their first state title since 1996.
+  The Vikings demonstrated exceptional skill and determination 
+throughout their championship run, finishing the season with an 
+impressive 26-2 overall record. Their path to the championship included 
+hard-fought victories over Pocomoke, Snow Hill, and Fort Hill in the 
+playoffs.
+  In the state final, senior guard Sterling Perkins made the game-
+winning shot with just 0.4 seconds left in overtime. Koby Ennals led 
+the team with 16 points, while Perkins contributed 15 points, 6 
+rebounds, and 3 steals.
+  Head Coach Sean Tucker's leadership was instrumental in guiding the 
+team to this historic achievement. His message to the team going into 
+overtime: All you have to do is win by one, exemplifies the Vikings' 
+grit and determination.
+  This championship is not just a victory for the team, but for the 
+entire Cambridge-South Dorchester community. It serves as an 
+inspiration to future generations of student-athletes and showcases the 
+power of perseverance and teamwork.
+  Mr. Speaker, I applaud the CSD Vikings Boys' Basketball Team for 
+their outstanding accomplishment. Their dedication, sportsmanship, and 
+resilience in capturing the Maryland 1A State Championship have brought 
+pride to their school, their families, and the entire Eastern Shore of 
+Maryland.
+  I thank them for making us proud.
+
+                          ____________________
+```

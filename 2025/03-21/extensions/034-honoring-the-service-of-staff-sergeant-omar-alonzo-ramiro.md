@@ -1,0 +1,67 @@
+---
+granule: CREC-2025-03-21-pt1-PgE239-4
+date: 2025-03-21
+edition: CREC
+section: EXTENSIONS
+page: E239
+citation: 171 Cong. Rec. E239
+---
+
+# HONORING THE SERVICE OF STAFF SERGEANT OMAR ALONZO RAMIRO
+
+**Speaking:** Correa, J. Luis (C001110) [D-CA]
+
+```
+       HONORING THE SERVICE OF STAFF SERGEANT OMAR ALONZO RAMIRO
+
+                                 ______
+                                 
+
+                          HON. J. LUIS CORREA
+
+                             of california
+
+                    in the house of representatives
+
+                         Friday, March 21, 2025
+
+  Mr. CORREA. Mr. Speaker, I rise today to honor Staff Sergeant Omar 
+Alonzo Ramiro and recognize his service to our Nation.
+  Staff Sergeant Ramiro demonstrated a deep sense of dedication to his 
+community from an early age. Before enlisting, he graduated from 
+Servite High School and worked at St. Catherine's Academy in Anaheim, 
+an institution with a proud history of shaping young leaders. In 2009, 
+he answered the call to serve our country and enlisted in the United 
+States Army, embarking on a military career that would take him across 
+the world in defense of our values.
+  Throughout his enlistment, Staff Sergeant Ramiro demonstrated 
+exceptional courage and resilience. As a Motor Transport Operator, an 
+Airborne soldier, and a Psychological Operations specialist, he played 
+a vital role in military and diplomatic operations while deployed to 
+Afghanistan and serving across Europe and Africa. Even after sustaining 
+a serious injury in
+
+[[Page E240]]
+
+2019, he persevered through multiple surgeries and rigorous 
+rehabilitation to support our armed forces and allies overseas. His 
+unwavering dedication reflects the resilient spirit of our 
+servicemembers.
+  As he transitions into civilian life, Staff Sergeant Ramiro leaves 
+behind a legacy of commitment and sacrifice. After graduating with a 
+Bachelor of Arts in International Relations from American Military 
+University, he plans to start the next chapter of his life in 
+Williamsville, Illinois, alongside his wife Rachel, and their two sons, 
+Mason and Nolan. Though his time in uniform may be ending, I have no 
+doubt his passion for giving back to his community will continue.
+  For his outstanding service, Staff Sergeant Ramiro has been awarded 
+numerous commendations, including the Meritorious Service Medal, five 
+Army Commendation Medals, the Afghanistan Campaign Medal with Campaign 
+Star, and the Parachutist Badge. These honors are a testament to his 
+dedication, bravery, and contributions to our country.
+  Our Nation is stronger because of the service and sacrifices of men 
+and women like Staff Sergeant Ramiro. I ask my colleagues to join me in 
+honoring his service, bravery, and enduring commitment to our country.
+
+                          ____________________
+```
