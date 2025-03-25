@@ -1,0 +1,41 @@
+---
+granule: CREC-2025-03-25-pt1-PgH1231
+date: 2025-03-25
+edition: CREC
+section: HOUSE
+page: H1231
+citation: 171 Cong. Rec. H1231
+---
+
+# CONGRATULATING IRONTON FIGHTING TIGERS
+
+**Speaking:** Taylor, David J. (T000490) [R-OH]
+
+```
+                 CONGRATULATING IRONTON FIGHTING TIGERS
+
+  (Mr. TAYLOR asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. TAYLOR. Mr. Speaker, I rise today to recognize the Ironton 
+Fighting Tigers for winning their first football State championship in 
+35 years.
+  With an incredibly strong work ethic and a commitment to excellence, 
+the Ironton High School football team spent all season training and 
+working together with one goal in mind: the State title.
+  In the championship game, senior Shaun Terry led his team to victory 
+with 300 all-purpose yards, including 148 receiving yards and three 
+touchdowns. This championship win is evidence of a season full of hard 
+work, dedication, and commitment to excellence.
+  Since the school's last title in 1989, the Ironton Fighting Tigers 
+have appeared in six State title games in pursuit of a win, which made 
+bringing home this year's trophy even sweeter.
+  Head Coach Trevon Pendleton and his staff poured their knowledge and 
+experience into eager players all season long, guiding them and pushing 
+them toward excellence on and off the field.
+  I also recognize each parent who supported their players and 
+encouraged them to work hard. I congratulate each player for their 
+hard-earned victory and new State title.
+  Congratulations. Go Fighting Tigers.
+
+                          ____________________
+```

@@ -1,0 +1,45 @@
+---
+granule: CREC-2025-03-25-pt1-PgH1229-8
+date: 2025-03-25
+edition: CREC
+section: HOUSE
+page: H1229
+citation: 171 Cong. Rec. H1229
+---
+
+# MORE MONEY DOESN'T BRING BETTER RESULTS
+
+**Speaking:** LaMalfa, Doug (L000578) [R-CA]
+
+```
+                MORE MONEY DOESN'T BRING BETTER RESULTS
+
+  (Mr. LaMALFA asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. LaMALFA. Mr. Speaker, for decades, Washington has poured 
+trillions of dollars into the education system of America with actually 
+very little to show for it.
+  Since the Department of Education was created by Jimmy Carter in 
+1979, it has spent over $3 trillion, yet student achievement hasn't 
+actually improved. It has only gone down in that time.
+  After Federal taxpayers spent another $200 billion on education 
+during the COVID era, all we have to show for it is math and reading 
+scores that are at the lowest levels in decades. Per-pupil spending has 
+skyrocketed by 245 percent since the 1970s, proving more money doesn't 
+always achieve better results.
+  The Federal Government has only added red tape, forcing schools to 
+waste time and resources on compliance instead of teaching. I am 
+married to a teacher who, at the time, was frustrated by additional 
+requirements that were coming down on trying to do her job.
+  The Biden administration alone added nearly $3.9 billion in 
+regulatory costs and millions of hours of paperwork and funneled over 
+$1 billion into grants pushing radical ideologies instead of core 
+academics.
+  President Trump's executive order directing the closure of the 
+Department of Education returns control over education to the States, 
+parents, and local leaders. Instead of Washington bureaucrats trying to 
+dictate how kids learn, we should have those decisions be made locally. 
+This shift will cut waste and eliminate overreach.
+
+                          ____________________
+```

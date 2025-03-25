@@ -1,0 +1,33 @@
+---
+granule: CREC-2025-03-25-pt1-PgH1229-4
+date: 2025-03-25
+edition: CREC
+section: HOUSE
+page: H1229
+citation: 171 Cong. Rec. H1229
+---
+
+# PRAYER
+
+```
+                                 PRAYER
+
+  The Chaplain, the Reverend Margaret Grun Kibben, offered the 
+following prayer:
+  God of all creation, we lift up our eyes to the hills from whence our 
+help does indeed come. You, O Lord, maker of Heaven and Earth who 
+directs the stars in the sky and orders the change of the seasons, call 
+us to behold with eyes of faith that winter is over.
+  As flowers appear on the Earth, let us sing for joy in the mastery of 
+Your design, for You make all things new.
+  Make a way in the desert of despair, through the wilderness of worry. 
+Bring forth streams of living water in the wastelands of unease. Quench 
+the barrenness of our souls with the hope of Your salvation.
+  Then enable us to set aside the former things that hold us to our 
+past. Open our eyes to perceive the new things You are doing in our 
+lives, even as You cause the beginning of life springing up around us.
+  It is in Your eternal name we pray.
+  Amen.
+
+                          ____________________
+```
