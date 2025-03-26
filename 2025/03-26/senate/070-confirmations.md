@@ -1,0 +1,34 @@
+---
+granule: CREC-2025-03-26-pt1-PgS1878-5
+date: 2025-03-26
+edition: CREC
+section: SENATE
+page: S1878
+citation: 171 Cong. Rec. S1878
+---
+
+# CONFIRMATIONS
+
+```
+                             CONFIRMATIONS
+
+  Executive nominations confirmed by the Senate March 26, 2025:
+
+
+                   EXECUTIVE OFFICE OF THE PRESIDENT
+
+       JAMES BISHOP, OF NORTH CAROLINA, TO BE DEPUTY DIRECTOR OF 
+     THE OFFICE OF MANAGEMENT AND BUDGET.
+
+
+                         DEPARTMENT OF JUSTICE
+
+       AARON REITZ, OF TEXAS, TO BE AN ASSISTANT ATTORNEY GENERAL 
+     VICE HAMPTON Y. DELLINGER.
+
+
+                       DEPARTMENT OF THE TREASURY
+
+       MICHAEL FAULKENDER, OF MARYLAND, TO BE DEPUTY SECRETARY OF 
+     THE TREASURY.
+```
