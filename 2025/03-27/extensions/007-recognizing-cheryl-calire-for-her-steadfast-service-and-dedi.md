@@ -1,0 +1,56 @@
+---
+granule: CREC-2025-03-27-pt1-PgE256-3
+date: 2025-03-27
+edition: CREC
+section: EXTENSIONS
+page: E256
+citation: 171 Cong. Rec. E256
+---
+
+# RECOGNIZING CHERYL CALIRE FOR HER STEADFAST SERVICE AND DEDICATION TO THE SAINT GIANNA MOLLA PREGNANCY OUTREACH CENTER
+
+**Speaking:** Langworthy, Nicholas A. (L000600) [R-NY]
+
+```
+ RECOGNIZING CHERYL CALIRE FOR HER STEADFAST SERVICE AND DEDICATION TO 
+            THE SAINT GIANNA MOLLA PREGNANCY OUTREACH CENTER
+
+                                 ______
+                                 
+
+                      HON. NICHOLAS A. LANGWORTHY
+
+                              of new york
+
+                    in the house of representatives
+
+                        Thursday, March 27, 2025
+
+  Mr. LANGWORTHY. Mr. Speaker, I rise today to recognize the steadfast 
+service and profound impact of Cheryl Calire, Director of Life 
+Ministries for the Diocese of Buffalo. For 15 years, Cheryl provided 
+guidance, leadership and service to the community as a strong voice and 
+advocate for women, mothers and children--including the unborn. Since 
+her announced retirement last year, she has continued to oversee the 
+Saint Gianna Molla Pregnancy Outreach Centers and Mother Teresa Home in 
+Western New York.
+  The Saint Gianna Molla Pregnancy Outreach Centers have a tangible 
+impact on our community, providing important material, emotional, and 
+spiritual support during and after pregnancy. This life-affirming work 
+has saved lives, eased the transition into motherhood, and directly 
+impacted over 1,500 families each year. Cheryl's continued leadership 
+has improved the lives and wellbeing of countless children, mothers and 
+fathers across Western New York, and I am so grateful for her good 
+work.
+  Life is a blessing, and as Cheryl Calire transitions into retirement, 
+my family and I are so grateful to have witnessed her passion and 
+dedication. We are all charged with leaving our community better than 
+we found it, and Cheryl certainly has achieved that mission.
+  I ask this body to join me in recognizing Cheryl Calire for her 
+commitment to life-affirming advocacy and service. On behalf of the 
+United States Congress, and the constituents of the 23rd Congressional 
+District, I thank Cheryl, and hope she enjoys her well-deserved 
+retirement.
+
+                          ____________________
+```

@@ -1,0 +1,40 @@
+---
+granule: CREC-2025-03-27-pt1-PgH1306-3
+date: 2025-03-27
+edition: CREC
+section: HOUSE
+page: H1306
+citation: 171 Cong. Rec. H1306
+---
+
+# HONORING LAS MAMAS DE BACK OF THE YARDS
+
+**Speaking:** Garcia, Jesus G. "Chuy" (G000586) [D-IL]
+
+```
+                HONORING LAS MAMAS DE BACK OF THE YARDS
+
+  (Mr. GARCIA of Illinois asked and was given permission to address the 
+House for 1 minute and to revise and extend his remarks.)
+  Mr. GARCIA of Illinois. Mr. Speaker, for Women's History Month, I 
+rise to honor the parent leaders from The Resurrection Project known as 
+Las Mamas de Back of the Yards, or the Back of the Yards Moms, a 
+powerhouse of immigrant women who are the heart and soul of their 
+community on Chicago's South Side.
+  Mothers like Consuelo, Lorena, Alma, Maria, Ofelia, Martha, Zuleyman, 
+Victoria, Gabriela, and Sylvia show us what real leadership looks like.
+  They educate neighbors on their rights, organize rapid responses when 
+raids threaten families, distribute food when the fridge is empty, and 
+keep our youth safe and supported.
+  From city hall to Washington, and right inside our schools, these 
+women ensure that their voices and their community voices are heard.
+  They are respected, admired, and deeply rooted in the Back of the 
+Yards, and, yes, they keep people like me on our toes, always causing 
+good trouble.
+  In honoring them, we honor the power of immigrant women everywhere, 
+their courage and commitment, and the fight for a better future for all 
+of us.
+  Mr. Speaker, I thank them, I stand with them, and I celebrate them.
+
+                          ____________________
+```

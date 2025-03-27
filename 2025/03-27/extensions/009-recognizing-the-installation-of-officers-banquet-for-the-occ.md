@@ -1,0 +1,77 @@
+---
+granule: CREC-2025-03-27-pt1-PgE256-5
+date: 2025-03-27
+edition: CREC
+section: EXTENSIONS
+page: E256
+citation: 171 Cong. Rec. E256
+---
+
+# RECOGNIZING THE INSTALLATION OF OFFICERS BANQUET FOR THE OCCOQUAN- WOODBRIDGE-LORTON VOLUNTEER FIRE DEPARTMENT
+
+**Speaking:** Connolly, Gerald E. (C001078) [D-VA]
+
+```
+   RECOGNIZING THE INSTALLATION OF OFFICERS BANQUET FOR THE OCCOQUAN-
+              WOODBRIDGE-LORTON VOLUNTEER FIRE DEPARTMENT
+
+                                 ______
+                                 
+
+                        HON. GERALD E. CONNOLLY
+
+                              of virginia
+
+                    in the house of representatives
+
+                        Thursday, March 27, 2025
+
+  Mr. CONNOLLY. Mr. Speaker, I rise today to recognize the Annual 
+Installation of Officers Banquet for the Occoquan-Woodbridge-Lorton 
+Volunteer Fire Department and to honor the 2024 Awardees.
+
+[[Page E257]]
+
+  The 2025 officers and members of the board of directors are taking 
+leadership roles in one of Northern Virginia's longest standing 
+volunteer fire departments. The O.W L. Volunteer Fire Department was 
+born out of the need for organized fire response capabilities in the 
+growing suburbs of Northern Virginia. In 1938, the Department 
+officially formed to become the only fire department between 
+Fredericksburg and Alexandria. In the subsequent decades O.W.L. has 
+expanded to staff three stations and provide emergency medical 
+services.
+  The members of O.W.L. are dedicated community volunteers, and the 
+2025 officers and directors will be diligent stewards of this tradition 
+of service. The 148 active O.W.L. members answer thousands of calls and 
+serve 95,000 people each year. Their job is demanding, and the hours 
+are long, but they gladly serve for little more than the satisfaction 
+of volunteerism and civic engagement. We would all do well to follow 
+their example.
+  The 2025 Officers: President Todd Hewitt, Executive Vice President 
+Susan Wessolleck, Membership Secretary Stacey Godin, Treasurer Debra 
+Haight, Sergeant at Arms Mark Bauer, Elections Officer Sabrina Brandon 
+Ricks, Chief Wayne Haight, Assistant Chief Kurt Bolland, Assistant 
+Chief Ernest DeSantis, Assistant Chief Ryan Williams, Assistant Chief 
+of Rescue Sandra Williams, Fire Captain Steve Godin, EMS Captain Mike 
+Yankaskas, Fire Lieutenant Peter Langone, Fire Lieutenant Jared 
+Lawrence, EMS Lieutenant Aundrea Bonilla, EMS Lieutenant Leo Greenwald.
+  Board of Directors: Frank Bruno, Mike Clark, Steve Godin, Dee 
+Gottman, Dave Lukes, Stephanie Powers, Anna Smith, Cynthia Thackwray
+  2024 Awardees: Betty Limerick Lifetime Service Award: Stacey Godin
+  Roger T. Furr Chief's Award: Malak Hassan
+  Richard A. McAvoy Award for EMS Service Award: Leo Greenwald
+  John M. McGovern, Jr. Unsung Hero Award: Ernest DeSantis
+  Robert F. Arrington Administrative Member of the Year Award: Melaina 
+Lewis
+  Fred M. Lynn Fire Crew Member of the Year Award: Daniel Collins
+  Bonita F. Joseph EMS Crew Member of the Year Award: Steven Ostrosky
+  New EMS Crew Member of The Year Award: Mitchell Connolly
+  James W. Ludwig Owlet Award: Austin Williams
+  Mr. Speaker, I ask that my colleagues join me to congratulate these 
+remarkable volunteers for their continued work. The Occoquan-
+Woodbridge-Lorton Volunteer Fire Department is to be commended for the 
+vital service it provides to the Prince William and Fairfax community.
+
+                          ____________________
+```

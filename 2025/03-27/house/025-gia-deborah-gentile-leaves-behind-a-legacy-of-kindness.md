@@ -1,0 +1,40 @@
+---
+granule: CREC-2025-03-27-pt1-PgH1317-3
+date: 2025-03-27
+edition: CREC
+section: HOUSE
+page: H1317
+citation: 171 Cong. Rec. H1317
+---
+
+# GIA DEBORAH GENTILE LEAVES BEHIND A LEGACY OF KINDNESS
+
+**Speaking:** Lawler, Michael (L000599) [R-NY]
+
+```
+         GIA DEBORAH GENTILE LEAVES BEHIND A LEGACY OF KINDNESS
+
+  (Mr. LAWLER asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. LAWLER. Mr. Speaker, I rise today to honor the life of Gia 
+Deborah Gentile, a remarkable young woman from Hawthorne, New York, who 
+tragically passed away on March 9 at just 14 years old after a brave 
+and tireless battle with neuroblastoma.
+  Though her life was far too short, Gia's legacy is one of kindness, 
+compassion, and selfless service. Whether it was through her role on 
+the student council, her leadership on the Westlake High School varsity 
+cheer team, or her dedication to the Service Club, Gia led by example, 
+always putting others before herself and inspiring those around her.
+  Even while facing the most difficult of challenges, Gia's heart of 
+gold never wavered. She continued to serve and support others, 
+embodying a spirit of positivity, empathy, and generosity that touched 
+everyone she encountered.
+  As her parents, Carmine and Dana, and her siblings, Jordana and Tino, 
+continue to grieve this unimaginable loss, we keep them in our thoughts 
+and prayers. Gia's memory will forever shine brightly in the hearts of 
+all who were blessed to know her.
+  May Gia rest in peace and may we all strive to live each day in the 
+spirit of kindness that she exemplified.
+
+                          ____________________
+```

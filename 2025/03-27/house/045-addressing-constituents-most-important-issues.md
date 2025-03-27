@@ -1,0 +1,49 @@
+---
+granule: CREC-2025-03-27-pt1-PgH1320-6
+date: 2025-03-27
+edition: CREC
+section: HOUSE
+page: H1320
+citation: 171 Cong. Rec. H1320
+---
+
+# ADDRESSING CONSTITUENTS' MOST IMPORTANT ISSUES
+
+**Speaking:** Menendez, Robert (M001226) [D-NJ]
+
+```
+             ADDRESSING CONSTITUENTS' MOST IMPORTANT ISSUES
+
+  (Mr. MENENDEZ asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. MENENDEZ. Mr. Speaker, more than 700,000 New Jerseyans sent me 
+here to be their voice in Congress and to address the challenges they 
+face each and every day.
+  Many of those constituents have sent me messages advocating for what 
+is most important to them. Thousands have written asking me to protect 
+Medicare, Social Security, and Medicaid. Hundreds more wrote about the 
+rising costs of childcare and housing. Many have asked me to stop the 
+scourge of gun violence in our communities.
+  Not a single person, not one, wrote about loosening regulations on 
+their commercial walk-in coolers and refrigerators.
+  Why, then, are those the bills that Republicans brought to the floor 
+this
+
+[[Page H1321]]
+
+week? Maybe it is because Republicans don't have solutions to the 
+challenges that most Americans are facing. Maybe it is because the 
+Republican budget slashes billions of dollars from Medicaid and food 
+assistance to the most vulnerable amongst us. Maybe that is why they 
+prefer to talk about refrigerators.
+  House Democrats, on the other hand, continue to present an 
+alternative to the American people and fight for the progress that they 
+deserve. Democrats are ready to lower the costs of childcare by 
+expanding the number of childcare facilities across the country. We are 
+pushing for record new investments in affordable housing and incentives 
+for first-time home buyers.
+  That is what the American people are asking for, and that is what 
+House Democrats are fighting for.
+
+                          ____________________
+```

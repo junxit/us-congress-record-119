@@ -1,0 +1,37 @@
+---
+granule: CREC-2025-03-27-pt1-PgH1317
+date: 2025-03-27
+edition: CREC
+section: HOUSE
+page: H1317
+citation: 171 Cong. Rec. H1317
+---
+
+# PUT CONSUMERS BACK IN THE DRIVER'S SEAT
+
+**Speaking:** Walberg, Tim (W000798) [R-MI]
+
+```
+                PUT CONSUMERS BACK IN THE DRIVER'S SEAT
+
+  (Mr. WALBERG asked and was given permission to address the House for 
+1 minute.)
+  Mr. WALBERG. Mr. Speaker, last year, the EPA finalized a rule which 
+set aggressive emission standards for vehicles, amounting to a de facto 
+EV mandate.
+  While I am not against EVs or certainly against reducing emissions, 
+we must not push misguided regulations that limit consumer choice, 
+burden the American auto industry, and increase reliance on China.
+  President Trump recently issued an executive order to eliminate the 
+EV mandate, demonstrating his commitment to repealing excessive 
+regulations. However, we must take further steps to prevent future 
+administrations from issuing similar mandates.
+  That is why I have partnered with Representative Fulcher to introduce 
+the Choice in Automobile Retail Sales, or CARS, Act, which will prevent 
+similar EV mandates and safeguard Americans' freedom to choose the 
+vehicle that is best for them. We must put consumers back in the 
+driver's seat and ensure the future of the auto industry is forged 
+through innovation and not mandates.
+
+                          ____________________
+```
