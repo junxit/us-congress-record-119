@@ -1,0 +1,34 @@
+---
+granule: CREC-2025-03-31-pt1-PgS1917-4
+date: 2025-03-31
+edition: CREC
+section: SENATE
+page: S1917
+citation: 171 Cong. Rec. S1917
+---
+
+# COMMUNICATION FROM THE SECRETARY OF THE SENATE
+
+```
+             COMMUNICATION FROM THE SECRETARY OF THE SENATE
+
+  The PRESIDING OFFICER (Mr. Budd). The Chair lays before the Senate a 
+communication from the Secretary of the Senate regarding a message from 
+the President received during the adjournment of the Senate.
+  The senior assistant legislative clerk read as follows:
+
+       Dear Mr. President: On Friday, March 28, 2025, the 
+     President of the United States sent by messenger the attached 
+     sealed envelope addressed to the President of the Senate said 
+     to contain a message from the President on the Continuation 
+     of the National Emergency With Respect to South Sudan. The 
+     Senate not being in session on the day which the President 
+     delivered this message, I accepted the message at 1:17 p.m., 
+     and I now present to you the President's message, with the 
+     accompanying papers, for disposition by the Senate.
+           Respectfully,
+                                                    Jackie Barber,
+     Secretary of the Senate.
+
+                          ____________________
+```

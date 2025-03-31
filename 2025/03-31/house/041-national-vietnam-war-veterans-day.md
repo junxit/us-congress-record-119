@@ -1,0 +1,41 @@
+---
+granule: CREC-2025-03-31-pt1-PgH1357
+date: 2025-03-31
+edition: CREC
+section: HOUSE
+page: H1357
+citation: 171 Cong. Rec. H1357
+---
+
+# NATIONAL VIETNAM WAR VETERANS DAY
+
+**Speaking:** Thompson, Glenn (T000467) [R-PA]
+
+```
+                   NATIONAL VIETNAM WAR VETERANS DAY
+
+  (Mr. THOMPSON of Pennsylvania asked and was given permission to 
+address the House for 1 minute and to revise and extend his remarks.)
+  Mr. THOMPSON of Pennsylvania. Mr. Speaker, I rise to recognize 
+National Vietnam War Veterans Day, a time to honor the brave men and 
+women who served. This past Saturday, we marked the National Vietnam 
+War Veterans Day.
+  Mr. Speaker, 52 years ago, on March 29, 1973, the last U.S. combat 
+troops departed Vietnam, marking the end of direct U.S. involvement. 
+Yet, for too many of those who returned home, there were no parades, no 
+celebrations, only silence where gratitude should have been. Despite 
+this, they carried the burden of their service with dignity.
+  Many were drafted, but all answered the call with honor and 
+distinction. They not only served with valor but also took it upon 
+themselves to ensure their sacrifice would never be forgotten.
+  The Vietnam Veterans War Memorial in Washington, D.C., was built 
+entirely through private donations, a testament to their dedication to 
+one another and to the 2.7 million servicemembers who served in 
+Vietnam.
+  Mr. Speaker, we all know someone who served in Vietnam. They are our 
+friends, our family, our neighbors. It is long overdue that we salute 
+them, but it is never too late to show our gratitude. May God bless our 
+Vietnam war veterans today and always, and welcome home.
+
+                          ____________________
+```

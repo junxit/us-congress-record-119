@@ -1,0 +1,35 @@
+---
+granule: CREC-2025-03-31-pt1-PgH1343-3
+date: 2025-03-31
+edition: CREC
+section: HOUSE
+page: H1343
+citation: 171 Cong. Rec. H1343
+---
+
+# PRAYER
+
+```
+                                 PRAYER
+
+  The Chaplain, the Reverend Margaret Grun Kibben, offered the 
+following prayer:
+  Call us back to You, O Lord. Receive us once again from the wide and 
+scattered places that our own choices have led us. Take us up into Your 
+merciful embrace and remind us that You have never forsaken us and 
+never will.
+  Then give us new and undivided hearts. Grant us a new spirit, a 
+spirit renewed by Your forgiveness and recreated by the power of Your 
+own Holy Spirit.
+  Remove from us our hearts of stone, our stubbornness and obstinance, 
+our inclination to dig in our heels and hold on to the reins rather 
+than yield to Your leading.
+  Give us instead hearts of integrity and tenderness, that we would 
+obey Your commands and live lives in steadfast service to the people 
+whose welfare You have entrusted to us.
+  Unto Your grace plan, we commend this day. Into Your keeping, we 
+offer our best efforts, and in Your merciful name, we pray.
+  Amen.
+
+                          ____________________
+```

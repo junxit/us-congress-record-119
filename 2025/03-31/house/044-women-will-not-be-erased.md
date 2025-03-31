@@ -1,0 +1,42 @@
+---
+granule: CREC-2025-03-31-pt1-PgH1358-2
+date: 2025-03-31
+edition: CREC
+section: HOUSE
+page: H1358
+citation: 171 Cong. Rec. H1358
+---
+
+# WOMEN WILL NOT BE ERASED
+
+**Speaking:** Foushee, Valerie P. (F000477) [D-NC]
+
+```
+                        WOMEN WILL NOT BE ERASED
+
+  (Mrs. FOUSHEE asked and was given permission to address the House for 
+1 minute and to revise and extend her remarks.)
+  Mrs. FOUSHEE. Mr. Speaker, I rise today to recognize Women's History 
+Month on this last day of March.
+  Every year during this month, we celebrate the countless 
+contributions that women have made throughout America's history. This 
+includes women of color, immigrant women, women with disabilities, 
+lesbian and trans women, and others, who have led the charge in pushing 
+America forward and advancing the ideals of equity and justice for all.
+  However, since Trump has taken office, women in my district and 
+across the country are being targeted by harmful orders and policies 
+and are feeling the direct impacts of this administration's extreme 
+actions.
+  Republicans also recently passed a budget which includes billions in 
+cuts for community projects in districts across the country, many of 
+which were intended for domestic violence shelters, youth community 
+centers, and childcare centers.
+  The same bill also directed that the Energy and Commerce Committee 
+make at least $880 billion in cuts. This would require deep cuts to 
+Medicaid specifically, which helps provide coverage for over 40 percent 
+of births in the United States.
+  This administration can try to erase the word ``women'' from 
+government, but it will not erase us.
+
+                          ____________________
+```

@@ -1,0 +1,54 @@
+---
+granule: CREC-2025-03-31-pt1-PgE263-4
+date: 2025-03-31
+edition: CREC
+section: EXTENSIONS
+page: E263
+citation: 171 Cong. Rec. E263
+---
+
+# HONORING MRS. YASHICA SUDDETH
+
+**Speaking:** Thompson, Bennie G. (T000193) [D-MS]
+
+```
+                     HONORING MRS. YASHICA SUDDETH
+
+                                 ______
+                                 
+
+                        HON. BENNIE G. THOMPSON
+
+                             of mississippi
+
+                    in the house of representatives
+
+                         Monday, March 31, 2025
+
+  Mr. THOMPSON of Mississippi. Mr. Speaker, I rise today to honor an 
+amazing employee of the Jefferson County School District, who is 
+continuously nurturing futures daily.
+  Mrs. Yashica Suddeth has been recognized as one of the employees for 
+the month of February 2025. Her unwavering dedication to the 
+prekindergarten scholars at Jefferson County Early Learning 
+Collaborative is profoundly shaping their educational journeys. From 
+warmly greeting each child to meticulously planning engaging learning 
+activities, Mrs. Suddeth is cultivating a deep appreciation for 
+learning among the young learners.
+  The Early Learning Collaborative is one of many exemplary initiatives 
+within the Jefferson County School District, designed to prepare 
+children for future success by fostering essential social skills, self-
+control, and readiness for reading. Mrs. Suddeth's contributions are 
+very vital in creating a strong foundation for these scholars and 
+ensuring they not only meet but exceed academic standards.
+  Superintendent Adrian Hammitte expressed, ``Mrs. Suddeth's genuine 
+love for children shines through in everything she does. Her commitment 
+to nurturing the scholars not only enriches their lives but also 
+strengthens our entire school community. We are immensely grateful for 
+her dedication and passion.''
+  Mr. Speaker, I ask my colleagues to join me in recognizing Mrs. 
+Yashica Suddeth for her extraordinary contributions to our educational 
+community and the Jefferson County School District.
+
+                          ____________________
+```
