@@ -1,0 +1,39 @@
+---
+granule: CREC-2025-04-01-pt1-PgH1388-3
+date: 2025-04-01
+edition: CREC
+section: HOUSE
+page: H1388
+citation: 171 Cong. Rec. H1388
+---
+
+# SAFEGUARDING AMERICAN ELECTIONS
+
+**Speaking:** Wilson, Joe (W000795) [R-SC]
+
+```
+                    SAFEGUARDING AMERICAN ELECTIONS
+
+  (Mr. WILSON of South Carolina asked and was given permission to 
+address the House for 1 minute and to revise and extend his remarks.)
+  Mr. WILSON of South Carolina. Mr. Speaker, I am grateful that, last 
+week, President Donald Trump signed an executive order that only 
+American citizens vote in Federal elections with ballots counted on 
+election day.
+  This week, House Republicans will vote on the SAVE Act introduced by 
+Congressman Chip Roy. This bill requires proof of citizenship for 
+registration and removing noncitizens from the voter rolls.
+  Under the leadership of President Trump, House Republicans can 
+restore faith in elections. It is crucial for democracy that Americans 
+trust the results.
+  In conclusion, God bless our troops as the global war on terrorism 
+continues. Open borders for dictators put all Americans at risk of more 
+9/11 attacks imminent, as warned by the FBI. Trump is reinstituting 
+existing laws to protect American families with peace through strength.
+  By signing the National Security Memorandum, President Trump is 
+reaffirming his maximum pressure campaign against the Iranian regime. 
+It is existential for Israel and America that Iran never have a nuclear 
+bomb, as supported by war criminal Putin.
+
+                          ____________________
+```

@@ -1,0 +1,42 @@
+---
+granule: CREC-2025-04-01-pt1-PgH1400
+date: 2025-04-01
+edition: CREC
+section: HOUSE
+page: H1400
+citation: 171 Cong. Rec. H1400
+---
+
+# DISENFRANCHISING VOTERS
+
+**Speaking:** Veasey, Marc A. (V000131) [D-TX]
+
+```
+                        DISENFRANCHISING VOTERS
+
+  (Mr. VEASEY asked and was given permission to address the House for 1 
+minute.)
+  Mr. VEASEY. Mr. Speaker, I rise today in opposition to the so-called 
+SAVE Act.
+  This bill, coupled with the President's executive order on elections, 
+is a crazy, disgusting, thinly veiled attempt at disenfranchising legal 
+citizens from voting.
+  It claims to make it illegal for noncitizens to vote, which we 
+already know is not a problem, but this bill would also disenfranchise 
+millions of Americans who don't even have a passport. Millions of 
+Americans do not have a passport.
+  It also hurts people who were born in rural America, people who were 
+born during a time when births were recorded in family Bibles.
+  This would just really be devastating. It would also hurt women whose 
+legal names do not match their birth names.
+  It would end automatic voter registration, voter registration by 
+mail, and other reforms many States have adopted, overriding federalism 
+and State control over elections.
+  This bill is part of a long-term effort by Republicans to literally 
+make it harder to vote.
+  Mr. Speaker, I urge my colleagues, when this bill comes up, to vote 
+``no'' because it will be a disaster for America and a disaster for 
+democracy.
+
+                          ____________________
+```
