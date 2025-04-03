@@ -1,0 +1,30 @@
+---
+granule: CREC-2025-04-03-pt1-PgS2274-2
+date: 2025-04-03
+edition: CREC
+section: SENATE
+page: S2274
+citation: 171 Cong. Rec. S2274
+---
+
+# CONFIRMATIONS
+
+```
+                             CONFIRMATIONS
+
+  Executive nominations confirmed by the Senate April 3, 2025:
+
+
+                         DEPARTMENT OF JUSTICE
+
+       DEAN SAUER, OF MISSOURI, TO BE SOLICITOR GENERAL OF THE 
+     UNITED STATES.
+       HARMEET DHILLON, OF CALIFORNIA, TO BE AN ASSISTANT ATTORNEY 
+     GENERAL .
+
+
+                DEPARTMENT OF HEALTH AND HUMAN SERVICES
+
+       MEHMET OZ, OF PENNSYLVANIA, TO BE ADMINISTRATOR OF THE 
+     CENTERS FOR MEDICARE AND MEDICAID SERVICES.
+```

@@ -1,0 +1,46 @@
+---
+granule: CREC-2025-04-03-pt1-PgS2233
+date: 2025-04-03
+edition: CREC
+section: SENATE
+page: S2233
+citation: 171 Cong. Rec. S2233
+---
+
+# Text of Senate Amendment 1593
+
+**Speaking:** Padilla, Alex (P000145) [D-CA]
+
+```
+  SA 1593. Mr. PADILLA submitted an amendment intended to be proposed 
+by him to the concurrent resolution H. Con. Res. 14, establishing the 
+congressional budget for the United States Government for fiscal year 
+2025 and setting forth the appropriate budgetary levels for fiscal 
+years 2026 through 2034; which was ordered to lie on the table; as 
+follows:
+
+       At the appropriate place, add the following:
+
+     SEC. ___. POINT OF ORDER AGAINST RECONCILIATION LEGISLATION 
+                   THAT, WHEN SCORED USING THE CURRENT LAW 
+                   BASELINE, COSTS MORE THAN $4,000,000,000,000.
+
+       (a) Point of Order.--It shall not be in order in the Senate 
+     to consider a bill or joint resolution reported pursuant to 
+     section 2002, or an amendment to, conference report on, or 
+     amendment between the Houses in relation to such a bill or 
+     joint resolution, that would, when scored using the current 
+     law baseline under section 257 of the Balanced Budget and 
+     Emergency Deficit Control Act of 1985 (2 U.S.C. 907), result 
+     in an increase in the deficit of more than $4,000,000,000,000 
+     during the period of the total of fiscal years 2025 through 
+     2034.
+       (b) Waiver and Appeal.--Subsection (a) may be waived or 
+     suspended in the Senate only by an affirmative vote of three-
+     fifths of the Members, duly chosen and sworn. An affirmative 
+     vote of three-fifths of the Members of the Senate, duly 
+     chosen and sworn, shall be required to sustain an appeal of 
+     the ruling of the Chair on a point of order raised under 
+     subsection (a).
+                                 ______
+```

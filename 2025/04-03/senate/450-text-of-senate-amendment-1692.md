@@ -1,0 +1,46 @@
+---
+granule: CREC-2025-04-03-pt1-PgS2247-3
+date: 2025-04-03
+edition: CREC
+section: SENATE
+page: S2247
+citation: 171 Cong. Rec. S2247
+---
+
+# Text of Senate Amendment 1692
+
+**Speaking:** Reed, Jack (R000122) [D-RI]
+
+```
+  SA 1692. Mr. REED submitted an amendment intended to be proposed by 
+him to the concurrent resolution H. Con. Res. 14, establishing the 
+congressional budget for the United States Government for fiscal year 
+2025 and setting forth the appropriate budgetary levels for fiscal 
+years 2026 through 2034; which was ordered to lie on the table; as 
+follows:
+
+       At the appropriate place, insert the following:
+
+     SEC. ___. DEFICIT-NEUTRAL RESERVE FUND RELATING TO PROTECTING 
+                   VETERANS AND SERVICEMEMBERS FROM BEING SCAMMED 
+                   BY FINANCIAL INSTITUTIONS, INCLUDING THROUGH 
+                   ENFORCEMENT OF THE SERVICEMEMBERS CIVIL RELIEF 
+                   ACT AND THE MILITARY LENDING ACT.
+
+       The Chairman of the Committee on the Budget of the Senate 
+     may revise the allocations of a committee or committees, 
+     aggregates, and other appropriate levels in this resolution, 
+     and make adjustments to the pay-as-you-go ledger, for one or 
+     more bills, joint resolutions, amendments, amendments between 
+     the Houses, motions, or conference reports relating to 
+     veterans and servicemembers, which may include protecting 
+     veterans and servicemembers from being scammed by financial 
+     institutions or through enforcement of the Servicemembers 
+     Civil Relief Act (50 U.S.C. 3901 et. seq.) and section 987 of 
+     title 10, United States Code (sometimes referred to as the 
+     ``Military Lending Act''), by the amounts provided in such 
+     legislation for those purposes, provided that such 
+     legislation would not increase the deficit over the period of 
+     the total of fiscal years 2025 through 2034.
+                                 ______
+```
