@@ -1,0 +1,43 @@
+---
+granule: CREC-2025-04-04-pt1-PgS2391-5
+date: 2025-04-04
+edition: CREC
+section: SENATE
+page: S2391
+citation: 171 Cong. Rec. S2391
+---
+
+# Text of Senate Amendment 1836
+
+**Speaking:** Warner, Mark R. (W000805) [D-VA]
+
+```
+  SA 1836. Mr. WARNER submitted an amendment intended to be proposed by 
+him to the concurrent resolution H. Con. Res. 14, establishing the 
+congressional budget for the United States Government for fiscal year 
+2025 and setting forth the appropriate budgetary levels for fiscal 
+years 2026 through 2034; which was ordered to lie on the table; as 
+follows:
+
+       At the appropriate place, insert the following:
+
+     SEC. ___. POINT OF ORDER AGAINST ANY RECONCILIATION BILL THAT 
+                   WOULD NOT DECREASE THE COST OF HOUSING FOR 
+                   AMERICAN FAMILIES.
+
+       (a) Point of Order.--It shall not be in order in the Senate 
+     to consider a reconciliation bill or a reconciliation 
+     resolution pursuant to section 310 of the Congressional 
+     Budget and Impoundment Control Act of 1974 (2 U.S.C. 644), or 
+     an amendment to, conference report on, or amendment between 
+     the Houses in relation to such a bill or resolution, that 
+     would not decrease the cost of housing for American families.
+       (b) Waiver and Appeal.--Subsection (a) may be waived or 
+     suspended in the Senate only by an affirmative vote of three-
+     fifths of the Members, duly chosen and sworn. An affirmative 
+     vote of three-fifths of the Members of the Senate, duly 
+     chosen and sworn, shall be required to sustain an appeal of 
+     the ruling of the Chair on a point of order raised under 
+     subsection (a).
+                                 ______
+```

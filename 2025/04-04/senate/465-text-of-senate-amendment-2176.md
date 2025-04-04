@@ -1,0 +1,26 @@
+---
+granule: CREC-2025-04-04-pt1-PgS2440-4
+date: 2025-04-04
+edition: CREC
+section: SENATE
+page: S2440
+citation: 171 Cong. Rec. S2440
+---
+
+# Text of Senate Amendment 2176
+
+**Speaking:** Sullivan, Dan (S001198) [R-AK]
+
+```
+  SA 2176. Mr. SULLIVAN (for himself and Mr. Cramer) submitted an 
+amendment intended to be proposed to amendment SA 1717 proposed by Mr. 
+Graham to the concurrent resolution H. Con. Res. 14, establishing the 
+congressional budget for the United States Government for fiscal year 
+2025 and setting forth the appropriate budgetary levels for fiscal 
+years 2026 through 2034; which was ordered to lie on the table; as 
+follows:
+
+       On page 48, line 21, strike ``$150,000,000,000'' and insert 
+     ``$175,000,000,000''.
+                                 ______
+```

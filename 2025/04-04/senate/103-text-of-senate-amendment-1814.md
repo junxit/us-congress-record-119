@@ -1,0 +1,56 @@
+---
+granule: CREC-2025-04-04-pt1-PgS2388-2
+date: 2025-04-04
+edition: CREC
+section: SENATE
+page: S2388
+citation: 171 Cong. Rec. S2388
+---
+
+# Text of Senate Amendment 1814
+
+**Speaking:** Welch, Peter (W000800) [D-VT]
+
+```
+  SA 1814. Mr. WELCH (for himself and Mr. Schatz) submitted an 
+amendment intended to be proposed by him to the concurrent resolution 
+H. Con. Res. 14, establishing the congressional budget for the United 
+States Government for fiscal year 2025 and setting forth the 
+appropriate budgetary levels for fiscal years 2026 through 2034; which 
+was ordered to lie on the table; as follows:
+
+
+ =========================== NOTE =========================== 
+
+  
+  On page S2388, April 4, 2025, the following appears: SA 1814. 
+Mr. WELCH submitted an amendment . . .
+  
+  The online Record has been corrected to read as follows: SA 
+1814. Mr. WELCH (for himself and Mr. Schatz) submitted an 
+amendment . . .
+
+
+ ========================= END NOTE ========================= 
+
+
+       At the appropriate place, insert the following:
+
+     SEC. ___. DEFICIT-NEUTRAL RESERVE FUND RELATING TO ENDING THE 
+                   TARGETING OF LAW FIRMS BY EXECUTIVE ORDER IN 
+                   VIOLATION OF THE FIRST AMENDMENT.
+
+       The Chairman of the Committee on the Budget of the Senate 
+     may revise the allocations of a committee or committees, 
+     aggregates, and other appropriate levels in this resolution, 
+     and make adjustments to the pay-as-you-go ledger, for one or 
+     more bills, joint resolutions, amendments, amendments between 
+     the Houses, motions, or conference reports relating to 
+     protecting the First Amendment, which may include ending the 
+     targeting of law firms by executive order in violation of the 
+     First Amendment, by the amounts provided in such legislation 
+     for those purposes, provided that such legislation would not 
+     increase the deficit over the period of the total of fiscal 
+     years 2025 through 2034.
+                                 ______
+```

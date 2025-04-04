@@ -1,0 +1,51 @@
+---
+granule: CREC-2025-04-04-pt1-PgS2380-6
+date: 2025-04-04
+edition: CREC
+section: SENATE
+page: S2380
+citation: 171 Cong. Rec. S2380
+---
+
+# Text of Senate Amendment 1762
+
+**Speaking:** Schatz, Brian (S001194) [D-HI]
+
+```
+  SA 1762. Mr. SCHATZ (for himself, Mr. Kaine, Mr. Welch, Ms. 
+Alsobrooks, Mr. Warnock, and Ms. Hirono) submitted an amendment 
+intended to be proposed by him to the concurrent resolution H. Con. 
+Res. 14, establishing the congressional budget for the United States 
+Government for fiscal year 2025 and setting forth the appropriate 
+budgetary levels for fiscal years 2026 through 2034; which was ordered 
+to lie on the table; as follows:
+
+       At the appropriate place, insert the following:
+
+[[Page S2381]]
+
+  
+
+
+     SEC. ___. DEFICIT-NEUTRAL RESERVE FUND RELATING TO 
+                   TERMINATING THE NATIONAL EMERGENCY DECLARED ON 
+                   APRIL 2, 2024.
+
+       The Chairman of the Committee on the Budget of the Senate 
+     may revise the allocations of a committee or committees, 
+     aggregates, and other appropriate levels in this resolution, 
+     and make adjustments to the pay-as-you-go ledger, for one or 
+     more bills, joint resolutions, amendments, amendments between 
+     the Houses, motions, or conference reports relating to 
+     limiting tariffs, which may include terminating the national 
+     emergency relating to bilateral trade relationships declared 
+     by the President on April 2, 2024, in the Executive Order 
+     entitled ``Regulating Imports with a Reciprocal Tariff to 
+     Rectify Trade Practices that Contribute to Large and 
+     Persistent Annual United States Goods Trade Deficits'', by 
+     the amounts provided in such legislation for those purposes, 
+     provided that such legislation would not increase the deficit 
+     over the period of the total of fiscal years 2025 through 
+     2034.
+                                 ______
+```

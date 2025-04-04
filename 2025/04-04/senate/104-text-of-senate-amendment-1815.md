@@ -1,0 +1,56 @@
+---
+granule: CREC-2025-04-04-pt1-PgS2388-3
+date: 2025-04-04
+edition: CREC
+section: SENATE
+page: S2388
+citation: 171 Cong. Rec. S2388
+---
+
+# Text of Senate Amendment 1815
+
+**Speaking:** Welch, Peter (W000800) [D-VT]
+
+```
+  SA 1815. Mr. WELCH (for himself and Mr. Schatz) submitted an 
+amendment intended to be proposed by him to the concurrent resolution 
+H. Con. Res. 14, establishing the congressional budget for the United 
+States Government for fiscal year 2025 and setting forth the 
+appropriate budgetary levels for fiscal years 2026 through 2034; which 
+was ordered to lie on the table; as follows:
+
+
+ =========================== NOTE =========================== 
+
+  
+  On page S2388, April 4, 2025, the following appears: SA 1815. 
+Mr. WELCH submitted an amendment . . .
+  
+  The online Record has been corrected to read as follows: SA 
+1815. Mr. WELCH (for himself and Mr. Schatz) submitted an 
+amendment . . .
+
+
+ ========================= END NOTE ========================= 
+
+
+       At the appropriate place, insert the following:
+
+     SEC. ___. POINT OF ORDER AGAINST LEGISLATION BANNING THE 
+                   ASSOCIATED PRESS FROM THE WHITE HOUSE PRESS 
+                   POOL AND OTHER OFFICIAL EVENTS.
+
+       (a) Point of Order.--It shall not be in order in the Senate 
+     to consider any bill, joint resolution, motion, amendment, 
+     amendment between the Houses, or conference report that would 
+     ban the Associated Press from the White House press pool and 
+     other official events.
+       (b) Waiver and Appeal.--Subsection (a) may be waived or 
+     suspended in the Senate only by an affirmative vote of three-
+     fifths of the Members, duly chosen and sworn. An affirmative 
+     vote of three-fifths of the Members of the Senate, duly 
+     chosen and sworn, shall be required to sustain an appeal of 
+     the ruling of the Chair on a point of order raised under 
+     subsection (a).
+                                 ______
+```
