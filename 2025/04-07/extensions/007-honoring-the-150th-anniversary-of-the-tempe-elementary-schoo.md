@@ -1,0 +1,64 @@
+---
+granule: CREC-2025-04-07-pt1-PgE288-3
+date: 2025-04-07
+edition: CREC
+section: EXTENSIONS
+page: E288
+citation: 171 Cong. Rec. E288
+---
+
+# HONORING THE 150TH ANNIVERSARY OF THE TEMPE ELEMENTARY SCHOOL DISTRICT
+
+**Speaking:** Stanton, Greg (S001211) [D-AZ]
+
+```
+ HONORING THE 150TH ANNIVERSARY OF THE TEMPE ELEMENTARY SCHOOL DISTRICT
+
+                                 ______
+                                 
+
+                           HON. GREG STANTON
+
+                               of arizona
+
+                    in the house of representatives
+
+                         Monday, April 7, 2025
+
+  Mr. STANTON. Mr. Speaker, I rise to honor the 150th Anniversary of 
+the Tempe Elementary School District.
+  Founded in 1874, Tempe Elementary School District has provided 
+decades of community-inspired education to families in Tempe, Phoenix, 
+Guadalupe, and beyond. The students who start their educational journey 
+in this school district are some of Arizona's highest achievers, 
+continuously building upon on the foundational knowledge, skills, and 
+character traits instilled in them during their most formational years. 
+Throughout the history of this district, administrators and educators 
+have worked together with a simple guiding mission: provide the best 
+education possible for their students. Around Arizona, this district is 
+known not only for its academic excellence but also for the 
+collaborative and passionate culture they have fostered for their 
+staff, students, parents, and the greater community.
+  Today, the Tempe Elementary Schools are proud to serve a diverse 
+student population of 10,000 who speak over 70 languages, and more than 
+2,000 of these students choose Tempe from outside the district. The 
+Tempe Elementary School District has trademarked themselves as 
+trailblazers in educational innovation, offering STEM-focused 
+curricula, bilingual and dual-language immersion programs, arts 
+integration, and robust special education services. They have also 
+built meaningful partnerships with the City of Tempe, local businesses, 
+and nonprofit organizations--allowing students to have real-world 
+experiences that spark community-oriented paradigms early on in life.
+  As we celebrate this historic occasion, I would like to recognize the 
+teachers, administrators, staff, students, families, and alumni who 
+have contributed to the district's legacy. Their passion and dedication 
+have inspired a love of learning and introduced students to a world 
+bigger than their own--inside and outside of the classroom.
+  Mr. Speaker, I ask my colleagues to join me in commemorating 150 
+years of educating, nurturing, and inspiring our future generations. I 
+look forward to seeing Tempe Elementary School District continue to 
+thrive and have its students become significant contributors to our 
+community and the world.
+
+                          ____________________
+```
