@@ -1,0 +1,20 @@
+---
+granule: CREC-2025-04-08-pt1-PgH1508-3
+date: 2025-04-08
+edition: CREC
+section: HOUSE
+page: H1508
+citation: 171 Cong. Rec. H1508
+---
+
+# Constitutional Authority Statement for H.R. 2704
+
+**Measures:** H.R. 2704
+
+```
+           By Mr. COHEN:
+       H.R. 2704.
+       Congress has the power to enact this legislation pursuant 
+     to the following:
+       Article 1, section 8
+```

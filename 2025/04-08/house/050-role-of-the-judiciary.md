@@ -1,0 +1,45 @@
+---
+granule: CREC-2025-04-08-pt1-PgH1493-5
+date: 2025-04-08
+edition: CREC
+section: HOUSE
+page: H1493
+citation: 171 Cong. Rec. H1493
+---
+
+# ROLE OF THE JUDICIARY
+
+**Speaking:** Johnson, Julie (J000310) [D-TX]
+
+```
+                         ROLE OF THE JUDICIARY
+
+  (Ms. JOHNSON of Texas asked and was given permission to address the 
+House for 1 minute and to revise and extend her remarks.)
+  Ms. JOHNSON of Texas. Mr. Speaker, I am rising in opposition to the 
+Republicans' dismantling of the Judiciary Act. It is not about justice; 
+it is about power. It is a full-scale assault on our Constitution, the 
+courts, and the people those courts are meant to protect.
+  The American people must be able to challenge unconstitutional laws 
+and seek relief when they are harmed. That is the role of the 
+judiciary, to be a check on our government from overreach and to 
+safeguard our public rights. Instead of respecting that, Republicans 
+are attacking judicial independence because they don't like the outcome 
+when the courts rule against them.
+  Earlier today, Republicans in debate acknowledged that President 
+Trump has been overruled by judges more than the last three Presidents 
+combined, and that is because he is insistent on extending an overreach 
+of the executive branch. We have the courts to safeguard that.
+  What the Republicans are trying to do is to require every single 
+person who has been harmed in any way to file individual lawsuits, 
+clogging up our courts, requiring them to hire expensive attorneys, 
+precluding their access to the courts. It is unconstitutional, and this 
+rule must be voted down. I encourage all of my colleagues to vote 
+against it.
+
+[[Page H1494]]
+
+  
+
+                          ____________________
+```

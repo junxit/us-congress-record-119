@@ -1,0 +1,49 @@
+---
+granule: CREC-2025-04-08-pt1-PgH1468-2
+date: 2025-04-08
+edition: CREC
+section: HOUSE
+page: H1468
+citation: 171 Cong. Rec. H1468
+---
+
+# HONORING WILLIAM MAY
+
+**Speaking:** Patronis, Jimmy (P000622) [R-FL]
+
+```
+                              {time}  1030
+                          HONORING WILLIAM MAY
+
+  (Mr. Patronis of Florida was recognized to address the House for 5 
+minutes.)
+  Mr. PATRONIS. Mr. Speaker, this morning, I rise with a heavy heart 
+over the loss of one of Florida's finest.
+  On Wednesday, April 2, Walton County Sheriff's Deputy William May 
+responded to a local disturbance where he was fired upon by an armed 
+suspect. As Deputy May returned fire, he was wounded by the assailant 
+and subsequently died.
+  Due to his bravery, Deputy May was able to end the potential threat 
+to the community before succumbing to his injuries.
+  Deputy May served the Walton County Sheriff's Office for more than a 
+decade, beginning his career as a communications officer in 2014 before 
+taking the oath of office in 2019 as a deputy sheriff. During his time 
+in law enforcement, Deputy May earned lifesaving awards and multiple 
+letters of commendation.
+  Today, the Walton County Sheriff's Office mourns the loss of a fellow 
+deputy. The State of Florida mourns the loss of this hero. A wife 
+mourns the loss of her husband, and four beautiful children mourn the 
+loss of their father.
+  Unfortunately, Deputy May's story is one of many first responders 
+around our country sacrificing their personal lives working 24/7/365, 
+missing birthdays, anniversaries, and other special occasions in order 
+to keep our American neighborhoods safe.
+  It is an honor to represent parts of Walton County and share that 
+responsibility with Congressman Neal Dunn, who joins me in this prayer 
+for the members of our local law enforcement.
+  Thank you, Mr. Speaker, for this opportunity to honor Walton County 
+Deputy William May for the ultimate sacrifice he made for our 
+communities.
+
+                          ____________________
+```

@@ -1,0 +1,58 @@
+---
+granule: CREC-2025-04-08-pt1-PgE301
+date: 2025-04-08
+edition: CREC
+section: EXTENSIONS
+page: E301
+citation: 171 Cong. Rec. E301
+---
+
+# HONORING BRAD BARNES' RETIREMENT AS PRESIDENT OF THE FORT WORTH STOCK SHOW AND RODEO
+
+**Speaking:** Goldman, Craig A. (G000601) [R-TX]
+
+```
+ HONORING BRAD BARNES' RETIREMENT AS PRESIDENT OF THE FORT WORTH STOCK 
+                             SHOW AND RODEO
+
+                                 ______
+                                 
+
+                         HON. CRAIG A. GOLDMAN
+
+                                of texas
+
+                    in the house of representatives
+
+                         Tuesday, April 8, 2025
+
+  Mr. GOLDMAN of Texas. Mr. Speaker, I rise today to honor Mr. Brad 
+Barnes in his retirement from serving as President of the Stock Show 
+and Rodeo in Fort Worth, Texas. The Stock Show and Rodeo is the city's 
+oldest and largest annual event, gathering millions of visitors every 
+year. Showcasing both professional rodeo athletes and thousands of kids 
+from across Texas, this event continues to reflect Fort Worth's rich 
+cultural heritage.
+  In his many years with the Stock Show and Rodeo, Mr. Barnes 
+volunteered before becoming a full-time employee in 2004. During this 
+time, the rodeo moved from the historic Will Rogers Coliseum to Dickies 
+Arena. Payout winnings for contestants grew to 1.5 million dollars and 
+expanded the attendance rate exponentially. Always looking ahead, he 
+has prepared the initiative to renovate the Will Rogers Coliseum in 
+pursuit of preserving its historical significance to Fort Worth.
+  Since 1985, premiums, scholarships, and grants for Texas youth have 
+accumulated over 100 million dollars. Under the leadership of Mr. 
+Barnes, the 2025 Junior Sale of Champions alone raised more than 10 
+million dollars. The Fort Worth Stock Show and Rodeo represents the 
+cultural heart of Fort Worth, starting from the early days on the 
+Chisholm Trail driving cattle to now being a symbol of where ``The West 
+Begins.'' Mr. Barnes has worked tirelessly to preserve Fort Worth's 
+connection to its origin, believing that without it, it will just be 
+another city on the list of many in Texas.
+  On behalf of the 12th Congressional District of Texas, it is an honor 
+to recognize Mr. Brad Barnes's humble commitment to the Fort Worth 
+community. I wish the best to him and his family as they celebrate his 
+retirement and continue to be committed members of the community.
+
+                          ____________________
+```
