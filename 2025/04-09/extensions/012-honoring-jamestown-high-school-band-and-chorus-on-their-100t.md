@@ -1,0 +1,50 @@
+---
+granule: CREC-2025-04-09-pt1-PgE305-2
+date: 2025-04-09
+edition: CREC
+section: EXTENSIONS
+page: E305
+citation: 171 Cong. Rec. E305
+---
+
+# HONORING JAMESTOWN HIGH SCHOOL BAND AND CHORUS ON THEIR 100TH ANNIVERSARY
+
+**Speaking:** Langworthy, Nicholas A. (L000600) [R-NY]
+
+```
+     HONORING JAMESTOWN HIGH SCHOOL BAND AND CHORUS ON THEIR 100TH 
+                              ANNIVERSARY
+
+                                 ______
+                                 
+
+                      HON. NICHOLAS A. LANGWORTHY
+
+                              of new york
+
+                    in the house of representatives
+
+                        Wednesday, April 9, 2025
+
+  Mr. LANGWORTHY. Mr. Speaker, I rise today to recognize the 100th 
+anniversary of the Jamestown High School Band and Chorus, we honor a 
+century of musical excellence and dedication that has profoundly 
+enriched both the school and broader community.
+  Established in 1924 by siblings Arthur and Ebba Goranson, these 
+ensembles have become pillars of artistic achievement. Under Arthur's 
+leadership, the band gained national recognition, performing in 
+prestigious events such as the Macy's Thanksgiving Day Parade and the 
+Tournament of Roses Parade. Ebba's pioneering efforts led the formation 
+of the A Cappella Choir, renowned for its annual Vespers services and 
+international performances, earning the moniker ``Choir of the 
+Cathedrals.''
+  Over the decades, these programs have fostered generations of 
+talented musicians, instilling values of discipline, collaboration and 
+cultural appreciation. As we celebrate this milestone, we commend and 
+express deep gratitude to the past, present and future directors, 
+instructors and students whose passion and dedication continue to 
+inspire the Jamestown community and uphold this remarkable legacy for 
+generations to come.
+
+                          ____________________
+```
