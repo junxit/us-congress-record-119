@@ -1,0 +1,52 @@
+---
+granule: CREC-2025-04-10-pt1-PgE307-3
+date: 2025-04-10
+edition: CREC
+section: EXTENSIONS
+page: E307
+citation: 171 Cong. Rec. E307
+---
+
+# RECOGNIZING GATEWAY PARKS AND BARN ELITE TRAINING
+
+**Speaking:** Owens, Burgess (O000086) [R-UT]
+
+```
+           RECOGNIZING GATEWAY PARKS AND BARN ELITE TRAINING
+
+                                 ______
+                                 
+
+                           HON. BURGESS OWENS
+
+                                of utah
+
+                    in the house of representatives
+
+                        Thursday, April 10, 2025
+
+  Mr. OWENS. Mr. Speaker, in Utah, we believe in opportunity, hard 
+work, and raising kids with the character to stand tall--not just in 
+the classroom, but in life. That means giving them more than screens 
+and participation trophies. It means real challenges, real discipline, 
+and real opportunities to grow.
+  That's why I want to recognize two Utah businesses--Gateway Parks in 
+Spanish Fork and Barn Elite Training in Mapleton--that are stepping up 
+where too many institutions have failed.
+  Gateway Parks is making winter sports accessible to kids who might 
+never get the chance, teaching them confidence, grit, and the value of 
+falling down and getting back up. Barn Elite Training is giving young 
+athletes a place to push their limits, to build mental and physical 
+toughness in an era when both are in short supply.
+  Too many kids today are struggling--with stress, with isolation, and 
+with a culture that pushes them toward passivity instead of purpose. 
+Meanwhile, Washington drags its feet. But these businesses aren't 
+waiting for permission--they're taking action. And as we refocus on 
+Making America Healthy Again, this is exactly the kind of leadership we 
+should be lifting up.
+  I'm proud to recognize Gateway Parks and Barn Elite Training for 
+investing in our youth--because a strong America starts with strong 
+kids.
+
+                          ____________________
+```

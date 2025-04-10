@@ -1,0 +1,41 @@
+---
+granule: CREC-2025-04-10-pt1-PgH1582-3
+date: 2025-04-10
+edition: CREC
+section: HOUSE
+page: H1582
+citation: 171 Cong. Rec. H1582
+---
+
+# HONORING HARRY LYNN
+
+**Speaking:** Smith, Adrian (S001172) [R-NE]
+
+```
+                              {time}  1130
+                          HONORING HARRY LYNN
+
+  (Mr. SMITH of Nebraska asked and was given permission to address the 
+House for 1 minute and to revise and extend his remarks.)
+  Mr. SMITH of Nebraska. Mr. Speaker, I rise today to recognize the 
+life of Harry Lynn, of Scottsbluff, Nebraska, a family man, beloved 
+community member, and World War II veteran. Sadly, Harry passed away 
+last week at the age of 102.
+  Despite an initial draft deferment due to significant visual 
+impairment, Harry enlisted in the U.S. Army, where he became recognized 
+as one of the Army's top three Morse code operators. He became a Morse 
+code instructor and rose to the rank of staff sergeant.
+  This year, we celebrate the 80th anniversary of the Allied victory 
+because of the sacrifices of heroes like Harry. His determination to do 
+his duty despite personal adversity displayed the true Nebraskan spirit 
+to answer the call of service in one of the most challenging times in 
+our Nation's history.
+  Harry and each of America's World War II veterans deserve our deepest 
+gratitude and most sincere thanks.
+  On April 2, Harry and his daughter, Sherri, were tragically killed in 
+a car accident. I extend my condolences to the family members and 
+celebrate the life of this American patriot.
+  Harry's memory and example of service will live on in our hearts.
+
+                          ____________________
+```

@@ -1,0 +1,61 @@
+---
+granule: CREC-2025-04-10-pt1-PgE307-7
+date: 2025-04-10
+edition: CREC
+section: EXTENSIONS
+page: E307
+citation: 171 Cong. Rec. E307
+---
+
+# HONORING THE LEGACY OF JAMES FRANKLIN MOBLEY
+
+**Speaking:** Costa, Jim (C001059) [D-CA]
+
+```
+              HONORING THE LEGACY OF JAMES FRANKLIN MOBLEY
+
+                                 ______
+                                 
+
+                             HON. JIM COSTA
+
+                             of california
+
+                    in the house of representatives
+
+                        Thursday, April 10, 2025
+
+  Mr. COSTA. Mr. Speaker, I rise today to pay tribute to the late James 
+Franklin Mobley whose life exemplified honorable service and remarkable 
+accomplishment.
+  James was born on June 11, 1948, in Gainesville, Florida, to Wilbur 
+and Evelyn Mobley. In 1950, his family relocated to California, where 
+he later graduated from Sanger High School in 1966.
+  Dedicated to a life of service, James served in the Vietnam War as 
+part of the 327th Infantry, 101st Airborne, from January 1970 to March 
+1971. He later documented his experiences in his book, Betrayal: Never 
+Waste a Soldier.
+  In 1973, he married Laurel Ann Miller, and together they had two 
+children, Christopher and Daniel.
+  James pursued a career in politics, working first for California 
+State Senator George Zenovich and later for Congressman Richard Lehman, 
+his childhood best friend. He went on
+
+[[Page E308]]
+
+to serve Fresno County's IT Services Department for 21 years before 
+retiring in 2009.
+  An avid skier and pilot, James embraced life with passion. In 
+retirement, he remained active by caring for his grandson, Sebastian, 
+and staying connected with friends and fellow veterans.
+  He is survived by his son Christopher and daughter-in-law Cassiane; 
+his son Daniel; his grandchildren Evelyn and Sebastian; his sister 
+Jacqueline and brother-in-law Alan Schwartzman; his nephew Justin 
+Schwartzman; his niece Marisa Schwartzman; and his nephew Michael 
+Mobley.
+  Mr. Speaker, I invite my esteemed colleagues to join me in honoring 
+the memory of James Franklin Mobley. Let us celebrate his life and 
+recognize his invaluable contributions to our community and Nation.
+
+                          ____________________
+```

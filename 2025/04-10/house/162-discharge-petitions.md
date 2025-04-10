@@ -1,0 +1,55 @@
+---
+granule: CREC-2025-04-10-pt1-PgH1603-16
+date: 2025-04-10
+edition: CREC
+section: HOUSE
+page: H1603
+citation: 171 Cong. Rec. H1603
+---
+
+# DISCHARGE PETITIONS
+
+**Measures:** H.Res. 250
+
+```
+                          DISCHARGE PETITIONS
+
+  Under clause 2 of rule XV, the following discharge petition was 
+filed:
+
+       Petition 2, April 9, 2025, by Mr. CASTEN on House 
+     Resolution 250, was signed by the following Members: Mr. 
+     Casten, Mrs. Watson Coleman, Ms. DelBene, Ms. McClellan, Ms. 
+     Underwood, Mr. Fields, Mr. Min, Mr. Frost, Ms. Pou, Mr. 
+     Figures, Mr. DeSaulnier, Mr. Beyer, Ms. Strickland, Ms. 
+     Schrier, Ms. Waters, Mr. Green of Texas, Ms. Titus, Mr.
+
+[[Page H1604]]
+
+     Carbajal, Mr. Correa, Mr. Soto, Mr. Moskowitz, Ms. Scanlon, 
+     Mr. Pappas, Mr. Amo, Mrs. Beatty, Mr. Raskin, Mr. Menendez, 
+     Mr. Whitesides, Mr. Carter of Louisiana, Ms. Jayapal, Ms. 
+     Brown, Mr. Bell, Ms. Morrison, Mrs. Foushee, Ms. Leger 
+     Fernandez, Mr. Schneider, Mr. Johnson of Georgia, Mr. Suozzi, 
+     Ms. McDonald Rivet, Mr. Sorensen, Ms. Hoyle of Oregon, Mr. 
+     Cisneros, Ms. Velazquez, Mr. Keating, Mr. McGovern, Mr. Ivey, 
+     Ms. Dean of Pennsylvania, Mr. Neguse, Mr. Casar, Mrs. McIver, 
+     Ms. Budzinski, Mr. Doggett, Mr. Horsford, Mr. Garcia of 
+     Illinois, Mr. Foster, Ms. Garcia of Texas, Ms. Goodlander, 
+     Mr. Bishop, Mrs. McClain Delaney, Mr. Morelle, Mr. Mfume, Mr. 
+     Hoyer, Mr. Khanna, Ms. DeLauro, Mr. Clyburn, Mr. Thanedar, 
+     Mr. Meeks, Mr. Garcia of California, Ms. Lois Frankel of 
+     Florida, Mr. Gomez, Mr. Landsman, Ms. Stevens, Mrs. Ramirez, 
+     Mr. Quigley, Ms. Ross, Mrs. Torres of California, Ms. 
+     Randall, Mr. Tonko, Mr. Huffman, Mr. Vindman, Ms. Escobar, 
+     Mr. Jackson of Illinois, Mr. Carson, Ms. Jacobs, Mrs. Hayes, 
+     Ms. Williams of Georgia, Mrs. Cherfilus-McCormick, Ms. Wilson 
+     of Florida, Ms. Clarke of New York, Mr. Crow, Mr. Cohen, Mr. 
+     Davis of Illinois, Ms. Pressley, Ms. Meng, Mr. Tran, Ms. 
+     Crockett, Ms. Wasserman Schultz, Ms. Dexter, Ms. Ansari, Mr. 
+     Goldman of New York, Mr. Magaziner, Mr. Jeffries, Ms. Kelly 
+     of Illinois, Ms. Sewell, Ms. McCollum, Ms. Stansbury, Ms. 
+     Tokuda, Ms. Bynum, Ms. Balint, Mr. Ruiz, Mr. Subramanyam, Mr. 
+     Kennedy of New York, Ms. Salinas, Mrs. Fletcher, Ms. 
+     Friedman, Mr. Pocan, and Ms. Moore of Wisconsin.
+```

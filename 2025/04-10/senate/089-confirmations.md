@@ -1,0 +1,45 @@
+---
+granule: CREC-2025-04-10-pt1-PgS2580-6
+date: 2025-04-10
+edition: CREC
+section: SENATE
+page: S2580
+citation: 171 Cong. Rec. S2580
+---
+
+# CONFIRMATIONS
+
+```
+                             CONFIRMATIONS
+
+  Executive nominations confirmed by the Senate April 10, 2025:
+
+
+                        FEDERAL TRADE COMMISSION
+
+       MARK MEADOR, OF VIRGINIA, TO BE A FEDERAL TRADE 
+     COMMISSIONER FOR THE TERM OF SEVEN YEARS FROM SEPTEMBER 26, 
+     2024.
+
+
+                            IN THE AIR FORCE
+
+       THE FOLLOWING NAMED OFFICER FOR APPOINTMENT AS CHAIRMAN OF 
+     THE JOINT CHIEFS OF STAFF AND APPOINTMENT IN THE UNITED 
+     STATES AIR FORCE TO THE GRADE INDICATED WHILE ASSIGNED TO A 
+     POSITION OF IMPORTANCE AND RESPONSIBILITY UNDER TITLE 10, 
+     U.S.C., SECTIONS 152 AND 601:
+
+                             To be general
+
+LT. GEN. JOHN D. CAINE (RETIRED)
+       THE FOLLOWING NAMED OFFICER FOR APPOINTMENT TO THE 
+     PERMANENT GRADE INDICATED IN THE REGULAR AIR FORCE UNDER THE 
+     UNITED STATES CONSTITUTION, ARTICLE II, SECTION 2, CLAUSE 2:
+
+                          To be major general
+
+LT. GEN. JOHN D. CAINE (RETIRED)
+
+                          ____________________
+```

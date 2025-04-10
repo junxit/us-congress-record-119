@@ -1,0 +1,35 @@
+---
+granule: CREC-2025-04-10-pt1-PgH1569
+date: 2025-04-10
+edition: CREC
+section: HOUSE
+page: H1569
+citation: 171 Cong. Rec. H1569
+---
+
+# RECOGNIZING THE FLORIDA GATORS
+
+**Speaking:** Cammack, Kat (C001039) [R-FL]
+
+```
+                     RECOGNIZING THE FLORIDA GATORS
+
+  (Mrs. CAMMACK asked and was given permission to address the House for 
+1 minute and to revise and extend her remarks.)
+  Mrs. CAMMACK. Mr. Speaker, I rise today to recognize the 2025 men's 
+basketball NCAA national champions, the Florida Gators.
+  On Monday night, the Gators defeated the University of Houston in the 
+national championship game to become the three-time national champions, 
+winning the first title since the 2006-2007 season.
+  Led by Coach Todd Golden, the Gators were one of four tournament one-
+seeds, advancing through the rounds of 64 and 32 before dancing their 
+way through the Sweet 16, Elite Eight, and Final Four.
+  After winning the title this week, the Gators ended the season with a 
+36-4 record making Gainesville, a/k/a Titletown, incredibly proud.
+  Mr. Speaker, I congratulate Coach Golden, the entire team, and, of 
+course, the Gator nation. These guys are absolutely incredible.
+  As always, it is so great and sweet to be a Florida Gator.
+  Go Gators.
+
+                          ____________________
+```

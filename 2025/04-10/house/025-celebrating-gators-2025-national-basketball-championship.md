@@ -1,0 +1,44 @@
+---
+granule: CREC-2025-04-10-pt1-PgH1582-4
+date: 2025-04-10
+edition: CREC
+section: HOUSE
+page: H1582
+citation: 171 Cong. Rec. H1582
+---
+
+# CELEBRATING GATORS' 2025 NATIONAL BASKETBALL CHAMPIONSHIP
+
+**Speaking:** Wasserman Schultz, Debbie (W000797) [D-FL]
+
+```
+       CELEBRATING GATORS' 2025 NATIONAL BASKETBALL CHAMPIONSHIP
+
+  (Ms. WASSERMAN SCHULTZ asked and was given permission to address the 
+House for 1 minute and to revise and extend her remarks.)
+  Ms. WASSERMAN SCHULTZ. Mr. Speaker, I rise to celebrate my Florida 
+Gators, the University of Florida men's basketball team, for winning 
+the 2025 National Championship. It is their third title and the first 
+since back-to-back Gator wins in 2007.
+  In a heart-stopping final, mostly my heart, they erased a 12-point, 
+second-half deficit to defeat the amazing Houston Cougars with a score 
+of 65-63.
+  Under Coach Golden, they showed the resilience, discipline, and heart 
+that epitomize Gator athletics.
+  Walter Clayton, Jr., the tournament MVP, led that charge, proving 
+time and again that he and his teammates rise to the occasion when it 
+matters most.
+  Yet, this championship is more than just a trophy. It is a symbol of 
+U.S. excellence both on and off the court. It reflects the strength of 
+our State's public universities and the pride we all share as 
+Floridians.
+  The Gator Nation is still humming. As a proud alum, along with my 
+dad, brother, husband, and all three of my kids, I will say it is great 
+to be a Florida Gator.
+  Mr. Speaker, I congratulate all the players and coaches and all the 
+students and alumni who cheered them on. Our Gator boys stayed hot and 
+brought a title home.
+  Go Gators.
+
+                          ____________________
+```

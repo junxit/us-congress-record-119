@@ -1,0 +1,35 @@
+---
+granule: CREC-2025-04-10-pt1-PgH1568
+date: 2025-04-10
+edition: CREC
+section: HOUSE
+page: H1568
+citation: 171 Cong. Rec. H1568
+---
+
+# STOPPING SENSELESS GUN VIOLENCE
+
+**Speaking:** McGarvey, Morgan (M001220) [D-KY]
+
+```
+                    STOPPING SENSELESS GUN VIOLENCE
+
+  (Mr. McGARVEY asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. McGARVEY. Mr. Speaker, 2 years ago today, the blast of an AR-15 
+shattered a beautiful spring morning in Louisville as a lone gunman 
+walked into Old National Bank on Main Street and opened fire. We lost 
+Josh Barrick, Deana Eckert, Juliana Farmer, Jim Tutt, and my friend, 
+Tommy Elliot. Five friends, neighbors, and loved one were taken too 
+soon.
+  Among the eight wounded was Officer Nick Wilt. Just 10 days out of 
+the academy, he bravely ran toward the gunman and was shot in the head. 
+Miraculously, he survived. That same day, just blocks away at JCTC, two 
+people were shot, and Chea'von Moore was killed at just 24 years old.
+  Mr. Speaker, I stand here today as a lifelong Louisvillian, still sad 
+my community joined the long list of cities devastated by mass 
+shootings. On behalf of all of our communities, we can and must do more 
+to stop senseless gun violence.
+
+                          ____________________
+```

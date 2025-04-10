@@ -1,0 +1,39 @@
+---
+granule: CREC-2025-04-10-pt1-PgH1585-4
+date: 2025-04-10
+edition: CREC
+section: HOUSE
+page: H1585
+citation: 171 Cong. Rec. H1585
+---
+
+# VOTER SUPPRESSION BILL CLOAKED IN LIES ABOUT ELECTION INTEGRITY
+
+**Speaking:** Dexter, Maxine (D000635) [D-OR]
+
+```
+    VOTER SUPPRESSION BILL CLOAKED IN LIES ABOUT ELECTION INTEGRITY
+
+  (Ms. DEXTER asked and was given permission to address the House for 1 
+minute and to revise and extend her remarks.)
+  Ms. DEXTER. Mr. Speaker, today, House Republicans betrayed their 
+mothers, their sisters, their daughters, and every woman in their life.
+  The so-called SAVE Act is an antiwoman, antidemocracy, voter 
+suppression bill cloaked in lies about election integrity.
+  With this vote, House Republicans have jeopardized access to the 
+ballot box for nearly 70 million American women. That isn't just a 
+number; it is personal. It is the working mom in Sandy who can't afford 
+to take time off work to go get paperwork. It is the woman in Portland 
+whose name no longer matches her birth certificate and doesn't have 
+$160 for a passport.
+  In the year 2025, I cannot believe I have to come to the House floor 
+to argue for a woman's right to vote, but I will fight this Republican 
+effort to disempower women today and every single day if I need to.
+  As a mother, I will not allow this country to continue to strip our 
+daughters of their rights. We cannot force them to grow up in a world 
+where they have fewer rights than their mothers and grandmothers. I 
+call on my Senate colleagues to show courage and defeat this despicable 
+bill.
+
+                          ____________________
+```
