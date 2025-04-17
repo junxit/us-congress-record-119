@@ -1,0 +1,58 @@
+---
+granule: CREC-2025-04-17-pt1-PgE321-2
+date: 2025-04-17
+edition: CREC
+section: EXTENSIONS
+page: E321
+citation: 171 Cong. Rec. E321
+---
+
+# HONORING THE 35TH ANNIVERSARY OF WASHTENAW COUNTY'S PROJECT RED
+
+**Speaking:** Dingell, Debbie (D000624) [D-MI]
+
+```
+    HONORING THE 35TH ANNIVERSARY OF WASHTENAW COUNTY'S PROJECT RED
+
+                                 ______
+                                 
+
+                          HON. DEBBIE DINGELL
+
+                              of michigan
+
+                    in the house of representatives
+
+                        Thursday, April 17, 2025
+
+  Mrs. DINGELL. Mr. Speaker, I rise today to commemorate Washtenaw 
+County's Rural Education Days (Project RED) on the occasion of its 35th 
+year educating Washtenaw County's youth. In its 35 years, Project RED 
+has taught 80,522 students, teachers, and chaperones about the 
+importance of agriculture and natural resources.
+  In 1990, an enthusiastic group of members of the Washtenaw County 
+Farm Bureau Promotion and Education Committee saw a need to educate the 
+county's children about the value of farming and the protection of 
+Michigan's natural resources. Since its inaugural year, Project RED has 
+grown to a 3-day annual event held in April for students, teachers, and 
+chaperones. The event is sponsored and coordinated by passionate 
+volunteers at Washtenaw County Farm Bureau, Michigan State University 
+Extension, the Washtenaw County Conservation District, and the 
+Washtenaw Farm Council.
+  Project RED provides fun, interactive opportunities for students to 
+develop a better understanding of and appreciation for the many ways 
+that farmers grow and produce safe food, care for their animals, and 
+protect the environment. Students have the opportunity to engage with 
+informative displays and hands-on learning stations that highlight 
+Michigan's agrarian diversity.
+  Washtenaw County's Project RED has become a model for similar 
+programs and events across the state of Michigan as a way to educate 
+youth about agriculture and celebrate the contribution of local farmers 
+and agribusiness.
+  Mr. Speaker, I ask my colleagues to join me in honoring Washtenaw 
+County Rural Education Days for providing over 3 decades of invaluable 
+agricultural education. I sincerely thank the project's sponsors and 
+organizers for their many years of service to this community.
+
+                          ____________________
+```
