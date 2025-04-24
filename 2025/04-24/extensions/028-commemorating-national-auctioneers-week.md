@@ -1,0 +1,48 @@
+---
+granule: CREC-2025-04-24-pt1-PgE339-3
+date: 2025-04-24
+edition: CREC
+section: EXTENSIONS
+page: E339
+citation: 171 Cong. Rec. E339
+---
+
+# COMMEMORATING NATIONAL AUCTIONEERS WEEK
+
+**Speaking:** Davids, Sharice (D000629) [D-KS]
+
+```
+                COMMEMORATING NATIONAL AUCTIONEERS WEEK
+
+                                 ______
+                                 
+
+                          HON. SHARICE DAVIDS
+
+                               of kansas
+
+                    in the house of representatives
+
+                        Thursday, April 24, 2025
+
+  Ms. DAVIDS of Kansas. Mr. Speaker, I rise today to recognize and 
+commemorate National Auctioneers Week, taking place this year between 
+April 28 and May 3.
+  The National Auction Association, located in the Kansas Third 
+District, is the centralized headquarters for all auctioneering 
+businesses, and I thank them for their advocacy on this matter. 
+Additionally, I would like to recognize Livestock Marketing Association 
+and the National Auto Auction for their advocacy work on this.
+  An auction is one of the oldest methods of purchasing and selling 
+goods and remains a prevalent practice in businesses throughout the 
+country. And with rising prices, auctioneering remains a steady method 
+of both purchasing and selling goods competitively. Auctions, and the 
+auctioneers that run them, allow buyers an equal chance of receiving 
+competitive prices for purchases and also allow the seller to receive 
+the best possible return.
+  The hardworking auctioneers that spend their time coordinating with 
+clients and holding these events deserve recognition, and so I heartily 
+support National Auctioneers Week.
+
+                          ____________________
+```
