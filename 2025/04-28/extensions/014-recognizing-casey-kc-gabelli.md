@@ -1,0 +1,42 @@
+---
+granule: CREC-2025-04-28-pt1-PgE344-2
+date: 2025-04-28
+edition: CREC
+section: EXTENSIONS
+page: E344
+citation: 171 Cong. Rec. E344
+---
+
+# RECOGNIZING CASEY "KC" GABELLI
+
+**Speaking:** Bilirakis, Gus M. (B001257) [R-FL]
+
+```
+                    RECOGNIZING CASEY ``KC'' GABELLI
+
+                                 ______
+                                 
+
+                         HON. GUS M. BILIRAKIS
+
+                               of florida
+
+                    in the house of representatives
+
+                         Monday, April 28, 2025
+
+  Mr. BILIRAKIS. I rise today to recognize the outstanding 
+contributions that Casey ``KC'' Gabelli has made to our community in 
+the aftermath of Hurricane Milton. In addition to providing countless 
+hours of direct support to neighbors and flood victims, Casey helped 
+coordinate the collection and distribution of emergency supplies, meals 
+and donated services to help those who needed help. A truly selfless 
+leader, Casey was a strong advocate for bringing in government and non-
+profit resources to aid in the recovery process.
+  It is clear that Casey ``KC'' Gabelli has made a profoundly positive 
+impact on our community, and I am grateful for Casey's service. May we 
+all strive to serve our communities with the same dedication and 
+humility.
+
+                          ____________________
+```

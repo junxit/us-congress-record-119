@@ -1,0 +1,74 @@
+---
+granule: CREC-2025-04-28-pt1-PgE345
+date: 2025-04-28
+edition: CREC
+section: EXTENSIONS
+page: E345
+citation: 171 Cong. Rec. E345
+---
+
+# HONORING UNITED STATES AIR FORCE 6990TH & 6908TH SECURITY SQUADRON (DOGGERS)--VIETNAMESE LINGUISTS
+
+**Speaking:** Fitzpatrick, Brian K. (F000466) [R-PA]
+
+```
+  HONORING UNITED STATES AIR FORCE 6990TH & 6908TH SECURITY SQUADRON 
+                    (DOGGERS)--VIETNAMESE LINGUISTS
+
+                                 ______
+                                 
+
+                       HON. BRIAN K. FITZPATRICK
+
+                            of pennsylvania
+
+                    in the house of representatives
+
+                         Monday, April 28, 2025
+
+  Mr. FITZPATRICK. Mr. Speaker, it is my great honor to rise today to 
+recognize and honor the distinguished service of two exceptional units 
+of the United States Air Force--the 6990th & 6908th Security Squadrons 
+and the contributions of the Vietnamese linguists (affectionately known 
+as DOGGERS). These squadrons exemplified the very best of American 
+dedication, vigilance, and sacrifice.
+  The 6990th Security Squadron, stationed at Kadena Air Base in 
+Okinawa, Japan, played a critical role in safeguarding our national 
+security. Activated in the 1960s, this unit specialized in signals 
+intelligence, electronic surveillance, and cryptologic operations. 
+During the Vietnam War and throughout the Cold War, the airmen of the 
+6990th monitored enemy communications, gathered vital intelligence, and 
+supported combat operations with unwavering commitment. Their 
+contributions were instrumental in ensuring the security of American 
+forces and our allies across the Pacific.
+  Similarly, the 6908th Security Squadron, based at Nakhon Phanom Royal 
+Thai Air Force Base in Thailand, carried out equally vital missions. 
+This squadron operated under the United States Air Force Security 
+Service. Its primary focus was communications interception, security, 
+and support for operations critical to our nation's strategic interests 
+in Asia. The men and women of the 6908th displayed exceptional skill 
+and professionalism in an era when information dominance was key to 
+preserving peace and deterring aggression.
+  Mr. Speaker, the work of these squadrons was often carried out in 
+secrecy, without public recognition or fanfare. Yet their efforts were 
+fundamental to the defense of the United States and the free world. 
+Today, we pay tribute to their service and reaffirm our gratitude for 
+their enduring legacy. May their example of quiet professionalism and 
+steadfast duty continue to inspire future generations of Americans.
+  Today, I would like to recognize all the members of the USAF Doggers 
+that served in the Vietnam War.
+  Richard Bini, Gregory Bonnell, Dean Brown, Jerry Clausen, Melvin 
+Cole, Lowell Cook, Robert DeMay, Edward DeMayo, David Domyancic, Gary 
+Fellenz, Michael Freeman.
+  Mark Graham, Dennis Gurtner, Tim Hamm, William Healy, Jim Hebert, 
+John Hill, Benjamin Johnson, Perry Keeton, Marvin Marker, Paul McNulty, 
+Lawrence Miller.
+  Larry Mills, Roger Morimoto, Carl Muellner, Robert Neiles, Buddy 
+Newell, John Nicolai, Joseph Nolan, Ty Peters, Sandy Potter, Edgar 
+Royce, Randolph Seitter.
+  William Sheldrake, John Slyman, Dennis Smith, Dale Sprosty, Casey 
+Teliczan, Mark Thompson, Joe Turney, Joel Ware, Rick White, Michael 
+Wright.
+
+                          ____________________
+```

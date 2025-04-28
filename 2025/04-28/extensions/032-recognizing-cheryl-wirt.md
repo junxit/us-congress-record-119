@@ -1,0 +1,46 @@
+---
+granule: CREC-2025-04-28-pt1-PgE348
+date: 2025-04-28
+edition: CREC
+section: EXTENSIONS
+page: E348
+citation: 171 Cong. Rec. E348
+---
+
+# RECOGNIZING CHERYL WIRT
+
+**Speaking:** Bilirakis, Gus M. (B001257) [R-FL]
+
+```
+                        RECOGNIZING CHERYL WIRT
+
+                                 ______
+                                 
+
+                         HON. GUS M. BILIRAKIS
+
+                               of florida
+
+                    in the house of representatives
+
+                         Monday, April 28, 2025
+
+  Mr. BILIRAKIS. Mr. Speaker, I rise today to recognize the outstanding 
+contributions that Cheryl Wirt has made to our community through her 
+volunteer work at Veterans Elementary School. Cheryl comes to volunteer 
+at the school almost every day. She has a big heart and a passion for 
+helping students and staff. Cheryl is very involved with the community 
+group that heads up all fundraising for the school. She helps with 
+ideas, calls, and follow-through with anything that needs to be done. 
+She also spends time with the students in the ``Pop up Shop'' each 
+Friday morning and provides extra supervision in the cafeteria at 
+lunchtime. She also, recently re-vamped the School Events Parent 
+Information Board which has all of our events and fundraisers on it for 
+the families to see as they come onto campus. Cheryl asks daily what 
+she can do to help and never stops until she exceeds expectations.
+  It is clear Cheryl Wirt has made a profoundly positive impact on our 
+community, and I am grateful for her service. May we all strive to 
+serve our communities with the same dedication and humility.
+
+                          ____________________
+```

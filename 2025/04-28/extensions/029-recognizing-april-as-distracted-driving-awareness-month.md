@@ -1,0 +1,58 @@
+---
+granule: CREC-2025-04-28-pt1-PgE347-4
+date: 2025-04-28
+edition: CREC
+section: EXTENSIONS
+page: E347
+citation: 171 Cong. Rec. E347
+---
+
+# RECOGNIZING APRIL AS DISTRACTED DRIVING AWARENESS MONTH
+
+**Speaking:** Wasserman Schultz, Debbie (W000797) [D-FL]
+
+```
+        RECOGNIZING APRIL AS DISTRACTED DRIVING AWARENESS MONTH
+
+                                 ______
+                                 
+
+                     HON. DEBBIE WASSERMAN SCHULTZ
+
+                               of florida
+
+                    in the house of representatives
+
+                         Monday, April 28, 2025
+
+  Ms. WASSERMAN SCHULTZ. Mr. Speaker, I rise to recognize April as 
+Distracted Driving Awareness Month, as part of ongoing efforts to 
+educate our communities about the dangers of inattentive driving and to 
+promote safer streets.
+  On average, nine people a day are killed in a distracted driving 
+crash. Texting and cell phone use while driving is the most common type 
+of unfocused driving; however, any action that takes a drivers' 
+attention away from the road is distracted driving and is extremely 
+dangerous.
+  Texting while driving is especially prevalent among younger drivers, 
+with 39 percent of high school students reporting texting or emailing 
+while driving during the past month, according to a 2019 CDC study. 
+Even though 48 states have banned texting and driving, including 
+Florida, drivers engage in this behavior anyway.
+  That is why I am proud to uplift leaders in my district who are 
+taking action this month to educate Floridian students and families 
+about the importance of attentive driving. The Students Against 
+Destructive Decisions (SADD) chapter at Hollywood Hills High School and 
+the Florida Teen Safe Driver Coalition's April Safety Awareness 
+Campaign truly shows the power of community-based advocacy.
+  Throughout my time in Congress, I have focused on road safety, 
+especially for our teens. So, in recognition of Distracted Driving 
+Awareness Month, I will take the following pledge from the National 
+Safety Council and encourage others to do the same:
+  ``For my friends, my family, and anyone else who may have fond 
+feelings toward me, I pledge not to drive distracted or recklessly. For 
+every person I may never meet, but share the road with, I pledge to 
+give driving the 100 percent attention it deserves.''
+
+                          ____________________
+```

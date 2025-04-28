@@ -1,0 +1,41 @@
+---
+granule: CREC-2025-04-28-pt1-PgE344
+date: 2025-04-28
+edition: CREC
+section: EXTENSIONS
+page: E344
+citation: 171 Cong. Rec. E344
+---
+
+# RECOGNIZING JOSHUA BATES
+
+**Speaking:** Pettersen, Brittany (P000620) [D-CO]
+
+```
+                        RECOGNIZING JOSHUA BATES
+
+                                 ______
+                                 
+
+                        HON. BRITTANY PETTERSEN
+
+                              of colorado
+
+                    in the house of representatives
+
+                         Monday, April 28, 2025
+
+  Ms. PETTERSEN. Mr. Speaker, I rise today to recognize Joshua Bates 
+for earning the Arvada Wheat Ridge Service Ambassadors for Youth Award.
+  Joshua has overcome many challenges along their journey to success, 
+demonstrating perseverance at every step. Students who strive to make 
+the most of their education, like Joshua, develop crucial skills and a 
+work ethic that will guide them for the rest of their lives. This award 
+is a testament to Joshua's hard work, determination, and perseverance 
+at Jefferson Jr./Sr. High School and is clearly just the beginning of a 
+bright and promising future.
+  It is my honor to congratulate Joshua Bates on achieving the Arvada 
+Wheat Ridge Service Ambassadors for Youth Award.
+
+                          ____________________
+```

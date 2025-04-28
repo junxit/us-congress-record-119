@@ -1,0 +1,45 @@
+---
+granule: CREC-2025-04-28-pt1-PgH1669-4
+date: 2025-04-28
+edition: CREC
+section: HOUSE
+page: H1669
+citation: 171 Cong. Rec. H1669
+---
+
+# RECOGNIZING ST. MARY'S ROTARY CLUB'S 75TH ANNIVERSARY
+
+**Speaking:** Thompson, Glenn (T000467) [R-PA]
+
+```
+         RECOGNIZING ST. MARY'S ROTARY CLUB'S 75TH ANNIVERSARY
+
+  (Mr. THOMPSON of Pennsylvania asked and was given permission to 
+address the House for 1 minute and to revise and extend his remarks.)
+  Mr. THOMPSON of Pennsylvania. Mr. Speaker, I rise today to recognize 
+the 75th anniversary of St. Mary's Rotary Club, a cornerstone of 
+service in our community since 1950.
+  For 75 years, the St. Mary's Rotary Club has exemplified the Rotary 
+motto
+
+[[Page H1670]]
+
+of Service Above Self through countless projects supporting local 
+schools, awarding scholarships, and promoting youth leadership.
+  Their commitment to bettering our community is unwavering, and to 
+mark this milestone, the club has launched a project to construct new, 
+modern facilities at Shawmut Park.
+  With the growing popularity of Fall Fest and other local events, the 
+current facilities can no longer meet community needs. This upgrade 
+will improve accessibility and enhance the park experience for all 
+residents. Earlier this year, construction was completed, and new 
+facilities were officially opened to the public.
+  Volunteer service is the cornerstone of a successful, strong, and 
+healthy community, and the St. Mary's Rotary Club fills this vital need 
+by supporting our neighbors and friends.
+  Mr. Speaker, I commend the St. Mary's Rotary Club for 75 years of 
+service, and I thank its members for their continued leadership in 
+strengthening our community.
+
+                          ____________________
+```
