@@ -1,0 +1,41 @@
+---
+granule: CREC-2025-04-29-pt1-PgE361-2
+date: 2025-04-29
+edition: CREC
+section: EXTENSIONS
+page: E361
+citation: 171 Cong. Rec. E361
+---
+
+# RECOGNIZING PERLA LOPEZ
+
+**Speaking:** Pettersen, Brittany (P000620) [D-CO]
+
+```
+                        RECOGNIZING PERLA LOPEZ
+
+                                 ______
+                                 
+
+                        HON. BRITTANY PETTERSEN
+
+                              of colorado
+
+                    in the house of representatives
+
+                        Tuesday, April 29, 2025
+
+  Ms. PETTERSEN. Mr. Speaker, I rise today to recognize Perla Lopez for 
+earning the Arvada Wheat Ridge Service Ambassadors for Youth Award.
+  Perla has overcome many challenges along her journey to success, 
+demonstrating perseverance at every step. Students who strive to make 
+the most of their education, like Perla, develop crucial skills and a 
+work ethic that will guide them for the rest of their lives. This award 
+is a testament to Perla's hard work, determination, and perseverance at 
+Jefferson Jr./Sr. High School and is clearly just the beginning of a 
+bright and promising future.
+  It is my honor to congratulate Perla Lopez on achieving the Arvada 
+Wheat Ridge Service Ambassadors for Youth Award.
+
+                          ____________________
+```

@@ -1,0 +1,117 @@
+---
+granule: CREC-2025-04-29-pt1-PgS2668
+date: 2025-04-29
+edition: CREC
+section: SENATE
+page: S2668
+citation: 171 Cong. Rec. S2668
+---
+
+# Introductory Statement on S. 1516
+
+**Speaking:** Durbin, Richard J. (D000563) [D-IL]
+
+**Measures:** S. 1516
+
+```
+      By Mr. DURBIN (for himself and Ms. Duckworth):
+  S. 1516. A bill to authorize the Secretary of the Interior to conduct 
+a special resource study of the Cahokia Mounds, Emerald Mounds, and 
+Pulcher Mounds in the State of Illinois, and for other purposes; to the 
+Committee on Energy and Natural Resources.
+  Mr. DURBIN. Mr. President, I ask unanimous consent that the text of 
+the bill be printed in the Record.
+  There being no objection, the text of the bill was ordered to be 
+printed in the Record, as follows:
+
+                                S. 1516
+
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled,
+
+     SECTION 1. SHORT TITLE.
+
+       This Act may be cited as the ``Cahokia Mounds Mississippian 
+     Culture Study Act''.
+
+     SEC. 2. FINDINGS.
+
+       Congress finds that--
+       (1) the city of Cahokia--
+       (A) was inhabited from approximately A.D. 700 to 1400; and
+       (B) at its peak from A.D. 1050 to 1200--
+       (i) covered nearly 6 square miles; and
+       (ii) was home to 10,000 to 20,000 people;
+       (2) more than 120 mounds were built over time at the site 
+     of the city of Cahokia;
+       (3) the site of the city of Cahokia is named for the 
+     Cahokia subtribe of the Illinois Confederation, who moved 
+     into the area in the 1600s;
+       (4) the city of Cahokia was the central hub and largest 
+     city of the Mississippian culture that ruled and traded 
+     across half of North America, more than 1,250,000 square 
+     miles;
+       (5) the city of Cahokia--
+       (A) was the first known organized urbanization and 
+     government north of Mexico; and
+       (B) at its peak, was larger than most European cities, 
+     including London;
+       (6) some of the Cahokia Mounds, which were built from A.D. 
+     900 to 1400, still stand as earthen monuments and remnants of 
+     Mississippian culture, which is the greatest prehistoric 
+     ancient culture in North America, the people of which are 
+     ancestors to many of today's First People and Nations; and
+       (7) the Cahokia Mounds are designated as--
+       (A) a National Historic Landmark;
+       (B) an Illinois State Historic Site; and
+       (C) a United Nations Educational, Scientific, and Cultural 
+     Organization World Heritage Site.
+
+     SEC. 3. DEFINITIONS.
+
+       In this Act:
+       (1) Secretary.--The term ``Secretary'' means the Secretary 
+     of the Interior.
+       (2) Study area.--The term ``Study Area'' means--
+       (A) the Cahokia Mounds State Historic Site;
+       (B) the Emerald Mounds in St. Clair County, Illinois; and
+       (C) the Pulcher Mounds in Monroe and St. Clair Counties, 
+     Illinois.
+
+     SEC. 4. SPECIAL RESOURCE STUDY.
+
+       (a) Study.--The Secretary shall conduct a special resource 
+     study of the Study Area.
+       (b) Contents.--In conducting the study under subsection 
+     (a), the Secretary shall--
+       (1) evaluate the national significance of the Study Area;
+       (2) determine the suitability and feasibility of 
+     designating the Study Area as a unit of the National Park 
+     System;
+       (3) consider other alternatives for preservation, 
+     protection, and interpretation of the Study Area by--
+       (A) Federal, State, or local governmental entities; or
+       (B) private and nonprofit organizations;
+       (4) consult with--
+       (A) interested entities of the Federal Government or State 
+     or local governmental entities;
+       (B) private and nonprofit organizations; or
+       (C) any other interested individuals; and
+       (5) identify cost estimates for any Federal acquisition, 
+     development, interpretation, operation, and maintenance 
+     associated with the alternatives considered under paragraph 
+     (3).
+       (c) Applicable Law.--The study required under subsection 
+     (a) shall be conducted in accordance with section 100507 of 
+     title 54, United States Code.
+       (d) Report.--Not later than 3 years after the date on which 
+     funds are first made available to conduct the study required 
+     under subsection (a), the Secretary shall submit to the 
+     Committee on Energy and Natural Resources of the Senate and 
+     the Committee on Natural Resources of the House of 
+     Representatives a report containing--
+       (1) the results of the study; and
+       (2) any conclusions and recommendations of the Secretary.
+
+                          ____________________
+```

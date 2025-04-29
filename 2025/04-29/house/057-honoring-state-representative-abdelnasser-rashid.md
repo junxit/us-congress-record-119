@@ -1,0 +1,39 @@
+---
+granule: CREC-2025-04-29-pt1-PgH1714
+date: 2025-04-29
+edition: CREC
+section: HOUSE
+page: H1714
+citation: 171 Cong. Rec. H1714
+---
+
+# HONORING STATE REPRESENTATIVE ABDELNASSER RASHID
+
+**Speaking:** Garcia, Jesus G. "Chuy" (G000586) [D-IL]
+
+```
+            HONORING STATE REPRESENTATIVE ABDELNASSER RASHID
+
+  (Mr. GARCIA of Illinois asked and was given permission to address the 
+House for 1 minute and to revise and extend his remarks.)
+  Mr. GARCIA of Illinois. Mr. Speaker, as we approach the end of Arab 
+American Heritage Month, I rise to honor my colleague and friend, State 
+Representative Abdelnasser Rashid.
+  As the first Muslim elected in the Illinois General Assembly and the 
+only Palestinian American to serve, he is not just making history; he 
+is crafting it. He didn't step forward for titles or recognition. He 
+stepped forward because families and communities like his have waited 
+long enough for homegrown leaders who carry their hopes because they 
+know their hardships.
+  His presence is a testament to perseverance, principle, and the 
+strength to stay true to community. Abdelnasser carries the hopes of 
+generations on his shoulders. He knows his work is bigger than any one 
+person, and he does so with quiet courage, not seeking applause, but 
+grounded in the belief that dignity and opportunity are rights, not 
+privileges.
+  Representative Rashid isn't just honoring his heritage; he is 
+building a future.
+  Mr. Speaker, today, we are proud to stand with him.
+
+                          ____________________
+```
