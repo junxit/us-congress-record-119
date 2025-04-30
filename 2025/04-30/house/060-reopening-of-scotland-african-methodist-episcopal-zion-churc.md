@@ -1,0 +1,35 @@
+---
+granule: CREC-2025-04-30-pt1-PgH1763
+date: 2025-04-30
+edition: CREC
+section: HOUSE
+page: H1763
+citation: 171 Cong. Rec. H1763
+---
+
+# REOPENING OF SCOTLAND AFRICAN METHODIST EPISCOPAL ZION CHURCH
+
+```
+     REOPENING OF SCOTLAND AFRICAN METHODIST EPISCOPAL ZION CHURCH
+
+  (Mrs. McCLAIN DELANEY asked and was given permission to address the 
+House for 1 minute and to revise and extend her remarks.)
+  Mrs. McCLAIN DELANEY. Mr. Speaker, I rise today to honor a powerful 
+moment of resilience and healing, the opening of Scotland African 
+Methodist Episcopal Zion Church.
+  Scotland AME Church has been a beacon of faith, hope, and history for 
+the predominantly African-American Scotland community in Montgomery 
+County for over 100 years. Sadly in 2019, the community was devastated 
+as floods literally wiped the church off the map.
+  Scotland refused to abandon their work and their legacy. After more 
+than 5 years of hard work, and thanks to an extraordinary showing of 
+support from the local community, I was honored this morning to join 
+this Scotland congregation as they reopened the newly rebuilt church.
+  Mr. Speaker, local leaders and officials from across Maryland came to 
+participate in the celebration because AME truly represents a story of 
+struggle and triumph that defines the community, a perfect antidote of 
+faith, love, hope, and community for our country during these turbulent 
+times.
+
+                          ____________________
+```

@@ -1,0 +1,63 @@
+---
+granule: CREC-2025-04-30-pt1-PgH1737-2
+date: 2025-04-30
+edition: CREC
+section: HOUSE
+page: H1737
+citation: 171 Cong. Rec. H1737
+---
+
+# NIH CUTS AFFECTING CANCER PATIENTS
+
+**Speaking:** Casten, Sean (C001117) [D-IL]
+
+```
+                   NIH CUTS AFFECTING CANCER PATIENTS
+
+  (Mr. Casten of Illinois was recognized to address the House for 5 
+minutes.)
+  Mr. CASTEN. Mr. Speaker, a few weeks ago, I got a call from a 
+constituent whose 46-year-old son had just
+
+[[Page H1738]]
+
+been diagnosed with stage IV colon cancer back in December, and the 
+whole family is now wondering whether he is going to live long enough 
+to see his kids graduate from high school.
+  It is sad. We sort of shared the pain of fathers who lost kids, 
+worried about losing kids. There is no need to tell anybody here that 
+cancer sucks.
+  That wasn't why he called. He called because his son's doctors told 
+him that as you go through the course of this treatment, typically, 
+chemo stops working after about 6 months. You see some tumor reduction, 
+and then it stops working. At that point, you really need to start 
+looking for alternatives.
+  Typically, those alternatives mean you start getting into 
+experimental trials. Those are no longer available because Trump and 
+Elon Musk's cuts to NIH are forcing the local hospitals, the local 
+universities, and the drug companies that would have done these 
+clinical trials, to shut them down.
+
+                              {time}  1100
+
+  As he put it to me: As a father, I have to balance hope with reality, 
+but it seems like all I have right now is reality.
+  Then he said to me: Do the Republicans you work with know that they 
+can get cancer, too? Are any of them going to stand up? Don't they get 
+these calls from their constituents? Why don't they care?
+  I see them all looking away. How would you have me answer that 
+question?
+  I tried. I did my best to explain the psychology of folks I work with 
+who fear Trump more than they fear cancer. Mostly I just got sad 
+because this is a guy who said I want hope; all I have is reality. What 
+I want for hope is medicine, and all I could give him was political 
+science to give him some reality.
+  These stories are in all of our districts. All of our constituents 
+want hope. It is the least we can give them, and we are failing.
+  Mr. Speaker, I ask my Republican colleagues to just please grow a 
+spine. Stand up. Give us some reason to hope. Give me a better answer 
+to the next constituent who calls my office, or indeed yours, with 
+those same questions.
+
+                          ____________________
+```

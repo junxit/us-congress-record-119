@@ -1,0 +1,82 @@
+---
+granule: CREC-2025-04-30-pt1-PgE368-3
+date: 2025-04-30
+edition: CREC
+section: EXTENSIONS
+page: E368
+citation: 171 Cong. Rec. E368
+---
+
+# RECOGNIZING THE HIGH PLAINS HONOR FLIGHT
+
+**Speaking:** Evans, Gabe (E000300) [R-CO]
+
+```
+                RECOGNIZING THE HIGH PLAINS HONOR FLIGHT
+
+                                 ______
+                                 
+
+                            HON. GABE EVANS
+
+                              of colorado
+
+                    in the house of representatives
+
+                       Wednesday, April 30, 2025
+
+  Mr. EVANS of Colorado. Mr. Speaker, I rise today to commemorate our 
+Nation's brave men and women and to recognize the High Plains Honor 
+Flight Network, which conducts trips for veterans to Washington, D.C., 
+to tour the monuments built to honor their bravery and service. The 
+High Plains Honor Flight gave some of our fellow brave men and women 
+the chance to visit our Nation's capital. As a fellow veteran myself, I 
+am pleased to honor the High Plains Honor Flight and to recognize the 
+World War II, Korean War, and Vietnam War veterans of Colorado who took 
+part in it.
+  Mr. Speaker, the veterans who participated in this flight are as 
+follows:
+
+       Veteran of World War II: Richard Chubb.
+       Korean War Veterans: Dale Bellinger, Elmer Dillman, Donald 
+     Garcia, Robert Golden, Donald Mayfield, David Mourisse.
+       Veteran of both Korean and Vietnam War: Darwin Dow.
+       Vietnam War Veterans: Anthony Aragon, Robert Archuleta, 
+     Dennis Argo, Clarence Axtell, Thomas Bacon, William Baker, 
+     Alfred Barthelemy, Larry Beck, Kenneth Beckstead, John Bona, 
+     Dallas Bowles, Robert Bowser, James Brinks, Richard Brown, 
+     Henry Castillon, Richard Clampitt, Dennis Clermont, Thomas 
+     Corrick, Kenneth Cosby, Manuel Covarrubias, Duane Crapser, 
+     Gary Cummins, Milo Cushman, Herbert Davis II, Arthur Dehn, 
+     Jr., Ben Delahay, David DeMars, Manfred Dorth, William 
+     Dundas, Robert Eatman, William Eckert, Donald Eddy, Darrell 
+     Einspahr, Teddy Emmons, William Farr, Daniel Frodsham, Sylvio 
+     Gamache, Leslie Gardinier, Melchor Garza, Frank Gower, 
+     Delbert Hammond, George Hampton, Edward Hansen, Larry Hanson, 
+     Stanley Hanson, Delbert Hawkins, Harlow Hill, John Hoelscher, 
+     Robert Holt, III, Alfred Homan, Lowell Hummels, Jerome 
+     Jaworski, David Johnson, Jonnie Johnson, Korwin Johnson, 
+     Clifford Jung, Leonard Juranek, William Klingman, Richard 
+     Kotch, Homer Kurtz, Jr., Richard Laingor, Steven Lamon, Jim 
+     Lantis, Peter Lederer, Robert Lindsey, James Ling, Larry 
+     Luckow, Ronald Macaluso, Karl Magnuson, Russell Maher, Edward 
+     Messer, Philip Mollendor, Jr., Robert Mygatt, Robert Neal, 
+     John Neill, Jr., James Nelson, Richard Nenno, Michael Nissen, 
+     Merlin Otteman, James Pelster, Jonathan Platt, Lloyd 
+     Poindexter, Peter Raube, Ronald Ring, James Roof, Jr., John 
+     Ross, John Schieler, Carolyn Schneider, David Schneider, 
+     William Schumann, Larry Seems, Jerry Severidt, Bryon Shapiro, 
+     William Sipe, Carl Smith, Danny Smith, William Stanley, Jr., 
+     Lawrence Starck, Richard Steely, Ronald Stine, William 
+     Sturgeon, Jerry Tausz, Allen Thomsen, Carlton Thygesen, 
+     Antonio Trujillo, Edwin Visconti, Wilton Webb, William 
+     Williams, Michael Young, Richard Yurkus.
+
+  It is my honor and privilege as a veteran and the United States 
+Representative of the 8th District of Colorado to recognize the 
+sacrifice and service of these men and women and all other members of 
+our Nation's military. I thank them for their bravery and service to 
+our Nation.
+
+                          ____________________
+```

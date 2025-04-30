@@ -1,0 +1,39 @@
+---
+granule: CREC-2025-04-30-pt1-PgH1761-2
+date: 2025-04-30
+edition: CREC
+section: HOUSE
+page: H1761
+citation: 171 Cong. Rec. H1761
+---
+
+# TRUMP'S 100 DAYS
+
+**Speaking:** Latimer, George (L000606) [D-NY]
+
+```
+                            TRUMP'S 100 DAYS
+
+  (Mr. LATIMER asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. LATIMER. Mr. Speaker, 100 days: irresponsible tariff imposition, 
+confusing businesses, and tanking the stock market; illegal seizure of 
+citizens without judicial process; dramatic cuts to the delivery of 
+Social Security benefits and veteran benefits; abandoning environmental 
+protections for clean air and clean water; destabilizing families, 
+hospitals, and nursing homes with pending Medicaid cuts; and siding 
+with a ruthless aggressor, Russia, rather than the victim, Ukraine.
+  Mr. Speaker, 100 days: exonerated violent criminal behavior from the 
+January 6 insurrection; unethical efforts to end investigations on 
+allies and donors; firing talented, career-committed professionals and 
+replacing them with blind loyalists; insulting Canada, Mexico, Denmark, 
+and the European Union; disruption of programs; threats to 
+universities, law firms, State and local governments, the Federal 
+workforce, and the media; and threats to elected officials.
+  The American people gave the MAGA movement a narrow majority 6 months 
+ago, but now they are having second thoughts. There is no golden age 
+ahead, just a recession. Contrast this with Franklin Delano Roosevelt, 
+who, in 100 days, saved America.
+
+                          ____________________
+```

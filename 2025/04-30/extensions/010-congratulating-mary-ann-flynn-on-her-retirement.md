@@ -1,0 +1,69 @@
+---
+granule: CREC-2025-04-30-pt1-PgE365
+date: 2025-04-30
+edition: CREC
+section: EXTENSIONS
+page: E365
+citation: 171 Cong. Rec. E365
+---
+
+# CONGRATULATING MARY ANN FLYNN ON HER RETIREMENT
+
+**Speaking:** Connolly, Gerald E. (C001078) [D-VA]
+
+```
+            CONGRATULATING MARY ANN FLYNN ON HER RETIREMENT
+
+                                 ______
+                                 
+
+                        HON. GERALD E. CONNOLLY
+
+                              of virginia
+
+                    in the house of representatives
+
+                       Wednesday, April 30, 2025
+
+  Mr. CONNOLLY. Mr. Speaker, I rise today to recognize and congratulate 
+a dedicated professional with the Department of Veterans Affairs on the 
+occasion of her retirement. Ms. Mary Ann Flynn is an exemplary public 
+servant who has demonstrated the highest standards of professionalism 
+serving our Nation's veterans.
+  Ms. Flynn began her distinguished legal career in the United States 
+Navy, where she served on both active duty and in the Navy reserves as 
+an attorney. As a Captain, she served as a military judge on the United 
+States Navy-Marine Corps Court of Criminal Appeals. Following her time 
+on active duty, Ms. Flynn joined the Department of Veterans Affairs in 
+its Office of General Counsel (OGC), where, with the exception of a 
+short period when she served as the Deputy Director for Policy and 
+Procedures for the Veteran's Benefits Administration's Compensation 
+Service, she spent the bulk of her more than 32 years of service.
+  In OGC, Ms. Flynn progressed from a staff attorney to Deputy 
+Assistant General Counsel, then Principal Deputy Assistant General 
+Counsel, and finally Chief Counsel of OGC's Court of Appeals for 
+Veterans Claims Litigation Group, an appellate litigation office of 
+over 125 attorneys representing the Secretary of Veterans Affairs 
+before the United States Court of Appeals for Veterans Claims. Her 
+career in public service is a testament to the importance of selfless 
+service to others.
+  For the vast majority of her legal career, Ms. Flynn provided 
+guidance and legal counsel to the Secretary of Veterans Affairs in 
+cases before the United States Court of Appeals for Veterans Claims. 
+She has been involved in a remarkable breadth of important legal 
+matters related to veterans' benefits, striving to ensure that 
+veterans, their families, and caregivers get the benefits to which they 
+are entitled. Her contributions to developing and evolving the practice 
+of veterans' law will have a lasting legacy and merit special 
+recognition.
+  As Ms. Flynn embarks on a new chapter in life, it is my hope that she 
+will recall, with a deep sense of pride and accomplishment, the 
+outstanding contributions she has made to the United States Navy, the 
+Department of Veterans Affairs, and veterans of the United States.
+  Mr. Speaker, I ask my colleagues to join me in thanking Ms. Mary Ann 
+Flynn for her years of service to our armed forces and our Nation. I 
+congratulate Ms. Flynn on her retirement. May her life be filled with 
+health and happiness.
+
+                          ____________________
+```

@@ -1,0 +1,52 @@
+---
+granule: CREC-2025-04-30-pt1-PgE364-2
+date: 2025-04-30
+edition: CREC
+section: EXTENSIONS
+page: E364
+citation: 171 Cong. Rec. E364
+---
+
+# CELEBRATING 60 YEARS OF UNITED DISABILITIES SERVICES
+
+**Speaking:** Smucker, Lloyd (S001199) [R-PA]
+
+```
+          CELEBRATING 60 YEARS OF UNITED DISABILITIES SERVICES
+
+                                 ______
+                                 
+
+                           HON. LLOYD SMUCKER
+
+                            of pennsylvania
+
+                    in the house of representatives
+
+                       Wednesday, April 30, 2025
+
+  Mr. SMUCKER. Mr. Speaker, I am pleased to congratulate and recognize 
+United Disabilities Services for their 60th anniversary.
+  Founded in 1965, United Disabilities Services is one of the leading 
+disability services providers in Pennsylvania helping older adults, 
+individuals with disabilities, and veterans lead more independent and 
+fulfilling lives. What began as United Cerebral Palsy of Lancaster 
+County in 1965, has since expanded its scope to include personal care 
+and care management services, adult enrichment programs, and the 
+modification of homes and mobility equipment such as wheelchairs. 
+Additionally, their advocacy for the inclusion of people with 
+disabilities, their training and placement of service dogs across our 
+communities and schools, and--on a lighter note--their popular puppy 
+calendars have all extended their reach beyond the individuals and 
+families they directly serve.
+  Today, United Disabilities Services employs hundreds of individuals 
+and touches the lives of 20,000 people each year. Though headquartered 
+in Lancaster County, UDS serves over 50 counties in Pennsylvania as 
+well as nearby states.
+  As UDS celebrates 60 years of service, I would like to thank the 
+organization and its employees for everything that they do. Their 
+selfless efforts have made Pennsylvania's 11th District a better place 
+for all.
+
+                          ____________________
+```

@@ -1,0 +1,44 @@
+---
+granule: CREC-2025-04-30-pt1-PgH1761-5
+date: 2025-04-30
+edition: CREC
+section: HOUSE
+page: H1761
+citation: 171 Cong. Rec. H1761
+---
+
+# HONORING THE LIFE AND LEGACY OF LIEUTENANT COMMANDER ROBERT STEWART CUTLER
+
+**Speaking:** Carter, Earl L. "Buddy" (C001103) [R-GA]
+
+```
+  HONORING THE LIFE AND LEGACY OF LIEUTENANT COMMANDER ROBERT STEWART 
+                                 CUTLER
+
+  (Mr. CARTER of Georgia asked and was given permission to address the 
+House for 1 minute and to revise and extend his remarks.)
+  Mr. CARTER of Georgia. Mr. Speaker, I rise today to honor the life 
+and legacy of Lieutenant Commander Robert Stewart Cutler, who passed 
+away peacefully on April 16, 2025, at the age of 97, in Savannah, 
+Georgia.
+  Born in Braintree, Massachusetts, on April 14, 1928, Lieutenant 
+Commander Cutler answered the call to serve his country by enlisting in 
+the United States Coast Guard at 17 years old.
+  During his distinguished 27-year military career, he rose from an 
+enlisted man to an officer, culminating in his roles as Commander of 
+the Coast Guard Group in Savannah and Captain of the Port.
+  Even after retirement, his commitment to public service continued.
+  He dedicated an additional 29 years to the Coast Guard Auxiliary, 
+promoting maritime safety and community outreach.
+  Outside of his formal duties, Lieutenant Commander Cutler was 
+actively engaged in various veterans organizations, tirelessly 
+advocating for the welfare of those who served.
+  He shared 54 cherished years of marriage with his late wife, Dorothy, 
+building a loving family that continues their legacy of kindness. His 
+life was marked by steadfast service to his country, community, and 
+family.
+  Mr. Speaker, may Lieutenant Commander Cutler's memory bring comfort 
+to those who knew him.
+
+                          ____________________
+```

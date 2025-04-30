@@ -1,0 +1,42 @@
+---
+granule: CREC-2025-04-30-pt1-PgH1740-9
+date: 2025-04-30
+edition: CREC
+section: HOUSE
+page: H1740
+citation: 171 Cong. Rec. H1740
+---
+
+# HONORING MASTER SERGEANT DAVID NORMAN
+
+**Speaking:** Davidson, Warren (D000626) [R-OH]
+
+```
+                 HONORING MASTER SERGEANT DAVID NORMAN
+
+  (Mr. DAVIDSON asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. DAVIDSON. Mr. Speaker, I rise today to honor Master Sergeant 
+David Norman of Troy, Ohio.
+  Today marks the 50th anniversary of the fall of Saigon. David Norman 
+was one of the brave servicemen who evacuated over 7,000 Americans and 
+allies from the United States Embassy in 1975.
+  During the withdrawal from Vietnam, Sergeant Norman was one of the 11 
+brave marines who defended the U.S. Embassy during the 19-hour 
+evacuation.
+  Many Americans were successfully evacuated by helicopter, but those 
+remaining stranded on the roof of the embassy, including David, had 
+resolved to defend their positions as long as their ammunition lasted.
+  A U.S. pilot flying over the embassy at low altitude spotted these 
+servicemen stranded and made a rescue flight under fire, and all 11 men 
+made it home alive.
+  David retired from the Marine Corps after 30 years of service before 
+returning to Ohio, and then he spent 26 years with the Miami County 
+Sheriff's Department. He was recently elected as the Miami County 
+Recorder.
+  I rise today to commend David's patriotic service to our Nation and 
+to commemorate this solemn anniversary. Let us never forget the bravery 
+of our troops.
+
+                          ____________________
+```
