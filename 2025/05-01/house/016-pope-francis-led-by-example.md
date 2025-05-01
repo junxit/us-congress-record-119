@@ -1,0 +1,41 @@
+---
+granule: CREC-2025-05-01-pt1-PgH1781-2
+date: 2025-05-01
+edition: CREC
+section: HOUSE
+page: H1781
+citation: 171 Cong. Rec. H1781
+---
+
+# POPE FRANCIS LED BY EXAMPLE
+
+**Speaking:** Cisneros, Gilbert Ray (C001123) [D-CA]
+
+```
+                      POPE FRANCIS LED BY EXAMPLE
+
+  (Mr. CISNEROS asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. CISNEROS. Mr. Speaker, Pope Francis led by example. He showed 
+compassion and empathy to all. He reminded us of our shared humanity, 
+and he treated everyone with dignity and respect. Pope Francis 
+understood what it meant to care for one another.
+  Many of my Republican colleagues often talk about their Christian 
+values. They should practice what they preach. The reconciliation bill 
+shows no compassion and no concern for the American people. Their bill 
+is predatory.
+  The latest proposal to place so-called per capita caps on Medicaid 
+funding would still jeopardize healthcare for millions of Americans. 
+This includes over 282,000 people in my district. Mr. Speaker, 103,000 
+children under the age of 19 and 37,000 seniors would have their care 
+ripped away.
+  I urge my Republican colleagues to stop with their empty platitudes, 
+to stop catering to the cruel authority of President Trump, to stop 
+putting billionaires over the American people. I urge them to take Pope 
+Francis' message of compassion, of respect, and of moral courage to 
+heart.
+  The SPEAKER pro tempore. Members are reminded to refrain from 
+engaging in personalities toward the President.
+
+                          ____________________
+```

@@ -1,0 +1,52 @@
+---
+granule: CREC-2025-05-01-pt1-PgS2740-2
+date: 2025-05-01
+edition: CREC
+section: SENATE
+page: S2740
+citation: 171 Cong. Rec. S2740
+---
+
+# SENATE RESOLUTION 198--EXPRESSING THE SENSE OF THE SENATE THAT THE SECRETARY OF HEALTH AND HUMAN SERVICES SHOULD WITHDRAW A REDUCTION IN PUBLIC NOTICE AND COMMENT OPPORTUNITIES
+
+**Measures:** S.Res. 198
+
+```
+  SENATE RESOLUTION 198--EXPRESSING THE SENSE OF THE SENATE THAT THE 
+ SECRETARY OF HEALTH AND HUMAN SERVICES SHOULD WITHDRAW A REDUCTION IN 
+                PUBLIC NOTICE AND COMMENT OPPORTUNITIES
+
+  Mr. WYDEN (for himself, Mr. Markey, Mr. King, Mr. Welch, Ms. 
+Klobuchar, Mr. Merkley, Ms. Hirono, Mr. Booker, Ms. Rosen, Ms. Warren, 
+Mr. Van Hollen, Mr. Blumenthal, Ms. Smith, Ms. Blunt Rochester, Ms. 
+Alsobrooks, Mr. Lujan, Mr. Whitehouse, Mrs. Gillibrand, and Mr. Warner) 
+submitted the following resolution; which was referred to the Committee 
+on Finance.
+
+                              S. Res. 198
+
+       Whereas public participation in the regulatory process is 
+     essential to the formulation of fair and sound policy;
+       Whereas open rulemaking mitigates the possibility of 
+     arbitrary, harmful, and ill-advised rulemaking;
+       Whereas the Department of Health and Human Services has 
+     successfully adhered to Administrative Procedure Act notice 
+     and comment period procedures for 54 years;
+       Whereas the daily lives of millions of Americans are 
+     profoundly affected by the regulations that are issued by the 
+     Department of Health and Human Services; and
+       Whereas it is critical that program beneficiaries, State 
+     and local governments, human services providers, and 
+     organizations continue to be afforded the opportunity for 
+     input whenever Health and Human Services regulatory changes 
+     are proposed:
+       Now, therefore, be it
+       Resolved, That it is the sense of the Senate that the 
+     Secretary of Health and Human Services should withdraw the 
+     notice published in the Federal Register on March 3, 2025 (90 
+     Fed. Reg. 11029) that would reduce public notice and comment 
+     opportunities, and affirm practices as in effect on February 
+     27, 2025, which involve the public in rulemaking procedures.
+
+                          ____________________
+```

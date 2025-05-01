@@ -1,0 +1,39 @@
+---
+granule: CREC-2025-05-01-pt1-PgH1780-3
+date: 2025-05-01
+edition: CREC
+section: HOUSE
+page: H1780
+citation: 171 Cong. Rec. H1780
+---
+
+# SPECIAL OLYMPICS INDIANA YOUTH BASKETBALL TOURNAMENT PRIDE
+
+**Speaking:** Shreve, Jefferson (S001229) [R-IN]
+
+```
+       SPECIAL OLYMPICS INDIANA YOUTH BASKETBALL TOURNAMENT PRIDE
+
+  (Mr. SHREVE asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. SHREVE. Mr. Speaker, I rise today to recognize the hundreds of 
+young Hoosiers who just participated in our annual Special Olympics 
+Indiana Youth Basketball Tournament.
+  Basketball is a beloved tradition in my Hoosier State, and this 
+tournament is amongst the largest in North America. It has been hosted 
+at the University of Indianapolis, just 2 miles from my home, since 
+2010.
+  This year's event brought together athletes from across our State to 
+compete in five-on-five, three-on-three, and individual basketball 
+skill competitions.
+  Special Olympics Indiana transforms young lives through the power of 
+sports, breaking down barriers while building up kids with intellectual 
+disabilities. It provides 19,000 Hoosier youth an opportunity to 
+fulfill their sporting ambitions, all with the support of 10,000 
+volunteers and not one red cent of taxpayer money.
+  These special young athletes embody the spirit of perseverance on the 
+court and in their lives. They have bright futures ahead of them, and 
+we are proud.
+
+                          ____________________
+```

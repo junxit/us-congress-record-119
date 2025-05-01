@@ -1,0 +1,40 @@
+---
+granule: CREC-2025-05-01-pt1-PgH1787-3
+date: 2025-05-01
+edition: CREC
+section: HOUSE
+page: H1787
+citation: 171 Cong. Rec. H1787
+---
+
+# HONORING JOAN QUATERMAN
+
+**Speaking:** Carter, Earl L. "Buddy" (C001103) [R-GA]
+
+```
+                              {time}  1045
+                        HONORING JOAN QUATERMAN
+
+  (Mr. CARTER of Georgia asked and was given permission to address the 
+House for 1 minute and to revise and extend his remarks.)
+  Mr. CARTER of Georgia. Mr. Speaker, I rise today to honor Ms. Joan 
+Quaterman, a remarkable woman who has dedicated 52 years of service to 
+the city of Savannah.
+  As a longtime employee of the Leisure Services Bureau, she played a 
+vital role in shaping the lives of countless children and families.
+  For decades, she was a beloved figure at Hull Park, leading summer 
+programs that provided a safe, welcoming space for young people to 
+learn, grow, and have fun. Through games, activities, and free lunches, 
+she ensured that every child felt valued and supported regardless of 
+their background.
+  Ms. Quaterman was more than just a city employee. She was a mentor, 
+role model, and constant presence in the lives of many. Her kindness, 
+patience, and dedication left a lasting imprint on our community, and 
+her impact will be felt for generations to come. Her work reflects the 
+very best of public service, selflessness, commitment, and unwavering 
+devotion to others.
+  Today, we congratulate Ms. Quaterman on her well-earned retirement 
+and thank her for more than five decades of service.
+
+                          ____________________
+```
