@@ -1,0 +1,41 @@
+---
+granule: CREC-2025-05-05-pt1-PgH1841-4
+date: 2025-05-05
+edition: CREC
+section: HOUSE
+page: H1841
+citation: 171 Cong. Rec. H1841
+---
+
+# IN RECOGNITION OF WARREN BRINSON
+
+**Speaking:** Carter, Earl L. "Buddy" (C001103) [R-GA]
+
+```
+                    IN RECOGNITION OF WARREN BRINSON
+
+  (Mr. CARTER of Georgia asked and was given permission to address the 
+House for 1 minute and to revise and extend his remarks.)
+  Mr. CARTER of Georgia. Mr. Speaker, I rise today to recognize an 
+extraordinary young man, Warren Brinson, whose journey from Savannah, 
+Georgia, to the NFL has inspired us all.
+  Warren is not only a proud Savannah native but also a true champion. 
+He was proudly a key part of the University of Georgia's back-to-back 
+national championship teams.
+  This year, Warren made us proud again by being drafted by the Green 
+Bay Packers in the sixth round. On the field, his strength, discipline, 
+and determination make him a powerful force, but off the field is where 
+Warren's character truly shines.
+  Through the Warren Brinson Foundation, he has made a lasting 
+difference. His back-to-school giveaways help local students feel 
+prepared and confident when school starts in the fall. He uplifts 
+families each year through Thanksgiving turkey giveaways and Christmas 
+toy drives. His youth football camp provides kids with mentorship, 
+encouragement, and a vision for a brighter future.
+
+  Mr. Speaker, Warren Brinson is more than an athlete. He is a servant 
+leader, a mentor, and a hero to our district. He reminds us that 
+genuine success involves giving back to others.
+
+                          ____________________
+```

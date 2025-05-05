@@ -1,0 +1,41 @@
+---
+granule: CREC-2025-05-05-pt1-PgE387
+date: 2025-05-05
+edition: CREC
+section: EXTENSIONS
+page: E387
+citation: 171 Cong. Rec. E387
+---
+
+# RECOGNIZING JENNIFER MANKOTYA
+
+**Speaking:** Bilirakis, Gus M. (B001257) [R-FL]
+
+```
+                     RECOGNIZING JENNIFER MANKOTYA
+
+                                 ______
+                                 
+
+                         HON. GUS M. BILIRAKIS
+
+                               of florida
+
+                    in the house of representatives
+
+                          Monday, May 5, 2025
+
+  Mr. BILIRAKIS. Mr. Speaker, I rise today to recognize the outstanding 
+contributions that Ms. Jennifer Mankotya has made to our community in 
+the aftermath of Hurricane Milton. In addition to providing countless 
+hours of direct support to neighbors and flood victims, she helped 
+coordinate the collection and distribution of emergency supplies, meals 
+and donated services to help those who needed help. A truly selfless 
+leader, Ms. Mankotya was a strong advocate for bringing in government 
+and non-profit resources to aid in the recovery process.
+  It is clear that Jennifer Mankotya has made a profoundly positive 
+impact on our community, and I am grateful for her service. May we all 
+strive to serve our communities with the same dedication and humility.
+
+                          ____________________
+```

@@ -1,0 +1,35 @@
+---
+granule: CREC-2025-05-05-pt1-PgH1814-2
+date: 2025-05-05
+edition: CREC
+section: HOUSE
+page: H1814
+citation: 171 Cong. Rec. H1814
+---
+
+# PRAYER
+
+```
+                                 PRAYER
+
+  The Chaplain, the Reverend Margaret Grun Kibben, offered the 
+following prayer:
+  Receive us into this new week, O God. We have much to do and much we 
+hope to accomplish. We have planners filled with appointments and 
+dockets boasting desired outcomes, and yet, in all honesty, we do not 
+know what today will bring, let alone tomorrow.
+  In the context of the eternity that You have fashioned, over which 
+You are Lord, we are but mist. Like the breath we try to catch as we 
+run from task to task, our lives are ephemeral in the grand scheme of 
+Your divine design.
+  Reorient us then this day to Your grace plan. Rather than counting on 
+our own ability to get things done, may we appeal to You, and to Your 
+wishes, as to how we are to live and what it is we ought to do.
+  Humble us in our arrogance and disavow us of our self-sufficiency. In 
+Your Mercy, uphold us in Your righteousness, that we would boast only 
+in You.
+  In Your sovereign name, we pray.
+  Amen.
+
+                          ____________________
+```

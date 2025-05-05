@@ -1,0 +1,64 @@
+---
+granule: CREC-2025-05-05-pt1-PgH1842-3
+date: 2025-05-05
+edition: CREC
+section: HOUSE
+page: H1842
+citation: 171 Cong. Rec. H1842
+---
+
+# IN MEMORY OF SANTA ANA CAR ACCIDENT VICTIMS
+
+**Speaking:** Correa, J. Luis (C001110) [D-CA]
+
+```
+              IN MEMORY OF SANTA ANA CAR ACCIDENT VICTIMS
+
+  (Mr. CORREA asked and was given permission to address the House for 1 
+minute.)
+  Mr. CORREA. Mr. Speaker, I rise today with a heavy heart to recognize 
+five young students who were taken too soon from the city of Santa Ana. 
+Recently, five students from Santa Ana Unified School District were 
+victims of a brutal car cash: Aurelia Robles, Cynthia Torres Zarate, 
+Natalia Vidal Zarate, Jaqueline Torres Zarate, and Emanuel
+
+
+ =========================== NOTE =========================== 
+
+  
+  a brutal car cash: Aurelia Robles, Arlene Robles, Natalia Vidal 
+Zarate, Jaqueline Torres Zarate, and Emanuel
+  
+  The online version has been corrected to read: a brutal car 
+cash: Aurelia Robles, Cynthia Torres Zarate, Natalia Vidal Zarate, 
+Jaqueline Torres Zarate, and Emanuel
+
+
+ ========================= END NOTE ========================= 
+
+
+  Gonzalez Martinez. They were full of life, love, and adventure, and 
+  this tragic loss has broken all of our hearts.The families of these 
+students are in our prayers. May the souls of Arely, Cynthia, 
+Jaqueline, Natalia, and Manny rest in peace. Our community will
+
+
+ =========================== NOTE =========================== 
+
+  
+  On page H1842, May 5, 2025, in the second column, the following 
+appeared: our prayers. May the souls of Arely, Arlene, Jaqueline, 
+Natalia, and Manny rest in peace. Our community will
+  
+  The online version has been corrected to read: our prayers. May 
+the souls of Arely, Cynthia, Jaqueline, Natalia, and Manny rest in 
+peace. Our community will
+
+
+ ========================= END NOTE ========================= 
+
+
+never forget them, and we will miss them dearly.
+
+                          ____________________
+```

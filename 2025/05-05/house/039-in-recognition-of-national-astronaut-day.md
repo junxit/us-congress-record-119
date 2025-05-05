@@ -1,0 +1,42 @@
+---
+granule: CREC-2025-05-05-pt1-PgH1841-2
+date: 2025-05-05
+edition: CREC
+section: HOUSE
+page: H1841
+citation: 171 Cong. Rec. H1841
+---
+
+# IN RECOGNITION OF NATIONAL ASTRONAUT DAY
+
+**Speaking:** Thompson, Glenn (T000467) [R-PA]
+
+```
+                IN RECOGNITION OF NATIONAL ASTRONAUT DAY
+
+  (Mr. THOMPSON of Pennsylvania asked and was given permission to 
+address the House for 1 minute and to revise and extend his remarks.)
+  Mr. THOMPSON of Pennsylvania. Mr. Speaker, I rise to recognize 
+National Astronaut Day.
+  It was 64 years ago today when a brave American, Commander Alan B. 
+Shepard, sat in the cockpit of the Mercury rocket ready to face the 
+unknown. With three simple words, ``light this candle,'' he launched 
+into the vast expanse of space, becoming the first American to break 
+the bounds of Earth.
+  His spacecraft, Freedom 7, was a tribute to the seven Project Mercury 
+astronauts and to one of our Nation's founding principles: freedom.
+  That mission marked not just a milestone in science, but a defining 
+moment of national pride in American leadership.
+  Just 8 years later, Neil Armstrong and Buzz Aldrin planted the Stars 
+and Stripes on the Moon.
+  When we think of the astronauts, we often picture rocket launches, 
+moonwalks, and zero gravity. Yet, what we don't always see is the years 
+of rigorous training, the risks they accept, and the teamwork behind 
+every mission.
+  Mr. Speaker, on National Astronaut Day, we honor the pioneers who 
+have blazed a trail into the final frontier. They remind us that 
+boundaries are meant to the pushed and discovery is a never-ending 
+journey.
+
+                          ____________________
+```
