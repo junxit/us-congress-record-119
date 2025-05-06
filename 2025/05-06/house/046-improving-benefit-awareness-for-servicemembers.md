@@ -1,0 +1,39 @@
+---
+granule: CREC-2025-05-06-pt1-PgH1871-3
+date: 2025-05-06
+edition: CREC
+section: HOUSE
+page: H1871
+citation: 171 Cong. Rec. H1871
+---
+
+# IMPROVING BENEFIT AWARENESS FOR SERVICEMEMBERS
+
+**Measures:** H.R. 3159
+
+```
+             IMPROVING BENEFIT AWARENESS FOR SERVICEMEMBERS
+
+  (Mrs. McCLAIN-DELANEY asked and was given permission to address the 
+House for 1 minute and to revise and extend her remarks.)
+  Mrs. McCLAIN DELANEY. Mr. Speaker, I rise today to urge my colleagues 
+to support my bipartisan, bicameral legislation, H.R. 3159, the 
+Improving SCRA Benefit Utilization Act.
+  The Servicemembers Civil Relief Act includes a specific benefit that 
+caps interest rates on preservice debts like mortgages, credit cards, 
+and auto loans, at 6 percent. Unfortunately, too few Active-Duty 
+servicemembers even know about this hard-earned benefit, let alone use 
+it.
+  My bill would address this knowledge gap by expanding military 
+financial literacy programs. It would also require details of existing 
+SCRA benefits on military activation orders.
+  Under H.R. 3159, creditors would be required to automatically apply 
+the 6 percent cap to all accounts on active servicemember holds instead 
+of requiring military members to request the cap account by account as 
+they prepare to enter duty service.
+  My bipartisan legislation identifies commonsense opportunities to 
+improve benefit awareness and utility. I urge my colleagues on both 
+sides of the aisle to cosponsor this bill.
+
+                          ____________________
+```
