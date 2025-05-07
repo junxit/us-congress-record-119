@@ -1,0 +1,59 @@
+---
+granule: CREC-2025-05-07-pt1-PgE395-5
+date: 2025-05-07
+edition: CREC
+section: EXTENSIONS
+page: E395
+citation: 171 Cong. Rec. E395
+---
+
+# HONORING THE GREATER BUCKLEY REGION AS A GREAT AMERICAN DEFENSE COMMUNITY
+
+**Speaking:** Crow, Jason (C001121) [D-CO]
+
+```
+    HONORING THE GREATER BUCKLEY REGION AS A GREAT AMERICAN DEFENSE 
+                               COMMUNITY
+
+                                 ______
+                                 
+
+                            HON. JASON CROW
+
+                              of colorado
+
+                    in the house of representatives
+
+                         Wednesday, May 7, 2025
+
+  Mr. CROW. Mr. Speaker, I rise today to honor the Greater Buckley 
+Region in my district, which was recently recognized as a 2025 Great 
+American Defense Community by the Association of Defense Communities.
+  The Great American Defense Communities program recognizes and 
+celebrates communities and regions that support military installations 
+that demonstrate an exceptional commitment to improving quality of life 
+for military families, veterans, and service members--while fostering 
+collaboration across the defense ecosystem.
+  I am proud of our community--anchored by Buckley Space Force Base and 
+also home to the Colorado National Guard's Joint Force Headquarters--
+for its unwavering dedication to advancing quality-of-life initiatives. 
+As an Army Ranger veteran, I understand that morale and readiness 
+depend on more than infrastructure--we must create environments where 
+military families can thrive. The Greater Buckley Region has led in 
+areas such as housing, health care, employment, and education.
+  This recognition also reflects the strength of local partnerships, 
+including the Aurora Chamber of Commerce's Buckley Regional Military 
+Affairs Council, which plays a vital role in bridging military and 
+civilian communities, advocating for service members, and fostering 
+enduring support networks.
+  The Greater Buckley Region shows us what's possible when communities 
+unite around those who serve. I congratulate them on this well-deserved 
+honor and look forward to their continued leadership as a model for 
+defense communities nationwide.
+
+[[Page E396]]
+
+  
+
+                          ____________________
+```

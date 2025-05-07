@@ -1,0 +1,37 @@
+---
+granule: CREC-2025-05-07-pt1-PgH1898-5
+date: 2025-05-07
+edition: CREC
+section: HOUSE
+page: H1898
+citation: 171 Cong. Rec. H1898
+---
+
+# RECOGNIZING TED POULIOT
+
+**Speaking:** Omar, Ilhan (O000173) [D-MN]
+
+```
+                        RECOGNIZING TED POULIOT
+
+  (Ms. OMAR asked and was given permission to address the House for 1 
+minute and to revise and extend her remarks.)
+  Ms. OMAR. Mr. Speaker, I rise today to recognize Ted Pouliot for a 
+lifetime of service supporting our Minneapolis community.
+  As a senior at DeLaSalle High School in Minneapolis in 1952, Ted 
+first started volunteering at House of Charity's dining hall to help 
+feed Minnesotans going hungry. This was just the start of his decades 
+of service.
+  Later in life, Ted founded the Minneapolis affordable housing 
+nonprofit, Project for Pride in Living, helping folks find stable 
+housing.
+  Now, at 91, Ted paints to raise funds for nonprofits throughout 
+Minneapolis. This past weekend, he raised $12,000 at his art sale to 
+benefit nonprofits working to end homelessness and address hunger for 
+Agate Housing and Services, Groveland Emergency Food Shelf, and 
+Sabathani Food Shelf.
+  Ted truly embodies what it means to live a life of service. It is 
+truly an honor to recognize him here today.
+
+                          ____________________
+```

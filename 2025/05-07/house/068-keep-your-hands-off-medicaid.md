@@ -1,0 +1,41 @@
+---
+granule: CREC-2025-05-07-pt1-PgH1900-2
+date: 2025-05-07
+edition: CREC
+section: HOUSE
+page: H1900
+citation: 171 Cong. Rec. H1900
+---
+
+# KEEP YOUR HANDS OFF MEDICAID
+
+**Speaking:** Barragan, Nanette Diaz (B001300) [D-CA]
+
+```
+                              {time}  1815
+                      KEEP YOUR HANDS OFF MEDICAID
+
+  (Ms. BARRAGAN asked and was given permission to address the House for 
+1 minute.)
+  Ms. BARRAGAN. Mr. Speaker, don't believe the lies. House Republicans 
+are trying to pass a budget that kicks people off healthcare.
+  Today, the Congressional Budget Office released an analysis that 
+Republicans' proposals that they are considering would slash Medicaid 
+spending that would lead to millions of people losing healthcare 
+coverage.
+  Behind every Medicaid recipient is a person whose life depends on it.
+  Brian Gutierrez, a constituent from South Gate, California, lives 
+with spina bifida, a lifelong disability. He says: For many of us, 
+these cuts are not abstract numbers. They are the difference between 
+stability and crisis, between life and death. I am healthy today 
+because Medicaid stood by me. I am thriving because I have had 
+consistent, reliable access to the care I need.
+  Medicaid makes independence possible. It makes survival possible. It 
+makes dignity possible. Any threat to Medicaid is a threat to our 
+lives.
+  The Republican budget is a threat to millions of lives. That is why 
+House Democrats are fighting to protect Medicaid.
+  Please, keep your hands off Medicaid.
+
+                          ____________________
+```

@@ -1,0 +1,61 @@
+---
+granule: CREC-2025-05-07-pt1-PgH1899-6
+date: 2025-05-07
+edition: CREC
+section: HOUSE
+page: H1899
+citation: 171 Cong. Rec. H1899
+---
+
+# NATIONAL INSTITUTES OF HEALTH
+
+**Speaking:** Mullin, Kevin (M001225) [D-CA]
+
+```
+                     NATIONAL INSTITUTES OF HEALTH
+
+  (Mr. MULLIN asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. MULLIN. Mr. Speaker, I rise in strong opposition to the Trump 
+administration's proposal to gut the National Institutes of Health.
+  Put simply, NIH's work is the difference between life and death for 
+millions of Americans. Almost everyone knows someone who has lost a 
+loved one to cancer or Alzheimer's, and cutting NIH funding will halt 
+progress on developing cures for these diseases, just as we are on the 
+cusp of once-in-a-generation advancements.
+  Mr. Speaker, 99 percent of all FDA-approved therapies between 2010 
+and 2019 were tied to NIH-funded science. Thanks to its research, heart 
+disease deaths dropped 75 percent over the past 40 years.
+  If the majority wants to have a debate about whether it is worth 
+curing diseases, then let's have it. I invite my colleagues to explain 
+to their constituents why they are against fighting cancer or 
+Alzheimer's.
+
+
+ =========================== NOTE =========================== 
+
+  
+  On page H1899, May 7, 2025, in the third column, the following 
+appeared: If the majority wants to have a debate about whether it 
+is worth curing diseases, then let's have it. I invite my 
+colleagues to explain to their constituents why they are fighting 
+cancer or Alzheimer's.
+  
+  The online version has been corrected to read: If the majority 
+wants to have a debate about whether it is worth curing diseases, 
+then let's have it. I invite my colleagues to explain to their 
+constituents why they are against fighting cancer or Alzheimer's.
+
+
+ ========================= END NOTE ========================= 
+
+
+
+[[Page H1900]]
+
+
+  Mr. Speaker, I urge Members to reject those devastating cuts and 
+stand up for the well-being of the American people.
+
+                          ____________________
+```
