@@ -1,0 +1,35 @@
+---
+granule: CREC-2025-05-08-pt1-PgH1926-2
+date: 2025-05-08
+edition: CREC
+section: HOUSE
+page: H1926
+citation: 171 Cong. Rec. H1926
+---
+
+# A FREE PRESS IS VITAL TO DEMOCRACY
+
+**Speaking:** Stansbury, Melanie A. (S001218) [D-NM]
+
+```
+                   A FREE PRESS IS VITAL TO DEMOCRACY
+
+  (Ms. STANSBURY asked and was given permission to address the House 
+for 1 minute and to revise and extend her remarks.)
+  Ms. STANSBURY. Madam Speaker, in Donald Trump's America, not even 
+Elmo is safe because over the last 100 days, we have seen an 
+unprecedented attack on the media, and especially our public media.
+  Let me say this: The freedom of the press and freedom of speech are 
+not a privilege. They are enshrined in the United States Constitution, 
+vital to our democracy and to accountability.
+  However, we have seen attack after attack, threats on the media and 
+communications companies, outlets replaced in the Pentagon, an order 
+attacking PBS and NPR just this very week, and an attempt to throw the 
+AP out of the White House for daring to tell the truth.
+  These attacks are not just an outrage, they are an attack on our 
+freedom, our democracy, and our rights as Americans, which is why I 
+rise today to stand for and fight for a free and fair press, because it 
+is vital to our democracy.
+
+                          ____________________
+```

@@ -1,0 +1,35 @@
+---
+granule: CREC-2025-05-08-pt1-PgH1922-5
+date: 2025-05-08
+edition: CREC
+section: HOUSE
+page: H1922
+citation: 171 Cong. Rec. H1922
+---
+
+# CELEBRATING TREE OF LIFE'S GRAND OPENING AT ASHBURN
+
+**Speaking:** Subramanyam, Suhas (S001230) [D-VA]
+
+```
+          CELEBRATING TREE OF LIFE'S GRAND OPENING AT ASHBURN
+
+  (Mr. SUBRAMANYAM asked and was given permission to address the House 
+for 1 minute and to revise and extend his remarks.)
+  Mr. SUBRAMANYAM. Madam Speaker, I rise today to celebrate the grand 
+opening of the Tree of Life's new Ashburn location.
+  This nonprofit provides critical services to our community, including 
+weekly meals and grocery deliveries; ESOL classes and job search 
+assistance; free clothing and transitional housing support; and free 
+health education, vaccine clinics, and activities for seniors and 
+individuals with disabilities.
+  Their opening, which I believe was this morning, is a combined 
+Ashburn location, which was once the Sterling and Leesburg locations. 
+It will now be centralized in Ashburn, which means the services will be 
+easier to access. It will also be closer to my house, which is great.
+  Madam Speaker, I congratulate and thank the Tree of Life and 
+nonprofits across our region for the critical work that they do to 
+serve those in need.
+
+                          ____________________
+```

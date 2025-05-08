@@ -1,0 +1,41 @@
+---
+granule: CREC-2025-05-08-pt1-PgH1923-7
+date: 2025-05-08
+edition: CREC
+section: HOUSE
+page: H1923
+citation: 171 Cong. Rec. H1923
+---
+
+# CELEBRATING LEADERSHIP OF SUE ADLER
+
+**Speaking:** Carter, Earl L. "Buddy" (C001103) [R-GA]
+
+```
+                  CELEBRATING LEADERSHIP OF SUE ADLER
+
+  (Mr. CARTER of Georgia asked and was given permission to address the 
+House for 1 minute and to revise and extend his remarks.)
+  Mr. CARTER of Georgia. Madam Speaker, I rise today to celebrate Sue 
+Adler, whose leadership at the Historic Savannah Foundation has left a 
+permanent mark on our city's preservation efforts.
+  After 6 years at the helm, we reflect on her unwavering commitment to 
+preserving Savannah's architectural treasures and historical 
+narratives.
+  Under Ms. Adler's guidance, HSF has flourished. Ms. Adler's work 
+includes repurposing the Historic Kennedy Pharmacy as the Davenport 
+House Museum Shop, ensuring that Savannah's rich past remains alive for 
+future generations.
+  Ms. Adler's leadership has helped preserve the buildings, stories, 
+and communities that define Savannah. As she
+
+[[Page H1924]]
+
+transitions to her new role at the Savannah Historic Initiatives, we 
+thank her for her service. Her legacy will undoubtedly continue to 
+shape our city's preservation journey, and we look forward to the 
+continued success of Historic Savannah Foundation as it moves into the 
+future.
+
+                          ____________________
+```

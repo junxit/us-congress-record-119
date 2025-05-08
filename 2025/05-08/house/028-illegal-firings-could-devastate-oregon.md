@@ -1,0 +1,43 @@
+---
+granule: CREC-2025-05-08-pt1-PgH1924
+date: 2025-05-08
+edition: CREC
+section: HOUSE
+page: H1924
+citation: 171 Cong. Rec. H1924
+---
+
+# ILLEGAL FIRINGS COULD DEVASTATE OREGON
+
+**Speaking:** Salinas, Andrea (S001226) [D-OR]
+
+```
+                 ILLEGAL FIRINGS COULD DEVASTATE OREGON
+
+  (Ms. SALINAS asked and was given permission to address the House for 
+1 minute and to revise and extend her remarks.)
+  Ms. SALINAS. Madam Speaker, I rise to sound the alarm about the Trump 
+administration's reported plans to fire nearly 7,000 workers in the 
+U.S. Forest Service.
+  These illegal firings could have devastating consequences for Oregon.
+  Wildfire season is just around the corner, and there is concern that 
+the Forest Service won't actually have enough staff and resources to 
+fight these deadly blazes, putting countless Oregonians at risk.
+  Fewer workers also means fewer people to care for our public lands 
+and less money coming into our local economies. It means taxpayer 
+dollars, which go to recruit and train these highly skilled 
+individuals, will lose out on their investment.
+  That is why my colleagues and I sent a letter to Secretary Rollins 
+and President Trump, demanding the reinstatement of all Forest Service 
+personnel who have been illegally fired. Luckily, our letter resulted 
+in some workers being reinstated, but the threat of more terminations 
+remains.
+  Our public servants deserve better. The American people deserve 
+better.
+  Madam Speaker, I won't be silent as the administration continues to 
+wreak havoc on our country, on our forest, and on our people. With or 
+without my Republican colleagues, I will continue to fight for our 
+vulnerable communities.
+
+                          ____________________
+```

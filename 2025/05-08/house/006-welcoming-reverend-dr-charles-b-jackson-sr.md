@@ -1,0 +1,37 @@
+---
+granule: CREC-2025-05-08-pt1-PgH1913-5
+date: 2025-05-08
+edition: CREC
+section: HOUSE
+page: H1913
+citation: 171 Cong. Rec. H1913
+---
+
+# WELCOMING REVEREND DR. CHARLES B. JACKSON, SR.
+
+**Speaking:** Clyburn, James E. (C000537) [D-SC]
+
+```
+             WELCOMING REVEREND DR. CHARLES B. JACKSON, SR.
+
+  The SPEAKER. Without objection, Mr. Clyburn of South Carolina is 
+recognized for 1 minute.
+  There was no objection.
+  Mr. CLYBURN. Mr. Speaker, I am pleased to rise today to welcome to 
+these Chambers and to this well a good friend and a personal, I will 
+say, savior to a multitude of South Carolinians.
+  Reverend Charles B. Jackson has been serving as pastor of Brookland 
+Baptist Church now for 54 years, having been installed at the age of 
+18.
+  I first met him about 2 or 3 years into his pastorate when he was 
+still a student at Benedict College in Columbia. He graduated from the 
+Morehouse School of Religion in Atlanta and has served not only as a 
+pastor of their church, but as a great leader in South Carolina.
+  He serves to make true the words of James when he wrote in his 
+epistle: ``Faith without works is dead.''
+  His work is a living monument to the people of South Carolina and 
+these United States of America, and I am pleased to welcome him here 
+today.
+
+                          ____________________
+```
