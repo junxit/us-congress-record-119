@@ -1,0 +1,41 @@
+---
+granule: CREC-2025-05-13-pt1-PgH1988-5
+date: 2025-05-13
+edition: CREC
+section: HOUSE
+page: H1988
+citation: 171 Cong. Rec. H1988
+---
+
+# DELIVERING SUPPORT TO RURAL COMMUNITIES
+
+**Speaking:** LaMalfa, Doug (L000578) [R-CA]
+
+```
+                DELIVERING SUPPORT TO RURAL COMMUNITIES
+
+  (Mr. LaMALFA asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. LaMALFA. Mr. Speaker, there is a fund called the Secure Rural 
+Schools. It was enacted by Congress decades ago to replace the timber 
+receipts we used to have when we had a strong forest industry, 
+especially in the West. It has been run out by a lot of environmental 
+policies that turned out to be erroneous, see the spotted owl.
+  In Congress, we have had to put forward this Secure Rural Schools 
+funding in order to backfill what local counties, local school 
+districts used to have from timber receipts.
+  The good news is that this piece is in the House Agriculture 
+reconciliation bill, so it is good news for these rural counties that 
+have been waiting for a long time, since it has already expired back in 
+March. It is a lifeline for many areas in rural America where the 
+Federal Government controls so much land.
+  In some States, it is somewhere between 40 and 80 percent of the land 
+that counties can't collect property taxes on when the timber harvest 
+isn't happening anymore like it used to. For some reason, the United 
+States is the number one importer of wood and wood products. Instead, 
+we burn millions of acres every year in the West. SRS was created as a 
+promise. If Washington is going to tie up these lands, it needs to help 
+fund the basic services these counties still have to provide.
+
+                          ____________________
+```

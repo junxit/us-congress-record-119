@@ -1,0 +1,52 @@
+---
+granule: CREC-2025-05-13-pt1-PgE416-5
+date: 2025-05-13
+edition: CREC
+section: EXTENSIONS
+page: E416
+citation: 171 Cong. Rec. E416
+---
+
+# HONORING JA'KYRA CHAPMAN
+
+**Speaking:** Thompson, Bennie G. (T000193) [D-MS]
+
+```
+                        HONORING JA'KYRA CHAPMAN
+
+                                 ______
+                                 
+
+                        HON. BENNIE G. THOMPSON
+
+                             of mississippi
+
+                    in the house of representatives
+
+                         Tuesday, May 13, 2025
+
+  Mr. THOMPSON of Mississippi. Mr. Speaker, I rise today to honor a 
+remarkable servant, Ja'Kyra Zyrielle Chapman.
+  Ja'Kyra Zyrielle Chapman is a 17-year-old visionary residing in 
+Centreville, Mississippi--one of the smallest cities in the state. She 
+is a dreamer with an abundance of ambition that reaches far beyond the 
+horizon.
+  The youngest of four children, Ja'Kyra was raised in a family where 
+love holds greater value than material possessions, and cherished 
+memories are considered more precious than anything the world can 
+offer. Humility has been the cornerstone of her upbringing and her 
+approach to life.
+  Academically, Ja'Kyra has demonstrated excellence and dedication. She 
+holds a 4.13 GPA, earned a 26 on the ACT, and has received numerous 
+honors and awards. These accomplishments reflect her commitment to 
+continuous improvement and her preparation for success in future 
+academic and professional endeavors.
+  Aspiring to become a fashion designer, Ja'Kyra is also a trailblazer 
+in her family as the first to attend college. She is eager to embrace 
+new experiences and is determined to lead a life of purpose.
+  Mr. Speaker, I ask my colleagues to join me in recognizing Ja'Kyra 
+Zyrielle Chapman for her outstanding achievements and contributions to 
+the Centreville, Mississippi community.
+
+                          ____________________
+```

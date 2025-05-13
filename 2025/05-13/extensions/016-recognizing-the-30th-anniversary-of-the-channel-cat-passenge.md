@@ -1,0 +1,55 @@
+---
+granule: CREC-2025-05-13-pt1-PgE416
+date: 2025-05-13
+edition: CREC
+section: EXTENSIONS
+page: E416
+citation: 171 Cong. Rec. E416
+---
+
+# RECOGNIZING THE 30TH ANNIVERSARY OF THE CHANNEL CAT PASSENGER FERRYBOAT SERVICE IN THE QUAD CITIES
+
+**Speaking:** Sorensen, Eric (S001225) [D-IL]
+
+```
+RECOGNIZING THE 30TH ANNIVERSARY OF THE CHANNEL CAT PASSENGER FERRYBOAT 
+                       SERVICE IN THE QUAD CITIES
+
+                                 ______
+                                 
+
+                           HON. ERIC SORENSEN
+
+                              of illinois
+
+                    in the house of representatives
+
+                         Tuesday, May 13, 2025
+
+  Mr. SORENSEN. Mr. Speaker, I rise today to recognize an extraordinary 
+milestone in the Quad Cities--the 30th anniversary of the Channel Cat 
+passenger ferryboat service. What began as a bold idea in 1994, led by 
+Kathy Wine, Executive Director of River Action, has since become a 
+vital part of our region's transportation network and a celebrated 
+symbol of innovation along the Mississippi River.
+  With early support from the Riverboat Development Authority and a 
+coalition of local leaders, the first water taxi launched over the July 
+4th weekend in 1995, connecting communities and offering a new way to 
+experience our historic river. Since MetroLINK assumed operation in 
+1998 under the direction of CEO Jeff Nelson, the Channel Cat has grown 
+tremendously. Federal grants have helped fund three ADA-accessible 
+vessels powered by biodiesel, construction of improved riverfront 
+docks, and even plans for future electric ferries.
+  The Channel Cat has provided over one million rides, giving residents 
+and visitors alike a unique and sustainable way to cross the 
+Mississippi River--connecting two states, three downtowns, and 
+countless cultural and recreational opportunities.
+  On May 23, 2025, we celebrate three decades of impact and innovation. 
+I proudly recognize the Channel Cat for its outstanding service and 
+commend Kathy Wine and Jeff Nelson for their visionary leadership and 
+unwavering dedication to environmental stewardship and public access 
+along our riverfront. The Quad Cities is a better, more connected place 
+because of their work.
+
+                          ____________________
+```

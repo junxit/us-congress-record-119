@@ -1,0 +1,35 @@
+---
+granule: CREC-2025-05-13-pt1-PgH1988-4
+date: 2025-05-13
+edition: CREC
+section: HOUSE
+page: H1988
+citation: 171 Cong. Rec. H1988
+---
+
+# SUPPORT SAFER COMMUNITIES
+
+**Speaking:** Bynum, Janelle S. (B001326) [D-OR]
+
+```
+                       SUPPORT SAFER COMMUNITIES
+
+  (Ms. BYNUM asked and was given permission to address the House for 1 
+minute and to revise and extend her remarks.)
+  Ms. BYNUM. Mr. Speaker, I rise today because the President is out 
+here in these streets cutting funding for programs that support a lot 
+of things Americans care about: Survivors of sexual assault, programs 
+that offer mental health care for police officers and keep hotlines to 
+victims of crime open, programs that assist law enforcement in rural 
+communities, provide guidance on finding safe housing, and offer care 
+and counseling for children facing abuse.
+  Mr. Speaker, local organizations have been sounding the alarm of what 
+these cuts would mean for our communities, and today I am joining them. 
+In some situations, these services are make or break, and we just can't 
+let our communities and our neighbors down.
+  Mr. Speaker, this week is Police Week, and if the President is truly 
+supportive of safer communities, he should quit cutting funding for 
+programs that work to keep them that way.
+
+                          ____________________
+```
