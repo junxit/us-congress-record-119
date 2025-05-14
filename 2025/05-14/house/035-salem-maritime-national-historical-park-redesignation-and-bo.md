@@ -1,0 +1,490 @@
+---
+granule: CREC-2025-05-14-pt1-PgH2021-4
+date: 2025-05-14
+edition: CREC
+section: HOUSE
+page: H2021
+citation: 171 Cong. Rec. H2021
+---
+
+# SALEM MARITIME NATIONAL HISTORICAL PARK REDESIGNATION AND BOUNDARY STUDY ACT
+
+**Measures:** H.R. 2215
+
+```
+  SALEM MARITIME NATIONAL HISTORICAL PARK REDESIGNATION AND BOUNDARY 
+                               STUDY ACT
+
+  The SPEAKER pro tempore. Pursuant to clause 8 of rule XX, the 
+unfinished business is the vote on the motion to suspend the rules and 
+pass the bill (H.R. 2215) to redesignate the Salem Maritime National 
+Historic Site as the ``Salem Maritime National Historical Park'', and 
+for other purposes, on which the yeas and nays were ordered.
+  The Clerk read the title of the bill.
+  The SPEAKER pro tempore. The question is on the motion offered by the 
+gentleman from Arkansas (Mr. Westerman) that the House suspend the 
+rules and pass the bill.
+  The vote was taken by electronic device, and there were--yeas 382, 
+nays 31, not voting 19, as follows:
+
+                             [Roll No. 125]
+
+                               YEAS--382
+
+     Adams
+     Aderholt
+     Aguilar
+     Alford
+     Allen
+     Amo
+     Amodei (NV)
+     Ansari
+     Arrington
+     Auchincloss
+     Babin
+     Bacon
+     Baird
+     Balderson
+     Balint
+
+[[Page H2022]]
+
+
+     Barr
+     Barragan
+     Barrett
+     Baumgartner
+     Beatty
+     Begich
+     Bell
+     Bentz
+     Bera
+     Bergman
+     Bice
+     Bilirakis
+     Bonamici
+     Bost
+     Boyle (PA)
+     Bresnahan
+     Brown
+     Brownley
+     Buchanan
+     Budzinski
+     Bynum
+     Calvert
+     Carbajal
+     Carey
+     Carson
+     Carter (GA)
+     Carter (LA)
+     Carter (TX)
+     Casar
+     Casten
+     Castor (FL)
+     Castro (TX)
+     Cherfilus-McCormick
+     Chu
+     Ciscomani
+     Cisneros
+     Clark (MA)
+     Clarke (NY)
+     Cleaver
+     Cline
+     Clyburn
+     Cohen
+     Cole
+     Collins
+     Comer
+     Conaway
+     Correa
+     Costa
+     Courtney
+     Craig
+     Crawford
+     Crenshaw
+     Crockett
+     Crow
+     Cuellar
+     Davids (KS)
+     Davidson
+     Davis (NC)
+     DeGette
+     DeLauro
+     DelBene
+     Deluzio
+     DeSaulnier
+     DesJarlais
+     Dexter
+     Diaz-Balart
+     Dingell
+     Doggett
+     Downing
+     Dunn (FL)
+     Edwards
+     Elfreth
+     Ellzey
+     Emmer
+     Escobar
+     Espaillat
+     Estes
+     Evans (CO)
+     Ezell
+     Fallon
+     Fedorchak
+     Feenstra
+     Fields
+     Figures
+     Fine
+     Finstad
+     Fischbach
+     Fitzgerald
+     Fitzpatrick
+     Fleischmann
+     Fletcher
+     Flood
+     Fong
+     Foster
+     Foushee
+     Foxx
+     Frankel, Lois
+     Franklin, Scott
+     Friedman
+     Frost
+     Fry
+     Garbarino
+     Garcia (CA)
+     Garcia (IL)
+     Garcia (TX)
+     Gillen
+     Gimenez
+     Golden (ME)
+     Goldman (NY)
+     Goldman (TX)
+     Gomez
+     Gonzales, Tony
+     Gonzalez, V.
+     Gooden
+     Goodlander
+     Gottheimer
+     Graves
+     Gray
+     Green, Al (TX)
+     Griffith
+     Grothman
+     Guest
+     Guthrie
+     Hageman
+     Hamadeh (AZ)
+     Harder (CA)
+     Haridopolos
+     Harshbarger
+     Hayes
+     Hern (OK)
+     Hill (AR)
+     Himes
+     Hinson
+     Horsford
+     Houchin
+     Houlahan
+     Hoyer
+     Hoyle (OR)
+     Hudson
+     Huffman
+     Huizenga
+     Hunt
+     Hurd (CO)
+     Issa
+     Ivey
+     Jack
+     Jackson (IL)
+     Jackson (TX)
+     Jacobs
+     James
+     Jayapal
+     Jeffries
+     Johnson (GA)
+     Johnson (SD)
+     Johnson (TX)
+     Jordan
+     Joyce (OH)
+     Kamlager-Dove
+     Kaptur
+     Kean
+     Keating
+     Kelly (IL)
+     Kelly (MS)
+     Kelly (PA)
+     Kennedy (NY)
+     Khanna
+     Kiggans (VA)
+     Kiley (CA)
+     Kim
+     Knott
+     Krishnamoorthi
+     Kustoff
+     LaLota
+     LaMalfa
+     Landsman
+     Langworthy
+     Larsen (WA)
+     Latimer
+     Latta
+     Lawler
+     Lee (FL)
+     Lee (NV)
+     Lee (PA)
+     Leger Fernandez
+     Letlow
+     Levin
+     Liccardo
+     Lieu
+     Lofgren
+     Loudermilk
+     Lucas
+     Luna
+     Luttrell
+     Lynch
+     Mace
+     Mackenzie
+     Magaziner
+     Malliotakis
+     Maloy
+     Mann
+     Mannion
+     Mast
+     Matsui
+     McBath
+     McBride
+     McCaul
+     McClain
+     McClain Delaney
+     McClellan
+     McClintock
+     McCollum
+     McDonald Rivet
+     McDowell
+     McGarvey
+     McGovern
+     McIver
+     Meeks
+     Menendez
+     Meng
+     Messmer
+     Meuser
+     Mfume
+     Miller (IL)
+     Miller (OH)
+     Miller (WV)
+     Miller-Meeks
+     Min
+     Moolenaar
+     Moore (NC)
+     Moore (UT)
+     Moore (WI)
+     Moore (WV)
+     Moran
+     Morelle
+     Morrison
+     Moskowitz
+     Moulton
+     Mrvan
+     Mullin
+     Murphy
+     Nadler
+     Neal
+     Neguse
+     Nehls
+     Newhouse
+     Nunn (IA)
+     Obernolte
+     Ocasio-Cortez
+     Olszewski
+     Omar
+     Onder
+     Owens
+     Pallone
+     Palmer
+     Panetta
+     Pappas
+     Patronis
+     Pelosi
+     Perez
+     Peters
+     Pfluger
+     Pingree
+     Pocan
+     Pou
+     Pressley
+     Quigley
+     Ramirez
+     Randall
+     Raskin
+     Reschenthaler
+     Riley (NY)
+     Rivas
+     Rogers (AL)
+     Rogers (KY)
+     Rose
+     Ross
+     Rouzer
+     Ruiz
+     Rulli
+     Rutherford
+     Ryan
+     Salazar
+     Salinas
+     Sanchez
+     Scalise
+     Schakowsky
+     Schmidt
+     Schneider
+     Scholten
+     Schrier
+     Schweikert
+     Scott (VA)
+     Scott, Austin
+     Scott, David
+     Sessions
+     Sewell
+     Sherman
+     Shreve
+     Simon
+     Simpson
+     Smith (MO)
+     Smith (NE)
+     Smith (NJ)
+     Smith (WA)
+     Smucker
+     Sorensen
+     Soto
+     Spartz
+     Stansbury
+     Stanton
+     Stauber
+     Stefanik
+     Steil
+     Stevens
+     Strickland
+     Strong
+     Stutzman
+     Subramanyam
+     Suozzi
+     Swalwell
+     Sykes
+     Takano
+     Taylor
+     Tenney
+     Thanedar
+     Thompson (CA)
+     Thompson (MS)
+     Thompson (PA)
+     Tiffany
+     Timmons
+     Titus
+     Tlaib
+     Tokuda
+     Tonko
+     Torres (CA)
+     Torres (NY)
+     Trahan
+     Tran
+     Turner (OH)
+     Underwood
+     Valadao
+     Van Drew
+     Van Duyne
+     Van Orden
+     Vargas
+     Vasquez
+     Veasey
+     Velazquez
+     Vindman
+     Wagner
+     Walberg
+     Wasserman Schultz
+     Waters
+     Watson Coleman
+     Weber (TX)
+     Webster (FL)
+     Westerman
+     Whitesides
+     Wied
+     Williams (GA)
+     Williams (TX)
+     Wilson (FL)
+     Wilson (SC)
+     Wittman
+     Womack
+     Yakym
+     Zinke
+
+                                NAYS--31
+
+     Bean (FL)
+     Biggs (AZ)
+     Biggs (SC)
+     Boebert
+     Brecheen
+     Burchett
+     Cammack
+     Cloud
+     Clyde
+     Crane
+     Crank
+     Fulcher
+     Gosar
+     Green (TN)
+     Greene (GA)
+     Harrigan
+     Harris (MD)
+     Harris (NC)
+     Higgins (LA)
+     Joyce (PA)
+     Kennedy (UT)
+     Massie
+     McCormick
+     McGuire
+     Mills
+     Moore (AL)
+     Ogles
+     Perry
+     Roy
+     Self
+     Steube
+
+                             NOT VOTING--19
+
+     Beyer
+     Bishop
+     Burlison
+     Case
+     Connolly
+     Davis (IL)
+     De La Cruz
+     Dean (PA)
+     Donalds
+     Evans (PA)
+     Garamendi
+     Gill (TX)
+     LaHood
+     Larson (CT)
+     Norcross
+     Norman
+     Pettersen
+     Scanlon
+     Sherrill
+
+                              {time}  1354
+
+  Messrs. KENNEDY of Utah, HIGGINS of Louisiana, OGLES, MASSIE, HARRIS 
+of North Carolina, and Mrs. BIGGS of South Carolina changed their vote 
+from ``yea'' to ``nay.''
+  Ms. McCOLLUM, Messrs. GOLDMAN of New York, HIMES, GARCIA of Illinois, 
+and KEATING changed their vote from ``nay'' to ``yea.''
+  So (two-thirds being in the affirmative) the rules were suspended and 
+the bill was passed.
+  The result of the vote was announced as above recorded.
+  A motion to reconsider was laid on the table.
+
+                          ____________________
+```
