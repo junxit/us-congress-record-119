@@ -1,0 +1,62 @@
+---
+granule: CREC-2025-05-15-pt1-PgE441-3
+date: 2025-05-15
+edition: CREC
+section: EXTENSIONS
+page: E441
+citation: 171 Cong. Rec. E441
+---
+
+# CELEBRATING 50 YEARS OF THE BUFFALO NIAGARA HERITAGE VILLAGE LOCATION SITE
+
+**Speaking:** Kennedy, Timothy M. (K000402) [D-NY]
+
+```
+ CELEBRATING 50 YEARS OF THE BUFFALO NIAGARA HERITAGE VILLAGE LOCATION 
+                                  SITE
+
+                                 ______
+                                 
+
+                        HON. TIMOTHY M. KENNEDY
+
+                              of new york
+
+                    in the house of representatives
+
+                         Thursday, May 15, 2025
+
+  Mr. KENNEDY of New York. Mr. Speaker, I rise today to recognize the 
+Buffalo Niagara Heritage Village as it celebrates 50 years at its 
+current site, a remarkable milestone. The Buffalo Niagara Heritage 
+Village marks five decades of exceptional work preserving the 
+agricultural history and rural heritage of the Buffalo Niagara region. 
+The Buffalo Niagara Heritage Village exemplifies the commitment of our 
+community to honor and share the stories that have shaped our past and 
+continue to inform our future.
+  Since moving to its current location, the Buffalo Niagara Heritage 
+Village has grown into a dynamic institution. Beyond its present role 
+in preservation, the Village actively creates an educational 
+institution that cultivates a deep appreciation for our local history. 
+Visitors quickly realize that it is more than a museum--the Buffalo 
+Niagara Heritage Village is a vibrant hub for learning, exploration, 
+and inspiration.
+  The Buffalo Niagara Heritage Village showcases our region's deep 
+contributions to the broader American story, sparking curiosity and 
+instilling pride in all who visit. Through immersive hands-on 
+experiences, it brings our agricultural heritage to life, inspiring the 
+next generation of leaders, artists, and custodians of our heritage.
+  Today, as we celebrate 50 years of the location site for the Buffalo 
+Niagara Heritage Village, we also look forward with gratitude and 
+ambition. The museum's continued efforts help to enhance the Western 
+New York region by continuously expanding their reach, and creating 
+even more meaningful connections throughout the community we cherish. 
+Please join me in thanking the Buffalo Niagara Heritage Village's 
+organizers for their years of service to the public.
+
+[[Page E442]]
+
+  
+
+                          ____________________
+```

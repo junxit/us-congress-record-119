@@ -1,0 +1,38 @@
+---
+granule: CREC-2025-05-15-pt1-PgH2084-5
+date: 2025-05-15
+edition: CREC
+section: HOUSE
+page: H2084
+citation: 171 Cong. Rec. H2084
+---
+
+# SUPPORTING OUR FIRST RESPONDERS
+
+**Speaking:** Stansbury, Melanie A. (S001218) [D-NM]
+
+```
+                    SUPPORTING OUR FIRST RESPONDERS
+
+  (Ms. STANSBURY asked and was given permission to address the House 
+for 1 minute and to revise and extend her remarks.)
+  Ms. STANSBURY. Mr. Speaker, as we honor Police Week, I rise to take a 
+moment to thank all of our first responders who bravely put their lives 
+on the line every day across New Mexico and to honor all of those who 
+have fallen in the line of duty.
+  As we honor our heroes, we must honor them not just in words, but in 
+action, because our communities deserve real solutions: funding for law 
+enforcement, behavioral health programs, keeping fentanyl off the 
+streets, and real solutions that keep our communities safe.
+  That is why I have been working with State police, Tribal law 
+enforcement, county sheriffs, and police departments across New Mexico 
+to invest in technologies and tools to fund fire stations and emergency 
+response, to invest in healthcare providers and behavioral health 
+clinics, working with housing and homeless providers to help our 
+veterans, elders, families, and young people, and to keep our 
+communities safe. We do it by investing not only in the people who 
+serve our communities bravely every day, but by investing in the people 
+of our communities.
+
+                          ____________________
+```

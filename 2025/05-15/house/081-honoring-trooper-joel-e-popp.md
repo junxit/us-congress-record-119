@@ -1,0 +1,35 @@
+---
+granule: CREC-2025-05-15-pt1-PgH2084
+date: 2025-05-15
+edition: CREC
+section: HOUSE
+page: H2084
+citation: 171 Cong. Rec. H2084
+---
+
+# HONORING TROOPER JOEL E. POPP
+
+```
+                     HONORING TROOPER JOEL E. POPP
+
+  (Ms. McDONALD RIVET asked and was given permission to address the 
+House for 1 minute and to revise and extend her remarks.)
+  Ms. McDONALD RIVET. Mr. Speaker, I rise to honor a mid-Michigan hero, 
+Trooper Joel E. Popp of the Michigan State Police.
+  Trooper Popp passed away in the line of duty last year, and this 
+tragedy touched every corner of our community. Family, friends, 
+neighbors, the men and women who served with him, and strangers 
+gathered together to honor his service and his sacrifice.
+  Joel was an avid outdoorsman. When off duty, he could be found 
+hunting, fishing, snowmobiling, or golfing. He loved being a husband 
+and a father.
+  Trooper Popp has been added to the National Law Enforcement Officers 
+Memorial Wall here in D.C., where he joins other American heroes who 
+made the ultimate sacrifice.
+  This National Police Week, I thank Trooper Popp and all the other 
+brave men and women who put their lives on the line to protect and 
+serve our Nation and its people. We owe them a profound debt of 
+gratitude.
+
+                          ____________________
+```

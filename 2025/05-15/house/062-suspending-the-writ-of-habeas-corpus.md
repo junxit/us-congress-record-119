@@ -1,0 +1,35 @@
+---
+granule: CREC-2025-05-15-pt1-PgH2080-4
+date: 2025-05-15
+edition: CREC
+section: HOUSE
+page: H2080
+citation: 171 Cong. Rec. H2080
+---
+
+# SUSPENDING THE WRIT OF HABEAS CORPUS
+
+**Speaking:** Balint, Becca (B001318) [D-VT]
+
+```
+                  SUSPENDING THE WRIT OF HABEAS CORPUS
+
+  (Ms. BALINT asked and was given permission to address the House for 1 
+minute and to revise and extend her remarks.)
+  Ms. BALINT. Mr. Speaker, I was a history teacher, and I know that we 
+have to be documenting this moment. When we look back, I don't want 
+anyone to say that we didn't know what was happening.
+  Trump adviser Stephen Miller and perhaps the most joyless man in 
+America recently said that Trump is actively looking at suspending the 
+writ of habeas corpus.
+  I am sorry. What? What?
+  Habeas corpus is the right we all have to challenge in court if we 
+are detained and locked up. Without it, it means that any of us can be 
+locked up with no cause. It can only be suspended by Congress, by us.
+  Americans, please hear me: Who are we? Who are we if we let Trump 
+abandon our core principle that no one in this country will be 
+imprisoned unlawfully? This is about liberty, and there is nothing more 
+important than our liberty.
+
+                          ____________________
+```

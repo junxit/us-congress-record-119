@@ -1,0 +1,52 @@
+---
+granule: CREC-2025-05-15-pt1-PgE433-3
+date: 2025-05-15
+edition: CREC
+section: EXTENSIONS
+page: E433
+citation: 171 Cong. Rec. E433
+---
+
+# RECOGNIZING THE 20TH ANNIVERSARY OF MOUNTAIN'S EDGE COMMUNITY IN CLARK COUNTY, NEVADA
+
+**Speaking:** Lee, Susie (L000590) [D-NV]
+
+```
+RECOGNIZING THE 20TH ANNIVERSARY OF MOUNTAIN'S EDGE COMMUNITY IN CLARK 
+                             COUNTY, NEVADA
+
+                                 ______
+                                 
+
+                             HON. SUSIE LEE
+
+                               of nevada
+
+                    in the house of representatives
+
+                         Thursday, May 15, 2025
+
+  Ms. LEE of Nevada. Mr. Speaker, I rise to recognize and celebrate the 
+20th anniversary of the Mountain's Edge community in Clark County, 
+Nevada.
+  Since its groundbreaking in 2005, Mountain's Edge has grown into one 
+of the most vibrant communities in the southwest area of the Las Vegas 
+Valley. Mountain's Edge sits at the foothills of the Spring Mountains, 
+and was envisioned as a place where residents could live, work, and 
+thrive with the surrounding natural beauty.
+  Over the past two decades, that vision has become a reality for the 
+more than 40,000 people that call Mountain's Edge home Today, its 
+residents can enjoy outdoor living with 700 acres dedicated to open 
+green spaces, parks and trails. This award-winning community is home to 
+over 70 diverse neighborhoods with convenient access to strong schools, 
+shopping centers, and other amenities. Not only does its outdoor 
+recreation set it apart, but Mountain's Edge offers its residents a 
+strong sense of community.
+  I would like to extend my congratulations to the Mountain's Edge 
+Master Association, local businesses, schools, first responders, and 
+all the residents who have helped shape the community's success over 
+the last 20 years. I wish its residents continued success and community 
+spirit for decades to come.
+
+                          ____________________
+```

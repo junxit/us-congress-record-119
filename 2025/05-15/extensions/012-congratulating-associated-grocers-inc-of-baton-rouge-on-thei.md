@@ -1,0 +1,45 @@
+---
+granule: CREC-2025-05-15-pt1-PgE434
+date: 2025-05-15
+edition: CREC
+section: EXTENSIONS
+page: E434
+citation: 171 Cong. Rec. E434
+---
+
+# CONGRATULATING ASSOCIATED GROCERS, INC. OF BATON ROUGE ON THEIR 75TH ANNIVERSARY
+
+**Speaking:** Letlow, Julia (L000595) [R-LA]
+
+```
+ CONGRATULATING ASSOCIATED GROCERS, INC. OF BATON ROUGE ON THEIR 75TH 
+                              ANNIVERSARY
+
+                                 ______
+                                 
+
+                           HON. JULIA LETLOW
+
+                              of louisiana
+
+                    in the house of representatives
+
+                         Thursday, May 15, 2025
+
+  Ms. LETLOW. Mr. Speaker, today, I rise to recognize the 75th 
+anniversary of Associated Grocers, Inc. of Baton Rouge. For 75 years, 
+this organization has been a steadfast partner to locally owned 
+supermarkets, supporting small businesses, sustaining local jobs, and 
+fostering economic growth across Louisiana, Mississippi, and Texas.
+  Associated Grocers was founded in 1950 by a group of visionary 
+independent grocers who understood the power of collaboration in a 
+competitive marketplace. Over the decades, this cooperative has grown 
+to serve more than 200 independent retailers, a model that strengthens 
+local economies and ensures that consumers have access to fresh, 
+quality foods, even in rural and underserved areas.
+  Congratulations to Associated Grocers, Inc. of Baton Rouge on this 
+milestone anniversary. May their legacy of service, partnership, and 
+community leadership continue to inspire future generations.
+
+                          ____________________
+```
