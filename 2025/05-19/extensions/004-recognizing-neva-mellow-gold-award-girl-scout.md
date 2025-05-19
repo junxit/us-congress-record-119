@@ -1,0 +1,64 @@
+---
+granule: CREC-2025-05-19-pt1-PgE446
+date: 2025-05-19
+edition: CREC
+section: EXTENSIONS
+page: E446
+citation: 171 Cong. Rec. E446
+---
+
+# RECOGNIZING NEVA MELLOW, GOLD AWARD GIRL SCOUT
+
+**Speaking:** Amodei, Mark E. (A000369) [R-NV]
+
+```
+             RECOGNIZING NEVA MELLOW, GOLD AWARD GIRL SCOUT
+
+                                 ______
+                                 
+
+                          HON. MARK E. AMODEI
+
+                               of nevada
+
+                    in the house of representatives
+
+                          Monday, May 19, 2025
+
+  Mr. AMODEI of Nevada. Mr. Speaker, I rise today to ask my colleagues 
+to join me in congratulating Neva Mellow. Neva is a member of Girl 
+Scouts of the Sierra Nevada, Troop 317, and has exemplified 
+extraordinary leadership, innovative problem-solving, and a 
+demonstrated commitment to making a lasting, positive impact, by 
+earning the most prestigious award in Girl Scouting, the Gold Award.
+  Gold Award Girl Scouts are recognized as trailblazers who are willing 
+to tackle the most pressing challenges facing their communities and the 
+world with measurable, sustainable, and far-reaching results. To earn 
+the Girl Scout Gold Award, high school-age Girl Scouts must identify 
+and investigate an issue they care about, devise a plan, and then lead 
+a team of experts and community members to implement a project that 
+produces lasting change. Over the course of 1 to 2 years, Gold Award 
+Girl Scouts demonstrate significant initiative, commitment, and 
+leadership, distinguishing them from their peers. Through their 
+resourcefulness and perseverance, they embody the Girl Scout Law to 
+truly make the world a better place.
+  Neva Mellow created ``The Art of Letting Go''. There is a common 
+misconception that young people do not experience grief, which is 
+untrue. In the first class she presented to, out of 15 students, 10 had 
+suffered the death of a loved one. Of those 10, four had suffered the 
+loss of a parent, three the death of a sibling, and two had experienced 
+losing someone to suicide. Neva hosted five seminars for Carson City 
+School District freshmen, educating them on 16 types and five stages of 
+grief. She emphasized the importance of support groups and self-care in 
+navigating these emotional challenges. Following the seminars, students 
+created art pieces to express their journey of overcoming grief. These 
+artworks were then donated and displayed at the Brewery Arts Center and 
+local organizations focusing on mental health, helping to raise 
+awareness and foster healing within the community.
+  On behalf of the 2nd Congressional District of Nevada, I congratulate 
+Neva Mellow for achieving the highest distinction in Girl Scouts, the 
+Gold Award. We thank Neva for her leadership and for making such a 
+positive, lasting change in our community.
+
+                          ____________________
+```

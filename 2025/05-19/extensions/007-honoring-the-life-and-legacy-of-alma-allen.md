@@ -1,0 +1,60 @@
+---
+granule: CREC-2025-05-19-pt1-PgE447
+date: 2025-05-19
+edition: CREC
+section: EXTENSIONS
+page: E447
+citation: 171 Cong. Rec. E447
+---
+
+# HONORING THE LIFE AND LEGACY OF ALMA ALLEN
+
+**Speaking:** Veasey, Marc A. (V000131) [D-TX]
+
+```
+               HONORING THE LIFE AND LEGACY OF ALMA ALLEN
+
+                                 ______
+                                 
+
+                          HON. MARC A. VEASEY
+
+                                of texas
+
+                    in the house of representatives
+
+                          Monday, May 19, 2025
+
+  Mr. VEASEY. Mr. Speaker, today I rise to honor the life and legacy of 
+Alma Allen, a pillar of our Fort Worth community and a woman whose 
+presence touched the lives of so many.
+  Alma was born on December 5, 1932, in Fort Worth, Texas, to Leroy 
+Tucker and Luvane Edwards. After graduating from I.M. Terrell High 
+School in 1949, Alma began her career as an interior decorator, using 
+her eye for design and creativity to bring warmth and beauty into the 
+homes of others. Later in life, she turned her attention toward 
+advocacy, becoming a passionate activist and respected historian of the 
+Stop Six neighborhood in Fort Worth--a role in which she preserved and 
+uplifted the stories of our community.
+  Throughout her life, Alma enjoyed a wide range of interests that 
+reflected her creativity and love for simple joys. She found 
+fulfillment in sewing, cooking, working in her garden, and relaxing 
+with adult coloring books. In quieter moments, she looked forward to 
+her favorite television programs, especially westerns, soap operas, and 
+episodes of Judge Judy, which never failed to bring a smile to her 
+face.
+  Her family remembers her not only for her many talents but for her 
+deep well of love. She was a devoted mother and grandmother, 
+affectionately known to those closest to her by many names, but most 
+lovingly as ``Ma'Maw.''
+  Alma was preceded in death by her parents; her daughter, Rosaline 
+Dory; her son, Zachary; and her sisters, Doris and Vera. She is 
+survived by her children: Regina, Raymond, Megal, and Jessica, her 
+sister Barbara, and a large extended family of grandchildren and great-
+grandchildren who carry forward her legacy.
+  While our community mourns the loss of this extraordinary woman, we 
+should also take this moment to celebrate a life defined by compassion, 
+strength, and service. She will not be forgotten.
+
+                          ____________________
+```

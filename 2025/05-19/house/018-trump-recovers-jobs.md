@@ -1,0 +1,39 @@
+---
+granule: CREC-2025-05-19-pt1-PgH2112-4
+date: 2025-05-19
+edition: CREC
+section: HOUSE
+page: H2112
+citation: 171 Cong. Rec. H2112
+---
+
+# TRUMP RECOVERS JOBS
+
+**Speaking:** Wilson, Joe (W000795) [R-SC]
+
+```
+                          TRUMP RECOVERS JOBS
+
+  (Mr. WILSON of South Carolina asked and was given permission to 
+address the House for 1 minute and to revise and extend his remarks.)
+  Mr. WILSON of South Carolina. Mr. Speaker, for too long American 
+workers have shouldered the burden of trade policies that reward the 
+Chinese Communist Party billionaires, destroying American jobs.
+  Mr. Speaker, 3.8 million American jobs were lost to China from 2001 
+through early 2023, including 60,000 jobs in South Carolina.
+  Reliance on the Chinese Communist Party jeopardizes American national 
+security.
+  Overall, China is the largest source for the manufacture of cell 
+phones, toys, computers, and other products. President Donald Trump has 
+long recognized this problem. Last week, one-on-one discussions between 
+America and China produced agreements to dramatically reduce tariffs, 
+while establishing a path forward to manage the China challenge.
+  In conclusion, God bless our troops as the global war on terrorism 
+continues. Trump is reinstituting existing laws to protect American 
+families with peace through strength, revealing war criminal Putin's 
+lies, violating NATO airspace and insulting Trump last Tuesday with a 
+Russian jet over the Gulf of Finland escorting a shadow ship, 
+threatening Estonia, our NATO ally.
+
+                          ____________________
+```

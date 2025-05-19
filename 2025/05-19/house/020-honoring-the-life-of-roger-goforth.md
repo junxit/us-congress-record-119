@@ -1,0 +1,44 @@
+---
+granule: CREC-2025-05-19-pt1-PgH2112-6
+date: 2025-05-19
+edition: CREC
+section: HOUSE
+page: H2112
+citation: 171 Cong. Rec. H2112
+---
+
+# HONORING THE LIFE OF ROGER GOFORTH
+
+**Speaking:** Moore, Tim (M001236) [R-NC]
+
+```
+                   HONORING THE LIFE OF ROGER GOFORTH
+
+  (Mr. MOORE of North Carolina asked and was given permission to 
+address the House for 1 minute and to revise and extend his remarks.)
+  Mr. MOORE of North Carolina. Mr. Speaker, I rise today to honor the 
+life and service of Roger Eugene Goforth from my hometown of Kings 
+Mountain, North Carolina.
+  For over 30 years, Roger served with the Kings Mountain Police 
+Department. He took pride in that role, using it as an opportunity to 
+keep the community safe and to help his neighbors in any way he could.
+  Roger was the kind of person who showed up wherever he was needed. He 
+drove a schoolbus for the Kings Mountain schools, worked for decades at
+
+[[Page H2113]]
+
+Foote Mineral and FMC Lithium, and even ran his own business at 
+Battleground Petroleum.
+  No matter what job he held, he brought a strong work ethic and a big 
+heart. He was incredibly active in his community and his faith as a 
+part of the Dixon Presbyterian Church and Victory Baptist. He was also 
+a member of the Shriners, a Mason, and a member of the Progressive 
+Club.
+  When he had free time, he could be found fishing, competing in 
+tractor pulls, or spending time with his family.
+  Roger was a good man who cared deeply about the people around him, 
+especially his family. He certainly left Kings Mountain a better place, 
+and he will be missed by all those who knew him.
+
+                          ____________________
+```
