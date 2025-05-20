@@ -1,0 +1,45 @@
+---
+granule: CREC-2025-05-20-pt1-PgH2180-2
+date: 2025-05-20
+edition: CREC
+section: HOUSE
+page: H2180
+citation: 171 Cong. Rec. H2180
+---
+
+# REINING IN CALIFORNIA'S LOW CARBON FUEL STANDARD
+
+**Speaking:** LaMalfa, Doug (L000578) [R-CA]
+
+```
+                              {time}  1750
+            REINING IN CALIFORNIA'S LOW CARBON FUEL STANDARD
+
+  (Mr. LaMALFA asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. LaMALFA. Mr. Speaker, once again, the California Air Resources 
+Board is trying to jam through a gas price hike under the cover of its 
+so-called low carbon fuel standard. After the rule was blocked earlier 
+this year for being unclear and poorly written, CARB is now racing to 
+make it effective by July 1, just months after quietly approving it 
+right after the election and in time for summer travel for people on 
+vacation, et cetera.
+  Even their own staff at CARB admitted it will raise gas prices. 
+Californians already pay the highest gas prices in the country. This 
+will just make it worse.
+  This is set to add at least 65 cents per gallon by this move. 
+Combined with a couple of closed refineries in California, by the time 
+that kicks into place, a USC study indicates it could be $8.40 per 
+gallon. Let that settle.
+  That is exactly why I acted at the Federal level and led the charge 
+to rein in California's Clean Air Act waiver authority, the same waiver 
+CARB uses to push these costly, unchecked regulations onto the rest of 
+the country. No agency should have this much power to raise costs 
+without public input or accountability. This is bureaucratic overreach.
+  We voted here to contain CARB on forcing electric cars and trucks 
+under these waivers. We should give them no more waivers and allow that 
+or other radical policies that raise costs for families and everybody 
+else.
+
+                          ____________________
+```

@@ -1,0 +1,45 @@
+---
+granule: CREC-2025-05-20-pt1-PgH2180-6
+date: 2025-05-20
+edition: CREC
+section: HOUSE
+page: H2180
+citation: 171 Cong. Rec. H2180
+---
+
+# GOP TAX SCAM HURTS WOMEN AND FAMILIES
+
+**Speaking:** Scholten, Hillary J. (S001221) [D-MI]
+
+```
+                 GOP TAX SCAM HURTS WOMEN AND FAMILIES
+
+  (Ms. SCHOLTEN asked and was given permission to address the House for 
+1 minute and to revise and extend her remarks.)
+  Ms. SCHOLTEN. Mr. Speaker, I rise today to share a story from 
+Charlene, a grandmother in Michigan, who wrote me with a real, honest 
+fear about Medicaid cuts.
+  Her granddaughter is just 11 years old, and she lives with type 1 
+diabetes.
+
+[[Page H2181]]
+
+Her life depends on insulin and a constant stream of medical supplies 
+to keep her alive.
+  Her mother is a single mom and a nurse. She takes care of others for 
+a living. Even though she has her own insurance, it doesn't come close 
+to covering all of her daughter's needs.
+  That is where Medicaid comes in. She is doing everything right and 
+this family is still holding their breath. If Medicaid disappears, 
+Charlene's granddaughter faces the possibility of going without the 
+medicine that keeps her alive.
+  Who are we as a nation? Why are we talking about this right now, and 
+all for what? It is so that Republicans can continue massive tax cuts 
+for billionaires and corporations. We can afford the healthcare that we 
+need and deserve in this country if we are willing to stand up to the 
+ultrawealthy.
+  I will never stop fighting for Charlene's granddaughter and every 
+family like hers in west Michigan and across the country.
+
+                          ____________________
+```

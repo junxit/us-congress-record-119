@@ -1,0 +1,47 @@
+---
+granule: CREC-2025-05-20-pt1-PgH2184-6
+date: 2025-05-20
+edition: CREC
+section: HOUSE
+page: H2184
+citation: 171 Cong. Rec. H2184
+---
+
+# MEDICAID AND SNAP
+
+**Speaking:** Kaptur, Marcy (K000009) [D-OH]
+
+```
+                           MEDICAID AND SNAP
+
+  (Ms. KAPTUR asked and was given permission to address the House for 1 
+minute and to revise and extend her remarks.)
+  Ms. KAPTUR. Mr. Speaker, please let me share the story of two of my 
+constituents who will be hurt by the cruel bonanza for billionaires 
+budget bill.
+  Bonnie is 82 years of age. She is the primary caregiver for her 63-
+year-old nephew, Michael. He is deaf, neurodivergent, and lives with 
+multiple chronic health conditions.
+  For years, Bonnie has been his primary support so he can live 
+independently, manage complex health needs, and navigate programs like 
+Medicaid, Medicare, SNAP, and subsidized housing.
+
+[[Page H2185]]
+
+  Bonnie handles most of Michael's communications with medical 
+providers as he is unable to due to his ability to communicate by mouth 
+or by ASL. Michael has relied on Medicaid for hearing aids, surgeries, 
+dental work, housing, and more. If he loses his coverage, she believes 
+Michael will become frustrated and either go to jail, self-harm, or 
+die.
+  Michael's mother passed away when he was 19. With no other family to 
+step in, Bonnie worries about what will happen to her nephew after she 
+is gone. This is just one of many examples of who will be harmed by 
+unreliable and onerous work requirements.
+  Mr. Speaker, I think it is absolutely morally wrong that millionaires 
+and billionaires will be given $4 billion plus $4 trillion.
+  What is being done for families like this?
+  Cruelty is not an answer.
+
+                          ____________________
+```

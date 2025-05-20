@@ -1,0 +1,42 @@
+---
+granule: CREC-2025-05-20-pt1-PgH2181-3
+date: 2025-05-20
+edition: CREC
+section: HOUSE
+page: H2181
+citation: 171 Cong. Rec. H2181
+---
+
+# GOP TAX SCAM HURTS WOMEN AND FAMILIES
+
+**Speaking:** Pelosi, Nancy (P000197) [D-CA]
+
+```
+                 GOP TAX SCAM HURTS WOMEN AND FAMILIES
+
+  (Ms. PELOSI asked and was given permission to address the House for 1 
+minute and to revise and extend her remarks.)
+  Ms. PELOSI. Mr. Speaker, I rise today to join our Democratic leader 
+and Democratic Women's Caucus colleagues in highlighting stories of 
+women and children who would be harmed by the House Republican agenda.
+  Republicans are slashing $300 billion--that is b, billion dollars--
+from SNAP, in addition to cutting $700 billion from Medicaid. That is 
+$1 trillion in cruel cuts from our Nation's children in order to give 
+tax cuts to billionaires.
+  SNAP is our Nation's most effective antihunger initiative. The 
+devastating Republican cuts threaten children and families in 
+California and across America who are scared and crying out for help.
+  One single mom, Melissa, from California who lives in a district 
+represented by one of our Republican colleagues shared that if not for 
+SNAP, her family of three children every month would be running out of 
+money for food. She would have zero dollars for food. She attends 
+school full time and says that without SNAP they would be forced to 
+rely on food giveaways or starve.
+  Republicans shamelessly call this reform, but let's be clear: It is a 
+sinful betrayal of the Gospel of Matthew: ``When I was hungry, you fed 
+me.''
+  Mr. Speaker, Democrats will never stop fighting to ensure no child is 
+left behind. Hands off our Medicaid, and hands off our SNAP.
+
+                          ____________________
+```

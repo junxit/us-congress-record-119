@@ -1,0 +1,40 @@
+---
+granule: CREC-2025-05-20-pt1-PgH2180
+date: 2025-05-20
+edition: CREC
+section: HOUSE
+page: H2180
+citation: 171 Cong. Rec. H2180
+---
+
+# RECOGNIZING PAUL REDMAN
+
+**Speaking:** Houlahan, Chrissy (H001085) [D-PA]
+
+```
+                        RECOGNIZING PAUL REDMAN
+
+  (Ms. HOULAHAN asked and was given permission to address the House for 
+1 minute and to revise and extend her remarks.)
+  Ms. HOULAHAN. Mr. Speaker, I rise today to honor Mr. Paul Redman, the 
+visionary leader behind the world-renowned Longwood Gardens, which is a 
+fixture of my community in the Philadelphia area.
+  Since 2006, Paul's masterful leadership has helped Longwood navigate 
+modernization, a global pandemic, and even an escaped convict hiding on 
+the grounds. Under his direction, Longwood has grown physically and 
+programmatically, becoming a go-to destination for events, employing 
+hundreds across southeastern Pennsylvania, and bringing 1.6 million 
+people to our community last year.
+  I have been proud to honor hosts like the Japanese Ambassador to 
+Longwood Gardens, and I am always grateful for Paul's graciousness and 
+hospitality.
+  This week, for his steadfast dedication to our community and to 
+Longwood, Paul is being inducted into the Chester County Economic 
+Development Council Hall of Fame. He has made innumerable contributions 
+to our region, and this honor is beyond well-deserved.
+  Mr. Speaker, I congratulate Paul. I am so proud to have an 
+extraordinary leader such as him in our community and at the head of 
+our Longwood Gardens.
+
+                          ____________________
+```

@@ -1,0 +1,43 @@
+---
+granule: CREC-2025-05-20-pt1-PgH2181-5
+date: 2025-05-20
+edition: CREC
+section: HOUSE
+page: H2181
+citation: 171 Cong. Rec. H2181
+---
+
+# GOP TAX SCAM HURTS WOMEN AND FAMILIES
+
+**Speaking:** Dingell, Debbie (D000624) [D-MI]
+
+```
+                 GOP TAX SCAM HURTS WOMEN AND FAMILIES
+
+  (Mrs. DINGELL asked and was given permission to address the House for 
+1 minute and to revise and extend her remarks.)
+  Mrs. DINGELL. Mr. Speaker, I rise to read the letter that the 
+Governor of Michigan and I received from Marie Adkins.
+  ``I'm a mom to a son with special needs. I'm also a nurse in primary 
+care settings. My story is from the front lines. . . . If you cut 
+Medicaid, Americans will die. People will get sick. They'll lose jobs. 
+Some won't survive. It's not an exaggeration. It's reality.
+  ``This bill doesn't cut waste. It cuts the heart out of programs that 
+help Americans meet their basic needs: healthcare, nutrition, essential 
+services. There's nothing excessive about needing insulin or a 
+wheelchair or therapy. This isn't luxury. It's survival. My son is on 
+the autism spectrum.
+  ``And let's be real about who this hits the hardest: children, people 
+with disabilities, and low-income seniors. These are Americans who rely 
+on Medicaid to live with dignity, to have food
+
+[[Page H2182]]
+
+on the table, to get to doctor's appointments, to afford medication.
+  ``Every day at our clinic, I hear it: `I'm scared. I feel hopeless. I 
+don't know how much longer I can hang on. . . .'
+  ``This is the health crisis we're living in and this bill would make 
+it worse.''
+
+                          ____________________
+```
