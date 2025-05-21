@@ -1,0 +1,50 @@
+---
+granule: CREC-2025-05-21-pt1-PgE462
+date: 2025-05-21
+edition: CREC
+section: EXTENSIONS
+page: E462
+citation: 171 Cong. Rec. E462
+---
+
+# RECOGNIZING THE RETIREMENT OF DAVID CARON
+
+**Speaking:** Pappas, Chris (P000614) [D-NH]
+
+```
+               RECOGNIZING THE RETIREMENT OF DAVID CARON
+
+                                 ______
+                                 
+
+                           HON. CHRIS PAPPAS
+
+                            of new hampshire
+
+                    in the house of representatives
+
+                        Wednesday, May 21, 2025
+
+  Mr. PAPPAS. Mr. Speaker, I rise today to honor the career of David 
+Caron as he retires after over eight years of service as Town 
+Administrator of Derry. Throughout his tenure, Dave has been a 
+tremendous public servant in his role, overseeing all the day-to-day 
+operations of Derry Town Departments.
+  Dave has managed numerous projects to improve the lives of Derry 
+citizens, including renovating and constructing long-awaited roads, 
+conserving land, and expanding police and fire stations. Throughout his 
+43 years of working in local government, David consistently ensured 
+Granite Staters received the support they deserved, greatly helping 
+residents across the state in Jaffrey, Londonderry, North Hampton, 
+Belmont, and Gilford.
+  Dave is not only a diligent public servant but a man of outstanding 
+character and passion. His own family full of hockey players, Dave 
+spearheaded the Belmont-Gilford cooperative hockey team, cultivating 
+the 16-year-old program that put numerous players on the ice.
+  In all, Dave Caron represents the very best of America's public 
+servants--dedicated, attentive, and unwaveringly committed to the 
+service of others. On behalf of a grateful district, I want to 
+congratulate Dave on a well-deserved and replenishing retirement.
+
+                          ____________________
+```

@@ -1,0 +1,45 @@
+---
+granule: CREC-2025-05-21-pt1-PgH2211-6
+date: 2025-05-21
+edition: CREC
+section: HOUSE
+page: H2211
+citation: 171 Cong. Rec. H2211
+---
+
+# BOUNDARY WATERS CANOE AREA WILDERNESS
+
+**Speaking:** Morrison, Kelly (M001234) [D-MN]
+
+```
+                 BOUNDARY WATERS CANOE AREA WILDERNESS
+
+  (Ms. MORRISON asked and was given permission to address the House for 
+1 minute and to revise and extend her remarks.)
+  Ms. MORRISON. Mr. Speaker, today I rise in opposition to a provision 
+tucked away in the Republican's budget proposal that will open up the 
+Boundary Waters Canoe Area Wilderness to toxic sulfide-ore copper 
+mining.
+  My husband and I take our kids camping and paddling in the Boundary 
+Waters every year, and we are not alone. The Boundary Waters is the 
+most visited wilderness area in the country. There is literally no 
+other place like it on Earth. It is a major driver of the nearly $13.5 
+billion outdoor recreation economy in Minnesota.
+  All that is at risk if sulfide-ore copper mining is allowed in the 
+watershed of the Boundary Waters. It is known as the most toxic 
+industry in America, and it has never been done in Minnesota before.
+  The Republican majority is prioritizing the interests of an 
+international Chilean mining conglomerate that has no interest or stake 
+in the economy or well-being of Minnesotans.
+  They will extract our resources. They will pollute our air, land, and 
+water. They will permanently damage our pristine Boundary Waters and 
+leave Minnesotans to foot the bill for the cleanup.
+  Mr. Speaker, we should protect Minnesota's crown jewel and not 
+destroy it.
+
+[[Page H2212]]
+
+  
+
+                          ____________________
+```

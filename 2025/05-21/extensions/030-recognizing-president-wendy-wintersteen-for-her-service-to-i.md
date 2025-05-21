@@ -1,0 +1,54 @@
+---
+granule: CREC-2025-05-21-pt1-PgE465-3
+date: 2025-05-21
+edition: CREC
+section: EXTENSIONS
+page: E465
+citation: 171 Cong. Rec. E465
+---
+
+# RECOGNIZING PRESIDENT WENDY WINTERSTEEN FOR HER SERVICE TO IOWA STATE UNIVERSITY
+
+**Speaking:** Nunn, Zachary (N000193) [R-IA]
+
+```
+ RECOGNIZING PRESIDENT WENDY WINTERSTEEN FOR HER SERVICE TO IOWA STATE 
+                               UNIVERSITY
+
+                                 ______
+                                 
+
+                           HON. ZACHARY NUNN
+
+                                of iowa
+
+                    in the house of representatives
+
+                        Wednesday, May 21, 2025
+
+  Mr. NUNN of Iowa. Mr. Speaker, I rise today to recognize President 
+Wendy Wintersteen, a longtime champion for Iowa's students and a 
+nationally respected leader in higher education, as she moves on from 
+her role as the 16th President of Iowa State University.
+  Wendy's leadership has shaped the future of Iowa State and made a 
+meaningful difference across our state. She has led with vision, 
+investing in entrepreneurial learning, strengthening research programs, 
+and opening up new resources for hands-on learning in agricultural 
+sciences and beyond.
+  As the first woman to serve as president in the university's history, 
+she has inspired not only students and faculty, but future leaders 
+across Iowa. Her commitment to innovation has helped position Iowa 
+State as a national leader in preparing students to solve real-world 
+challenges, grow our economy, and serve our communities.
+  It was always a pleasure to run into Wendy on the early morning 
+flight from Des Moines to D.C., where she has been a tireless advocate 
+for the Cyclones and for our state's land-grant mission. It's been an 
+honor to work alongside her and an even greater honor to call her a 
+friend.
+  Mr. Speaker, I ask my colleagues to join me in thanking President 
+Wendy Wintersteen for her years of distinguished service to Iowa and 
+Iowa State University. We are excited for all that lies ahead and 
+confident that her next chapter will be just as impactful as the last.
+
+                          ____________________
+```
