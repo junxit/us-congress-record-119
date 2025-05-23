@@ -1,0 +1,50 @@
+---
+granule: CREC-2025-05-23-pt1-PgE476-4
+date: 2025-05-23
+edition: CREC
+section: EXTENSIONS
+page: E476
+citation: 171 Cong. Rec. E476
+---
+
+# HONORING JOSHUA KYONG WON JUNG FOR HIS CONTRIBUTIONS TO CENTRAL FLORIDA DURING ASIAN AMERICAN & PACIFIC ISLANDER HERITAGE MONTH
+
+**Speaking:** Soto, Darren (S001200) [D-FL]
+
+```
+HONORING JOSHUA KYONG WON JUNG FOR HIS CONTRIBUTIONS TO CENTRAL FLORIDA 
+        DURING ASIAN AMERICAN & PACIFIC ISLANDER HERITAGE MONTH
+
+                                 ______
+                                 
+
+                            HON. DARREN SOTO
+
+                               of florida
+
+                    in the house of representatives
+
+                          Friday, May 23, 2025
+
+  Mr. SOTO. Mr. Speaker, Joshua Kyong won Jung is the president of the 
+Orlando Korea Culture Center (OKCC) and the founding pastor of Sunlight 
+Grace Church in Orlando, Florida. He currently serves as the chairman 
+of the Asian American Heritage Council of Central Florida (AAHC-CF), a 
+regional organization dedicated to celebrating and promoting Asian 
+cultural heritage.
+  Originally from South Korea, Joshua immigrated to the United States 
+at the age of 29 to pursue a Master of Divinity. In 2014, he planted 
+Sunlight Grace Church and, just two years later, led the founding of 
+the OKCC as a community outreach initiative aimed at sharing Korean 
+culture. Despite initial challenges, the growing popularity of K-pop 
+and Korean media helped OKCC gain traction, offering programs such as 
+Korean language classes, cultural events, and food experiences.
+  Joshua's vision has always been to build bridges between cultures, 
+fostering greater understanding and appreciation among the diverse 
+communities of Central Florida. His leadership, both in ministry and in 
+cultural outreach, continues to make a significant impact on the 
+region, empowering the next generation and bringing communities 
+together through faith, education, and celebration of heritage.
+
+                          ____________________
+```
