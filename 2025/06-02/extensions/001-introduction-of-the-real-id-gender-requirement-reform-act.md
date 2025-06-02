@@ -1,0 +1,49 @@
+---
+granule: CREC-2025-06-02-pt1-PgE489-2
+date: 2025-06-02
+edition: CREC
+section: EXTENSIONS
+page: E489
+citation: 171 Cong. Rec. E489
+---
+
+# INTRODUCTION OF THE REAL ID GENDER REQUIREMENT REFORM ACT
+
+**Speaking:** Norton, Eleanor Holmes (N000147) [D-DC]
+
+```
+       INTRODUCTION OF THE REAL ID GENDER REQUIREMENT REFORM ACT
+
+                                 ______
+                                 
+
+                       HON. ELEANOR HOLMES NORTON
+
+                      of the district of columbia
+
+                    in the house of representatives
+
+                          Monday, June 2, 2025
+
+  Ms. NORTON. Mr. Speaker, today, I introduce the REAL ID Gender 
+Requirement Reform Act, which would repeal the requirement in the REAL 
+ID Act that REAL ID-compliant licenses include gender. Instead, states 
+would decide whether to include gender on their respective REAL ID-
+compliant licenses. I am pleased Representative Maxwell Frost is co-
+leading this bill.
+  Under this bill, if a state includes gender on its REAL ID-compliant 
+licenses, the state must allow individuals to change the gender 
+designation on their license through self-attestation. It would also 
+require states that include gender on their REAL ID-compliant licenses 
+to have a neutral or other designation gender field, in addition to 
+male or female.
+  Under the REAL ID Act, gender must be included on a license. This can 
+be problematic for transgender and nonbinary individuals. I recognize 
+that some LGBTQ+ individuals do not want gender designations on 
+licenses at all, while others do want gender designation so as to 
+express their identity. I believe this bill strikes the middle ground, 
+while showing Congress' support for LGBTQ+ individuals.
+  I urge my colleagues to support this bill.
+
+                          ____________________
+```

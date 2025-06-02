@@ -1,0 +1,39 @@
+---
+granule: CREC-2025-06-02-pt1-PgH2381-3
+date: 2025-06-02
+edition: CREC
+section: HOUSE
+page: H2381
+citation: 171 Cong. Rec. H2381
+---
+
+# PRAYER
+
+```
+                                 PRAYER
+
+  The Chaplain, the Reverend Margaret Grun Kibben, offered the 
+following prayer:
+  This is the day that You, O Lord, have made. This second day of June, 
+the first day of the workweek, yet another day in the life You have 
+given us. You, O Lord, are the author of this day.
+  May that simple fact not be lost on us in the living of today. As we 
+relish the beginnings of summer, may we stop to appreciate that it is 
+You, our creator, who established the Sun and the Moon to mark the 
+seasons, and revealed in each one the magnificent handiwork of Your 
+creation.
+  As the week begins, with much work anticipated, events to prepare 
+for, appointments to be made, and goals to be set, may we realize that 
+not just this day, but this week belong to You. May all that we do 
+reflect our desire to abide faithfully in Your perfect plan.
+  As we consider the lives we lead, may this day serve to remind us 
+that You have set us here in such a time as this to live with 
+intention, guided by Your wisdom, assured of Your divine purpose for us 
+and for Your people.
+  Yes, this is the day the Lord has made. Let us rejoice and be glad in 
+it.
+  In Your majestic name, O Lord, we pray.
+  Amen.
+
+                          ____________________
+```
