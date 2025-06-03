@@ -1,0 +1,69 @@
+---
+granule: CREC-2025-06-03-pt1-PgE495-4
+date: 2025-06-03
+edition: CREC
+section: EXTENSIONS
+page: E495
+citation: 171 Cong. Rec. E495
+---
+
+# NEWSLETTER FROM CONGRESSMAN CHUCK EDWARDS
+
+**Speaking:** Edwards, Chuck (E000246) [R-NC]
+
+```
+               NEWSLETTER FROM CONGRESSMAN CHUCK EDWARDS
+
+                                 ______
+                                 
+
+                           HON. CHUCK EDWARDS
+
+                           of north Carolina
+
+                    in the house of representatives
+
+                         Tuesday, June 3, 2025
+
+  Mr. EDWARDS. Mr. Speaker, I include in the Record the following 
+newsletter to give an update to my constituents on the town hall:
+
+       Dear Friend,
+       Recently, I held my ninth in-person town hall in Asheville. 
+     Hearing from the people of Western North Carolina will 
+     continue to be a priority of mine, and I will not shy away 
+     from my support of President Trump and our important work 
+     renewing the American Dream and fixing how Washington works.
+       President Trump is doing exactly what he promised to do: 
+     comb through our federal agencies to look for inefficiencies. 
+     I applaud the fact that he's doing that, and I appreciate his 
+     recognition that I went all 12 rounds to support and defend 
+     the America First agenda.
+       Despite some disruptions, I was able to answer questions 
+     from multiple constituents at the town hall and dispel some 
+     of the misinformation currently being spread around,
+
+[[Page E496]]
+
+     such as about the House's budget plan and DOGE, and I look 
+     forward to continuing to do as such.
+       Being accessible, listening, and answering questions for 
+     our mountain folk are among my favorite activities, which is 
+     why my office provides several avenues of engagement for 
+     constituents:
+       Stay updated on upcoming in-person and telephone town halls 
+     by following me on Facebook and visiting my website at 
+     edwards.house.gov/events.
+       Folks can request a one-on-one Chat With Chuck meeting by 
+     visiting edwards.house.gov/chatwithchuck.
+       Stop by Carolina Cruiser mobile office hours to ask 
+     questions about issues that matter to you or receive 
+     assistance with federal agencies, such as FEMA.
+       The schedule is available on Facebook and X, and at 
+     edwards.house.gov/carolinacruiser.
+           With my warmest regards,
+                                                    Chuck Edwards,
+     Member of Congress.
+
+                          ____________________
+```

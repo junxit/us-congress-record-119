@@ -1,0 +1,41 @@
+---
+granule: CREC-2025-06-03-pt1-PgE496-3
+date: 2025-06-03
+edition: CREC
+section: EXTENSIONS
+page: E496
+citation: 171 Cong. Rec. E496
+---
+
+# RECOGNIZING EAMON VANDYKE
+
+**Speaking:** Pettersen, Brittany (P000620) [D-CO]
+
+```
+                       RECOGNIZING EAMON VANDYKE
+
+                                 ______
+                                 
+
+                        HON. BRITTANY PETTERSEN
+
+                              of colorado
+
+                    in the house of representatives
+
+                         Tuesday, June 3, 2025
+
+  Ms. PETTERSEN. Mr. Speaker, I rise today to recognize Eamon VanDyke 
+for earning the Arvada Wheat Ridge Service Ambassadors for Youth Award.
+  Eamon has overcome many challenges along his journey to success, 
+demonstrating perseverance at every step. Students who strive to make 
+the most of their education, like Eamon, develop crucial skills and a 
+work ethic that will guide them for the rest of their lives. This award 
+is a testament to Eamon's hard work, determination, and perseverance at 
+Three Creeks K-8 and is clearly just the beginning of a bright and 
+promising future.
+  It is my honor to congratulate Eamon VanDyke on achieving the Arvada 
+Wheat Ridge Service Ambassadors for Youth Award.
+
+                          ____________________
+```

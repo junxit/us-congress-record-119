@@ -1,0 +1,35 @@
+---
+granule: CREC-2025-06-03-pt1-PgH2406-4
+date: 2025-06-03
+edition: CREC
+section: HOUSE
+page: H2406
+citation: 171 Cong. Rec. H2406
+---
+
+# CONGRATULATING BAPS CHARITIES AND BAPS TEMPLE WALKATHONS
+
+**Speaking:** Subramanyam, Suhas (S001230) [D-VA]
+
+```
+        CONGRATULATING BAPS CHARITIES AND BAPS TEMPLE WALKATHONS
+
+  (Mr. SUBRAMANYAM asked and was given permission to address the House 
+for 1 minute and to revise and extend his remarks.)
+  Mr. SUBRAMANYAM. Mr. Speaker, I rise to congratulate BAPS Charities 
+and the BAPS Temple in Chantilly for hosting its annual walkathon at 
+One Loudoun in Ashburn.
+  The walk, which I was proud to join, was a huge success and raised 
+money for Mobile Hope which serves at-risk youth in Loudoun County. 
+BAPS Charities is a global charity, active across the country and in 
+nine other countries, and its efforts are volunteer-led.
+  BAPS Charities aims to express a spirit of selfless service through 
+five key areas: health awareness, educational services, humanitarian 
+relief, environmental protection and preservation, and community 
+empowerment. Events and walks like the one this past week happen all 
+over the country and make a huge difference.
+  Mr. Speaker, I congratulate BAPS Charities on a great event and all 
+of its great work.
+
+                          ____________________
+```
