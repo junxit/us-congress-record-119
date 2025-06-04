@@ -1,0 +1,38 @@
+---
+granule: CREC-2025-06-04-pt1-PgH2460-6
+date: 2025-06-04
+edition: CREC
+section: HOUSE
+page: H2460
+citation: 171 Cong. Rec. H2460
+---
+
+# RECOGNIZING SCOTT GLABB
+
+**Speaking:** Correa, J. Luis (C001110) [D-CA]
+
+```
+                        RECOGNIZING SCOTT GLABB
+
+  (Mr. CORREA asked and was given permission to address the House for 1 
+minute.)
+  Mr. CORREA. Mr. Speaker, I rise today to honor the achievements of 
+wrestling coach Scott Glabb, the saint in the city.
+  Scott took the Santa Ana High School coaching job in 1990 because 
+nobody else would apply for the job.
+  Mr. Speaker, 30 years later, he has produced national high school 
+wrestling champs, State champs, CIF wrestling champs, both boys and 
+girls.
+  Mr. Speaker, it is often said that, when a person tastes success, it 
+changes their lives forever. Coach Glabb has helped thousands of 
+students discover their inner youth and their strength, and helped them 
+to overcome tremendous adversity. It is this kind of leadership that 
+earned Scott the title ``Coach of the Year'' and a place in the 
+California Coaches Hall of Fame.
+  Only Coach Glabb could see that all that these kids needed was a 
+break and somebody who cared for them.
+  I thank Scott for the positive role model that he has presented to 
+our kids. We love him and wish him success in his retirement.
+
+                          ____________________
+```

@@ -1,0 +1,48 @@
+---
+granule: CREC-2025-06-04-pt1-PgE526-4
+date: 2025-06-04
+edition: CREC
+section: EXTENSIONS
+page: E526
+citation: 171 Cong. Rec. E526
+---
+
+# RECOGNIZING ZION METHODIST CHURCH IN EGG HARBOR TOWNSHIP, NEW JERSEY
+
+**Speaking:** Van Drew, Jefferson (V000133) [R-NJ]
+
+```
+  RECOGNIZING ZION METHODIST CHURCH IN EGG HARBOR TOWNSHIP, NEW JERSEY
+
+                                 ______
+                                 
+
+                        HON. JEFFERSON VAN DREW
+
+                             of new jersey
+
+                    in the house of representatives
+
+                        Wednesday, June 4, 2025
+
+  Mr. VAN DREW. Mr. Speaker, I had the privilege of visiting Zion 
+United Methodist Church in historic Bargaintown, South Jersey, as they 
+were awarded an America 250 marker to honor the American Revolution 
+patriots buried on their grounds. This church has a rich history, 
+dating back to 1764, when it was built by Presbyterian residents and 
+American Revolution patriot, John Brainerd. In 1814, the Methodists 
+purchased the building before constructing the brick church that still 
+stands today. This Church serves as the final resting place for many 
+brave American soldiers from both the Revolutionary War and the Civil 
+War. Walking through its grounds is a powerful reminder of the 
+sacrifices made for our freedom. But the Church isn't just about 
+preserving history--it's about serving the community. Through missions 
+like their Free Food and Walk-In Pantry Distribution, online Bible 
+study, and summer concert series, they continue their mission of faith 
+and service. I thank Zion Methodist Church, for the great things they 
+do through the love of Jesus and for their incredible commitment to 
+remembering the first heroes to our great Nation. God bless Zion 
+Methodist Church and God bless our United States of America.
+
+                          ____________________
+```

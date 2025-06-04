@@ -1,0 +1,40 @@
+---
+granule: CREC-2025-06-04-pt1-PgH2459-2
+date: 2025-06-04
+edition: CREC
+section: HOUSE
+page: H2459
+citation: 171 Cong. Rec. H2459
+---
+
+# BIG, UGLY BILL, CLEAN ENERGY TAX CREDITS.
+
+**Speaking:** Levin, Mike (L000593) [D-CA]
+
+```
+               BIG, UGLY BILL, CLEAN ENERGY TAX CREDITS.
+
+  (Mr. LEVIN asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. LEVIN. Mr. Speaker, I rise today to speak out against the big, 
+ugly bill, which even Elon Musk has called a ``disgusting 
+abomination.''
+  The big, ugly bill undermines the programs millions of Americans rely 
+on to survive, like healthcare and food assistance. Perhaps less 
+discussed is that it will increase your energy bills.
+  Right now, 80 million Americans are struggling to pay their 
+electricity bills, and according to a recent report in The New York 
+Times, this bill will make it worse.
+  The big, ugly bill ends tax credits to promote clean energy and will 
+increase household energy costs by up to $415 a year.
+  On top of that, ending the tax credits will lead to thousands of job 
+losses nationwide, in red States and blue States. This comes as demand 
+for electricity is surging, driving up costs even more.
+  Everyone in this body talks a good game about lowering costs; but 
+when the time came to actually do something about costs, my House 
+colleagues voted to put Big Oil CEOs over the American people.
+  I urge my friends in the Senate to fix this mess and actually lower 
+energy prices for the American people.
+
+                          ____________________
+```

@@ -1,0 +1,48 @@
+---
+granule: CREC-2025-06-04-pt1-PgE516-4
+date: 2025-06-04
+edition: CREC
+section: EXTENSIONS
+page: E516
+citation: 171 Cong. Rec. E516
+---
+
+# RECOGNIZING DR. CHARLES SMITH
+
+**Speaking:** Moore, Barry (M001212) [R-AL]
+
+```
+                     RECOGNIZING DR. CHARLES SMITH
+
+                                 ______
+                                 
+
+                            HON. BARRY MOORE
+
+                               of alabama
+
+                    in the house of representatives
+
+                        Wednesday, June 4, 2025
+
+  Mr. MOORE of Alabama. Mr. Speaker, today, I rise to recognize the 
+inauguration of the Sixth President of the University of Mobile, Dr. 
+Charles Smith, who was unanimously elected to be inaugurated on May 1st 
+and has taken charge of leading the university.
+  Dr. Smith was born and raised in Montgomery before he pursued his PhD 
+at the Southeastern Baptist Theological Seminary in North Carolina. He 
+served for eleven years as Senior Vice President for Institutional 
+Relations and an Assistant Professor of Christian Leadership at 
+Midwestern Baptist Theological Seminary and Spurgeon College in Kansas 
+City, Missouri.
+  Dr. Smith also co-founded the ``For the Church'' resource platform, 
+offering free online resources for churches across the Nation.
+
+[[Page E517]]
+
+  I would like to congratulate Dr. Smith on his inauguration and thank 
+him for spreading the Word of God and serving students at the 
+University of Mobile.
+
+                          ____________________
+```

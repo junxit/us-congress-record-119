@@ -1,0 +1,30 @@
+---
+granule: CREC-2025-06-04-pt1-PgS3237-5
+date: 2025-06-04
+edition: CREC
+section: SENATE
+page: S3237
+citation: 171 Cong. Rec. S3237
+---
+
+# CONFIRMATIONS
+
+```
+                             CONFIRMATIONS
+
+  Executive nominations confirmed by the Senate June 4, 2025:
+
+
+                         FEDERAL RESERVE SYSTEM
+
+       MICHELLE BOWMAN, OF KANSAS, TO BE VICE CHAIRMAN FOR 
+     SUPERVISION OF THE BOARD OF GOVERNORS OF THE FEDERAL RESERVE 
+     SYSTEM FOR A TERM OF FOUR YEARS.
+
+
+                          DEPARTMENT OF STATE
+
+       EDWARD WALSH, OF NEW JERSEY, TO BE AMBASSADOR EXTRAORDINARY 
+     AND PLENIPOTENTIARY OF THE UNITED STATES OF AMERICA TO 
+     IRELAND.
+```

@@ -1,0 +1,36 @@
+---
+granule: CREC-2025-06-04-pt1-PgH2460-3
+date: 2025-06-04
+edition: CREC
+section: HOUSE
+page: H2460
+citation: 171 Cong. Rec. H2460
+---
+
+# RECOGNIZING PATRIOT HIGH SCHOOL CLASS OF 2025
+
+**Speaking:** Subramanyam, Suhas (S001230) [D-VA]
+
+```
+             RECOGNIZING PATRIOT HIGH SCHOOL CLASS OF 2025
+
+  (Mr. SUBRAMANYAM asked and was given permission to address the House 
+for 1 minute and to revise and extend his remarks.)
+  Mr. SUBRAMANYAM. Mr. Speaker, I rise to congratulate the Patriot High 
+School class of 2025.
+  This year's graduating class is a remarkable group of students, 
+including 405 students who are continuing their studies in college, 24 
+who are attending trade schools, 19 who are planning to serve in the 
+military, and 32 who are heading straight into the workforce.
+  In their time at Patriot High School, this class achieved so many 
+great things, including receiving $14.8 million in scholarship offers 
+and winning their eighth straight basketball district championship.
+  Mr. Speaker, I know that the class of 2025, whether it is in the 
+basketball gym, class, mock trial, or on stage, will carry their 
+lessons learned during their time at Patriot High School in whatever 
+they do next.
+  I congratulate the class of 2025, and they should not forget to thank 
+their parents and teachers, as well.
+
+                          ____________________
+```
