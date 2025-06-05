@@ -1,0 +1,64 @@
+---
+granule: CREC-2025-06-05-pt1-PgE529-5
+date: 2025-06-05
+edition: CREC
+section: EXTENSIONS
+page: E529
+citation: 171 Cong. Rec. E529
+---
+
+# HONORING AMARI BROWN OF DYETT HIGH SCHOOL
+
+**Speaking:** Jackson, Jonathan L. (J000309) [D-IL]
+
+```
+               HONORING AMARI BROWN OF DYETT HIGH SCHOOL
+
+                                 ______
+                                 
+
+                        HON. JONATHAN L. JACKSON
+
+                              of illinois
+
+                    in the house of representatives
+
+                         Thursday, June 5, 2025
+
+  Mr. JACKSON of Illinois. Mr. Speaker, I rise today to recognize and 
+celebrate an extraordinary achievement by a remarkable young man from 
+my district, Amari Brown, a vital member of the Walter H. Dyett High 
+School for the Arts boys' basketball team, the Eagles. This team 
+achieved a historic victory, winning the 2024-2025 Illinois High School 
+Association (IHSA) Class 2A State Championship with a decisive 52-41 
+win over Althoff Catholic High School on March 15, 2025.
+  This championship is more than just a win on the court; it is a 
+profound testament to the resilience, determination, and unity of the 
+Dyett High School community and the vibrant Bronzeville neighborhood. A 
+decade ago, Dyett faced the threat of closure, but through powerful 
+community advocacy and unwavering commitment, its doors remained open. 
+Today, the Eagles' triumph, in which Amari Brown played a crucial role, 
+symbolizes the incredible potential that flourishes when a community 
+invests in its youth and its institutions.
+  Amari Brown, along with his teammates, demonstrated exceptional 
+skill, discipline, and teamwork throughout their season, navigating 
+challenges and competing at the highest level. His hard work and 
+dedication were integral to the team's success, culminating in this 
+well-deserved championship that brings immense pride and joy to his 
+school, family, and the entire community.
+  I also extend my deepest gratitude to Head Coach Jamaal Gill, II, 
+whose visionary leadership and guidance steered the team to this 
+historic victory, and to Assistant Coaches Kimani Harris, Pierre Adams, 
+and Nathan Townsen, Jr., whose mentorship was vital to the players' 
+development.
+  Mr. Speaker, Amari Brown's contribution to the Dyett Eagles' journey 
+from near closure to state champions is an inspiring narrative for us 
+all. It underscores the critical importance of supporting our public 
+schools and investing in programs that empower young people to achieve 
+their fullest potential. I ask my colleagues to join me in 
+congratulating Amari Brown and the entire Dyett High School boys' 
+basketball team on their momentous achievement and honoring them for 
+the inspiration they provide to communities across our Nation.
+
+                          ____________________
+```

@@ -1,0 +1,46 @@
+---
+granule: CREC-2025-06-05-pt1-PgH2478-2
+date: 2025-06-05
+edition: CREC
+section: HOUSE
+page: H2478
+citation: 171 Cong. Rec. H2478
+---
+
+# REMEMBERING BOB KIERLIN
+
+**Speaking:** Finstad, Brad (F000475) [R-MN]
+
+```
+                        REMEMBERING BOB KIERLIN
+
+  (Mr. Finstad of Minnesota was recognized to address the House for 5 
+minutes.)
+  Mr. FINSTAD. Mr. Speaker, I rise today to honor the life of Bob 
+Kierlin, a beloved community member and dedicated public servant who 
+passed away earlier this year at the age of 85.
+  Born and raised in Winona, Bob was a fixture in the southeastern 
+Minnesota community. He graduated from Cotter High School and served in 
+the Peace Corps in Venezuela before going on to represent his neighbors 
+from Winona in the Minnesota State Senate from 1999 to 2007.
+  As a young man in 1967, Bob and four of his high school friends 
+founded the Fastenal Company when Bob saw a need to get hardware to the 
+construction sites quickly. A new supply chain concept was born.
+  With Bob's innovation and his leadership, Fastenal quickly grew into 
+a worldwide distributor, employing more than 23,000 employees with 
+locations in all 50 States and 25 countries. Today, Fastenal is a 
+Fortune 500 company and Winona's largest employer.
+  Bob was much more to his hometown than a CEO, though. His community 
+involvement and generosity to local causes was seemingly limitless, 
+setting an example for us all in how to serve our neighbors in greater 
+need.
+
+  I have no doubt that Bob's legacy will live on through the countless 
+lives he impacted, both personally and professionally. He was a 
+renowned business leader, a generous benefactor, and a dedicated public 
+servant. He was also a true friend to a great many of us across 
+southern Minnesota.
+  He will truly be missed. May he rest in peace.
+
+                          ____________________
+```
