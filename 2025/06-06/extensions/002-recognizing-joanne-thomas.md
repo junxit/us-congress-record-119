@@ -1,0 +1,45 @@
+---
+granule: CREC-2025-06-06-pt1-PgE537-3
+date: 2025-06-06
+edition: CREC
+section: EXTENSIONS
+page: E537
+citation: 171 Cong. Rec. E537
+---
+
+# RECOGNIZING JOANNE THOMAS
+
+**Speaking:** Guthrie, Brett (G000558) [R-KY]
+
+```
+                       RECOGNIZING JOANNE THOMAS
+
+                                 ______
+                                 
+
+                           HON. BRETT GUTHRIE
+
+                              of kentucky
+
+                    in the house of representatives
+
+                          Friday, June 6, 2025
+
+  Mr. GUTHRIE. Mr. Speaker, I rise today to honor Joanne Thomas for her 
+service to the House Committee on Energy and Commerce.
+  A graduate of Wayland Baptist University, The University of Sydney, 
+and The Catholic University of America's Columbus School of Law, Joanne 
+began her career on Capitol Hill as a Law Clerk for the United States 
+Senate Committee on the Judiciary in 2022 after having previously 
+worked in the legal field. In January 2023, Joanne joined the House 
+Committee on Energy and Commerce to serve as Counsel for the 
+Subcommittee on Oversight and Investigations. As Counsel, she oversaw 
+Congressional investigations into FDA foreign drug inspections, the 
+Office of Refugee Resettlement's management of unaccompanied minors, 
+and a $900 million taxpayer funded HHS COVID-19 Public Health Campaign.
+  Recently, Joanne departed the House Committee on Energy and Commerce. 
+I wish her the best in her future endeavors and thank Joanne Thomas for 
+her service to the House Committee on Energy and Commerce.
+
+                          ____________________
+```

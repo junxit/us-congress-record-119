@@ -1,0 +1,43 @@
+---
+granule: CREC-2025-06-06-pt1-PgH2517-5
+date: 2025-06-06
+edition: CREC
+section: HOUSE
+page: H2517
+citation: 171 Cong. Rec. H2517
+---
+
+# HONORING SPRINGFIELD MIDDLE SCHOOL
+
+**Speaking:** Davis, Donald G. (D000230) [D-NC]
+
+```
+                              {time}  1040
+                   HONORING SPRINGFIELD MIDDLE SCHOOL
+
+  (Mr. DAVIS of North Carolina asked and was given permission to 
+address the House for 1 minute and to revise and extend his remarks.)
+  Mr. DAVIS of North Carolina. Mr. Speaker, I rise to recognize the 
+extraordinary resilience of the students and educators of Springfield 
+Middle School in Lucama, North Carolina.
+  At the beginning of the school year, a tornado tore through the 
+community, causing significant damage to the school.
+  I recall walking through classrooms. Desks were all over the place. 
+The roof was removed, gone, ripped apart. Yet, the American flag 
+continued to stand.
+  Early decisions had to be made. One, in particular, was whether the 
+students would even be able to stay at the school or be separated and 
+go to other schools. They insisted to stay together.
+  As the school year now comes to an end, I made another visit to the 
+school. The students at Springfield Middle School had an incredible 
+school year. They were able to do this only because so many came 
+together to make it happen.
+  Principal Kelly Thomas said that what could have broken them instead 
+brought them closer together.
+  To the educators, staff, and the greater Lucama community, their 
+dedication is a shining example of the best of us and who we are as 
+Americans.
+  The students, those Wild Cats, are a true inspiration.
+
+                          ____________________
+```

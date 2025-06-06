@@ -1,0 +1,61 @@
+---
+granule: CREC-2025-06-06-pt1-PgE538
+date: 2025-06-06
+edition: CREC
+section: EXTENSIONS
+page: E538
+citation: 171 Cong. Rec. E538
+---
+
+# HONORING THE LIFE AND SERVICE OF GWEN WATSON
+
+**Speaking:** DeSaulnier, Mark (D000623) [D-CA]
+
+```
+              HONORING THE LIFE AND SERVICE OF GWEN WATSON
+
+                                 ______
+                                 
+
+                          HON. MARK DeSAULNIER
+
+                             of california
+
+                    in the house of representatives
+
+                          Friday, June 6, 2025
+
+  Mr. DeSAULNIER. Mr. Speaker, I rise today to recognize the life and 
+service of Gwen Watson.
+  Throughout her life, Gwen was committed to serving vulnerable 
+populations and empowering community members. She began her career as 
+an educator, working with high school students in her home state of 
+Louisiana who were interested in pursuing vocational careers. After 
+moving to the San Francisco Bay Area, Gwen remained focused on giving 
+back to her community. She was a part of St. Vincent de Paul's Advisory 
+Task Force, working to serve Contra Costa County's homeless population. 
+Driven by her faith and her dedication to service, Gwen helped to 
+provide rental assistance and other critical resources to unhoused 
+individuals through St. Vincent de Paul's mobile homeless shelter. That 
+program has grown into what is known today as the St. Vincent de Paul 
+Hope Conference.
+  Additionally, Gwen was a member of the Interfaith Council of Contra 
+Costa County and cofounded the Winter Nights program. This program aims 
+to break the cycle of homelessness by providing shelter, food, 
+childcare, and other key services to unhoused families. Through this 
+program, Gwen helped countless Contra Costa families to get back on 
+their feet and to have access to the resources they need in order to 
+thrive.
+  Furthermore, Gwen served as President of the League of Women Voters 
+of Diablo Valley. In this role, she oversaw the ``You Don't Need a Home 
+to Vote'' project, which worked to increase civic engagement from 
+unhoused and low-income individuals and help them register to vote. 
+Gwen's fierce commitment to advocacy and social justice was evident to 
+all who knew her.
+  Sadly, Gwen passed away in May 2025. She will be remembered for her 
+compassion, unwavering commitment to service, and her deep love for 
+this community. Please join me in honoring Gwen Watson for her 
+invaluable contributions to our community.
+
+                          ____________________
+```
