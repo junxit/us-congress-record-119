@@ -1,0 +1,34 @@
+---
+granule: CREC-2025-06-10-pt1-PgS3323-4
+date: 2025-06-10
+edition: CREC
+section: SENATE
+page: S3323
+citation: 171 Cong. Rec. S3323
+---
+
+# CONFIRMATIONS
+
+```
+                             CONFIRMATIONS
+
+  Executive nominations confirmed by the Senate June 10, 2025:
+
+
+                    ENVIRONMENTAL PROTECTION AGENCY
+
+       DAVID FOTOUHI, OF VIRGINIA, TO BE DEPUTY ADMINISTRATOR OF 
+     THE ENVIRONMENTAL PROTECTION AGENCY.
+
+
+                       DEPARTMENT OF AGRICULTURE
+
+       STEPHEN VADEN, OF TENNESSEE, TO BE DEPUTY SECRETARY OF 
+     AGRICULTURE.
+
+
+              DEPARTMENT OF HOUSING AND URBAN DEVELOPMENT
+
+       ANDREW HUGHES, OF TEXAS, TO BE DEPUTY SECRETARY OF HOUSING 
+     AND URBAN DEVELOPMENT.
+```

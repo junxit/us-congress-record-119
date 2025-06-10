@@ -1,0 +1,21 @@
+---
+granule: CREC-2025-06-10-pt1-PgH2587-2
+date: 2025-06-10
+edition: CREC
+section: HOUSE
+page: H2587
+citation: 171 Cong. Rec. H2587
+---
+
+# AFTER RECESS
+
+```
+                              {time}  1330
+                              AFTER RECESS
+
+  The recess having expired, the House was called to order by the 
+Speaker pro tempore (Mrs. Miller-Meeks) at 1 o'clock and 30 minutes 
+p.m.
+
+                          ____________________
+```

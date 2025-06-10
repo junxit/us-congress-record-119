@@ -1,0 +1,45 @@
+---
+granule: CREC-2025-06-10-pt1-PgH2604-6
+date: 2025-06-10
+edition: CREC
+section: HOUSE
+page: H2604
+citation: 171 Cong. Rec. H2604
+---
+
+# HONORING REAR ADMIRAL ALENE B. DUERK
+
+**Speaking:** Kaptur, Marcy (K000009) [D-OH]
+
+```
+                  HONORING REAR ADMIRAL ALENE B. DUERK
+
+  (Ms. KAPTUR asked and was given permission to address the House for 1 
+minute and to revise and extend her remarks.)
+  Ms. KAPTUR. Mr. Speaker, I rise to honor a true pioneer of American 
+military history, Rear Admiral Alene B. Duerk of Defiance, Ohio, the 
+first woman in the United States Navy to achieve the rank of admiral.
+  I join my Lake Erie colleague, Representative Kennedy of Buffalo, in 
+requesting the Secretary of the Navy name a naval vessel in her honor.
+  Admiral Duerk began her journey of service after graduating from the 
+Toledo Hospital School of Nursing in 1941.
+  Soon after becoming a registered nurse, she entered the United States 
+Navy Nurse Corps during World War II, and she treated wounded at the 
+naval hospital in Portsmouth, Virginia. She later cared for the newly 
+liberated American POWs aboard the USS Benevolence in the Pacific.
+  She continued her service during the Korean War as a nursing 
+instructor. In
+
+[[Page H2605]]
+
+1970, she was appointed director of the United States Navy Nurse Corps. 
+Her 32-year career was marked by fierce advocacy for improved medical 
+care, equitable pay, and expanded roles for women in our Armed Forces.
+  Naming a Navy ship in her honor would pay tribute not only to her 
+personal achievements but to the doors she opened for countless others.
+  I urge the Secretary of the Navy to ensure Rear Admiral Duerk's 
+legacy of service, sacrifice, excellence, and patriotism are 
+commemorated.
+
+                          ____________________
+```

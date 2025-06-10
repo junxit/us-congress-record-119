@@ -1,0 +1,43 @@
+---
+granule: CREC-2025-06-10-pt1-PgH2603-2
+date: 2025-06-10
+edition: CREC
+section: HOUSE
+page: H2603
+citation: 171 Cong. Rec. H2603
+---
+
+# CONTROLLING RIOTS IN CALIFORNIA
+
+**Speaking:** Kiley, Kevin (K000401) [R-CA]
+
+```
+                              {time}  1750
+                    CONTROLLING RIOTS IN CALIFORNIA
+
+  (Mr. KILEY of California asked and was given permission to address 
+the House for 1 minute and to revise and extend his remarks.)
+  Mr. KILEY of California. Mr. Speaker, over the last few days, the 
+country has been shocked by the horrifying images coming out of Los 
+Angeles, but what is also shocking are the brazenly false statements 
+made by the Governor of California.
+  Governor Newsom has asked us not to believe our eyes, not to believe 
+the scenes that we are all seeing of officers being attacked, of cars 
+being lit on fire, of roadways being blocked. The Governor has claimed 
+that everything was fine and that everything was perfect until the 
+National Guard arrived.
+  This is completely inaccurate, as a matter of the timeline. Things 
+had spun out of control well before the Guard got there. That is why 
+the Guard was called in. It is also deeply offensive to attack the men 
+and women in our National Guard by claiming that their presence has 
+somehow catalyzed this violence.
+  The Governor owes an apology to the men and women in our National 
+Guard who are serving our State and our country. He owes an apology to 
+the people of Los Angeles for his role in egging on the riots.
+  The good news, if there is any good news at all, is that I believe 
+the people of California have had enough. There is a coalition for 
+common sense emerging in our State, and I believe we will return sanity 
+and safety to our communities.
+
+                          ____________________
+```

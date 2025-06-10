@@ -1,0 +1,58 @@
+---
+granule: CREC-2025-06-10-pt1-PgH2573-5
+date: 2025-06-10
+edition: CREC
+section: HOUSE
+page: H2573
+citation: 171 Cong. Rec. H2573
+---
+
+# HONORING THE MEMORY OF SERGEANT CHARLES MARTIN
+
+**Speaking:** Haridopolos, Mike (H001099) [R-FL]
+
+```
+             HONORING THE MEMORY OF SERGEANT CHARLES MARTIN
+
+  (Mr. Haridopolos of Florida was recognized to address the House for 5 
+minutes.)
+  Mr. HARIDOPOLOS. Mr. Speaker, I rise to honor the memory of Sergeant 
+Charles Martin, a proud veteran of World War II and today's Brevard 
+County June veteran nominee and honoree.
+  Charles began his service in the merchant marine, bravely taking on 
+the dangerous mission of guarding Allied shipping routes from prowling 
+U-boats and Stuka dive-bombers.
+  His commitment carried him across the globe from the Atlantic to the 
+shores of Japan. There, he took part in the Allied occupation as a 
+member of the 5th Air Force and, in his own words, had the incredible 
+honor of being saluted by General Douglas MacArthur himself.
+
+[[Page H2574]]
+
+  Sergeant Martin was part of the Greatest Generation, a group of 
+Americans who gave years to defend liberty and defeat tyranny. We owe 
+it to them and to Charles to ensure their sacrifices are never 
+forgotten.
+  So, today, Mr. Speaker, we honor Sergeant Charles Martin, our good 
+friend from Brevard County.
+
+
+                   Recognizing Aviator Ava Hernandez
+
+  Mr. HARIDOPOLOS. Mr. Speaker, I rise to recognize Ava Hernandez, a 
+recipient of the prestigious 2025 Ray Aviation Scholarship, an honor 
+that will support her journey to earning a private pilot's license.
+  Ava was nominated for this scholarship by the Brevard County 
+Experimental Aircraft Association chapter in appreciation of her love 
+for aviation, constant volunteer work, dedication to flight training, 
+and her stellar academic performance.
+  Ava's passion for aviation grew from her involvement in The 99th 
+Squadron, a Brevard County-based nonprofit organization that exposes 
+middle and high school students to the fundamentals of flight.
+  Ava's commitment to aviation is truly admiral, and I thank those who 
+have encouraged youth involvement in the industry, such as the EAA and 
+The 99th Squadron, for shaping the next generation of pilots.
+  Congratulations to Ava on her accomplishment, an honor well-earned.
+
+                          ____________________
+```

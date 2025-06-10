@@ -1,0 +1,36 @@
+---
+granule: CREC-2025-06-10-pt1-PgH2605-5
+date: 2025-06-10
+edition: CREC
+section: HOUSE
+page: H2605
+citation: 171 Cong. Rec. H2605
+---
+
+# SHAME ON REPUBLICANS FOR CUTTING FUNDS TO PBS
+
+**Speaking:** Larson, John B. (L000557) [D-CT]
+
+```
+             SHAME ON REPUBLICANS FOR CUTTING FUNDS TO PBS
+
+  (Mr. LARSON of Connecticut asked and was given permission to address 
+the House for 1 minute.)
+  Mr. LARSON of Connecticut. Mr. Speaker, I rise to associate myself 
+with the gentlewoman from Wisconsin. I wasn't going to speak, but I 
+came to the floor, and I heard Mr. Gill talk about how proud he was of 
+the President doing away with PBS.
+  What a shame. Is this Brandenburg?
+  Are we going to be burning books next?
+  What do we stand for in this great country?
+  In the United States of America we have free speech, and everybody 
+gets to express their opinion whether you agree with them or not.
+  PBS does an exceptional job. Thank God for them. God bless them and 
+America.
+  If you want to help out, all you citizens out there, donate to PBS, 
+and don't put up with any of this nonsense.
+  The SPEAKER pro tempore. Members are reminded to address their 
+remarks to the Chair and not to a perceived viewing audience.
+
+                          ____________________
+```

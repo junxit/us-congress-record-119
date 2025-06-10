@@ -1,0 +1,33 @@
+---
+granule: CREC-2025-06-10-pt1-PgH2603-4
+date: 2025-06-10
+edition: CREC
+section: HOUSE
+page: H2603
+citation: 171 Cong. Rec. H2603
+---
+
+# RECOGNIZING ST. SIMONS ISLAND
+
+**Speaking:** Carter, Earl L. "Buddy" (C001103) [R-GA]
+
+```
+                     RECOGNIZING ST. SIMONS ISLAND
+
+  (Mr. CARTER of Georgia asked and was given permission to address the 
+House for 1 minute and to revise and extend his remarks.)
+  Mr. CARTER of Georgia. Mr. Speaker, I rise today to recognize St. 
+Simons Island's designation by U.S. News and World Report as one of the 
+best underrated travel destinations in the U.S.
+  They evaluated over 1,500 vacation destinations worldwide and ranked 
+them across numerous categories. St. Simons Island, the largest barrier 
+island on Georgia's Golden Isles, offers low-hanging Spanish moss, 
+salty air, and warm ocean water. It is home to pristine beaches, miles 
+of walking paths and trails, ice cream shops, and award-winning 
+restaurants. Despite this, St. Simons has still managed to keep a low 
+profile and is often overlooked by out-of-State beachgoers.
+  I am proud that St. Simons Island, my new home, is being recognized 
+for the stunning views and coastal relaxation it offers patrons.
+
+                          ____________________
+```

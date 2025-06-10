@@ -1,0 +1,45 @@
+---
+granule: CREC-2025-06-10-pt1-PgH2603-6
+date: 2025-06-10
+edition: CREC
+section: HOUSE
+page: H2603
+citation: 171 Cong. Rec. H2603
+---
+
+# CELEBRATING NATIONAL DAIRY MONTH
+
+**Speaking:** LaMalfa, Doug (L000578) [R-CA]
+
+```
+                    CELEBRATING NATIONAL DAIRY MONTH
+
+  (Mr. LaMALFA asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. LaMALFA. Mr. Speaker, here is something to get excited about in 
+the month of June--ice cream. National Dairy Month is a good time to 
+recognize the work of our Nation's dairy farmers.
+  My home State of California leads the Nation in dairy production, 
+with thousands of family-run farms that have been at it for 
+generations. These farmers aren't just producing milk. They are driving 
+a big part of our local economy and providing jobs in rural 
+agricultural areas.
+  Dairies are also making strides in using modernized processes to keep 
+the land and water healthy. However, dairies are often under fire from 
+environmental groups, such as those in Point Reyes, that are trying to 
+push them out using fake environmental pronouncements and basically 
+running them out of business in Point Reyes. They deserve a lot better 
+than that.
+  Remember, when you enjoy a glass of milk, a slice of cheese, or one 
+of your favorite ice creams, there are real people doing the really 
+good, sustainable, and responsible work of operating these dairies, 
+many of them organic, to keep it on the table for all of us.
+  Let's celebrate and remember during National Dairy Month the work 
+that these farmers put in and what it means to all of us.
+
+[[Page H2604]]
+
+  
+
+                          ____________________
+```
