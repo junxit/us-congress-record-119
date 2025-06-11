@@ -1,0 +1,39 @@
+---
+granule: CREC-2025-06-11-pt1-PgH2649-5
+date: 2025-06-11
+edition: CREC
+section: HOUSE
+page: H2649
+citation: 171 Cong. Rec. H2649
+---
+
+# CALLING FOR PERMANENT SCHEDULING FOR FENTANYL ANALOGUES
+
+**Speaking:** Pappas, Chris (P000614) [D-NH]
+
+```
+        CALLING FOR PERMANENT SCHEDULING FOR FENTANYL ANALOGUES
+
+  (Mr. PAPPAS asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. PAPPAS. Mr. Speaker, I rise today to urge my colleagues to 
+support the HALT Fentanyl Act when it comes to the floor tomorrow.
+  For the past 5 years, I have engaged with law enforcement, public 
+health experts, and colleagues across the aisle to ensure the 
+scheduling of fentanyl analogues doesn't lapse and is finally made 
+permanent.
+  Permanent scheduling will ensure that law enforcement retains 
+important tools they need to tackle the opioid crisis and hold 
+traffickers accountable. These are tools that have helped drive down 
+drug-related deaths in New Hampshire to the lowest levels in 10 years.
+  This is thanks to New Hampshire's all-hands-on-deck approach, pairing 
+enforcement with treatment to bring down both the supply of opioids 
+reaching our communities as well as the demand for them.
+  There is still work to be done, including getting this bill across 
+the finish line and restoring vital funding that was cut by the current 
+administration for treatment and recovery.
+  I will continue fighting to ensure that our communities have the 
+support that they need to save lives and confront addiction head-on.
+
+                          ____________________
+```

@@ -1,0 +1,47 @@
+---
+granule: CREC-2025-06-11-pt1-PgE558-5
+date: 2025-06-11
+edition: CREC
+section: EXTENSIONS
+page: E558
+citation: 171 Cong. Rec. E558
+---
+
+# HONORING JUSTICE DAVID H. SOUTER
+
+**Speaking:** Kaptur, Marcy (K000009) [D-OH]
+
+```
+                    HONORING JUSTICE DAVID H. SOUTER
+
+                                 ______
+                                 
+
+                           HON. MARCY KAPTUR
+
+                                of ohio
+
+                    in the house of representatives
+
+                        Wednesday, June 11, 2025
+
+  Ms. KAPTUR. Mr. Speaker, I rise today to honor the life and legacy of 
+Justice David H. Souter, who passed away recently at the age of 85. 
+Justice Souter served our Nation with integrity, humility, and an 
+abiding respect for the Constitution. In retirement, he spoke rarely 
+but when he did, his words resonated with profound clarity. In 2012, he 
+warned that democracy cannot survive too much ignorance. He spoke not 
+from partisanship, but from deep historical understanding. When 
+citizens no longer grasp how their government works, the path opens to 
+authoritarianism. He said, ``That is the way democracy dies . . . an 
+ignorant people can never remain a free people.'' Those words echo even 
+louder today, when civic trust is fraying, institutions are under 
+siege, and loud voices offer simple answers to complex problems. This 
+is not a moment for cynicism or despair. But neither is it a time for 
+complacency. Justice Souter's warning was not about left or right. It 
+was about whether we choose understanding over manipulation, engagement 
+over apathy. Let us honor his legacy by committing ourselves anew to 
+the serious work of fostering a democracy of, by, and for the people.
+
+                          ____________________
+```

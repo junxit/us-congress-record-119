@@ -1,0 +1,39 @@
+---
+granule: CREC-2025-06-11-pt1-PgH2648-3
+date: 2025-06-11
+edition: CREC
+section: HOUSE
+page: H2648
+citation: 171 Cong. Rec. H2648
+---
+
+# RECOGNIZING THE CAPITOL HILL CHALLENGE
+
+**Speaking:** Kennedy, Mike (K000403) [R-UT]
+
+```
+                 RECOGNIZING THE CAPITOL HILL CHALLENGE
+
+  (Mr. KENNEDY of Utah asked and was given permission to address the 
+House for 1 minute and to revise and extend his remarks.)
+  Mr. KENNEDY of Utah. Mr. Speaker, today I rise to recognize and 
+congratulate the outstanding Whitehorse High School team from Montezuma 
+Creek, Utah, for achieving national distinction in the Capitol Hill 
+Challenge.
+  Out of hundreds of teams from across the country, this remarkable 
+group finished in the top ten. This is a truly impressive 
+accomplishment that speaks to their academic excellence and their 
+strong grasp of financial markets, economics, and civic engagement. 
+These students demonstrated exceptional teamwork, discipline, and a 
+genuine passion for learning throughout the competition.
+  The team members who I met today, along with their teacher, are Hope, 
+JaSea, Gabrielle, Nateo, and Kalvin, and they excelled under the 
+leadership of their dedicated teacher, Mr. Gosney. Their success is a 
+testament to both their individual talents and the support and guidance 
+that they received.
+  I am immensely proud to have such bright and committed leaders 
+representing Utah's Third District. Their achievement reflects the 
+strength, resilience, and character of our community.
+
+                          ____________________
+```

@@ -1,0 +1,63 @@
+---
+granule: CREC-2025-06-11-pt1-PgS3325-6
+date: 2025-06-11
+edition: CREC
+section: SENATE
+page: S3325
+citation: 171 Cong. Rec. S3325
+---
+
+# EXECUTIVE CALENDAR (Executive Session)
+
+**Speaking:** Grassley, Chuck (G000386) [R-IA]
+
+```
+                           EXECUTIVE CALENDAR
+
+  The PRESIDING OFFICER. Under the previous order, the Senate will 
+proceed to executive session and resume consideration of the following 
+nomination, which the clerk will report.
+  The senior assistant executive clerk read the nomination of William 
+Long, of Missouri, to be Commissioner of Internal Revenue for the 
+remainder of the term expiring November 12, 2027.
+  The PRESIDING OFFICER. The Senator from Iowa.
+
+
+                        38th Anniversary of the
+                        Brandenburg Gate Speech
+
+  Mr. GRASSLEY. Mr. President, 38 years ago on June 12, 1987, President 
+Ronald Reagan stood at the Brandenburg Gate and called for the General 
+Secretary of the Soviet Union to tear down the Berlin Wall.
+  That wall was originally built to prevent people from fleeing 
+communist East Germany into democratic West Berlin. The legendary line 
+that President Reagan spoke:
+
+       Mr. Gorbachev, tear down this wall.
+
+  Now, those lines were nearly left out of the speech after the 
+advisers from the State Department and the National Security Council 
+claimed that the statement was, in their words, ``too provocative.''
+  But President Reagan stood his ground. He wanted to speak directly to 
+the hearts of the divided world and take a moral stance against 
+tyranny. President Reagan's words resonated with millions of East 
+Germans. These East Germans dreamed of freedom. Two years later, the 
+wall came down. It turned out that Reagan's words were prophetic--not 
+provocative. Russia only understands strength. We still know that 
+today.
+  I have reminded my colleagues of this fact in the context of the 
+Russian invasion of Ukraine. Weakness is what provokes a KGB man like 
+Putin. President Biden was too timid in his approach, trying to manage 
+escalation. Had the West instead given the Ukrainians what they needed 
+earlier, they might have pushed Russia out of their country by now.
+  President Trump ought to not make the same mistake that President 
+Biden made. I think Putin thinks that he can play President Trump. 
+Putin's lackey, former ``puppet'' President Medvedev, admitted recently 
+what Russia wants is not peace but in his words ``swift victory'' and, 
+again, in his words a ``complete destruction'' of the Ukrainian 
+Government.
+  Putin will only respond to strength, and this Congress ought to give 
+President Trump the tools to stand up to Putin with strong sanctions 
+that plug the loopholes in the current Biden sanctions.
+  I yield the floor.
+```
