@@ -1,0 +1,42 @@
+---
+granule: CREC-2025-06-12-pt1-PgH2813-6
+date: 2025-06-12
+edition: CREC
+section: HOUSE
+page: H2813
+citation: 171 Cong. Rec. H2813
+---
+
+# PULSE SHOOTING ANNIVERSARY
+
+**Speaking:** Frost, Maxwell (F000476) [D-FL]
+
+```
+                       PULSE SHOOTING ANNIVERSARY
+
+  (Mr. FROST asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. FROST. Mr. Speaker, 9 years ago today, 49 lives were stolen and 
+ripped away from us at Pulse nightclub in my district, in my home of 
+Orlando, Florida, a safe haven for Orlando's LGBTQ+ community that was 
+turned into the site of unimaginable horror and a mass grave.
+  Pulse was more than just a club. It was love. It was joy. It was 
+freedom and a space for a community facing constant adversity, from our 
+State, and people like in our inner administration.
+  Just today, Governor Ron DeSantis deleted from the annual anniversary 
+statement the words and acronyms ``LGBTQ+'' and ``Hispanic,'' when most 
+of the people who were killed that day were from the LGBTQ+ community 
+and Hispanic. This was armed bigotry, and it was armed hate.
+  I am oftentimes asked why I don't join moments of silence that 
+include Republicans for gun violence, and the reason why is because 
+they refuse to do anything about it. I am not going to be a prop in 
+some social media video that is posted later to placate constituents 
+about ending gun violence. I am going to continue to honor them with 
+action, not just with thoughts and prayers.
+
+[[Page H2814]]
+
+  
+
+                          ____________________
+```

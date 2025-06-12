@@ -1,0 +1,43 @@
+---
+granule: CREC-2025-06-12-pt1-PgH2666
+date: 2025-06-12
+edition: CREC
+section: HOUSE
+page: H2666
+citation: 171 Cong. Rec. H2666
+---
+
+# RECOGNIZING ALSTOM'S PLANT IN HORNELL
+
+**Speaking:** Langworthy, Nicholas A. (L000600) [R-NY]
+
+```
+                 RECOGNIZING ALSTOM'S PLANT IN HORNELL
+
+  (Mr. LANGWORTHY asked and was given permission to address the House 
+for 1 minute and to revise and extend his remarks.)
+  Mr. LANGWORTHY. Mr. Speaker, I rise today to recognize a major 
+milestone for American manufacturing for New York's southern tier.
+  Alstom, a global leader in smart and sustainable mobility, has opened 
+its new, cutting-edge plant 4 facility in Hornell, New York.
+  This 135,000-square-foot expansion brings stainless steel railcar 
+body production back to the United States, strengthening our domestic 
+supply chain, and reaffirming Hornell's position as the Nation's 
+premier center for passenger train manufacturing.
+  Plant 4 isn't just a facility. It is a symbol of what investment in 
+American industry looks like. It will retain 390 good-paying jobs 
+locally and create 258 new ones for families across my district.
+  These are high-quality, high-tech jobs that provide economic 
+stability and opportunity for the hardworking people of the southern 
+tier.
+  Production will soon begin on 200 multilevel commuter railcars for 
+Chicago's Metra system, proof that what is built in Hornell rolls 
+across the Nation.
+  This project is a powerful example of how we strengthen our economy 
+by investing in our communities, empowering our workforce, and leading 
+the way in advanced manufacturing.
+  I commend Alstom for their continued commitment to Hornell and thank 
+the skilled men and women who are driving this legacy forward.
+
+                          ____________________
+```

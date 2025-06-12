@@ -1,0 +1,41 @@
+---
+granule: CREC-2025-06-12-pt1-PgH2810-4
+date: 2025-06-12
+edition: CREC
+section: HOUSE
+page: H2810
+citation: 171 Cong. Rec. H2810
+---
+
+# WOMEN IN THE MILITARY
+
+**Speaking:** Houlahan, Chrissy (H001085) [D-PA]
+
+```
+                              {time}  1620
+                         WOMEN IN THE MILITARY
+
+  (Ms. HOULAHAN asked and was given permission to address the House for 
+1 minute and to revise and extend her remarks.)
+  Ms. HOULAHAN. Mr. Speaker, I rise today as a veteran of the United 
+States Air Force on this national Women Veterans Day to tell Secretary 
+Hegseth and President Trump that women who raise their hand and swear 
+an oath to protect and defend this Nation are not going anywhere and we 
+will not be silent.
+  From the earliest days of our Nation, women have always served, both 
+officially and unofficially, facing off against America's enemies. 
+Today, women make up nearly 18 percent of the Active-Duty force and 22 
+percent of our National Guard and Reserve.
+  Studies prove that their service improves innovation and mission 
+outcomes, making our military stronger, smarter, and more prepared to 
+face the challenges of modern warfare.
+  The administration's artificial barriers on who can lead and who can 
+serve are disrespectful and irresponsible. Firing and pushing aside 
+decorated female leaders who earned their positions diminishes military 
+readiness and devalues the standards and integrity of the very military 
+itself.
+  Women in our military are not insignificant or inconsequential. We 
+are indeed essential, and we cannot be pushed out or erased.
+
+                          ____________________
+```

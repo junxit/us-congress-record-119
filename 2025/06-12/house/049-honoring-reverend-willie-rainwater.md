@@ -1,0 +1,43 @@
+---
+granule: CREC-2025-06-12-pt1-PgH2810-6
+date: 2025-06-12
+edition: CREC
+section: HOUSE
+page: H2810
+citation: 171 Cong. Rec. H2810
+---
+
+# HONORING REVEREND WILLIE RAINWATER
+
+**Speaking:** Johnson, Julie (J000310) [D-TX]
+
+```
+                   HONORING REVEREND WILLIE RAINWATER
+
+  (Ms. JOHNSON of Texas asked and was given permission to address the 
+House for 1 minute and to revise and extend her remarks.)
+  Ms. JOHNSON of Texas. Mr. Speaker, I rise today to honor the 
+extraordinary life and legacy of Reverend Willie Rainwater of 
+Carrollton, Texas.
+  Reverend Rainwater was more than a pastor. He was a pillar of 
+justice, a steward of history, and a relentless voice for civil rights.
+  From preserving the Carrollton Black Cemetery to organizing the 
+city's annual Martin Luther King, Jr. Day parade for more than 25 
+years, he brought our community together in the spirit of equity and 
+remembrance.
+  His work wasn't just in the pulpit. It was in the streets, in our 
+schools, in our city hall meetings, and in the daily struggle to make 
+north Texas more just and united.
+  Reverend Rainwater now joins his beloved wife, Juanita, with whom he 
+shared a life of faith, service, and community leadership. Together, 
+they made north Texas better.
+
+[[Page H2811]]
+
+  Today, we remember a man whose faith was inseparable from action, 
+whose love for his neighbors left an imprint on our institutions, and 
+whose memory is a blessing to us all. May we continue to carry his 
+torch forward.
+
+                          ____________________
+```

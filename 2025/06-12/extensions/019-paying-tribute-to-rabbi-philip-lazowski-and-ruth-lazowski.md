@@ -1,0 +1,70 @@
+---
+granule: CREC-2025-06-12-pt1-PgE568
+date: 2025-06-12
+edition: CREC
+section: EXTENSIONS
+page: E568
+citation: 171 Cong. Rec. E568
+---
+
+# PAYING TRIBUTE TO RABBI PHILIP LAZOWSKI AND RUTH LAZOWSKI
+
+**Speaking:** Larson, John B. (L000557) [D-CT]
+
+```
+       PAYING TRIBUTE TO RABBI PHILIP LAZOWSKI AND RUTH LAZOWSKI
+
+                                 ______
+                                 
+
+                          HON. JOHN B. LARSON
+
+                             of connecticut
+
+                    in the house of representatives
+
+                        Thursday, June 12, 2025
+
+  Mr. LARSON of Connecticut. Mr. Speaker, I rise today to pay tribute 
+to Rabbi Philip Lazowski and his wife of 70 years, Ruth Lazowski--both 
+Holocaust survivors and pillars of the Greater Hartford community.
+  On June 14, 2025, a kiddush will be held in their honor, along with 
+their granddaughter, Jesse, as they all celebrate birthdays in the 
+month of June. This joyous occasion will take place at the Emanuel 
+Synagogue in West Hartford, Connecticut, where Rabbi Lazowski serves as 
+Rabbi Emeritus. Rabbi Lazowski will turn 95 on June 13, 2025; Ruth 
+Lazowski celebrated her 90th birthday on June 9, 2025; and Jesse will 
+turn 35, also on June 13, 2025.
+  The Lazowski name is synonymous with service in Connecticut and 
+beyond. For the past 70 years, Rabbi Lazowski has been widely regarded 
+as the spiritual leader of Greater Hartford's Jewish community, having 
+served at Congregation Beth Sholom Synagogue in Hartford and later as 
+spiritual leader at Beth Hillel Synagogue in Bloomfield, until his 
+retirement in 2000.
+  In addition to his leadership in these synagogues, Rabbi Lazowski 
+served as Chaplain for Hartford Hospital's Institute of Living, where 
+he spearheaded a mental health initiative, and as Chaplain for the 
+Hartford Police. He also recently retired, after 25 years, as Chaplain 
+of the State Senate. Upon his retirement, Rabbi Lazowski declared, ``As 
+a Holocaust survivor, I am grateful to be alive, to live in this free 
+and noble state of Connecticut, in our blessed United States of 
+America.''
+  Rabbi Lazowski and his family's story is one of courage, triumph, and 
+perseverance in the face of adversity. He and Ruth narrowly escaped 
+Nazi-occupied Poland, only to be reunited in Hartford after World War 
+II. Philip was separated from his family in a round-up in the Zhetel 
+ghetto in Bielica. In an extraordinary act of selflessness and bravery, 
+a nurse named Mirian Rabinowitz helped save Philip's life by pretending 
+to be his mother while also protecting her two young daughters (one of 
+whom was Ruth). Philip evaded capture by hiding in the ``White Russian 
+Woods'' with his father and brother for years before eventually making 
+his way to the United States in 1947.
+  It is a true honor to recognize Rabbi Lazowski, Ruth Lazowski, and 
+Jesse Lazowski on this special occasion. I am deeply grateful for the 
+friendship of the Lazowski family and for all they have done for the 
+Greater Hartford community, the State of Connecticut, and the United 
+States of America. I look forward to the Torah service and kiddush and 
+wish them very happy birthdays and continued health and prosperity.
+
+                          ____________________
+```

@@ -1,0 +1,43 @@
+---
+granule: CREC-2025-06-12-pt1-PgH2810-3
+date: 2025-06-12
+edition: CREC
+section: HOUSE
+page: H2810
+citation: 171 Cong. Rec. H2810
+---
+
+# HONORING FALLEN OFFICER GABRIEL FACIO
+
+**Speaking:** Biggs, Andy (B001302) [R-AZ]
+
+```
+  HONORING FALLEN OFFICER GABRIEL FACIO
+  (Mr. BIGGS of Arizona asked and was given permission to address the 
+House for 1 minute and to revise and extend his remarks.)
+  Mr. BIGGS of Arizona. Mr. Speaker, I rise to honor the memory and 
+selfless service of Officer Gabriel Facio of the Apache Junction Police 
+Department: End of watch, June 8, 2025.
+  Gabriel was wounded in the line of duty on June 2, 2025, while 
+attempting to apprehend a suspect who was brandishing a weapon and 
+waving it at motorists and residents. Gabriel and his fellow officers 
+bravely responded to the call and pursued the suspect further south.
+  After using all available means to bring in the suspect without 
+incident, the commands were not obeyed, and the suspect could not be 
+brought down with less lethal tools. The suspect fired his weapon at 
+Gabriel and his fellow officers, who returned fire. Sadly, in the 
+exchange, Gabriel was struck in the face before the suspect was hit and 
+taken into custody.
+  Gabriel fought valiantly but could not overcome the wounds he 
+sustained. Six days later, he passed away at only 46 years old, 
+surrounded by his family and fellow officers.
+  We honor his sacrifice as the first Apache Junction police officer to 
+be killed in the line of duty. He was beloved by his fellow officers 
+and his dear family, with whom we mourn.
+  Gabriel, we pray for your family and brothers in blue. Your service 
+and protection of the people of Apache Junction in Arizona's Fifth 
+District will live on forever. Thank you, and may God welcome you home.
+  Mr. Speaker, I ask for a moment of silence.
+
+                          ____________________
+```

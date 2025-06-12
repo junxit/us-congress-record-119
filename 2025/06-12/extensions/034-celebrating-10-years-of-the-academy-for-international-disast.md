@@ -1,0 +1,50 @@
+---
+granule: CREC-2025-06-12-pt1-PgE572
+date: 2025-06-12
+edition: CREC
+section: EXTENSIONS
+page: E572
+citation: 171 Cong. Rec. E572
+---
+
+# CELEBRATING 10 YEARS OF THE ACADEMY FOR INTERNATIONAL DISASTER PREPAREDNESS
+
+**Speaking:** Gimenez, Carlos A. (G000593) [R-FL]
+
+```
+    CELEBRATING 10 YEARS OF THE ACADEMY FOR INTERNATIONAL DISASTER 
+                              PREPAREDNESS
+
+                                 ______
+                                 
+
+                         HON. CARLOS A. GIMENEZ
+
+                               of florida
+
+                    in the house of representatives
+
+                        Thursday, June 12, 2025
+
+  Mr. GIMENEZ. Mr. Speaker, I rise today to recognize a decade of 
+excellence at the Academy for International Disaster Preparedness at 
+Florida International University.
+  Over the past decade, AIDP has trained and graduated more than 500 
+students in disaster preparedness, emergency management, and 
+humanitarian response.
+  These programs have successfully prepared students to work in local, 
+tribal, state, and federal government as well as in Fortune 500 
+companies and the private sector.
+  AIDP's curriculum aligns with FEMA's Next Generation Core 
+Competencies, focusing on four phases of emergency management: 
+mitigation, preparedness, response, and recovery.
+  Through hands on training, students, along with experts in the field, 
+use the frameworks of the Incident Command System and the National 
+incident Management System to experience complex, real-world disaster 
+environments.
+  FIU and AIDP are setting the standard for the next generation of 
+emergency management professionals, and I am proud to recognize their 
+service and leadership today.
+
+                          ____________________
+```
