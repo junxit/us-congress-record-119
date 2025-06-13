@@ -1,0 +1,53 @@
+---
+granule: CREC-2025-06-13-pt1-PgE576-2
+date: 2025-06-13
+edition: CREC
+section: EXTENSIONS
+page: E576
+citation: 171 Cong. Rec. E576
+---
+
+# RECOGNIZING ROOSEVELT MAREUS
+
+**Speaking:** Morelle, Joseph D. (M001206) [D-NY]
+
+```
+                      RECOGNIZING ROOSEVELT MAREUS
+
+                                 ______
+                                 
+
+                         HON. JOSEPH D. MORELLE
+
+                              of new york
+
+                    in the house of representatives
+
+                         Friday, June 13, 2025
+
+  Mr. MORELLE. Mr. Speaker, I rise today in honor of Caribbean American 
+Heritage Month to recognize an extraordinary leader from the Rochester 
+community: Roosevelt Mareus.
+  As Executive Director and Dean of the Rochester Educational 
+Opportunity Center, or REOC, Roosevelt Mareus has led with vision, 
+integrity, and a deep commitment to uplifting others. Under his 
+leadership, REOC has continued its vital mission of empowering 
+individuals, helping countless students break the cycle of poverty and 
+reach their utmost potential.
+  Born in Haiti, Roosevelt's journey is one of remarkable resilience 
+and transformation. As a young man overcoming adversity, he found 
+direction and opportunity through the very institution he would one day 
+lead. Beginning his career at REOC as a security guard, he steadily 
+rose through the ranks to become Executive Director. His life story is 
+a testament to his perseverance and dedication.
+  Roosevelt's passion for service extends far beyond Rochester. Deeply 
+connected to his Haitian roots, he founded Elevate Haiti Ministries, an 
+organization dedicated to building an orphanage and school in Haiti. 
+Over the past decade, Elevate Haiti has offered critical education and 
+housing for young boys.
+  During Caribbean American Heritage Month, it is my great privilege to 
+recognize Roosevelt Mareus. His leadership and service continues to 
+inspire and uplift communities both here at home and abroad.
+
+                          ____________________
+```
