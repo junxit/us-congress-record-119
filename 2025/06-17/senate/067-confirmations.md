@@ -1,0 +1,29 @@
+---
+granule: CREC-2025-06-17-pt1-PgS3451-3
+date: 2025-06-17
+edition: CREC
+section: SENATE
+page: S3451
+citation: 171 Cong. Rec. S3451
+---
+
+# CONFIRMATIONS
+
+```
+                             CONFIRMATIONS
+
+  Executive nominations confirmed by the Senate June 17, 2025:
+
+
+                   FEDERAL COMMUNICATIONS COMMISSION
+
+       OLIVIA TRUSTY, OF MARYLAND, TO BE A MEMBER OF THE FEDERAL 
+     COMMUNICATIONS COMMISSION FOR THE REMAINDER OF THE TERM 
+     EXPIRING JUNE 30, 2025.
+
+
+                DEPARTMENT OF HEALTH AND HUMAN SERVICES
+
+       GARY ANDRES, OF VIRGINIA, TO BE AN ASSISTANT SECRETARY OF 
+     HEALTH AND HUMAN SERVICES.
+```

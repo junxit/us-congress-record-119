@@ -1,0 +1,32 @@
+---
+granule: CREC-2025-06-17-pt1-PgS3434-2
+date: 2025-06-17
+edition: CREC
+section: SENATE
+page: S3434
+citation: 171 Cong. Rec. S3434
+---
+
+# GENIUS ACT
+
+**Speaking:** Alsobrooks, Angela D. (A000382) [D-MD]
+
+**Measures:** S. 1582
+
+```
+                               GENIUS ACT
+
+  Ms. ALSOBROOKS. Mr. President, I supported passage of S. 1582, the 
+GENIUS Act, because it creates new Federal regulations and consumer 
+protections for payment stablecoins. Specifically, the bill was amended 
+to explicitly and clearly preserve State consumer protection laws in 
+the negotiated rule of construction in section 7(f)(4). This was always 
+the intent of the bill, as evidenced by the public discussion between 
+Senators of both parties during the March 13, 2025, markup in the 
+Committee on Banking, Housing, and Urban Affairs. The amended, final 
+version of the bill includes this negotiated rule of construction to 
+prevent State consumer protection laws from being preempted, as 
+intended by the bill's sponsors and supporters.
+
+                          ____________________
+```

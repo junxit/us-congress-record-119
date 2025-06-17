@@ -1,0 +1,43 @@
+---
+granule: CREC-2025-06-17-pt1-PgE583
+date: 2025-06-17
+edition: CREC
+section: EXTENSIONS
+page: E583
+citation: 171 Cong. Rec. E583
+---
+
+# RECOGNIZING JOUNGHUN BANG
+
+**Speaking:** Veasey, Marc A. (V000131) [D-TX]
+
+```
+                       RECOGNIZING JOUNGHUN BANG
+
+                                 ______
+                                 
+
+                          HON. MARC A. VEASEY
+
+                                of texas
+
+                    in the house of representatives
+
+                         Tuesday, June 17, 2025
+
+  Mr. VEASEY. Mr. Speaker, today I rise to honor Mr. Jounghun Bang, 
+Vice President of the Dallas Taekwondo Association, whose leadership 
+and mentorship have left a lasting mark on youth and families 
+throughout North Texas.
+  Through his commitment to training the next generation of athletes, 
+Mr. Bang has fostered excellence on and off the mat. His students' 
+success in national competitions reflects not only technical mastery 
+but the values of perseverance and discipline that he instills.
+  Mr. Bang's contributions extend beyond the dojang. His support for 
+the 23rd Annual Korean American National Sports Festival exemplifies 
+his broader mission to highlight cultural pride and build community.
+  For his tireless dedication to sport, culture, and the development of 
+young people, we extend our heartfelt thanks and congratulations.
+
+                          ____________________
+```

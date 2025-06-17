@@ -1,0 +1,45 @@
+---
+granule: CREC-2025-06-17-pt1-PgE580-3
+date: 2025-06-17
+edition: CREC
+section: EXTENSIONS
+page: E580
+citation: 171 Cong. Rec. E580
+---
+
+# REGOGNIZING JAEHYUNG KIM
+
+**Speaking:** Veasey, Marc A. (V000131) [D-TX]
+
+```
+                        REGOGNIZING JAEHYUNG KIM
+
+                                 ______
+                                 
+
+                          HON. MARC A. VEASEY
+
+                                of texas
+
+                    in the house of representatives
+
+                         Tuesday, June 17, 2025
+
+  Mr. VEASEY. Mr. Speaker, today I rise to recognize President Jaehyung 
+Kim of the Dallas Taekwondo Association, a dedicated leader whose work 
+has advanced both sport and community across North Texas and beyond.
+  Through his leadership at White Tiger Taekwondo and the Dallas 
+Taekwondo Association, Mr. Kim has elevated the practice of Taekwondo 
+while instilling discipline, pride, and cultural identity in 
+generations of students. His efforts have created a community rooted in 
+respect and unity.
+  Mr. Kim's passion for youth development and multicultural outreach 
+has helped foster deeper understanding across communities, and his role 
+in bringing the 23rd Annual Korean American National Sports Festival to 
+North Texas underscores his commitment to cultural celebration and 
+civic engagement.
+  We honor Mr. Kim for his service, his vision, and the inclusive 
+spirit he brings to our region.
+
+                          ____________________
+```
