@@ -1,0 +1,30 @@
+---
+granule: CREC-2025-06-18-pt1-PgS3479-2
+date: 2025-06-18
+edition: CREC
+section: SENATE
+page: S3479
+citation: 171 Cong. Rec. S3479
+---
+
+# CONFIRMATIONS
+
+```
+                             CONFIRMATIONS
+
+  Executive nominations confirmed by the Senate June 18, 2025:
+
+
+                   FEDERAL COMMUNICATIONS COMMISSION
+
+       OLIVIA TRUSTY, OF MARYLAND, TO BE A MEMBER OF THE FEDERAL 
+     COMMUNICATIONS COMMISSION FOR A TERM OF FIVE YEARS FROM JULY 
+     1, 2025.
+
+
+                    DEPARTMENT OF HOMELAND SECURITY
+
+       RODNEY SCOTT, OF OKLAHOMA, TO BE COMMISSIONER OF U.S. 
+     CUSTOMS AND BORDER PROTECTION, DEPARTMENT OF HOMELAND 
+     SECURITY.
+```
