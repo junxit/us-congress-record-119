@@ -1,0 +1,53 @@
+---
+granule: CREC-2025-06-20-pt1-PgE592-2
+date: 2025-06-20
+edition: CREC
+section: EXTENSIONS
+page: E592
+citation: 171 Cong. Rec. E592
+---
+
+# HONORING RICHARD KOCH FOR EXCEPTIONAL SERVICE AND LEADERSHIP
+
+**Speaking:** Hudson, Richard (H001067) [R-NC]
+
+```
+      HONORING RICHARD KOCH FOR EXCEPTIONAL SERVICE AND LEADERSHIP
+
+                                 ______
+                                 
+
+                          HON. RICHARD HUDSON
+
+                           of north carolina
+
+                    in the house of representatives
+
+                         Friday, June 20, 2025
+
+  Mr. HUDSON. Mr. Speaker, I rise today to honor the strong-willed 
+commitment Richard Koch holds for the people of Cabarrus County, North 
+Carolina. Mr. Koch served as the Cabarrus County Attorney for 19 years 
+alongside serving as the County Planning and Zoning Attorney for an 
+impressive 32 years.
+  Mr. Koch earned his undergraduate degree from Washington and Lee 
+University, where he was a member of the swimming team. He then went on 
+to earn a Juris Doctor degree from Wake Forest Law School, and he has 
+been a licensed attorney for 47 years. Mr. Koch currently serves as 
+both the Administrative Law Judge for North Carolina Occupational 
+Safety and Health, and the Harrisburg Town Attorney, which he has been 
+doing for 37 and 32 years, respectively. Serving on two boards, the 
+Historic Cabarrus Board and the Cannon School Board, there is no doubt 
+that Mr. Koch is dedicated to his county.
+  Over the past 37 years, Mr, Koch has exemplified high levels personal 
+sacrifice and commitment to Cabarrus County. The magnitude of his 
+efforts and dedication cannot be overstated.
+  Renee and I offer our most heartfelt appreciation to Mr. Koch for the 
+decades of loyal service he gave to Cabarrus County. We wish him 
+continued success and happiness as he moves forward on to his next 
+adventure.
+  Mr. Speaker, please join me today in honoring Mr. Richard Koch for 
+the lifetime of service he dedicated to his community.
+
+                          ____________________
+```

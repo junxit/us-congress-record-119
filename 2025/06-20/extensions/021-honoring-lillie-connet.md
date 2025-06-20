@@ -1,0 +1,47 @@
+---
+granule: CREC-2025-06-20-pt1-PgE596-4
+date: 2025-06-20
+edition: CREC
+section: EXTENSIONS
+page: E596
+citation: 171 Cong. Rec. E596
+---
+
+# HONORING LILLIE CONNET
+
+**Speaking:** Edwards, Chuck (E000246) [R-NC]
+
+```
+                         HONORING LILLIE CONNET
+
+                                 ______
+                                 
+
+                           HON. CHUCK EDWARDS
+
+                           of north carolina
+
+                    in the house of representatives
+
+                         Friday, June 20, 2025
+
+  Mr. EDWARDS. Mr. Speaker, I rise today to honor Ms. Lillie Connet, 
+for her work as an intern serving in my D.C. office. I would like to 
+take this opportunity to thank her for her hard work and recognize the 
+meaningful contributions she has made to the office this summer. Lillie 
+is from Hendersonville, North Carolina, and attends the University of 
+North Carolina at Chapel Hill. Lillie is entering her third year at 
+Chapel Hill where she is studying Political Science.
+  Interns work with staff to serve constituents in North Carolina's 
+11th congressional district. Lillie was chosen from a competitive pool 
+of applicants and exceeded every expectation with her positive attitude 
+and impressive work ethic. It was a pleasure to work with Lillie, and I 
+am so proud to have had such an intelligent and ambitious intern 
+representing my office.
+  Lillie exemplified the spirit of public service and represents the 
+best that our Nation has to offer. I congratulate Lillie on the 
+successful completion of her internship and thank her on behalf of the 
+people of Western North Carolina.
+
+                          ____________________
+```
