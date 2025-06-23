@@ -1,0 +1,60 @@
+---
+granule: CREC-2025-06-23-pt1-PgE606
+date: 2025-06-23
+edition: CREC
+section: EXTENSIONS
+page: E606
+citation: 171 Cong. Rec. E606
+---
+
+# HONORING D.C. FIRE AND EMS CAPTAIN JORDAN WILEY
+
+**Speaking:** Joyce, John (J000302) [R-PA]
+
+```
+            HONORING D.C. FIRE AND EMS CAPTAIN JORDAN WILEY
+
+                                 ______
+                                 
+
+                            HON. JOHN JOYCE
+
+                            of pennsylvania
+
+                    in the house of representatives
+
+                         Monday, June 23, 2025
+
+  Mr. JOYCE of Pennsylvania. Mr. Speaker, I rise today to recognize an 
+Altoona native, Penn State graduate, and newest Captain of D.C. Fire 
+and EMS, Jordan Wiley. Jordan studied Emergency Medicine at the 
+University of Pittsburgh before receiving his Master of Public 
+Administration from Penn State University.
+  In October of 2014, Jordan joined the D.C. Fire and EMS Department as 
+a Firefighter and Paramedic. In nearly eleven years of service, Jordan 
+was awarded the department's `Paramedic of the Year' award in 2019 and 
+earned promotions to Sergeant in 2020, Lieutenant in 2022, and Captain 
+in 2024. However, the most important milestone for Jordan was when he 
+met his wife Catelyn and started a family with their two children, 
+Russell and Madison.
+  Jordan has dedicated so much of his time, in and out of the 
+firehouse, to serving his fellow community members. As a cancer 
+survivor himself, Jordan is instrumental in efforts to promote cancer 
+awareness and prevention within the department. Cancer-related deaths 
+are rising among firefighters, and Jordan's advocacy will help save 
+lives.
+  Jordan is also an advocate for the National Marrow Donor Program, 
+working to save lives by connecting bone marrow donors with patients 
+who have life-threatening blood disorders such as leukemia, lymphoma, 
+and sickle cell.
+  Jordan has faithfully served his community and fellow Americans for 
+more than a decade, both as a paramedic and as an advocate for cancer 
+patients, and I know his parents, Frank Wiley and Dr. Mary O'Leary 
+Wiley, are incredibly proud of the man and father he has become.
+  Along with everyone in Pennsylvania's 13th Congressional District, I 
+want to congratulate Captain Wiley on his selection to lead the D.C. 
+Fire and EMS Department and thank him for his continued dedication to 
+our fellow Americans.
+
+                          ____________________
+```

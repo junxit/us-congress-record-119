@@ -1,0 +1,54 @@
+---
+granule: CREC-2025-06-23-pt1-PgE602-2
+date: 2025-06-23
+edition: CREC
+section: EXTENSIONS
+page: E602
+citation: 171 Cong. Rec. E602
+---
+
+# HONORING THE NATIONAL EMS MEMORIAL SERVICE
+
+**Speaking:** Moran, Nathaniel (M001224) [R-TX]
+
+```
+               HONORING THE NATIONAL EMS MEMORIAL SERVICE
+
+                                 ______
+                                 
+
+                          HON. NATHANIEL MORAN
+
+                                of texas
+
+                    in the house of representatives
+
+                         Monday, June 23, 2025
+
+  Mr. MORAN. Mr. Speaker, I rise today to honor the courage and 
+sacrifice of those serving in Emergency Medical Services. We pay 
+tribute to the EMS and air medical professionals who have lost their 
+lives in the line of duty.
+  Ms. Jeanne Lackey, Mr. Gerald Morgan, Sr., and Ms. Kathryn Lea 
+Ohnheiser each served with TMF Flight for Life, which provides critical 
+care transport services across East Texas--including in Palestine, 
+Longview, Wills Point, and Mount Pleasant. This program focuses on 
+transporting critically ill and injured patients to specialized care 
+centers. Ms. Lackey, Mr. Morgan, and Ms. Ohnheiser gave their lives in 
+the line of duty on February 13, 1989, as a result of an air medical 
+incident.
+  Mr. James Thomas served with Champion EMS in Tyler, Texas, an 
+organization that provides emergency medical services to 12 counties in 
+Northeast Texas. Mr. Thomas lost his life in the line of duty on May 
+31, 1988, due to a traumatic injury.
+  Today, I am proud to recognize these four individuals who selflessly 
+served the communities of East Texas. This year's National EMS Weekend 
+of Honor reminds us of the sacrifice, perseverance, and integrity with 
+which they lived their lives.
+  I urge my colleagues to join me in paying tribute to Ms. Lackey, Mr. 
+Morgan, Ms. Ohnheiser, and Mr. Thomas, and in extending our deepest 
+gratitude to their families. May their legacies continue to inspire all 
+of us to serve with honor and dedication.
+
+                          ____________________
+```

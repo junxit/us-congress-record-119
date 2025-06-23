@@ -1,0 +1,56 @@
+---
+granule: CREC-2025-06-23-pt1-PgS3483-6
+date: 2025-06-23
+edition: CREC
+section: SENATE
+page: S3483
+citation: 171 Cong. Rec. S3483
+---
+
+# INTERCOUNTRY ADOPTIONS
+
+**Speaking:** Grassley, Chuck (G000386) [R-IA], Thune, John (T000250) [R-SD]
+
+```
+                         INTERCOUNTRY ADOPTIONS
+
+  Mr. GRASSLEY. Madam President, recently, we witnessed China peddling 
+false claims as it continues to try and convince the United States that 
+China is a good partner. China has recently claimed that ``the Chinese 
+always honor and deliver what has been promised.'' What China asserted 
+is nonsense. Nobody ought to believe that the promises made are 
+honored.
+  So I want to give you one example: intercountry adoptions.
+  During the COVID-19 pandemic, China ``temporarily'' restricted travel 
+into the country, which stalled hundreds of families from completing 
+their adoptions. Today, the families I mentioned continue to be 
+separated from their adoptive child in China or are learning that the 
+child they have been matched with for many years has been rematched 
+with a different family in China. The latter is the case for the 
+Robinson family of Iowa.
+  Does that sound like China always honors and delivers what it 
+promises? I think not.
+  In September of last year, I wrote to the Chinese Ambassador to the 
+United States, outlining my concerns about China's termination of its 
+intercountry adoption program and urged China to not go back on its 
+promises, but, instead, allow for matched adoptions to finally be 
+completed. That has not happened.
+  It is a positive development that Chinese families have a stronger 
+will and capacity to adopt orphans within their own country. Children 
+having a safe and loving home is always a good thing. But my point of 
+contention is that China left American families in the dark and didn't 
+engage in good faith. American families were not given the same 
+opportunity as families from other countries to be united with their 
+children. Real commitments were made, and they were dismissed. This 
+brought disruption to families and needlessly left children orphaned.
+  Again, I suggest China doesn't honor its commitments, and I pray that 
+the hearts of Chinese leaders experience a transformation.
+  I suggest the absence of a quorum.
+  The PRESIDING OFFICER. The clerk will call the roll.
+  The senior assistant legislative clerk proceeded to call the roll.
+  Mr. THUNE. Madam President, I ask unanimous consent that the order 
+for the quorum call be rescinded.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+
+                          ____________________
+```
