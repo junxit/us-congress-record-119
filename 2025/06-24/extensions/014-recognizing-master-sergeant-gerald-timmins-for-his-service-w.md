@@ -1,0 +1,58 @@
+---
+granule: CREC-2025-06-24-pt1-PgE612-2
+date: 2025-06-24
+edition: CREC
+section: EXTENSIONS
+page: E612
+citation: 171 Cong. Rec. E612
+---
+
+# RECOGNIZING MASTER SERGEANT GERALD TIMMINS FOR HIS SERVICE WITH THE U.S. MARINE CORPS AS A MEMBER OF THE MEDEVAC CREWS DURING THE VIETNAM WAR
+
+**Speaking:** Bergman, Jack (B001301) [R-MI]
+
+```
+  RECOGNIZING MASTER SERGEANT GERALD TIMMINS FOR HIS SERVICE WITH THE 
+ U.S. MARINE CORPS AS A MEMBER OF THE MEDEVAC CREWS DURING THE VIETNAM 
+                                  WAR
+
+                                 ______
+                                 
+
+                           HON. JACK BERGMAN
+
+                              of michigan
+
+                    in the house of representatives
+
+                         Tuesday, June 24, 2025
+
+  Mr. BERGMAN. Mr. Speaker, it is my honor to recognize Master Sergeant 
+(MSgt) Gerald Timmins for his valiant service with the U.S. Marine 
+Corps as a member of the Medevac crews during the Vietnam War. This 
+recognition is presented in correspondence with the Medevac crews of 
+the Vietnam War Congressional Gold Medal Act, which honors the selfless 
+and heroic individuals who served in these lifesaving missions.
+  MSgt Timmins' service exemplifies the unwavering dedication 
+demonstrated by members of these Medevac crews to both their fellow 
+servicemembers and their country. These crews--which include a pilot, 
+crew chief, and medic--courageously operated helicopter air ambulances 
+and are credited with saving more than 900,000 lives throughout the 
+Vietnam War.
+  Serving at the Marble Mountain Air Facility with Marine Aircraft 
+Group 16 (MAG-16) aboard CH-34 helicopters, MSgt Timmins participated 
+in numerous recovery missions, often under intense enemy fire. His role 
+in rescuing wounded soldiers from active combat zones required 
+extraordinary courage and was vital to saving countless lives. His 
+service reflects the bravery and sacrifice of the many Medevac crew 
+members who risked everything to bring others to safety.
+  In his military service, MSgt Timmins was recognized with two 
+citations for his courage and devotion to duty under hazardous 
+conditions--an enduring testament to his exceptional service.
+  Mr. Speaker, let us all join in recognizing MSgt Gerald Timmins for 
+his extraordinary courage as a member of the Medevac crews during the 
+Vietnam War, and thank him for his steadfast commitment to his fellow 
+servicemembers, community, and country.
+
+                          ____________________
+```

@@ -1,0 +1,81 @@
+---
+granule: CREC-2025-06-24-pt1-PgE614-3
+date: 2025-06-24
+edition: CREC
+section: EXTENSIONS
+page: E614
+citation: 171 Cong. Rec. E614
+---
+
+# HONORING SUSAN NEWHART ELLIOTT FOR HER SERVICE TO THE UNIVERSITY OF DAYTON SCHOOL OF LAW
+
+**Speaking:** Turner, Michael R. (T000463) [R-OH]
+
+```
+  HONORING SUSAN NEWHART ELLIOTT FOR HER SERVICE TO THE UNIVERSITY OF 
+                          DAYTON SCHOOL OF LAW
+
+                                 ______
+                                 
+
+                         HON. MICHAEL R. TURNER
+
+                                of ohio
+
+                    in the house of representatives
+
+                         Tuesday, June 24, 2025
+
+  Mr. TURNER of Ohio. Mr. Speaker, I want to honor a distinguished 
+scholar from my Congressional district who is retiring after 31 years 
+of service at the University of Dayton School of Law.
+  Susan Newhart Elliott has served as a professor at the School of Law 
+since 1994, is Director of the Zimmerman Law Library, and also serves 
+as the University of Dayton Law Review faculty advisor. Susan earned 
+her law degree from the University of Dayton in 1987, and was the law 
+review's Managing Editor while she was a student. She has taught 
+numerous classes in addition to serving as an Assistant Dean.
+  Susan also holds a Bachelor's and a Master's degree from Miami 
+University, as well as a Master's in Library and Information Science 
+from Kent State University.
+  After receiving her law degree, Susan clerked for Judge Walter Rice 
+of the U.S. District Court for the Southern District of Ohio for two 
+years before joining the law firm Coolidge, Wall, Womsley & Lombard, 
+where she concentrated in complex litigation. She has also been an 
+English instructor at Miami University, Xavier University, and Wright 
+State University.
+  As director of the Zimmerman Law Library, Susan has worked tirelessly 
+to make certain that the library supports the school's mission of 
+providing the highest quality of service to the law faculty and its 
+students. This includes overseeing services to all library patrons, 
+making sure the necessary books and electronic resources are available 
+and accessible, and providing reference service seven days a week with 
+a librarian who holds a Master's in library science and a law degree.
+  Susan has helped train the minds of the law school's best and 
+brightest students. Graduates have gone on to lead successful lives 
+serving their communities as attorneys, judicial clerks, members of 
+distinguished law firms, legal counsel in state and federal agencies, 
+and on my Congressional staff. Her work has been critical to the law 
+school's growing reputation, as the University of Dayton School of Law 
+is tied for third among Ohio's nine law schools according to the most 
+recent U.S. News & World Report rankings.
+  For nearly 20 years, Susan has served as a reader for the Dayton 
+Literary Peace Prize, evaluating nonfiction books submitted for 
+consideration by the judges for the award. Inspired by the 1995 Dayton 
+Peace Accords that ended the Bosnian War, the Dayton Literary Peace 
+Prize is the only literary award in the United States that recognizes 
+authors who utilize the power of the written word to promote peace,
+  In recognition of Susan's longstanding service and contributions to 
+the legal profession, an endowment was created in her name to recruit 
+legal scholars to write for the University of Dayton Law Review, as 
+well as to support the law review in perpetuity.
+  Susan Newhart Elliott exemplifies all of the best qualities of a 
+teacher, a scholar, and a public servant. She is a credit to her 
+profession, and is loved and admired by her students, her colleagues, 
+and her friends. I ask my colleagues to join me in thanking this truly 
+outstanding citizen for her three decades of service to the University 
+of Dayton School of Law. I wish her a happy, healthy, and productive 
+retirement.
+
+                          ____________________
+```

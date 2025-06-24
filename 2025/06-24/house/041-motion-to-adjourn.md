@@ -1,0 +1,487 @@
+---
+granule: CREC-2025-06-24-pt1-PgH2909-2
+date: 2025-06-24
+edition: CREC
+section: HOUSE
+page: H2909
+citation: 171 Cong. Rec. H2909
+---
+
+# MOTION TO ADJOURN
+
+**Speaking:** Clarke, Yvette D. (C001067) [D-NY], Grothman, Glenn (G000576) [R-WI]
+
+```
+                           MOTION TO ADJOURN
+
+  Ms. CLARKE of New York. Mr. Speaker, in light of the fact that we 
+don't have this briefing on the Iran-Israel war that will be taking 
+place today, I move that the House adjourn until such time that we are 
+briefed.
+  The SPEAKER pro tempore. The question is on the motion to adjourn 
+offered by the gentlewoman from New York (Ms. Clarke).
+  The question was taken; and the Speaker announced that the noes 
+appeared to have it.
+  Ms. CLARKE of New York. Mr. Speaker, on that I demand the yeas and 
+nays.
+  The yeas and nays were ordered.
+  The vote was taken by electronic device, and there were--yeas 191, 
+nays 213, not voting 27, as follows:
+
+                             [Roll No. 178]
+
+                               YEAS--191
+
+     Adams
+     Aguilar
+     Amo
+     Ansari
+     Auchincloss
+     Balint
+     Barragan
+     Bell
+     Bera
+     Beyer
+     Bishop
+     Bonamici
+     Boyle (PA)
+     Brown
+     Brownley
+     Budzinski
+     Bynum
+     Carbajal
+     Carson
+     Carter (LA)
+     Casar
+     Case
+     Casten
+     Castor (FL)
+     Castro (TX)
+     Cherfilus-McCormick
+     Chu
+     Cisneros
+     Clark (MA)
+     Clarke (NY)
+     Cleaver
+     Clyburn
+     Cohen
+     Conaway
+     Correa
+     Costa
+     Courtney
+     Craig
+     Crockett
+     Crow
+     Davids (KS)
+     Davis (IL)
+     Davis (NC)
+     Dean (PA)
+     DeGette
+     DelBene
+     Deluzio
+     DeSaulnier
+     Dexter
+     Dingell
+     Doggett
+     Elfreth
+     Escobar
+     Espaillat
+     Evans (PA)
+     Fields
+     Fletcher
+     Foster
+     Foushee
+     Frankel, Lois
+     Friedman
+     Frost
+     Garcia (CA)
+     Garcia (IL)
+     Garcia (TX)
+     Gillen
+     Goldman (NY)
+     Gomez
+     Gonzalez, V.
+     Goodlander
+     Gray
+     Green, Al (TX)
+     Harder (CA)
+     Hayes
+     Horsford
+     Houlahan
+     Hoyer
+     Hoyle (OR)
+     Huffman
+     Ivey
+     Jacobs
+     Jayapal
+     Jeffries
+     Johnson (GA)
+     Johnson (TX)
+     Keating
+     Kelly (IL)
+     Kennedy (NY)
+     Khanna
+     Krishnamoorthi
+     Larson (CT)
+     Latimer
+     Lee (NV)
+     Lee (PA)
+     Leger Fernandez
+     Levin
+     Liccardo
+     Lieu
+     Magaziner
+     Mannion
+     Matsui
+     McBath
+     McBride
+     McClain Delaney
+     McClellan
+     McCollum
+     McDonald Rivet
+     McGarvey
+     McGovern
+     McIver
+     Meeks
+     Menendez
+     Meng
+     Mfume
+     Min
+     Moore (WI)
+     Morelle
+     Morrison
+     Moskowitz
+     Moulton
+     Mrvan
+     Mullin
+     Nadler
+     Neal
+     Neguse
+     Norcross
+     Ocasio-Cortez
+     Olszewski
+     Omar
+     Pallone
+     Panetta
+     Pappas
+     Pelosi
+     Peters
+     Pettersen
+     Pingree
+     Pocan
+     Pou
+     Pressley
+     Quigley
+     Ramirez
+     Randall
+     Raskin
+     Riley (NY)
+     Rivas
+     Ross
+     Ruiz
+     Ryan
+     Salinas
+     Sanchez
+     Scanlon
+     Schakowsky
+     Scholten
+     Schrier
+     Scott (VA)
+     Scott, David
+     Sewell
+     Sherman
+     Simon
+     Smith (WA)
+     Sorensen
+     Soto
+     Stansbury
+     Stanton
+     Stevens
+     Strickland
+     Subramanyam
+     Suozzi
+     Swalwell
+     Sykes
+     Takano
+     Thanedar
+     Thompson (CA)
+     Thompson (MS)
+     Titus
+     Tlaib
+     Tokuda
+     Tonko
+     Torres (CA)
+     Torres (NY)
+     Trahan
+     Tran
+     Underwood
+     Vasquez
+     Veasey
+     Vindman
+     Wasserman Schultz
+     Waters
+     Watson Coleman
+     Whitesides
+     Williams (GA)
+
+                               NAYS--213
+
+     Aderholt
+     Alford
+     Allen
+     Arrington
+     Babin
+     Bacon
+     Baird
+     Balderson
+     Barr
+     Barrett
+     Baumgartner
+     Bean (FL)
+     Begich
+     Bentz
+     Bergman
+     Bice
+     Biggs (AZ)
+     Biggs (SC)
+     Bilirakis
+     Boebert
+     Bost
+     Bresnahan
+     Buchanan
+     Burchett
+     Burlison
+     Calvert
+     Cammack
+     Carter (GA)
+     Ciscomani
+     Cline
+     Cloud
+     Clyde
+     Cole
+     Collins
+     Comer
+     Crane
+     Crank
+     Crawford
+     Crenshaw
+     Cuellar
+     Davidson
+     De La Cruz
+     DeLauro
+     DesJarlais
+     Diaz-Balart
+     Donalds
+     Downing
+     Edwards
+     Ellzey
+     Emmer
+     Estes
+     Evans (CO)
+     Ezell
+     Fallon
+     Fedorchak
+     Feenstra
+     Fine
+     Finstad
+     Fischbach
+     Fitzgerald
+     Fitzpatrick
+     Fleischmann
+     Flood
+     Fong
+     Foxx
+     Franklin, Scott
+     Fry
+     Fulcher
+     Gill (TX)
+     Gimenez
+     Golden (ME)
+     Goldman (TX)
+     Gonzales, Tony
+     Gooden
+     Gosar
+     Graves
+     Green (TN)
+     Greene (GA)
+     Griffith
+     Guest
+     Guthrie
+     Hageman
+     Hamadeh (AZ)
+     Haridopolos
+     Harrigan
+     Harris (MD)
+     Harris (NC)
+     Harshbarger
+     Hern (OK)
+     Higgins (LA)
+     Hill (AR)
+     Himes
+     Hinson
+     Houchin
+     Hudson
+     Huizenga
+     Hunt
+     Hurd (CO)
+     Issa
+     Jack
+     Jackson (TX)
+     James
+     Johnson (SD)
+     Jordan
+     Joyce (OH)
+     Joyce (PA)
+     Kaptur
+     Kean
+     Kelly (MS)
+     Kelly (PA)
+     Kennedy (UT)
+     Kiggans (VA)
+     Kiley (CA)
+     Kim
+     Knott
+     Kustoff
+     LaHood
+     LaLota
+     LaMalfa
+     Landsman
+     Langworthy
+     Larsen (WA)
+     Latta
+     Lawler
+     Lee (FL)
+     Letlow
+     Loudermilk
+     Lucas
+     Luna
+     Luttrell
+     Mace
+     Mackenzie
+     Malliotakis
+     Maloy
+     Mann
+     Massie
+     Mast
+     McClain
+     McClintock
+     McCormick
+     McDowell
+     McGuire
+     Messmer
+     Meuser
+     Miller (IL)
+     Miller (OH)
+     Miller (WV)
+     Mills
+     Moolenaar
+     Moore (AL)
+     Moore (NC)
+     Moore (UT)
+     Moore (WV)
+     Moran
+     Murphy
+     Newhouse
+     Norman
+     Nunn (IA)
+     Obernolte
+     Ogles
+     Onder
+     Owens
+     Palmer
+     Patronis
+     Perez
+     Perry
+     Pfluger
+     Reschenthaler
+     Rogers (KY)
+     Rose
+     Rouzer
+     Roy
+     Rulli
+     Rutherford
+     Salazar
+     Scalise
+     Schmidt
+     Schneider
+     Schweikert
+     Scott, Austin
+     Self
+     Sessions
+     Shreve
+     Smith (MO)
+     Smith (NE)
+     Smith (NJ)
+     Smucker
+     Spartz
+     Stauber
+     Stefanik
+     Steil
+     Steube
+     Strong
+     Stutzman
+     Taylor
+     Tenney
+     Thompson (PA)
+     Tiffany
+     Timmons
+     Turner (OH)
+     Valadao
+     Van Drew
+     Van Duyne
+     Wagner
+     Weber (TX)
+     Webster (FL)
+     Westerman
+     Wied
+     Williams (TX)
+     Wilson (SC)
+     Womack
+     Yakym
+     Zinke
+
+                             NOT VOTING--27
+
+     Amodei (NV)
+     Beatty
+     Brecheen
+     Carey
+     Carter (TX)
+     Dunn (FL)
+     Figures
+     Garamendi
+     Garbarino
+     Gottheimer
+     Grothman
+     Jackson (IL)
+     Kamlager-Dove
+     Lofgren
+     Lynch
+     McCaul
+     Miller-Meeks
+     Nehls
+     Rogers (AL)
+     Sherrill
+     Simpson
+     Van Orden
+     Vargas
+     Velazquez
+     Walberg
+     Wilson (FL)
+     Wittman
+
+                              {time}  1458
+
+  Messrs. RUTHERFORD, HILL of Arkansas, LAWLER, Ms. DeLAURO, Messrs. 
+DOWNING, GREEN of Tennessee, FEENSTRA, and HERN of Oklahoma changed 
+their vote from ``yea'' to ``nay.''
+  Messrs. HORSFORD and DAVIS of Illinois changed their vote from 
+``nay'' to ``yea.''
+  So the motion to adjourn was rejected.
+  The result of the vote was announced as above recorded.
+  Stated against:
+  Mr. GROTHMAN. I was not notified of the vote. Had I been present, I 
+would have voted NAY on Roll Call No. 178.
+
+                          ____________________
+```

@@ -1,0 +1,60 @@
+---
+granule: CREC-2025-06-24-pt1-PgE617-4
+date: 2025-06-24
+edition: CREC
+section: EXTENSIONS
+page: E617
+citation: 171 Cong. Rec. E617
+---
+
+# HONORING REVEREND DR. TELLIS JEROME CHAPMAN
+
+**Speaking:** Jackson, Jonathan L. (J000309) [D-IL]
+
+```
+              HONORING REVEREND DR. TELLIS JEROME CHAPMAN
+
+                                 ______
+                                 
+
+                        HON. JONATHAN L. JACKSON
+
+                              of illinois
+
+                    in the house of representatives
+
+                         Tuesday, June 24, 2025
+
+  Mr. JACKSON of Illinois. Mr. Speaker, I rise today to honor the 40th 
+Anniversary of Reverend Dr. Tellis Jerome Chapman, a truly dynamic 
+individual and devoted Baptist Minister in the Greater Metropolitan 
+Detroit area. I include in the Record the following Proclamation:
+
+       Whereas for 40 years, Reverend Dr. Tellis Jerome Chapman 
+     has been a faithful and dedicated servant of God serving as 
+     Pastor of Galilee Missionary Baptist Church, and is to be 
+     commended for his steadfast Christian leadership over the 
+     years;
+       Whereas, under the direction of the Holy Spirit, Reverend 
+     Tellis Jerome Chapman was installed as Pastor of Galilee 
+     Missionary Baptist Church in 1985 and throughout this time, 
+     has fervently embraced the visions of the dynamic 
+     trailblazers that preceded him as leaders of this great 
+     church over the past 80 plus years;
+       Whereas, his outreach is not limited to Galilee Missionary 
+     Baptist Church, but he also serves the community on a city, 
+     county, state, national and international level and is 
+     affectionately known as a ``Preaching Machine'';
+       Whereas, this dynamic and humble man has demonstrated 
+     excellence in his calling as a ``Man of God'' and for that 
+     reason, the 1st Congressional District of Illinois joins 
+     Galilee Missionary Baptist Church Parishioners in thanking 
+     him for all that he has done over the past 40 years, and look 
+     forward to his continued spiritual guidance for many years to 
+     come;
+       Resolved, that I, Jonathan Jackson, Representative of the 
+     1st Congressional District in Illinois, hereby honor the 40th 
+     Pastoral Anniversary of Reverend Dr. Tellis Jerome Chapman, I 
+     ask that my colleagues stand today to celebrate the great 
+     achievement of 40 years of servitude.
+```

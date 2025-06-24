@@ -1,0 +1,71 @@
+---
+granule: CREC-2025-06-24-pt1-PgS3518
+date: 2025-06-24
+edition: CREC
+section: SENATE
+page: S3518
+citation: 171 Cong. Rec. S3518
+---
+
+# SENATE RESOLUTION 297--COMMEMORATING THE PASSAGE OF 4 YEARS SINCE THE TRAGIC BUILDING COLLAPSE IN SURFSIDE, FLORIDA, ON JUNE 24, 2021
+
+**Measures:** S.Res. 297
+
+```
+                         SUBMITTED RESOLUTIONS
+
+                                 ______
+                                 
+
+ SENATE RESOLUTION 297--COMMEMORATING THE PASSAGE OF 4 YEARS SINCE THE 
+    TRAGIC BUILDING COLLAPSE IN SURFSIDE, FLORIDA, ON JUNE 24, 2021
+
+  Mr. SCOTT of Florida (for himself and Mrs. Moody) submitted the 
+following resolution; which was referred to the Committee on the 
+Judiciary:
+
+                              S. Res. 297
+
+       Whereas June 24, 2025, marks 4 years since portions of the 
+     Champlain Towers South condominium building in Surfside, 
+     Florida, catastrophically collapsed; and
+       Whereas, in the aftermath of the devastating collapse--
+       (1) one of the largest rescue and recovery operations in 
+     the history of the United States commenced to locate scores 
+     of residents who were unaccounted for and believed to be in 
+     the collapsed building;
+       (2) first responders from across Florida immediately 
+     answered the call of duty, including firefighters, uniformed 
+     police officers, rescue and recovery crews, emergency medical 
+     technicians, physicians, nurses, and others rushing to save 
+     the lives of individuals trapped in the building;
+       (3) international rescue crews and emergency support 
+     organizations from Israel and Mexico responded to the site to 
+     aid in the search and recovery efforts;
+       (4) National Urban Search and Rescue Response System task 
+     forces from Florida, Virginia, Indiana, Ohio, Pennsylvania, 
+     and New Jersey, and emergency specialists from California, 
+     deployed to Surfside, Florida, to provide critical support;
+       (5) teams worked tirelessly around the clock to rescue 
+     survivors and recover the remains of individuals killed in 
+     the tragic collapse; and
+       (6) on June 30, 2021, the National Institute of Standards 
+     and Technology announced it would launch a formal 
+     investigation into the cause of the collapse: Now, therefore, 
+     be it
+       Resolved, That the Senate--
+       (1) commemorates the passage of 4 years since the tragic 
+     building collapse in Surfside, Florida, on June 24, 2021;
+       (2) honors the survivors and the 98 lives lost in the 
+     collapse of the Champlain Towers South condominium building 
+     and offers heartfelt condolences to the families, loved ones, 
+     and friends of the victims;
+       (3) commends the bravery and selfless service demonstrated 
+     by the local, State, national, and international teams of 
+     first responders deployed in the aftermath of the collapse; 
+     and
+       (4) expresses support for the survivors and community of 
+     Surfside, Florida.
+
+                          ____________________
+```
