@@ -1,0 +1,43 @@
+---
+granule: CREC-2025-06-26-pt1-PgH2998-2
+date: 2025-06-26
+edition: CREC
+section: HOUSE
+page: H2998
+citation: 171 Cong. Rec. H2998
+---
+
+# CELEBRATING NATIONAL DAIRY MONTH
+
+**Speaking:** Fong, Vince (F000480) [R-CA]
+
+```
+                              {time}  1600
+                    CELEBRATING NATIONAL DAIRY MONTH
+
+  (Mr. FONG asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. FONG. Mr. Speaker, I rise today in celebration of National Dairy 
+Month and to honor the hardworking dairy farmers of California, our 
+Nation's leading dairy producer.
+  In my district, which encompasses Tulare, Fresno, Kings, and Kern 
+Counties, we are proud to be the epicenter of dairy production. Tulare 
+County alone holds the title of the largest dairy-producing county in 
+America. It is home to 500,000 dairy cows, 222 dairies, and some of the 
+largest dairy-processing plants.
+  Most of these dairies are family-owned enterprises. I myself 
+personally know the effort it takes to operate these family businesses. 
+I am proud of the legacy of my own family members who are in the dairy 
+industry and who brought their farms to the Central Valley.
+  Even our region's large-scale operations remain rooted in family 
+traditions, reflecting the dedication and perseverance of our 
+agricultural communities.
+  Together, these dairies contribute one-fifth of our Nation's milk 
+supply, producing everything from butter to ice cream, nourishing 
+families and bringing joy to countless households across America.
+  To our dairy farmers, I thank them for their tireless efforts to feed 
+our Nation. Their work sustains us, and it is an honor to stand in 
+their corner.
+
+                          ____________________
+```

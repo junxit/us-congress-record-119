@@ -1,0 +1,40 @@
+---
+granule: CREC-2025-06-26-pt1-PgH2998-5
+date: 2025-06-26
+edition: CREC
+section: HOUSE
+page: H2998
+citation: 171 Cong. Rec. H2998
+---
+
+# FIGHTING FOR LGBTQ RIGHTS
+
+**Speaking:** Menendez, Robert (M001226) [D-NJ]
+
+```
+                       FIGHTING FOR LGBTQ RIGHTS
+
+  (Mr. MENENDEZ asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. MENENDEZ. Mr. Speaker, 10 years ago today, our Nation made a 
+remarkable step toward equality with the legalization of gay marriage. 
+This was a day that came after decades of advocacy by individuals and 
+organizations across the country, including Garden State Equality in my 
+home State of New Jersey.
+  The rights of our friends and neighbors are under continuous attack 
+from the Trump administration including by cutting HIV treatment and 
+prevention and rolling back antidiscrimination protections.
+  More than 1.3 million Americans have sought lifesaving help by making 
+the call to 988. Yet this administration has eliminated funding for 
+those specialized services. These are blatant attempts to harm the 
+LGBTQ community that has already overcome so much and made incredible 
+strides towards equality.
+  It is here in this Chamber that we should be standing beside them and 
+fighting for them. When we are elected here to serve here in the 
+people's House, it is our obligation to fight for everyone that we have 
+the privilege of representing.
+  Mr. Speaker, that is what I will always do and what I urge my 
+colleagues across the aisle to do, as well.
+
+                          ____________________
+```
