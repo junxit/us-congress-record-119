@@ -1,0 +1,38 @@
+---
+granule: CREC-2025-06-27-pt1-PgH3025-4
+date: 2025-06-27
+edition: CREC
+section: HOUSE
+page: H3025
+citation: 171 Cong. Rec. H3025
+---
+
+# CELEBRATING OFFICER JOHN SALB
+
+**Speaking:** Crawford, Eric A. "Rick" (C001087) [R-AR]
+
+```
+                     CELEBRATING OFFICER JOHN SALB
+
+  (Mr. CRAWFORD asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. CRAWFORD. Mr. Speaker, today I celebrate the storied career of 
+Officer John Salb, who will be retiring today after proudly serving the 
+Capitol Police for over 30 years.
+  Officer Salb first joined the Capitol Police in 1993 when he was 
+hired as a security aide, before being hired as a full-time officer the 
+following year. Working in Capitol Divisions 2 and 3, Officer Salb has 
+protected this Capitol and its millions of visitors and workers with 
+honor. After 30 years, he likely has enough stories to fill this House 
+Chamber. A number of those include his brother, William, as the two 
+served together from 1994 until 2008.
+  In 2011, John made his way down to the House Intelligence Committee, 
+where he spent every day for the last 14 years securing our Members and 
+staff. For over a decade, John has been a valuable asset to our 
+intelligence team, not only providing security but also serving as the 
+committee expert on all things Capitals and Commanders.
+  While everyone at Intel will miss our friend, we wish him the best as 
+he embarks on his next great journey. May John enjoy his retirement.
+
+                          ____________________
+```

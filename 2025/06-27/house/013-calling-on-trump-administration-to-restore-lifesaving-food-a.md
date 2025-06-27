@@ -1,0 +1,39 @@
+---
+granule: CREC-2025-06-27-pt1-PgH3016-4
+date: 2025-06-27
+edition: CREC
+section: HOUSE
+page: H3016
+citation: 171 Cong. Rec. H3016
+---
+
+# CALLING ON TRUMP ADMINISTRATION TO RESTORE LIFESAVING FOOD AID
+
+**Speaking:** Magaziner, Seth (M001223) [D-RI]
+
+```
+     CALLING ON TRUMP ADMINISTRATION TO RESTORE LIFESAVING FOOD AID
+
+  (Mr. MAGAZINER asked and was given permission to address the House 
+for 1 minute and to revise and extend his remarks.)
+  Mr. MAGAZINER. Mr. Speaker, I rise today for the 26th time to call on 
+the Trump administration to honor its word and restore funding for 
+lifesaving food aid around the world.
+  Mr. Speaker, the words from the Trump administration have been pretty 
+good on this. Elon Musk said that funding for emergency food aid will 
+be restored. Marco Rubio has repeatedly said he was going to do it. 
+They even got FOX News to write a glowing online article about their 
+plans to restore funding.
+  Yet, it has been 6 months since they cut this funding off. It has 
+been 6 months, and every day that they wait is another day that 
+children die of starvation unnecessarily.
+  Every day, there are children whose organs are shutting down, who are 
+unable to eat conventional food, and who can only have their lives 
+saved by ready-to-use therapeutic food manufactured in the United 
+States.
+  Every day, the clock is ticking. The administration needs to do what 
+it said it is going to do: restore funding for this aid. I will 
+continue to stand on this floor every day until they do.
+
+                          ____________________
+```

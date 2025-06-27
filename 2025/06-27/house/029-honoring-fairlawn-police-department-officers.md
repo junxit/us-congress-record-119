@@ -1,0 +1,41 @@
+---
+granule: CREC-2025-06-27-pt1-PgH3026
+date: 2025-06-27
+edition: CREC
+section: HOUSE
+page: H3026
+citation: 171 Cong. Rec. H3026
+---
+
+# HONORING FAIRLAWN POLICE DEPARTMENT OFFICERS
+
+**Speaking:** Sykes, Emilia Strong (S001223) [D-OH]
+
+```
+              HONORING FAIRLAWN POLICE DEPARTMENT OFFICERS
+
+  (Mrs. SYKES asked and was given permission to address the House for 1 
+minute and to revise and extend her remarks.)
+  Mrs. SYKES. Mr. Speaker, today I rise to recognize three outstanding 
+police officers from the Fairlawn Police Department as this week's 
+Ohio's 13th Congressional District Champions of the Week.
+  Last month, Officers Francisco Corona, Brian Buskirk, and Hannah 
+Plant exemplified the best of public service when they jumped into 
+action to save the life of a woman in distress.
+  On May 23, 2025, Officer Buskirk noticed a car stopped on the 
+sidewalk, where he found a woman unconscious and unresponsive. With the 
+assistance of Officers Corona and Plant, the officers broke the car 
+window and extracted the woman, then quickly initiated CPR while 
+preparing the automated external defibrillator. Their teamwork and 
+rapid response made the difference in a critical life-or-death 
+situation.
+  I extend my sincere gratitude to Officers Corona, Buskirk, and Plant, 
+and the Fairlawn Police Department and Fire Department for continuing 
+to keep our communities safe. Their actions and bravery do not go 
+unnoticed.
+  On behalf of Ohio's 13th Congressional District and the United States 
+House of Representatives, I thank them for their service to our 
+community.
+
+                          ____________________
+```

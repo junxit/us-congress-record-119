@@ -1,0 +1,35 @@
+---
+granule: CREC-2025-06-27-pt1-PgH3015-2
+date: 2025-06-27
+edition: CREC
+section: HOUSE
+page: H3015
+citation: 171 Cong. Rec. H3015
+---
+
+# PRAYER
+
+```
+                                 PRAYER
+
+  Dr. Gary G. Dull, Faith Baptist Church, Altoona, Pennsylvania, 
+offered the following prayer:
+  Our Heavenly Father and God, we thank You for receiving us through 
+the work of Your son, the Lord Jesus Christ, on the cross. We also 
+thank You for the many blessings You have showered upon this great 
+Nation.
+  Today, I thank You for those You have brought into this great Chamber 
+to represent the citizens of our country and to advance the American 
+ethic laid firm by the faith of our Founders.
+  May You guide, direct, enable, and strengthen Speaker Johnson and 
+each Member of this body in the path of unity that will bring lasting 
+peace and prosperity to this Nation we all love.
+  I pray that, by Your grace, You will enlighten each Representative 
+with Your wisdom that will maintain America as a bastion for peace and 
+freedom around the world for generations to come.
+  These things, I pray in the name of Your son and our Savior, Jesus 
+Christ.
+  Amen.
+
+                          ____________________
+```
