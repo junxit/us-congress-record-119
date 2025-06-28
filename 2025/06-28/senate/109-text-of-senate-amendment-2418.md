@@ -1,0 +1,143 @@
+---
+granule: CREC-2025-06-28-pt1-PgS3977
+date: 2025-06-28
+edition: CREC
+section: SENATE
+page: S3977
+citation: 171 Cong. Rec. S3977
+---
+
+# Text of Senate Amendment 2418
+
+**Speaking:** Peters, Gary C. (P000595) [D-MI]
+
+```
+  SA 2418. Mr. PETERS submitted an amendment intended to be proposed to 
+amendment SA 2360 proposed by Mr. Thune (for Mr. Graham) to the bill 
+H.R. 1, to provide for reconciliation pursuant to title II of H. Con. 
+Res. 14; which was ordered to lie on the table; as follows:
+
+        In section _0002, strike subsections (a) through (e) and 
+     insert the following:
+
+     SEC. _0002. SPECTRUM AUCTIONS.
+
+       (a) Definitions.--In this section:
+       (1) Assistant secretary.--The term ``Assistant Secretary'' 
+     means the Assistant Secretary of Commerce for Communications 
+     and Information.
+       (2) Commission.--The term ``Commission'' means the Federal 
+     Communications Commission.
+       (3) Covered band.--The term ``covered band''--
+       (A) except as provided in subparagraph (B), means the band 
+     of frequencies between 1.3 gigahertz and 10.5 gigahertz; and
+       (B) does not include--
+       (i) the band of frequencies between 3.1 gigahertz and 3.45 
+     gigahertz;
+       (ii) the band of frequencies between 5.895 gigahertz and 
+     5.925 gigahertz; or
+       (iii) the band of frequencies between 7.4 gigahertz and 8.4 
+     gigahertz.
+       (4) Full-power commercial licensed use cases.--The term 
+     ``full-power commercial licensed use cases'' means flexible 
+     use wireless broadband services with base station power 
+     levels sufficient for high-power, high-density, and wide-area 
+     commercial mobile services, consistent with the service rules 
+     under part 27 of title 47, Code of Federal Regulations, or 
+     any successor regulations, for wireless broadband deployments 
+     throughout the covered band.
+       (b) General Auction Authority.--
+       (1) Amendment.--Section 309(j)(11) of the Communications 
+     Act of 1934 (47 U.S.C. 309(j)(11)) is amended by striking 
+     ``grant a license or permit under this subsection shall 
+     expire March 9, 2023'' and all that follows and inserting the 
+     following: ``complete a system of competitive bidding under 
+     this subsection shall expire September 30, 2034, except that, 
+     with respect to the electromagnetic spectrum--
+       ``(A) between the frequencies of 3.1 gigahertz and 3.45 
+     gigahertz, such authority shall not apply;
+       ``(B) between the frequencies of 5.895 gigahertz and 5.925 
+     gigahertz, such authority shall not apply; and
+       ``(C) between the frequencies of 7.4 gigahertz and 8.4 
+     gigahertz, such authority shall not apply.''.
+       (2) Spectrum auctions.--The Commission shall grant licenses 
+     through systems of competitive bidding, before the expiration 
+     of the general auction authority of the Commission under 
+     section 309(j)(11) of the Communications Act of 1934 (47 
+     U.S.C. 309(j)(11)), as amended by paragraph (1) of this 
+     subsection, for not less than 300 megahertz across the entire 
+     spectrum band, including by completing a system of 
+     competitive bidding not later than 2 years after the date of 
+     enactment of this Act for not less than 100 megahertz in the 
+     band between 3.98 gigahertz and 4.2 gigahertz.
+       (c) Identification for Reallocation.--
+       (1) In general.--The Assistant Secretary, in consultation 
+     with the Commission, shall identify 500 megahertz of 
+     frequencies in the covered band for reallocation to non-
+     Federal use, shared Federal and non-Federal use, or a 
+     combination thereof, for full-power commercial licensed use 
+     cases, that--
+       (A) as of the date of enactment of this Act, are allocated 
+     for Federal use; and
+       (B) shall be in addition to the 300 megahertz of 
+     frequencies for which the Commission grants licenses under 
+     subsection (b)(2).
+       (2) Schedule.--The Assistant Secretary shall identify the 
+     frequencies under paragraph (1) according to the following 
+     schedule:
+       (A) Not later than 2 years after the date of enactment of 
+     this Act, the Assistant Secretary shall identify not less 
+     than 200 megahertz of frequencies within the covered band.
+       (B) Not later than 4 years after the date of enactment of 
+     this Act, the Assistant Secretary shall identify any 
+     remaining bandwidth required to be identified under paragraph 
+     (1).
+       (3) Required analysis.--
+       (A) In general.--In determining under paragraph (1) which 
+     specific frequencies within the covered band to reallocate, 
+     the Assistant Secretary shall determine the feasibility of 
+     the reallocation of frequencies.
+       (B) Requirements.--In conducting the analysis under 
+     subparagraph (A), the Assistant Secretary shall assess net 
+     revenue potential, relocation or sharing costs, as 
+     applicable, and the feasibility of reallocating specific 
+     frequencies, with the goal of identifying the best approach 
+     to maximize net proceeds of systems of competitive bidding 
+     for the Treasury, consistent with section 309(j) of the 
+     Communications Act of 1934 (47 U.S.C. 309(j)).
+       (d) Auctions.--The Commission shall grant licenses for the 
+     frequencies identified for reallocation under subsection (c) 
+     through systems of competitive bidding in accordance with the 
+     following schedule:
+       (1) Not later than 4 years after the date of enactment of 
+     this Act, the Commission shall, after notifying the Assistant 
+     Secretary, complete 1 or more systems of competitive bidding 
+     for not less than 200 megahertz of the frequencies.
+       (2) Not later than 8 years after the date of enactment of 
+     this Act, the Commission shall, after notifying the Assistant 
+     Secretary, complete 1 or more systems of competitive bidding 
+     for any frequencies identified under subsection (c) that 
+     remain to be auctioned after compliance with paragraph (1) of 
+     this subsection.
+       (e) Limitations.--
+       (1) In general.--The President shall modify or withdraw any 
+     frequency proposed for reallocation under this section not 
+     later than 60 days before the commencement of a system of 
+     competitive bidding scheduled by the Commission with respect 
+     to that frequency, if the President determines that such 
+     modification or withdrawal is necessary to protect the 
+     national security of the United States.
+       (2) Rules of construction.--
+       (A) Nothing in paragraph (1) may be construed to place any 
+     limit on the President to exercise the authority of the 
+     President under section 706 of the Communications Act of 1934 
+     (47 U.S.C. 606).
+       (B) Nothing in this section may be construed to authorize--
+       (i) the withdrawal or modification of Federal spectrum 
+     allocations between 3.1 gigahertz and 3.45 gigahertz, between 
+     5.895 gigahertz and 5.925 gigahertz, or between 7.4 gigahertz 
+     and 8.4 gigahertz; or
+       (ii) non-Federal use of the frequencies described in clause 
+     (i).
+                                 ______
+```
