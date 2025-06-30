@@ -1,0 +1,63 @@
+---
+granule: CREC-2025-06-30-pt1-PgE636-2
+date: 2025-06-30
+edition: CREC
+section: EXTENSIONS
+page: E636
+citation: 171 Cong. Rec. E636
+---
+
+# REMEMBERING ROBERT "BOB" LECHTRECK, SR.
+
+**Speaking:** Fong, Vince (F000480) [R-CA]
+
+```
+               REMEMBERING ROBERT ``BOB'' LECHTRECK, SR.
+
+                                 ______
+                                 
+
+                            HON. VINCE FONG
+
+                             of california
+
+                    in the house of representatives
+
+                         Monday, June 30, 2025
+
+  Mr. FONG. Mr. Speaker, I rise today to honor the extraordinary life 
+and legacy of Robert ``Bob'' Lechtreck, Sr., a decorated Navy veteran 
+of World War II and the fifth Fire Chief of Kern County. Bob passed 
+away recently, just months after celebrating his 100th birthday. His 
+remarkable life reflects a century of service and deep devotion to both 
+his country and his community.
+  Born on April 2, 1925, Bob Lechtreck joined the U.S. Navy at the age 
+of 17. He served in the Pacific Theater during World War II and saw 
+combat in some of the most pivotal battles of the war, including the 
+Battle of Okinawa. Just three days before his death, we marked the 80th 
+anniversary of that battle, which serves as a reminder of the high cost 
+of freedom and the courage of those like Bob who helped secure it. His 
+ship later guarded Tokyo Bay during the signing of Japan's formal 
+surrender, helping to usher in the end of the war.
+  In 1948, Bob returned home and joined the Kern County Fire 
+Department. Over the course of a 30-year career, he rose through the 
+ranks to become the department's fifth fire chief. Having worked 
+alongside Kern County's very first fire chief, Harold Boway, he was a 
+bridge between generations and remains the only known person to have 
+driven the department's first fire engine, a 1929 Moreland, on active 
+calls.
+  In his later years, Bob remained an active and honored member of the 
+community. He was part of the very first Kern County Honor Flight to 
+Washington, D.C., where he visited the World War II Memorial and the 
+U.S. Capitol in recognition of his service. On his 100th birthday, he 
+was celebrated by friends, neighbors, veterans, and members of the Kern 
+County Fire Department, who gave their former chief a ceremonial ride 
+in a working fire engine--a fitting tribute for a life of courage and 
+leadership.
+  Mr. Speaker, I ask my colleagues to join me in honoring the life of 
+Bob Lechtreck, Sr., who was a patriot and a pillar of Kern County. His 
+memory will endure in the hearts of those he inspired and the 
+institutions he helped build.
+
+                          ____________________
+```
