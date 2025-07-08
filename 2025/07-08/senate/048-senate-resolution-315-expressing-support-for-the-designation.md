@@ -1,0 +1,65 @@
+---
+granule: CREC-2025-07-08-pt1-PgS4260
+date: 2025-07-08
+edition: CREC
+section: SENATE
+page: S4260
+citation: 171 Cong. Rec. S4260
+---
+
+# SENATE RESOLUTION 315--EXPRESSING SUPPORT FOR THE DESIGNATION OF JULY 10, 2025, AS JOURNEYMAN LINEWORKERS RECOGNITION DAY
+
+**Measures:** S.Res. 315
+
+```
+ SENATE RESOLUTION 315--EXPRESSING SUPPORT FOR THE DESIGNATION OF JULY 
+          10, 2025, AS JOURNEYMAN LINEWORKERS RECOGNITION DAY
+
+  Ms. CORTEZ MASTO (for herself, Mr. Cramer, Mr. Risch, Mr. Heinrich, 
+Mr. Blumenthal, Mr. Justice, Ms. Slotkin, Ms. Hirono, Mr. Hickenlooper, 
+Ms. Duckworth, Ms. Rosen, Mr. Padilla, Ms. Blunt Rochester, Mr. Crapo, 
+Mr. Hoeven, Mr. Van Hollen, Mr. Booker, Mr. Markey, Mr. Schiff, Mr. 
+Gallego, and Mr. Sullivan) submitted the following resolution; which 
+was referred to the Committee on Energy and Natural Resources:
+
+                              S. Res. 315
+
+       Whereas the United States relies on safe, reliable, 
+     affordable, and clean electricity to power its economy, as 
+     well as homes, businesses, industries and manufacturers, 
+     colleges and universities, schools, hospitals, cities, and 
+     communities, and so much more;
+       Whereas journeyman lineworkers play a critical role in 
+     keeping the United States energy grid running 24 hours a day, 
+     7 days a week, 365 days a year;
+       Whereas journeyman lineworkers perform heroic services 
+     during national and regional disasters, including hurricanes, 
+     wildfires, tornadoes, and ice storms, and also work in tough 
+     terrain, extreme heat, and cold areas of the country;
+       Whereas journeyman lineworkers consistently work long hours 
+     often under dangerous conditions to restore power;
+       Whereas journeyman lineworkers put their lives on the line 
+     every day to ensure the delivery of safe and reliable power 
+     to the United States, and its territories;
+       Whereas July 10, 2025, marks the 129th anniversary of the 
+     death of Henry Miller, the first president of the 
+     International Brotherhood of Electrical Workers, who was 
+     killed in the line of duty while trying to restore 
+     electricity during an outage in Washington, D.C.; and
+       Whereas there should be a day to honor the hundreds of 
+     thousands of men and women who have also put their lives on 
+     the line over the past 129 years to provide skillful service 
+     in times of local or national crisis: Now, therefore, be it
+       Resolved, That the Senate--
+       (1) supports the designation of July 10, 2025, as 
+     Journeyman Lineworkers Recognition Day;
+       (2) honors and recognizes the contributions and sacrifices 
+     of countless journeyman lineworkers who often place 
+     themselves in harm's way to serve their customers and their 
+     communities; and
+       (3) encourages the people of the United States to observe 
+     Journeyman Lineworkers Recognition Day with appropriate 
+     reflection.
+
+                          ____________________
+```
