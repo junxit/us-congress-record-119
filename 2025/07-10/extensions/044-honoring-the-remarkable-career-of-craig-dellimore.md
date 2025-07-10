@@ -1,0 +1,56 @@
+---
+granule: CREC-2025-07-10-pt1-PgE660-3
+date: 2025-07-10
+edition: CREC
+section: EXTENSIONS
+page: E660
+citation: 171 Cong. Rec. E660
+---
+
+# HONORING THE REMARKABLE CAREER OF CRAIG DELLIMORE
+
+**Speaking:** Krishnamoorthi, Raja (K000391) [D-IL]
+
+```
+           HONORING THE REMARKABLE CAREER OF CRAIG DELLIMORE
+
+                                 ______
+                                 
+
+                        HON. RAJA KRISHNAMOORTHI
+
+                              of illinois
+
+                    in the house of representatives
+
+                        Thursday, July 10, 2025
+
+  Mr. KRISHNAMOORTHI. Mr. Speaker, I rise today to celebrate the 
+remarkable career of Craig Dellimore and to congratulate him on his 
+upcoming retirement from WBBM Radio in Chicago.
+  Craig has been a pillar of Chicago journalism for more than four 
+decades. After studying journalism at Columbia University, he began his 
+career covering Washington politics for the Associated Press before 
+joining WBBM Radio in 1983.
+  For 40 years, Craig has exemplified the highest standards of fairness 
+and professionalism in political reporting. As the host of the weekly 
+``At Issue'' radio show and Political Editor of WBBM News radio, Craig 
+has covered every aspect of Chicago and national politics. Whether 
+interviewing elected officials or unpacking complex topics like 
+homelessness, mental health, and gun violence, Craig brings compassion, 
+clarity and an unwavering commitment to the truth. His dedication to 
+integrity earned him the Lifetime Achievement Award at the Lisagor 
+Awards, recognition from the Illinois Associated Press, and widespread 
+respect across the state.
+  Beyond the newsroom, Craig served his colleagues through leadership 
+in the Chicago chapter of SAG-AFTRA, as both President and Vice 
+President.
+  From the halls of Congress to Chicago's City Hall, Craig has been a 
+trusted voice guiding listeners through a turbulent political landscape 
+with clarity and insight.
+  Mr. Speaker, I am proud to congratulate Craig Dellimore on his 
+retirement and to thank him for his outstanding service to journalism 
+and to the people of Illinois.
+
+                          ____________________
+```
