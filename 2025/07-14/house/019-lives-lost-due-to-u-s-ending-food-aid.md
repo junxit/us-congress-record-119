@@ -1,0 +1,38 @@
+---
+granule: CREC-2025-07-14-pt1-PgH3209
+date: 2025-07-14
+edition: CREC
+section: HOUSE
+page: H3209
+citation: 171 Cong. Rec. H3209
+---
+
+# LIVES LOST DUE TO U.S. ENDING FOOD AID
+
+**Speaking:** Magaziner, Seth (M001223) [D-RI]
+
+```
+                 LIVES LOST DUE TO U.S. ENDING FOOD AID
+
+  (Mr. MAGAZINER asked and was given permission to address the House 
+for 1 minute and to revise and extend his remarks.)
+  Mr. MAGAZINER. Mr. Speaker, I rise today for the 27th time to call on 
+the Trump administration to restore funding for lifesaving food aid for 
+malnourished children.
+  According to data compiled by Boston University, more than 70,000 
+children--children--have died this year because the Trump 
+administration has frozen food aid that had been delivered by this 
+country for years prior. This is the real-time human cost of inaction.
+  Again, the Trump administration has said that they are going to 
+restore this aid. They have been saying it for months. Marco Rubio said 
+it. Elon Musk said it when he was still at the administration. They 
+haven't done it.
+  A month ago, they said that they were going to issue an RFP now and 
+get this aid moving again. The RFP was issued. Nonprofit organizations, 
+including Edesia Nutrition, have responded to it. The administration 
+has been sitting on it for a month.
+  What are they waiting for? Every day that they fail to act is a day 
+that children die. They need to keep their word. Restore this aid.
+
+                          ____________________
+```
