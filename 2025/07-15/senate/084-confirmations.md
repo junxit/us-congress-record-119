@@ -1,0 +1,35 @@
+---
+granule: CREC-2025-07-15-pt1-PgS4380
+date: 2025-07-15
+edition: CREC
+section: SENATE
+page: S4380
+citation: 171 Cong. Rec. S4380
+---
+
+# CONFIRMATIONS
+
+```
+                             CONFIRMATIONS
+
+  Executive nominations confirmed by the Senate July 15, 2025:
+
+
+                       DEPARTMENT OF THE TREASURY
+
+       LUKE PETTIT, OF THE DISTRICT OF COLUMBIA, TO BE AN 
+     ASSISTANT SECRETARY OF THE TREASURY.
+
+
+                         DEPARTMENT OF DEFENSE
+
+       ANTHONY TATA, OF FLORIDA, TO BE UNDER SECRETARY OF DEFENSE 
+     FOR PERSONNEL AND READINESS.
+
+
+                    DEPARTMENT OF HOMELAND SECURITY
+
+       JOSEPH EDLOW, OF MARYLAND, TO BE DIRECTOR OF UNITED STATES 
+     CITIZENSHIP AND IMMIGRATION SERVICES, DEPARTMENT OF HOMELAND 
+     SECURITY.
+```

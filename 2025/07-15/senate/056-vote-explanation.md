@@ -1,0 +1,28 @@
+---
+granule: CREC-2025-07-15-pt1-PgS4366-2
+date: 2025-07-15
+edition: CREC
+section: SENATE
+page: S4366
+citation: 171 Cong. Rec. S4366
+---
+
+# VOTE EXPLANATION
+
+**Speaking:** Rosen, Jacky (R000608) [D-NV]
+
+```
+                            VOTE EXPLANATION
+
+  Ms. ROSEN. Mr. President, on July 14, 2025, due to unavoidable travel 
+delays because of the weather, I missed rollcall vote No. 384. Had I 
+been present, I would have voted no on vote No. 384, cloture on the 
+confirmation of Whitney D. Hermandorfer to be United States Circuit 
+Judge for the Sixth Circuit.
+  On July 14, 2025, due to unavoidable travel delays because of the 
+weather, I missed rollcall vote No. 385. Had I been present, I would 
+have voted yes on vote No. 385, cloture on the nomination of Luke 
+Pettit to be an Assistant Secretary of the Treasury.
+
+                          ____________________
+```

@@ -1,0 +1,66 @@
+---
+granule: CREC-2025-07-15-pt1-PgE669-4
+date: 2025-07-15
+edition: CREC
+section: EXTENSIONS
+page: E669
+citation: 171 Cong. Rec. E669
+---
+
+# HONORING KATRINA FOTOVAT
+
+**Speaking:** Frankel, Lois (F000462) [D-FL]
+
+```
+                        HONORING KATRINA FOTOVAT
+
+                                 ______
+                                 
+
+                           HON. LOIS FRANKEL
+
+                               of florida
+
+                    in the house of representatives
+
+                         Tuesday, July 15, 2025
+
+  Ms. LOIS FRANKEL of Florida. Mr. Speaker, I rise today with deep 
+admiration and heartfelt gratitude to honor Katrina Fotovat, a fierce, 
+compassionate, and tireless champion for the rights of women and girls 
+around the world, as she marks her retirement from the U.S. Department 
+of State.
+  For more than two decades, Katrina has been a driving force in 
+embedding gender equity and equality into the fabric of American 
+foreign policy. Her legacy is one of courage, conviction, and quiet, 
+determined leadership in some of the most challenging arenas of global 
+diplomacy and human rights work.
+  Katrina has served with distinction in numerous roles across the 
+State Department: in the Bureau of Conflict and Stabilization 
+Operations, the Bureau of Democracy, Human Rights, and Labor, at the 
+U.S. Embassy in Moldova, the Office to Monitor and Combat Trafficking 
+in Persons, and at USAID. Most recently, she served as the Principal 
+Deputy Director, and many times as the Acting Ambassador-at-Large, for 
+Global Women's Issues, guiding the office through moments of great 
+complexity with grace and resolve. Under her leadership, the Office of 
+Global Women's Issues became a beacon for our partners around the 
+world, showing what it means when the United States stands up for the 
+dignity and rights of all people.
+  Her service has never been about recognition or accolades, it has 
+been about impact. Whether working with the United Nations High 
+Commissioner for Refugees, advocating through the International Human 
+Rights Legal Clinic, or standing shoulder to shoulder with survivors of 
+trafficking and violence, Katrina has always placed people, especially 
+the most vulnerable, at the center of her work.
+  She has lifted up voices too often silenced, built bridges where 
+there were none, and inspired a generation of women and girls to 
+imagine a better, freer, and more just future.
+  On behalf of a grateful Nation, and with personal appreciation for 
+her extraordinary dedication, I want to thank Katrina Fotovat for her 
+years of service. She leaves behind a profound and lasting legacy that 
+will continue to ripple across borders and generations.
+  We honor Katrina, we thank her, and we wish her joy, purpose, and 
+continued impact in whatever comes next.
+
+                          ____________________
+```
