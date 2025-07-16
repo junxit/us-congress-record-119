@@ -1,0 +1,43 @@
+---
+granule: CREC-2025-07-16-pt1-PgH3330-3
+date: 2025-07-16
+edition: CREC
+section: HOUSE
+page: H3330
+citation: 171 Cong. Rec. H3330
+---
+
+# RECOGNIZING BRIAN THOLEN
+
+**Speaking:** Morrison, Kelly (M001234) [D-MN]
+
+```
+                        RECOGNIZING BRIAN THOLEN
+
+  (Ms. MORRISON asked and was given permission to address the House for 
+1 minute.)
+  Ms. MORRISON. Mr. Speaker, I rise today to recognize and honor Chief 
+Brian Tholen for his distinguished career in law enforcement and his 
+lifelong commitment to serving the people of Minnesota through 
+education, volunteerism, and public safety advocacy.
+  For over 25 years, Chief Tholen served with dedication and integrity 
+as a police officer for the city of Edina. He then continued his 
+service as chief of police for the South Lake Minnetonka Police 
+Department, leading with professionalism and courage.
+  A graduate of the University of St. Thomas and the FBI National 
+Academy, Chief Tholen exemplified Minnesotan excellence throughout his 
+law enforcement career. His tenure includes a decade in the patrol 
+division, where he served as a field training officer, a defensive 
+tactics instructor, and a member of the Southwest Metro SWAT Team 
+Consortium.
+  In the past 12 years, Chief Tholen has worked to train officers, 
+paramedics, firefighters, and civilians across the metro area in active 
+shooter response protocol. Through his work, he has emphasized the 
+importance of awareness, prevention, and survival, equipping 
+individuals and businesses with lifesaving tools and strategies.
+  On behalf of myself and the Minnesotans who have benefited from his 
+decades of leadership and service, I offer my sincere gratitude to 
+Chief Brian Tholen.
+
+                          ____________________
+```

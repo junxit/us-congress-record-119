@@ -1,0 +1,62 @@
+---
+granule: CREC-2025-07-16-pt1-PgH3322
+date: 2025-07-16
+edition: CREC
+section: HOUSE
+page: H3322
+citation: 171 Cong. Rec. H3322
+---
+
+# HONORING ISMAEL GARCIA'S BRAVE SERVICE
+
+**Speaking:** De La Cruz, Monica (D000594) [R-TX]
+
+```
+                 HONORING ISMAEL GARCIA'S BRAVE SERVICE
+
+  (Ms. De La Cruz of Texas was recognized to address the House for 5 
+minutes.)
+  Ms. De La CRUZ. Mr. Speaker, today I rise to honor the brave service 
+of McAllen Police Officer Ismael Garcia during the horrific attack on 
+the McAllen Border Patrol facility last week.
+  When an active shooter opened fire, Officer Garcia did not hesitate 
+to jump into action. He willingly put himself in harm's way to protect 
+his brothers and sisters in blue and green. In the face of danger, he 
+displayed valor, sacrifice, and selflessness.
+  When I visited him in recovery, he expressed pride in taking the 
+bullet to protect others. Officer Garcia served our Nation for 4 years 
+in the Marine Corps, earning the Combat Action Ribbon for his bravery. 
+For nearly a decade since, he has continued to answer the call of duty 
+as a McAllen police officer, and we wish him a speedy recovery.
+  May God bless Officer Garcia, our law enforcement, first responders, 
+and the Border Patrol. I thank Officer Garcia for his bravery and 
+courage.
+
+
+                       Thanking Dr. James C. Lee
+
+  Ms. De La CRUZ. Mr. Speaker, today I rise to recognize Dr. James C. 
+Lee of Seguin for his lifetime of service and dedication to the well-
+being of his fellow Texans.
+  Originally born in Houston, Dr. Lee made Seguin his home in the late 
+1970s. For nearly three decades, he cared for patients of all ages and 
+served as a founding member, treasurer, and finance chair of the 
+Guadalupe Regional Medical Foundation.
+
+                              {time}  1030
+
+  Mr. Speaker, he served on the medical center's governing board as 
+chairman and on the MHMR board, helping those with disabilities and 
+mental health needs access support.
+  Beloved by both patients and staff, Dr. Lee's presence will be dearly 
+missed. His work to help community members access their healthcare will 
+live on.
+  Outside of his work in the medical field, he was a devout Catholic, 
+president of the Seguin Area Chamber of Commerce, a 50-year member of 
+the Knights of Columbus, and a 30-year member of the Rotary Club of 
+Seguin.
+  Dr. Lee's legacy is remembered by his wife, Janice; his 4 daughters, 
+Crystal, Cynthia, Catherine, and Carol; and his 10 grandchildren.
+
+                          ____________________
+```
