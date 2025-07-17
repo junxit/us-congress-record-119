@@ -1,0 +1,41 @@
+---
+granule: CREC-2025-07-17-pt1-PgH3469-3
+date: 2025-07-17
+edition: CREC
+section: HOUSE
+page: H3469
+citation: 171 Cong. Rec. H3469
+---
+
+# SUSAN MASON: SAVANNAH'S STYLE AND SERVICE ICON
+
+**Speaking:** Carter, Earl L. "Buddy" (C001103) [R-GA]
+
+```
+             SUSAN MASON: SAVANNAH'S STYLE AND SERVICE ICON
+
+  (Mr. CARTER of Georgia asked and was given permission to address the 
+House for 1 minute and to revise and extend his remarks.)
+  Mr. CARTER of Georgia. Mr. Speaker, I rise today to recognize Ms. 
+Susan Mason, a resident of Savannah, Georgia, who has dedicated 40 
+years of her life to bringing elegance, excellence, and warmth to 
+thousands of life's most meaningful celebrations.
+  When Susan Mason founded her catering company in 1985, she was 
+recently divorced, living rent-free in a friend's home, and inspired by 
+a then-up-and-coming Martha Stewart.
+  What she lacked in resources, she made up for with resolve, talent, 
+and a sparkling sense of humor. Over the next four decades, Susan Mason 
+Catering became synonymous with silver service, culinary perfection, 
+and timeless Southern style. Whether planning wrap parties for A-list 
+celebrities or elegant weddings for local families, she made sure every 
+detail was flawless.
+  She is now 85 years young and still very much at the center of the 
+party. With her signature wit and stylish presence, she has become both 
+a cultural fixture and a business force in Savannah.
+
+  Mr. Speaker, Susan Mason represents the very best of resilience, 
+charm, and entrepreneurial spirit. It is an honor to recognize her 
+today for 40 years of extraordinary service.
+
+                          ____________________
+```

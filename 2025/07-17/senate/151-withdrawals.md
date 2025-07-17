@@ -1,0 +1,28 @@
+---
+granule: CREC-2025-07-17-pt1-PgS4491
+date: 2025-07-17
+edition: CREC
+section: SENATE
+page: S4491
+citation: 171 Cong. Rec. S4491
+---
+
+# WITHDRAWALS
+
+```
+                              WITHDRAWALS
+
+  Executive Message transmitted by the President to the Senate on July 
+17, 2025 withdrawing from further Senate consideration the following 
+nominations:
+       DAVID RADER, OF VIRGINIA, TO BE AN ASSISTANT SECRETARY OF 
+     COMMERCE, VICE GRANT T. HARRIS, RESIGNED, WHICH WAS SENT TO 
+     THE SENATE ON FEBRUARY 11, 2025.
+       KAREN EVANS, OF WEST VIRGINIA, TO BE UNDER SECRETARY FOR 
+     MANAGEMENT, DEPARTMENT OF HOMELAND SECURITY, VICE CLAIRE M. 
+     GRADY, WHICH WAS SENT TO THE SENATE ON MARCH 24, 2025.
+       RYAN COTE, OF MICHIGAN, TO BE AN ASSISTANT SECRETARY OF 
+     VETERANS AFFAIRS (INFORMATION AND TECHNOLOGY), VICE KURT D. 
+     DELBENE, RESIGNED, WHICH WAS SENT TO THE SENATE ON JUNE 30, 
+     2025.
+```
