@@ -1,0 +1,58 @@
+---
+granule: CREC-2025-07-21-pt1-PgE696-3
+date: 2025-07-21
+edition: CREC
+section: EXTENSIONS
+page: E696
+citation: 171 Cong. Rec. E696
+---
+
+# HONORING BONNIE SEARS
+
+**Speaking:** Thompson, Mike (T000460) [D-CA]
+
+```
+                         HONORING BONNIE SEARS
+
+                                 ______
+                                 
+
+                           HON. MIKE THOMPSON
+
+                             of california
+
+                    in the house of representatives
+
+                         Monday, July 21, 2025
+
+  Mr. THOMPSON of California. Mr. Speaker, I rise today to honor Bonnie 
+Sears, an esteemed member of the Lake County agricultural community. 
+Mrs. Sears' leadership and dedication to Lake County's wine grape 
+industry exemplify why she has been named as a Friend of the Farm 
+Bureau.
+  Mrs. Sears, office manager for Beckstoffer Vineyards, Red Hills, has 
+worked for various agriculture-related businesses, including Snows Lake 
+Vineyard, where she was involved in multiple aspects of the winegrowing 
+business. Previously she was employed by a fruit importer in 
+Kelseyville.
+  Mrs. Sears and her family moved to Lake County in 1987. She served 
+two years on the board of the Lake County Winery Association and was on 
+the Wine Adventure committee for several years. She has also been 
+involved with the Lake County Chapter of California Women for 
+Agriculture. In 2010, she decided she wanted to know more about the 
+business of growing grapes and began her pursuit of a certificate in 
+viticulture with Vesta, an online viticulture program.
+  As a longtime member of the Lake County Winegrape Commission board, 
+Mrs. Sears has been instrumental in advocating for growers, advancing 
+sustainable practices, and fostering collaboration across the region's 
+vineyards. Her professional expertise and passion for viticulture have 
+helped elevate Lake County's reputation as a premier wine grape growing 
+region, benefiting farmers and businesses alike. Beyond her industry 
+contributions, Mrs. Sears' commitment to community service and 
+partnership with the Farm Bureau exemplify the spirit of cooperation 
+that drives Lake County agriculture forward.
+  Mr. Speaker, it is fitting and proper that we honor Bonnie Sears for 
+her service, leadership, and dedication to California's 4th District.
+
+                          ____________________
+```

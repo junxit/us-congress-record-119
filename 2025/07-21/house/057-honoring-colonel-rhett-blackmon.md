@@ -1,0 +1,43 @@
+---
+granule: CREC-2025-07-21-pt1-PgH3521-3
+date: 2025-07-21
+edition: CREC
+section: HOUSE
+page: H3521
+citation: 171 Cong. Rec. H3521
+---
+
+# HONORING COLONEL RHETT BLACKMON
+
+**Speaking:** Weber, Randy K. Sr. (W000814) [R-TX]
+
+```
+                    HONORING COLONEL RHETT BLACKMON
+
+  (Mr. WEBER of Texas asked and was given permission to address the 
+House for 1 minute and to revise and extend his remarks.)
+  Mr. WEBER of Texas. Mr. Speaker, today I rise to honor the 
+illustrious career of Colonel Rhett A. Blackmon, Commander and District 
+Engineer for the U.S. Army Corps of Engineers Galveston District, a 
+true servant leader.
+  Colonel Blackmon assumed command of the Galveston District on July 
+15, 2022, and quickly became a vital partner in Texas' 14th 
+Congressional District. Under his leadership, Mr. Speaker, the team 
+oversaw more than $7.4 billion, with a b, in infrastructure projects, 
+ranging from flood control to coastal protection that directly 
+strengthened our communities.
+  His military service spans decades with combat and command roles 
+across Iraq, Afghanistan, and the Indo-Pacific, as well as academic 
+service as an instructor at West Point.
+  Mr. Speaker, his leadership has always been defined by integrity, 
+courage, and excellence. Our Nation is stronger and safer because of 
+dedicated men like Colonel Blackmon. As he retires from Active Duty, we 
+honor his legacy of military service, unmatched professionalism, and 
+his deep love of country.
+  We thank Colonel Blackmon for his selfless sacrifice and faithful 
+service. Brenda Gail and I wish him, Lindsay, and his family every 
+blessing in retirement.
+  God bless him. God bless the United States of America.
+
+                          ____________________
+```

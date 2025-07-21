@@ -1,0 +1,32 @@
+---
+granule: CREC-2025-07-21-pt1-PgH3483-3
+date: 2025-07-21
+edition: CREC
+section: HOUSE
+page: H3483
+citation: 171 Cong. Rec. H3483
+---
+
+# PRAYER
+
+```
+                                 PRAYER
+
+  The Chaplain, the Reverend Margaret Grun Kibben, offered the 
+following prayer:
+  In You, O God, do we trust, for the wisdom You offer is pure. May we 
+also trust You to speak Your wisdom in today's proceedings.
+  On You, O God, do we depend, for the direction You lead us will 
+enable us to find a way forward in times of discord. May we also depend 
+on You to direct us to bring calm wherever conflict persists.
+  To You, O God, do we yield our souls and minds, for the plans You 
+have for us are merciful and without partiality. May we yield our whole 
+selves in the course of this day to follow where You will guide us.
+  Then, may we abstain from our own selfish desires and sow the seeds 
+of peace, that we would receive the good fruits of Your righteousness 
+at the conclusion of our labors.
+  In Your eternal and merciful name, we pray.
+  Amen.
+
+                          ____________________
+```
