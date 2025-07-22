@@ -1,0 +1,40 @@
+---
+granule: CREC-2025-07-22-pt1-PgH3548-5
+date: 2025-07-22
+edition: CREC
+section: HOUSE
+page: H3548
+citation: 171 Cong. Rec. H3548
+---
+
+# FEMA CUTS AND HURRICANE SEASON
+
+**Speaking:** Latimer, George (L000606) [D-NY]
+
+```
+                     FEMA CUTS AND HURRICANE SEASON
+
+  (Mr. LATIMER asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. LATIMER. Madam Speaker, the harrowing videos and stories out of 
+Texas earlier this month are another reminder of how unpredictable and 
+dangerous weather has become. Climate change is fueling more frequent 
+and extreme weather events, and the Federal Government has a duty to be 
+ready to respond quickly.
+  What happened in Texas shows we need to strengthen FEMA, not weaken 
+it. That means making sure the agency is fully staffed and fully 
+funded. That means answering the phones.
+  Unfortunately, the administration is doing the opposite, gutting our 
+Nation's largest emergency management agency.
+  As a New Yorker, I saw the flooding in Texas and immediately thought 
+of hurricane season on the East Coast. It has been a few years since a 
+major storm hit our region. We are due. Local and State agencies are 
+preparing, but this year they are doing so without the help of FEMA's 
+predisaster mitigation grants because the administration canceled the 
+program.
+  Cutting emergency preparedness funding doesn't prevent disasters. It 
+just makes them harder to handle. Once again, it is Americans who will 
+pay the price.
+
+                          ____________________
+```

@@ -1,0 +1,41 @@
+---
+granule: CREC-2025-07-22-pt1-PgH3540-3
+date: 2025-07-22
+edition: CREC
+section: HOUSE
+page: H3540
+citation: 171 Cong. Rec. H3540
+---
+
+# CALIFORNIA'S HIGH-SPEED RAIL IS OFF THE RAILS
+
+**Speaking:** LaMalfa, Doug (L000578) [R-CA]
+
+```
+             CALIFORNIA'S HIGH-SPEED RAIL IS OFF THE RAILS
+
+  (Mr. LaMALFA asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. LaMALFA. Mr. Speaker, I heartily applaud Secretary Duffy's 
+decision the other day to repeal and rescind the $4 billion that the 
+Federal Government has put in at the end of the Biden administration 
+for the high-speed rail in California. Indeed, it has been a clown 
+show. The thing is off the rails with any kind of goal it was ever 
+going to meet.
+  It was supposed to have been completed by 2020, and at best now it 
+would be completed by 2040, 2045, with just one segment between 
+Bakersfield and Merced completed by 2033 they hope.
+  Instead, let's move that $4 billion to something useful such as 
+expanding State Route 99 in California, I-15, I-5, Interstate 395, 
+Interstate 80. That money could be used to repair roadways designated 
+as farm-to-market roads or State Route 152. By raising it a little bit, 
+we would be able to add more water supply to the San Luis Reservoir or 
+the bridge over I-5 over the Shasta Lake. In doing so, that would allow 
+us to raise the level of that lake and provide much more water for the 
+State of California in order to grow crops which would bring inflation 
+down on the food prices by rechanneling money into something useful 
+instead of something useless like this clown show that is the high-
+speed rail for 20 years.
+
+                          ____________________
+```

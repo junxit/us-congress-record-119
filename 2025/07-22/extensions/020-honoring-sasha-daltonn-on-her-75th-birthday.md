@@ -1,0 +1,67 @@
+---
+granule: CREC-2025-07-22-pt1-PgE710
+date: 2025-07-22
+edition: CREC
+section: EXTENSIONS
+page: E710
+citation: 171 Cong. Rec. E710
+---
+
+# HONORING SASHA DALTONN ON HER 75TH BIRTHDAY
+
+**Speaking:** Jackson, Jonathan L. (J000309) [D-IL]
+
+```
+              HONORING SASHA DALTONN ON HER 75TH BIRTHDAY
+
+                                 ______
+                                 
+
+                        HON. JONATHAN L. JACKSON
+
+                              of illinois
+
+                    in the house of representatives
+
+                         Tuesday, July 22, 2025
+
+  Mr. JACKSON of Illinois. Mr. Speaker, I rise today to celebrate the 
+extraordinary life and profound contributions of Sasha Daltonn, a 
+distinguished founder, producer, and tireless advocate for arts and 
+history. As she marks her birthday on June 25, 1950, we take this 
+moment to honor her remarkable journey and enduring legacy.
+  Born in Chicago, Sasha Daltonn was raised in a household that 
+instilled the values of hard work and community. Her mother, Christine, 
+contributed through her work in sales, while her father, Edgar, served 
+as a proud Pullman porter. These foundations undoubtedly shaped Sasha's 
+commitment to excellence and service.
+  Sasha Daltonn's career is marked by her significant roles as both a 
+founder and a producer, leaving an indelible mark on various cultural 
+landscapes. Her dedication to the arts is evident through her long-
+standing affiliations, including a decade with Gospel Music According 
+to Chicago (GMACC), two years with Jazz n' You, nine years with the 
+Harold Washington Legacy Committee, and eight years with the South Side 
+Jazz Coalition. She is also a proud member of Rainbow PUSH, 
+demonstrating her commitment to broader social justice initiatives. 
+Currently, Sasha brings her passion and expertise to the airwaves as 
+the host of Sasha Daltonn Gospel on Omni Radio, and leads her own 
+enterprise as President of Sasha Daltonn Entertainment.
+  Her profound contributions have garnered well-deserved recognition 
+from numerous esteemed bodies, including honors from the Advinity 
+Awards, the AARC Awards, the Harlem Theater Association, and the Fred 
+Hammond Awards, among others. These accolades underscore her 
+significant impact and the high esteem in which she is held by her 
+peers.
+  Sasha Daltonn is guided by her faith and an unrelenting commitment to 
+instill pride in our youth through the transformative power of the 
+arts. She is a fervent champion for preserving Black history and 
+honoring the historians and history-makers who have shaped our past and 
+continue to inspire our future. Her life's work is a testament to 
+celebrating and honoring those who paved the way.
+  Mr. Speaker, I ask that my colleagues join me in celebrating the 
+exceptional life and ongoing accomplishments of Sasha Daltonn, a true 
+cultural pioneer, an inspiring producer, and a dedicated historian 
+whose immense contributions continue to enrich our Nation.
+
+                          ____________________
+```

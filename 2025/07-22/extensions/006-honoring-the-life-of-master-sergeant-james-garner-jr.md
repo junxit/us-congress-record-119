@@ -1,0 +1,48 @@
+---
+granule: CREC-2025-07-22-pt1-PgE706-3
+date: 2025-07-22
+edition: CREC
+section: EXTENSIONS
+page: E706
+citation: 171 Cong. Rec. E706
+---
+
+# HONORING THE LIFE OF MASTER SERGEANT JAMES GARNER, JR.
+
+**Speaking:** Ezell, Mike (E000235) [R-MS]
+
+```
+         HONORING THE LIFE OF MASTER SERGEANT JAMES GARNER, JR.
+
+                                 ______
+                                 
+
+                            HON. MIKE EZELL
+
+                             of mississippi
+
+                    in the house of representatives
+
+                         Tuesday, July 22, 2025
+
+  Mr. EZELL. Mr. Speaker, I rise to honor Master Sergeant James Edward 
+(Jim) Garner, Jr., who passed on June 17, 2025, at the age of 88.
+  Born in Paulding, Mississippi in 1936, Jim served 27 years in the 
+U.S. Army. He was deployed to places such as Korea, Vietnam, The 
+Dominican Republic, Thailand, Cambodia, and more, retiring in 1980 as a 
+Special Forces Master Sergeant.
+  He led operations under Colonel Charles Beckwith of Delta Force, and 
+later taught ROTC at Marion Military Institute, where he created the 
+school's first Orienteering Team.
+  His unmatched dedication is awarded and shown through his dozens of 
+military honors and decorations.
+  Jim excelled at checkers and dominos, cooked delicious meals, loved 
+outdoor pursuits, and kept a thriving garden.
+  He was known for being an avid reader and having a vast knowledge of 
+old movies. But above all, he cherished his wife Margaret, and their 
+big loving family.
+  Today we honor a life that was full of service, courage, mentorship, 
+and love. Jim Garner was a true American Hero.
+
+                          ____________________
+```

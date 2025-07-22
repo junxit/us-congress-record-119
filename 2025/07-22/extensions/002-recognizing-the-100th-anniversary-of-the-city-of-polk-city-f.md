@@ -1,0 +1,48 @@
+---
+granule: CREC-2025-07-22-pt1-PgE705-3
+date: 2025-07-22
+edition: CREC
+section: EXTENSIONS
+page: E705
+citation: 171 Cong. Rec. E705
+---
+
+# RECOGNIZING THE 100TH ANNIVERSARY OF THE CITY OF POLK CITY, FLORIDA
+
+**Speaking:** Webster, Daniel (W000806) [R-FL]
+
+```
+  RECOGNIZING THE 100TH ANNIVERSARY OF THE CITY OF POLK CITY, FLORIDA
+
+                                 ______
+                                 
+
+                          HON. DANIEL WEBSTER
+
+                               of florida
+
+                    in the house of representatives
+
+                         Tuesday, July 22, 2025
+
+  Mr. WEBSTER of Florida. Mr. Speaker, I rise to recognize and 
+celebrate the 100th year anniversary of the City of Polk City, Florida.
+  Polk City, known locally as the Gateway to the Green Swamp, is in the 
+northern part of Polk County, Florida. The city officially received its 
+charter on April 3, 1925, thus marking the beginning of its formal 
+governance and development.
+  Polk City was first settled in 1922 when Mr. Isaac Van Horn was 
+traveling through Polk County and believed oil fields waited to be 
+exploited. Mr. Van Horn was responsible for naming the town after 
+President James K. Polk and increasing the population with new 
+construction of oil rigs.
+  Today, Polk City is home to approximately 2,000 residents and remains 
+a vibrant small town with a strong sense community and rural charm. It 
+is known for the General James. A. Van Fleet Trail and beautiful lakes. 
+As we commemorate this centennial milestone, we honor the generations 
+who have shaped Polk City's legacy as a city built on resilience, 
+agriculture, and a deep sense of community.
+  Happy Centennial, Polk City.
+
+                          ____________________
+```

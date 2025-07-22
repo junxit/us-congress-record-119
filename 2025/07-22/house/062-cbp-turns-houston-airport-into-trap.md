@@ -1,0 +1,40 @@
+---
+granule: CREC-2025-07-22-pt1-PgH3548
+date: 2025-07-22
+edition: CREC
+section: HOUSE
+page: H3548
+citation: 171 Cong. Rec. H3548
+---
+
+# CBP TURNS HOUSTON AIRPORT INTO TRAP
+
+**Speaking:** Balint, Becca (B001318) [D-VT]
+
+```
+                  CBP TURNS HOUSTON AIRPORT INTO TRAP
+
+  (Ms. BALINT asked and was given permission to address the House for 1 
+minute and to revise and extend her remarks.)
+  Ms. BALINT. Madam Speaker, I take to the floor today because I am 
+angry and so are Vermonters. We are furious because of what happened 
+yesterday to a Vermonter, a U.S. citizen, as he attempted to return 
+home.
+  Wilmer Chavarria is a community leader. He is a school superintendent 
+in my State. He was held and interrogated for hours yesterday in the 
+Houston airport by CBP agents and given no reason for his detainment. 
+Wilmer called this experience psychological terror.
+  Again, we are talking about a U.S. citizen here. When we say this can 
+happen to any of us, this is what we are talking about. This kind of 
+violation of our constitutional rights is how leaders use terror to 
+intimidate us into silence.
+  I don't want to hear about how everyone is going after the violent 
+criminals in this country and trying to get violent criminals off the 
+streets, when community leaders and school superintendents are being 
+detained because of the color of their skin and the sound of their last 
+name.
+  Madam Speaker, we need to hold onto our collective outrage. We do not 
+need to accept this. This is not what Americans want.
+
+                          ____________________
+```
