@@ -1,0 +1,39 @@
+---
+granule: CREC-2025-07-23-pt1-PgH3571-4
+date: 2025-07-23
+edition: CREC
+section: HOUSE
+page: H3571
+citation: 171 Cong. Rec. H3571
+---
+
+# ONGOING MASSACRE IN GAZA
+
+**Speaking:** Dexter, Maxine (D000635) [D-OR]
+
+```
+                        ONGOING MASSACRE IN GAZA
+
+  (Ms. DEXTER asked and was given permission to address the House for 1 
+minute and to revise and extend her remarks.)
+  Ms. DEXTER. Mr. Speaker, I rise today as a mother, a physician, and a 
+Member of Congress horrified by the ongoing massacre in Gaza.
+  This is not a humanitarian crisis in abstract. It is the result of 
+choices, choices leading to preventable famine.
+  While bombs are leveling entire cities, the only so-called aid group 
+allowed in, the Gaza Humanitarian Foundation, is annihilating the very 
+principles of neutrality and humanitarian relief.
+  Now, we are hearing reports that aid will be contingent on a cease-
+fire.
+  Let me be clear: That is morally bankrupt.
+  You do not negotiate over food. You do not bargain with medicine. You 
+do not turn aid sites into deathtraps.
+  Palestinians in Gaza deserve safety, dignity, and the right to self-
+determination, not starvation.
+  Oregonians have been clear: The United States has a moral obligation 
+to use its power to end this tragedy. A critical step is demanding the 
+U.N. Relief and Works Agency is immediately reinstated in Gaza for 
+large-scale aid delivery.
+
+                          ____________________
+```

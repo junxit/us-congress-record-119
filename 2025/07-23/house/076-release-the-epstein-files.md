@@ -1,0 +1,35 @@
+---
+granule: CREC-2025-07-23-pt1-PgH3625-5
+date: 2025-07-23
+edition: CREC
+section: HOUSE
+page: H3625
+citation: 171 Cong. Rec. H3625
+---
+
+# RELEASE THE EPSTEIN FILES
+
+**Speaking:** Lieu, Ted (L000582) [D-CA]
+
+```
+                       RELEASE THE EPSTEIN FILES
+
+  (Mr. LIEU asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. LIEU. Mr. Speaker, in February of this year, Attorney General Pam 
+Bondi went on national TV and told the American people that Jeffrey 
+Epstein's client list was ``sitting on my desk right now.''
+  Why won't she release that client list?
+  Why won't House Republicans vote to release that list?
+  In fact, House Republicans are shutting down Congress early. Shortly 
+after my speech, Congress is going to shut down until September because 
+House Republicans want to avoid voting on releasing the Epstein files.
+  Why? I will tell you why.
+  The Wall Street Journal just confirmed that in May of this year the 
+Department of Justice told Donald Trump to his face that he is in the 
+unreleased Epstein files.
+  House Republicans are facilitating a coverup of epic proportions.
+  Release the Epstein files.
+
+                          ____________________
+```

@@ -1,0 +1,93 @@
+---
+granule: CREC-2025-07-23-pt1-PgS4685-5
+date: 2025-07-23
+edition: CREC
+section: SENATE
+page: S4685
+citation: 171 Cong. Rec. S4685
+---
+
+# NOMINATIONS
+
+```
+                              NOMINATIONS
+
+  Executive nominations received by the Senate:
+
+
+                            IN THE AIR FORCE
+
+       THE FOLLOWING NAMED OFFICER FOR APPOINTMENT IN THE RESERVE 
+     OF THE AIR FORCE TO THE GRADE INDICATED UNDER TITLE 10, 
+     U.S.C., SECTION 12203:
+
+                        To be brigadier general
+
+COL. KIMBERLY A. MCCUE
+       THE FOLLOWING NAMED OFFICER FOR APPOINTMENT IN THE UNITED 
+     STATES AIR FORCE TO THE GRADE INDICATED UNDER TITLE 10, 
+     U.S.C., SECTION 624:
+
+                        To be brigadier general
+
+COL. WILLIAM J. CREEDEN
+       THE FOLLOWING NAMED OFFICER FOR APPOINTMENT IN THE UNITED 
+     STATES AIR FORCE TO THE GRADE INDICATED UNDER TITLE 10, 
+     U.S.C., SECTION 624:
+
+                          To be major general
+
+BRIG. GEN. TERRENCE A. ADAMS
+       THE FOLLOWING NAMED OFFICER FOR APPOINTMENT IN THE UNITED 
+     STATES AIR FORCE TO THE GRADE INDICATED UNDER TITLE 10, 
+     U.S.C., SECTION 624:
+
+                          To be major general
+
+BRIG. GEN. JENNIFER HAMMERSTEDT
+
+
+                              IN THE ARMY
+
+       THE FOLLOWING NAMED ARMY NATIONAL GUARD OF THE UNITED 
+     STATES OFFICERS FOR APPOINTMENT TO THE GRADE INDICATED IN THE 
+     RESERVE OF THE ARMY UNDER TITLE 10, U.S.C., SECTIONS 12203 
+     AND 12211:
+
+                             To be colonel
+
+MICHAEL R. BARTON
+WILLIAM K. ROGERS
+KIRK V. THORSTEINSON
+
+
+                              IN THE NAVY
+
+       THE FOLLOWING NAMED OFFICER FOR APPOINTMENT TO THE GRADE 
+     INDICATED IN THE UNITED STATES NAVY UNDER TITLE 10, U.S.C., 
+     SECTION 624:
+
+                       To be lieutenant commander
+
+BRYAN J. LAROCHE
+       THE FOLLOWING NAMED OFFICER FOR APPOINTMENT TO THE GRADE 
+     INDICATED IN THE UNITED STATES NAVY UNDER TITLE 10, U.S.C., 
+     SECTION 624:
+
+                       To be lieutenant commander
+
+PHUONG T. PHAM
+
+
+                           IN THE SPACE FORCE
+
+       THE FOLLOWING NAMED OFFICER FOR APPOINTMENT TO THE GRADE 
+     INDICATED IN THE UNITED STATES SPACE FORCE UNDER TITLE 10, 
+     U.S.C., SECTION 624:
+
+                              To be major
+
+IRVIN A. GEORGE, JR.
+
+                          ____________________
+```

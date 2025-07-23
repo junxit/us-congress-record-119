@@ -1,0 +1,42 @@
+---
+granule: CREC-2025-07-23-pt1-PgH3570-3
+date: 2025-07-23
+edition: CREC
+section: HOUSE
+page: H3570
+citation: 171 Cong. Rec. H3570
+---
+
+# TIME TO DELIVER RESULTS FOR AMERICAN PEOPLE
+
+**Speaking:** Schneider, Bradley Scott (S001190) [D-IL]
+
+```
+              TIME TO DELIVER RESULTS FOR AMERICAN PEOPLE
+
+  (Mr. SCHNEIDER asked and was given permission to address the House 
+for 1 minute and to revise and extend his remarks.)
+  Mr. SCHNEIDER. Mr. Speaker, Americans expect Congress to complete the 
+basic work of government before leaving town for recess, not the least 
+of which is passing the 12 funding bills for fiscal year 2026. Having 
+passed only two bills, it is absurd that Republicans have decided to 
+pack it up early.
+  Meanwhile, millions fear what Republican cuts to Medicaid will mean 
+for their families. Shoppers are tightening their belts because of 
+record prices for chicken and beef. Businesses are stymied by President 
+Trump's on-again, off-again tariffs. ``Taco or not taco'' is the 
+question they are asking.
+  Why are Republicans rushing to take the break when so many Americans 
+can't even catch a break? Simply put, Republicans are running scared of 
+a titanic Presidential temper tantrum over releasing the Epstein files.
+  My Democratic colleagues and I are here to work to lower costs and 
+grow our economy, to build healthier and safer communities, and to 
+ensure strong national security and national defense.
+  I implore my colleagues on the other side of the aisle to join us. 
+Let's get back to work and deliver the results that the American people 
+sent us here to achieve.
+  The SPEAKER pro tempore. Members are reminded to refrain from 
+engaging in personalities toward the President.
+
+                          ____________________
+```

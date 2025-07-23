@@ -1,0 +1,44 @@
+---
+granule: CREC-2025-07-23-pt1-PgH3623-3
+date: 2025-07-23
+edition: CREC
+section: HOUSE
+page: H3623
+citation: 171 Cong. Rec. H3623
+---
+
+# RECOGNIZING CENTRAL PENNSYLVANIA CHAMBER OF COMMERCE
+
+**Speaking:** Thompson, Glenn (T000467) [R-PA]
+
+```
+          RECOGNIZING CENTRAL PENNSYLVANIA CHAMBER OF COMMERCE
+
+  (Mr. THOMPSON of Pennsylvania asked and was given permission to 
+address the House for 1 minute and to revise and extend his remarks.)
+  Mr. THOMPSON of Pennsylvania. Mr. Speaker, I rise today to recognize 
+the Central Pennsylvania Chamber of Commerce as it celebrates its 120th 
+anniversary.
+  In 1905, the chamber was founded as the Milton Board of Trade. Over 
+the last 120 years, the chamber has grown and expanded its reach and 
+membership into Columbia, Montour, Northumberland, Snyder, and Union 
+Counties, and 120 years later, the mission of
+
+[[Page H3624]]
+
+the chamber remains the same as when it was founded: ``To be the 
+partner of choice to enable economic and business development by 
+partnering with businesses, schools, communities, and individuals in 
+Central Pennsylvania.''
+  As a proud member of the chamber, I recognize its vital role in 
+driving regional economic growth, fostering job creation, and 
+supporting businesses of all sizes as they innovate and invest in 
+America's future.
+  Mr. Speaker, I thank the board members, staff, membership, and 
+partners who have worked together to promote and improve our region. 
+They have fostered a commitment to free enterprise that enables our 
+local communities to unlock their true economic potential.
+  I congratulate the chamber on this milestone occasion.
+
+                          ____________________
+```

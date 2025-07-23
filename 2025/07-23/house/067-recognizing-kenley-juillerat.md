@@ -1,0 +1,37 @@
+---
+granule: CREC-2025-07-23-pt1-PgH3624-2
+date: 2025-07-23
+edition: CREC
+section: HOUSE
+page: H3624
+citation: 171 Cong. Rec. H3624
+---
+
+# RECOGNIZING KENLEY JUILLERAT
+
+**Speaking:** Taylor, David J. (T000490) [R-OH]
+
+```
+                      RECOGNIZING KENLEY JUILLERAT
+
+  (Mr. TAYLOR asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. TAYLOR. Mr. Speaker, I rise today to recognize Kenley Juillerat. 
+Kenley is a member of the Premier Showmen 4-H Club in Hillsboro, Ohio.
+  For her 4-H project, Kenley gave back to veterans by thanking them 
+for their service with stars, stripes, and smiles buckets. With help 
+from her community, she assembled goodie buckets to disperse to 
+veterans in her area.
+  Included were cards that thanked them for their service. Freedom has 
+never been free, and our brave servicemen and -women and their families 
+sacrifice so much to keep us safe. It is great to see heroes being 
+recognized, and it is my honor to advocate on their behalf in Congress.
+  Outstanding operations like 4-H teach our young people the values of 
+patriotism and hard work. Programs just like this one represent the 
+best America has to offer, and it is great to see them focusing their 
+efforts on honoring our Nation's heroes.
+  I and all of southern Ohio are proud of Kenley.
+  I congratulate Kenley.
+
+                          ____________________
+```

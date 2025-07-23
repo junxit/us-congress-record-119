@@ -1,0 +1,38 @@
+---
+granule: CREC-2025-07-23-pt1-PgH3625
+date: 2025-07-23
+edition: CREC
+section: HOUSE
+page: H3625
+citation: 171 Cong. Rec. H3625
+---
+
+# DEMANDING ANSWERS
+
+**Speaking:** Subramanyam, Suhas (S001230) [D-VA]
+
+```
+                           DEMANDING ANSWERS
+
+  (Mr. SUBRAMANYAM asked and was given permission to address the House 
+for 1 minute and to revise and extend his remarks.)
+  Mr. SUBRAMANYAM. Mr. Speaker, Virginia Federal employees are still 
+being fired, RIF'd, and harassed by this administration.
+  Last week, I heard from a constituent who received a termination 
+letter from the Department of Health and Human Services just hours 
+before it went into effect with no access to their equipment, no 
+offboarding information, and no details about their severance. This is 
+one of the many, many stories that I get at my office every week.
+  Civil servants who dedicate their career to serving this government 
+deserve transparency, clarity, and respect. But across agencies, this 
+administration continues to blindly and abruptly fire Federal workers. 
+What do we have to show for it? A complete and total brain drain.
+  We are losing talent and expertise in our Federal Government, all 
+while the administration prioritizes tax cuts and handouts to the 
+biggest corporations.
+  To my constituents impacted by these cuts, I will continue to demand 
+answers, and I will continue to fight to hold this administration 
+accountable.
+
+                          ____________________
+```

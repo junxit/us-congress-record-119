@@ -1,0 +1,54 @@
+---
+granule: CREC-2025-07-23-pt1-PgE717-3
+date: 2025-07-23
+edition: CREC
+section: EXTENSIONS
+page: E717
+citation: 171 Cong. Rec. E717
+---
+
+# HONORING THE SERVICE OF COLONEL JODY MIKE SMITH
+
+**Speaking:** Guest, Michael (G000591) [R-MS]
+
+```
+            HONORING THE SERVICE OF COLONEL JODY MIKE SMITH
+
+                                 ______
+                                 
+
+                           HON. MICHAEL GUEST
+
+                             of mississippi
+
+                    in the house of representatives
+
+                        Wednesday, July 23, 2025
+
+  Mr. GUEST. Mr. Speaker, I rise today to honor Colonel Jody Mike 
+Smith, the former Director of Human Resources for the Mississippi 
+National Guard. Colonel Smith served as the primary staff advisor to 
+the Adjutant General. He has also been recognized as a Bronze Star 
+recipient, awarded the Meritorious Service Medal, the Army Commendation 
+Medal, and the Combat Action Badge.
+  Prior to his current assignment, Colonel Smith was the Deputy 
+Commander of the 66th Troop Command. Under his leadership, he led a 
+team to respond to domestic emergencies within Mississippi and the 
+Southeastern United States.
+  Colonel Smith also served as the Director of Military Support and 
+State J3 for the Mississippi National Guard, coordinating the Guard's 
+domestic response to natural disasters, civil disturbances, and 
+pandemics. His military service began after commissioning through the 
+Reserve Officer Training Corps at Mississippi State University. He has 
+held numerous command and staff positions across multiple unit levels, 
+serving both in traditional and full-time National Guard status. He has 
+been invaluable in his years of distinguished service.
+  During combat operations in Iraq from 2004 to 2006, Colonel Smith 
+served with the 155th Armored Brigade Combat Team, where he coordinated 
+the training and equipping of Iraqi Security Forces in the brigade's 
+area of operations.
+  I thank Colonel Smith for his dedication to Mississippi and for his 
+years of service. I wish him the best in his retirement.
+
+                          ____________________
+```

@@ -1,0 +1,48 @@
+---
+granule: CREC-2025-07-23-pt1-PgE724
+date: 2025-07-23
+edition: CREC
+section: EXTENSIONS
+page: E724
+citation: 171 Cong. Rec. E724
+---
+
+# REMEMBERING JAMES VITALE
+
+**Speaking:** Deluzio, Christopher R. (D000530) [D-PA]
+
+```
+                        REMEMBERING JAMES VITALE
+
+                                 ______
+                                 
+
+                      HON. CHRISTOPHER R. DELUZIO
+
+                            of pennsylvania
+
+                    in the house of representatives
+
+                        Wednesday, July 23, 2025
+
+  Mr. DELUZIO. Mr. Speaker, I rise today to celebrate the life and 
+memory of my constituent, James Anthony Vitale, who passed away 
+recently at the age of 66.
+  Mr. Vitale was a dedicated civic leader in Moon Township.
+  He was a dedicated public servant, serving on the Moon Township Board 
+of Supervisors for nearly 18 years, holding the positions of Chairman 
+or Vice Chairman for 11 of those years.
+  And he was committed to his community, representing the township on 
+the Board of Directors of the South Hills Area Council of Governments 
+for 15 years.
+  Public service was in Jim Vitales' bones.
+  In Western Pennsylvania, a life like his--devoted to his family and 
+community--shows exactly who we are.
+  Humble, proud, and always ready to do our part: Jim embodied the very 
+best of Western Pennsylvania values: hard work, service, and 
+dedication.
+  I am holding Jim's wife, Luanne Vitale, his family, and his entire 
+community in my heart as we celebrate his life and mourn his passing.
+
+                          ____________________
+```
