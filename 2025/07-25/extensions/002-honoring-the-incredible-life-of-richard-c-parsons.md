@@ -1,0 +1,54 @@
+---
+granule: CREC-2025-07-25-pt1-PgE727-3
+date: 2025-07-25
+edition: CREC
+section: EXTENSIONS
+page: E727
+citation: 171 Cong. Rec. E727
+---
+
+# HONORING THE INCREDIBLE LIFE OF RICHARD C. PARSONS
+
+**Speaking:** Levin, Mike (L000593) [D-CA]
+
+```
+           HONORING THE INCREDIBLE LIFE OF RICHARD C. PARSONS
+
+                                 ______
+                                 
+
+                            HON. MIKE LEVIN
+
+                             of california
+
+                    in the house of representatives
+
+                         Friday, July 25, 2025
+
+  Mr. LEVIN. Mr. Speaker, I rise today to recognize the life of Richard 
+C. Parsons, who passed away on May 16, 2025, in San Clemente, 
+California. In his memory, I would like to pay tribute and reflect on 
+the life he led and the impact he had on our Nation and the community 
+in California's 49th District.
+  Richard was born in New York City on August 3, 1934, and was the son 
+of Armenian immigrants.
+  He attended Columbia University before earning his degree from 
+Principia College in Elsah, Illinois. During his time at Principia 
+College, Richard met his wife Nancy, whom he was married to for 66 
+years.
+  After attending Principia College, Richard enlisted in the Army. He 
+served with honor at the NATO Headquarters in Brussels, Belgium. After 
+his time serving our nation, Richard settled in Southern California 
+where he led a successful career, retiring as the Vice President of 
+Sales and Marketing for Arrowhead Water.
+  Richard was an incredible leader and an inspiration to many. I am 
+grateful for his service to our country.
+  Richard is survived by his children, grandchildren, and extended 
+family. They were his greatest pride. Richard was a dedicated family 
+man who cared deeply for everyone around him. Richard leaves behind a 
+legacy defined by love and service.
+  I am proud to have the opportunity to recognize the legacy of Richard 
+C. Parsons.
+
+                          ____________________
+```
