@@ -1,0 +1,164 @@
+---
+granule: CREC-2025-08-01-pt1-PgS5242-2
+date: 2025-08-01
+edition: CREC
+section: SENATE
+page: S5242
+citation: 171 Cong. Rec. S5242
+---
+
+# Text of Senate Amendment 3471
+
+**Speaking:** Lankford, James (L000575) [R-OK]
+
+```
+  SA 3471. Mr. LANKFORD submitted an amendment intended to be proposed 
+by him to the bill S. 2296, to authorize appropriations for fiscal year 
+2026 for military activities of the Department of Defense, for military 
+construction, and for defense activities of the Department of Energy, 
+to prescribe military personnel strengths for such fiscal year, and for 
+other purposes; which was ordered to lie on the table; as follows:
+
+       At the appropriate place, insert the following:
+
+     SEC. ___. SAFEGUARDING THE TRANSPARENCY AND EFFICIENCY OF 
+                   PAYMENTS.
+
+       (a) Improper Payments.--
+       (1) Definitions.--
+       (A) In general.--Section 3351 of title 31, United States 
+     Code, is amended--
+       (i) by redesignating paragraphs (2) through (8) as 
+     paragraphs (3) through (9), respectively; and
+       (ii) by inserting after paragraph (1) the following:
+       ``(2) Chief financial officer.--The term `chief financial 
+     officer' means--
+       ``(A) with respect to an executive agency described in 
+     section 901(b), the Chief Financial Officer of the executive 
+     agency appointed under such section; and
+       ``(B) with respect to an executive agency that is not 
+     described in section 901(b), the official serving as the 
+     senior executive responsible for managing the financial 
+     activities of the executive agency.''.
+       (B) Conforming amendments.--Section 3353(a)(4)(B) of title 
+     31, United States Code, is amended--
+       (i) in clause (i), by striking ``section 3351(2)(B)'' and 
+     inserting ``section 3351(3)(B)'';
+       (ii) in clause (ii), by striking ``section 3351(2)(C)'' and 
+     inserting ``section 3351(3)(C)'';
+       (iii) in clause (iii), by striking ``section 3351(2)(D)'' 
+     and inserting ``section 3351(3)(D)''; and
+       (iv) in clause (vi), by striking ``section 3351(2)(A)'' and 
+     inserting ``section 3351(3)(A)''.
+       (2) Estimates of improper payments and reports on actions 
+     to reduce improper payments.--Section 3352 of title 31, 
+     United States Code, is amended--
+       (A) in subsection (a)--
+       (i) in paragraph (3)--
+
+       (I) in subparagraph (B), in the matter preceding clause 
+     (i), by striking ``paragraph (1)'' and inserting ``paragraph 
+     (1)(B)''; and
+       (II) in subparagraph (C), by striking ``paragraph (1)'' 
+     each place it appears and inserting ``paragraphs (1) and 
+     (4)''; and
+
+       (ii) by adding at the end the following:
+       ``(4) New programs and activities.--In addition to the 
+     programs and activities identified under paragraph (1)(B) and 
+     subject to paragraph (5), the head of an executive agency 
+     shall annually identify as susceptible to significant 
+     improper payments any program or activity that--
+       ``(A) has or is expected to have outlays exceeding 
+     $100,000,000 in any one of the first 3 fiscal years of 
+     operation; and
+       ``(B) is in the first 4 years of operation.
+       ``(5) Exception.--Paragraph (4) shall not apply with 
+     respect to any program or activity that the head of the 
+     relevant executive agency concludes, based on the results of 
+     a review conducted under paragraph (1), is not susceptible to 
+     significant improper payments.'';
+       (B) in subsection (c)(1)--
+       (i) in the matter preceding subparagraph (A), by striking 
+     ``subsection (a)(1)'' and inserting ``paragraph (1) or (4) of 
+     subsection (a)''; and
+       (ii) by striking subparagraphs (A) and (B) and inserting 
+     the following:
+       ``(A) produce a statistically valid estimate of the 
+     improper payments made under the program or activity, or an 
+     estimate of such improper payments that is otherwise 
+     appropriate using a methodology approved by--
+       ``(i) the Director of the Office of Management and Budget; 
+     and
+       ``(ii) the chief financial officer of the executive agency; 
+     and
+       ``(B) report the estimates described in subparagraph (A) in 
+     accordance with subsection (j).''; and
+       (C) by adding at the end the following:
+       ``(j) Annual Reports.--Any annual report required to be 
+     made by the head of an executive agency under this section 
+     shall--
+
+[[Page S5243]]
+
+       ``(1) be included in the materials accompanying the annual 
+     financial statement of the executive agency and, as required, 
+     in applicable guidance of the Office of Management and 
+     Budget; and
+       ``(2) include a statement by the chief financial officer of 
+     the executive agency--
+       ``(A) certifying the reliability of the executive agency's 
+     identification of programs and activities that may be 
+     susceptible to significant improper payments under subsection 
+     (a); and
+       ``(B) describing the actions of the chief financial officer 
+     of the executive agency to monitor the development and 
+     implementation of any corrective action plans reported under 
+     subsection (d).''.
+       (3) Financial and administrative controls relating to fraud 
+     and improper payments.--Section 3357 of title 31, United 
+     States Code, is amended by striking subsection (d) and 
+     inserting the following:
+       ``(d) Reports.--
+       ``(1) In general.--For each fiscal year beginning in the 
+     first fiscal year after the date of enactment of the 
+     Safeguarding the Transparency and Efficiency of Payments Act, 
+     and in each of the following 9 fiscal years, the head of each 
+     agency shall submit to Congress, in the report containing the 
+     annual financial statement of the agency, a report--
+       ``(A) on the progress of the agency in--
+       ``(i) implementing--
+
+       ``(I) the financial and administrative controls required to 
+     be established under subsection (c)(1);
+       ``(II) the fraud risk principles in the Standards for 
+     Internal Control in the Federal Government of the Government 
+     Accountability Office; and
+       ``(III) Circular A-123 of the Office of Management and 
+     Budget with respect to the leading practices for managing 
+     fraud risk;
+
+       ``(ii) identifying fraud risks and vulnerabilities, 
+     including with respect to payroll, beneficiary payments, 
+     grants, large contracts, and purchase and travel cards; and
+       ``(iii) establishing strategies, procedures, and other 
+     steps to curb fraud; and
+       ``(B) that includes information on the status of 
+     implementing each of the 11 leading practices identified in 
+     the report published by the Government Accountability Office 
+     on July 28, 2015, entitled `Framework for Managing Fraud 
+     Risks in Federal Programs'.
+       ``(2) Information in report.--If the annual financial 
+     statement of an agency, or an alternative report of the 
+     agency included in the annual financial statement, includes 
+     information that fulfills the requirements of this 
+     subsection, the head of the agency may include a brief 
+     statement to that effect in the financial statement or 
+     alternative report without duplicating the information 
+     required under this subsection in a separate or standalone 
+     report.''.
+       (b) No Additional Funds.--No additional funds are 
+     authorized to be appropriated for the purpose of carrying out 
+     this section or the amendments made by this section.
+                                 ______
+```

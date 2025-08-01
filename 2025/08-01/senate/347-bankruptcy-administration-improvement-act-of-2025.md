@@ -1,0 +1,262 @@
+---
+granule: CREC-2025-08-01-pt1-PgS5475-7
+date: 2025-08-01
+edition: CREC
+section: SENATE
+page: S5475
+citation: 171 Cong. Rec. S5475
+---
+
+# BANKRUPTCY ADMINISTRATION IMPROVEMENT ACT OF 2025
+
+**Speaking:** Thune, John (T000250) [R-SD]
+
+**Measures:** S. 1659
+
+```
+           BANKRUPTCY ADMINISTRATION IMPROVEMENT ACT OF 2025
+
+  Mr. THUNE. Mr. President, I ask unanimous consent that the Committee 
+on the Judiciary be discharged from further consideration of S. 1659 
+and the Senate proceed to its immediate consideration.
+  The PRESIDING OFFICER. The clerk will report the bill by title.
+  The senior assistant legislative clerk read as follows:
+
+       A bill (S. 1659) to amend titles 11 and 28, United States 
+     Code, to modify the compensation payable to trustees serving 
+     in cases under chapter 7 of title 11, United States Code, to 
+     extend the term of certain temporary offices of bankruptcy 
+     judges, and for other purposes.
+
+  There being no objection, the committee was discharged, and the 
+Senate proceeded to consider the bill.
+  Mr. THUNE. Mr. President, I ask unanimous consent that the Coons 
+amendment at the desk be considered and agreed to; that the bill, as 
+amended, be considered read a third time and passed, and that the 
+motion to reconsider be considered made and laid upon the table.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The amendment (No. 3680) was agreed to as follows:
+
+               (Purpose: To make a technical correction)
+
+       
+       
+       
+       On page 10, line 3, strike ``that first occurs after 
+     October 1''.
+
+  The bill (S. 1659), as amended, was ordered to be engrossed for a 
+third reading, was read the third time, and was passed as follows:
+
+                                S. 1659
+
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled,
+
+     SECTION 1. SHORT TITLE.
+
+       This Act may be cited as the ``Bankruptcy Administration 
+     Improvement Act of 2025''.
+
+[[Page S5476]]
+
+  
+
+
+     SEC. 2. FINDINGS.
+
+       Congress finds the following:
+       (1) Congress has amended the laws governing bankruptcy fees 
+     as necessary to ensure that the bankruptcy system remains 
+     self-supporting, while also fairly allocating the costs of 
+     the system among those who use the system.
+       (2) Because of the importance for the bankruptcy system to 
+     be self-funded, at no cost to taxpayers, Congress has closely 
+     monitored the funding needs of the bankruptcy system, 
+     including by requiring periodic reporting by the Attorney 
+     General regarding the United States Trustee System Fund.
+       (3) Because the system governing bankruptcies of various 
+     types is interconnected, Congress has established fees, 
+     including filing fees, quarterly fees in chapter 11 cases, 
+     and other fees, that together fund the courts, judges, United 
+     States trustees, and trustees serving in bankruptcy cases 
+     under chapter 7 of title 11, United States Code.
+       (4) Trustees serving in bankruptcy cases under chapter 7 of 
+     title 11, United States Code, are vital to the functioning of 
+     the bankruptcy system, as they provide services at the front 
+     lines of the bankruptcy process, administering thousands of 
+     cases.
+       (5) Chapter 7 bankruptcy trustees provide valuable returns 
+     of assets to government creditors, including the Internal 
+     Revenue Service, the Department of Agriculture, the Small 
+     Business Administration, and other Federal, State, and 
+     municipal governments.
+       (6) Due to the work of the chapter 7 bankruptcy trustees, 
+     millions of dollars are also disbursed annually to private 
+     creditors of all types, including medical providers, 
+     unsecured creditors, small businesses, and micro-enterprises 
+     such as domestic support providers.
+       (7) Despite the essential role of chapter 7 bankruptcy 
+     trustees, since 1994 the amount of compensation paid to these 
+     trustees has not been increased. As in 1994, bankruptcy 
+     trustees receive only $60 per case (composed of $45 from 
+     subsection 330(b)(1), and $15 from subsection 330(b)(2), of 
+     title 11, United States Code) in nearly 90 percent of chapter 
+     7 cases, and bankruptcy trustees receive no compensation at 
+     all for cases in which the filing fee is waived by the 
+     bankruptcy court.
+       (8) Since 1994, there have been significant increases in 
+     salaries, attorney fees, budget appropriations, filing fees, 
+     and court-related fees associated with chapter 7 
+     bankruptcies. In contrast, the $60 paid to chapter 7 trustees 
+     has remained the same and has not even been increased for 
+     inflation. In 2021, Congress attempted to implement a 
+     mechanism that would give chapter 7 trustees a raise, but the 
+     trustees only received increased compensation for 1 fiscal 
+     year. Based on Consumer Price Index estimates, the $60 paid 
+     to trustees in 1994 would be the equivalent of over $125 
+     today.
+       (9) This Act and the amendments made by this Act--
+       (A) increase the compensation of chapter 7 bankruptcy 
+     trustees to the level that is appropriate, overdue, and 
+     proportionate with the level that was intended in 1994, by 
+     increasing the total compensation of trustees to $120 per 
+     case;
+       (B) ensure adequate funding of the United States trustee 
+     system through the increase of certain fees, which will also 
+     apply to districts that are not part of a United States 
+     trustee region as required by existing law; and
+       (C) support the preservation of existing bankruptcy 
+     judgeships that are urgently needed to handle existing and 
+     anticipated increases in business and consumer caseloads.
+       (10) This Act will not alter the filing fee under chapter 7 
+     of title 11, United States Code, and will not modify, impair, 
+     or supersede the current authority of the district courts of 
+     the United States, or of bankruptcy courts, to waive the 
+     payment of filing fees by indigent individuals.
+
+     SEC. 3. TRUSTEE COMPENSATION.
+
+       (a) Compensation of Officers.--Section 330 of title 11, 
+     United States Code, is amended--
+       (1) in subsection (b)(1) by striking ``$45'' and inserting 
+     ``$105''; and
+       (2) by striking subsection (e).
+       (b) Remainder of Fees.--Notwithstanding any other provision 
+     of law, the remainder of fees collected under section 
+     1930(a)(1)(A) of title 28, United States Code, after 
+     compensating trustees under section 330(b)(1) of title 11, 
+     United States Code, shall be deposited as follows:
+       (1) $63.51 in the special fund of the Treasury established 
+     under section 1931 of title 28, United States Code.
+       (2) $25.00 in the special fund established in accordance 
+     with section 10101(b) of the Deficit Reduction Act of 2005 
+     (28 U.S.C. 1931 note).
+       (3) $51.49 in the United States Trustee System Fund 
+     established under section 589a of title 28, United States 
+     Code.
+       (c) United States Trustee System Fund.--Section 589a of 
+     title 28, United States Code, is amended--
+       (1) in subsection (b), by striking paragraph (1) and 
+     inserting the following:
+       ``(1) 28.33 percent of the fees collected under section 
+     1930(a)(1)(B);''; and
+       (2) in subsection (f)(1)--
+       (A) in subparagraph (D) by striking ``Fourth'' and 
+     inserting ``Second'';
+       (B) by striking subparagraphs (B) and (C); and
+       (C) by redesignating subparagraph (D) as subparagraph (B).
+
+     SEC. 4. BANKRUPTCY FEES.
+
+       (a) Quarterly Fees.--Section 1930(a)(6)(B) of title 28, 
+     United States Code, is amended--
+       (1) in clause (i), by striking ``5-year'' and inserting 
+     ``10-year''; and
+       (2) in clause (ii)(II), by striking ``0.8'' and inserting 
+     ``1.1''.
+       (b) Period for Deposits.--Section 589a(f) of title 28, 
+     United States Code, as amended by section 3(c)(2), is amended 
+     by striking ``2026'' each place it appears and inserting 
+     ``2031''.
+       (c) Deposits of Certain Fees for Fiscal Years 2026 Through 
+     2031.--Notwithstanding section 589a(b) of title 28, United 
+     States Code, for each of fiscal years 2026 through 2031--
+       (1) the fees collected under section 1930(a)(6) of title 
+     28, United States Code, less the amount specified in 
+     subparagraph (2) of this subsection, shall be deposited as 
+     specified in section 589a(f) of title 28, United States Code, 
+     as amended by this Act; and
+       (2) $5,400,000 of the fees collected under section 
+     1930(a)(6) of title 28, United States Code, shall be 
+     deposited in the general fund of the Treasury.
+
+     SEC. 5. EXTENSION OF TERM OF CERTAIN TEMPORARY OFFICES OF 
+                   BANKRUPTCY JUDGE.
+
+       (a) Bankruptcy Administration Improvement Act of 2020.--
+     Section 4 of the Bankruptcy Administration Improvement Act of 
+     2020 (28 U.S.C. 152 note) is amended--
+       (1) in subsection (a)(2)--
+       (A) in subparagraph (A)(i), by striking ``5 years'' and 
+     inserting ``10 years''; and
+       (B) in subparagraph (B)(i), by striking ``5 years'' and 
+     inserting ``10 years'';
+       (2) in subsection (b)(2)--
+       (A) in subparagraph (A)(i), by striking ``5 years'' and 
+     inserting ``10 years'';
+       (B) in subparagraph (B)(i), by striking ``5 years'' and 
+     inserting ``10 years'';
+       (C) in subparagraph (C)(i), by striking ``5 years'' and 
+     inserting ``10 years'';
+       (D) in subparagraph (D)(i), by striking ``5 years'' and 
+     inserting ``10 years'';
+       (E) in subparagraph (E)(i), by striking ``5 years'' and 
+     inserting ``10 years''; and
+       (F) in subparagraph (F)(i), by striking ``5 years'' and 
+     inserting ``10 years'';
+       (3) in subsection (c)(2)--
+       (A) in subparagraph (A)(i), by striking ``5 years'' and 
+     inserting ``10 years''; and
+       (B) in subparagraph (B)(i), by striking ``5 years'' and 
+     inserting ``10 years'';
+       (4) in subsection (d)(2)--
+       (A) in subparagraph (A)(i), by striking ``5 years'' and 
+     inserting ``10 years''; and
+       (B) in subparagraph (B)(i), by striking ``5 years'' and 
+     inserting ``10 years'';
+       (5) in subsection (e)(2)(A), by striking ``5 years'' and 
+     inserting ``10 years''; and
+       (6) in subsection (f)(2)(A), by striking ``5 years'' and 
+     inserting ``10 years''.
+       (b) Bankruptcy Judgeship Act of 2017.--Section 
+     1003(b)(2)(A) of the Bankruptcy Judgeship Act of 2017 (28 
+     U.S.C. 152 note) is amended by striking ``5 years'' and 
+     inserting ``10 years''.
+
+     SEC. 6. EFFECTIVE DATE; APPLICATION OF AMENDMENTS.
+
+       (a) In General.--Except as provided in paragraph (2), the 
+     amendments made by this Act shall take effect on October 1 
+     that first occurs after the date of enactment of this Act.
+       (b) Exceptions.--
+       (1) Compensation of officers.--Section 3 and the amendments 
+     made by section 3 shall apply to any case under title 11, 
+     United States Code, commenced on or after October 1 that 
+     first occurs after the date of enactment of this Act--
+       (A) under chapter 7 of title 11, United States Code; or
+       (B) under chapter 11, 12, or 13 of title 11, United States 
+     Code, that is converted to a case under chapter 7 of title 7, 
+     United States Code.
+       (2) Bankruptcy fees.--Section 4 and the amendments made by 
+     section 4 shall apply to--
+       (A) any case pending under chapter 11 of title 11, United 
+     States Code, on or after October 1 that first occurs after 
+     the date of enactment of this Act; and
+       (B) quarterly fees payable under section 1930(a)(6) of 
+     title 28, United States Code, for disbursements made in any 
+     calendar quarter that begins on or after October 1 that first 
+     occurs after the date of enactment of this Act.
+
+                          ____________________
+```

@@ -1,0 +1,50 @@
+---
+granule: CREC-2025-08-01-pt1-PgE748-6
+date: 2025-08-01
+edition: CREC
+section: EXTENSIONS
+page: E748
+citation: 171 Cong. Rec. E748
+---
+
+# HONORING THE 10TH PASTORAL ANNIVERSARY OF PASTOR SALTERS
+
+**Speaking:** Tlaib, Rashida (T000481) [D-MI]
+
+```
+        HONORING THE 10TH PASTORAL ANNIVERSARY OF PASTOR SALTERS
+
+                                 ______
+                                 
+
+                           HON. RASHIDA TLAIB
+
+                              of michigan
+
+                    in the house of representatives
+
+                         Friday, August 1, 2025
+
+  Ms. TLAIB. Mr. Speaker, today, the 12th Congressional District honors 
+Pastor Salters
+
+[[Page E749]]
+
+on the 10th anniversary of her dedicated service to New Wine Ministries 
+International. Her ministry is located on James Couzens, and Pastor 
+Salters is a proud resident of Michigan's 12th Congressional District 
+and a steadfast supporter of community empowerment.
+  Her tireless advocacy for single mothers, families, and the unhoused 
+has transformed lives through a vibrant community pantry, back-to-
+school drives, and her ``Somebody Loves You Committee,'' which 
+distributes food, clothing, and toiletries to those in need. Pastor 
+Salters leads with faith and compassion, providing financial literacy 
+programs, Easter baskets, and Christmas gifts for children across the 
+district. Her leadership reflects the very best of our community: 
+generosity, service, and deep love for her neighbors.
+  I congratulate Pastor Salters on this incredible milestone and thank 
+her for her unwavering dedication to uplifting those she is called to 
+serve. May her ministry continue to thrive.
+
+                          ____________________
+```
