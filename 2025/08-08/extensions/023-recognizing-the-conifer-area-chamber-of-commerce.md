@@ -1,0 +1,46 @@
+---
+granule: CREC-2025-08-08-pt1-PgE758-2
+date: 2025-08-08
+edition: CREC
+section: EXTENSIONS
+page: E758
+citation: 171 Cong. Rec. E758
+---
+
+# RECOGNIZING THE CONIFER AREA CHAMBER OF COMMERCE
+
+**Speaking:** Pettersen, Brittany (P000620) [D-CO]
+
+```
+            RECOGNIZING THE CONIFER AREA CHAMBER OF COMMERCE
+
+                                 ______
+                                 
+
+                        HON. BRITTANY PETTERSEN
+
+                              of colorado
+
+                    in the house of representatives
+
+                         Friday, August 8, 2025
+
+  Ms. PETTERSEN. Mr. Speaker, I rise today to recognize the 50th 
+anniversary of the Conifer Area Chamber of Commerce.
+  The Conifer Area Chamber of Commerce is a crucial support system for 
+businesses and the community of Conifer, offering workshops on 
+marketing, managing finances, and other economic opportunities for 
+residents. In addition, the Chamber connects local small businesses and 
+non-profits with the resources to grow their organizations, support 
+staff development, and connect with new customers and members.
+  Under President Beth Schneider and the board's leadership, the 
+Chamber has hosted a variety of events, which bring the community 
+closer together and has paved the way for the town to foster a thriving 
+economy.
+  On behalf of the people of Colorado's Seventh Congressional District, 
+it is my honor to congratulate the Conifer Area of Commerce for 50 
+years of service and thank them for their contribution to our 
+community.
+
+                          ____________________
+```
