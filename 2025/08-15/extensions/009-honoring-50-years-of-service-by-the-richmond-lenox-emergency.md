@@ -1,0 +1,58 @@
+---
+granule: CREC-2025-08-15-pt1-PgE767-2
+date: 2025-08-15
+edition: CREC
+section: EXTENSIONS
+page: E767
+citation: 171 Cong. Rec. E767
+---
+
+# HONORING 50 YEARS OF SERVICE BY THE RICHMOND-LENOX EMERGENCY MEDICAL SERVICE
+
+**Speaking:** McClain, Lisa C. (M001136) [R-MI]
+
+```
+ HONORING 50 YEARS OF SERVICE BY THE RICHMOND-LENOX EMERGENCY MEDICAL 
+                                SERVICE
+
+                                 ______
+                                 
+
+                          HON. LISA C. McCLAIN
+
+                              of michigan
+
+                    in the house of representatives
+
+                        Friday, August 15, 2025
+
+  Mrs. McCLAIN. Mr. Speaker, I rise today to commend the Richmond-Lenox 
+Emergency Medical Service (RLEMS) for its remarkable 50 years of 
+unwavering dedication to the communities in Michigan's 9th 
+Congressional District. Operating across cities such as Richmond, 
+Memphis, New Haven, and several townships--including Casco, Columbus, 
+Riley, and Wales--RLEMS has been a cornerstone of public safety and 
+compassionate care.
+  Since its inception, RLEMS has exemplified excellence in emergency 
+medical services, consistently delivering prompt and professional care 
+to those in need. Their commitment extends beyond emergency response. 
+They also provide non-emergency medical transportation, a vital service 
+for senior citizens and individuals with disabilities. They have 
+ensured that all members of the community have access to necessary 
+medical care.
+  Additionally, RLEMS demonstrates a profound commitment to community 
+well-being through its involvement in programs such as the Richmond 
+Township Senior Citizens Program. By offering CPR and first aid 
+courses, they empower residents to assist their neighbors in times of 
+crisis, fostering a culture of preparedness and mutual support.
+  Mr. Speaker, it is with great pleasure and immense pride that we 
+honor and congratulate the Richmond-Lenox Emergency Medical Service on 
+its 50 years of service to the local community. They stand as a 
+testament to the enduring spirit of public service. Their contributions 
+have not only saved lives but have also strengthened the fabric of our 
+community. As they celebrate this significant milestone, we express our 
+deepest gratitude and look forward to their continued service in the 
+years to come.
+
+                          ____________________
+```
