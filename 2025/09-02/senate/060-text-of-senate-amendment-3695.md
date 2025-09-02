@@ -1,0 +1,119 @@
+---
+granule: CREC-2025-09-02-pt1-PgS5613-4
+date: 2025-09-02
+edition: CREC
+section: SENATE
+page: S5613
+citation: 171 Cong. Rec. S5613
+---
+
+# Text of Senate Amendment 3695
+
+**Speaking:** Bennet, Michael F. (B001267) [D-CO]
+
+```
+  SA 3695. Mr. BENNET (for himself and Mr. Sullivan) submitted an 
+amendment intended to be proposed by him to the bill S. 2296, to 
+authorize appropriations for fiscal year 2026 for military activities 
+of the Department of Defense, for military construction, and for 
+defense activities of the Department of Energy, to prescribe military 
+personnel strengths for such fiscal year, and for other purposes; which 
+was ordered to lie on the table; as follows:
+
+       At the end of subtitle D of title XII, add the following:
+
+     SEC. 1248. STRATEGY TO STRENGTHEN MULTILATERAL DETERRENCE IN 
+                   THE INDO-PACIFIC REGION.
+
+       (a) In General.--The Secretary of Defense, in coordination 
+     with the Secretary of State, shall develop and implement a 
+     strategy to strengthen multilateral deterrence against 
+     regional aggression in the Indo-Pacific region by expanding 
+     multilateral coordination with United States allies and 
+     partners in the Indo-Pacific region, particularly Japan, the 
+     Republic of Korea, the Philippines, and Australia, including 
+     by enhancing multilateral access and basing agreements, 
+     command and control structures, intelligence-sharing, and 
+     exercises and operations.
+       (b) Elements.--The strategy required by subsection (a) 
+     shall--
+       (1) describe current activities and identify future actions 
+     to be taken over the next 5 years by the Department of 
+     Defense--
+       (A) to leverage reciprocal access agreements between the 
+     United States and allies and partners in the Indo-Pacific 
+     region, particularly Japan, the Republic of Korea, the 
+     Philippines, and Australia, to expand regional access for the 
+     military forces of such allies and partners, including for 
+     purposes of enhancing interoperability at locations across 
+     the Indo-Pacific region, pre-positioning munitions 
+     stockpiles, and jointly supporting and leveraging shared 
+     facilities, operational access, and infrastructure;
+
+[[Page S5614]]
+
+       (B) to improve command and control structures enabling 
+     enhanced multilateral coordination with allies and partners 
+     in the Indo-Pacific region, including through the Combined 
+     Coordination Center in the Philippines, the joint force 
+     headquarters of the United States in Japan, the Combined 
+     Forces Command in the Republic of Korea, and a potential 
+     combined coordination structure in Australia;
+       (C) to expand intelligence-sharing and maritime domain 
+     awareness among the United States and allies and partners in 
+     the Indo-Pacific region, including through the Bilateral 
+     Intelligence Analysis Cell in Japan and the Combined 
+     Coordination Center in the Philippines; and
+       (D) to expand the scope and scale of multilateral military 
+     exercises and operations as well as basing infrastructure and 
+     posture in the Indo-Pacific region, particularly among the 
+     United States, Japan, the Republic of Korea, the Philippines, 
+     and Australia, including more frequent combined maritime 
+     operations through the Taiwan Strait, the South China Sea, 
+     and the Aleutian Islands;
+       (2) fully consider strategic and operational contingencies 
+     for security of likely military and economic avenues of 
+     approach and trade routes across the South, Central, and 
+     North Indo-Pacific region; and
+       (3) address the conduct of operations in accordance with 
+     such strategic and operational contingencies.
+       (c) Submission.--Not later than 180 days after the date of 
+     the enactment of this Act, the Secretary of Defense shall 
+     submit to the appropriate congressional committees the 
+     written strategy required by subsection (a), including an 
+     identification of--
+       (1) any changes to funding or policy required to strengthen 
+     multilateral deterrence among the United States and allies 
+     and partners in the Indo-Pacific region against regional 
+     aggression; and
+       (2) any additional resources required to carry out specific 
+     initiatives described in subsection (b), such as expanding 
+     regional access to the military forces of such allies and 
+     partners, improving command and control structures, expanding 
+     intelligence-sharing and maritime domain awareness, and 
+     expanding the scope and scale of multilateral exercises and 
+     operations in the Indo-Pacific region.
+       (d) Interim Report on Implementation.--Not later than March 
+     15, 2027, the Secretary of Defense shall submit to the 
+     appropriate congressional committees a report on the progress 
+     of the implementation of the strategy required by subsection 
+     (a), including any resource or authority gaps identified in 
+     the ability of the Department of Defense to implement the 
+     strategy.
+       (e) Definitions.--In this section:
+       (1) Appropriate congressional committees.--The term 
+     ``appropriate congressional committees'' means--
+       (A) the congressional defense committees; and
+       (B) the Committee on Foreign Relations of the Senate and 
+     the Committee on Foreign Affairs of the House of 
+     Representatives.
+       (2) Indo-pacific region.--The term ``Indo-Pacific region'' 
+     means--
+       (A) the geographical area encompassing the area of 
+     responsibility of the United States Indo-Pacific Command; and
+       (B) the Alaska theater of operations, including the 
+     entirety of the State of Alaska and the entirety of the 
+     oceans or other such maritime features bordering the State of 
+     Alaska.
+                                 ______
+```
