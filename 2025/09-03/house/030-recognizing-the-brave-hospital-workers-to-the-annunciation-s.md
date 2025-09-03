@@ -1,0 +1,42 @@
+---
+granule: CREC-2025-09-03-pt1-PgH3769-3
+date: 2025-09-03
+edition: CREC
+section: HOUSE
+page: H3769
+citation: 171 Cong. Rec. H3769
+---
+
+# RECOGNIZING THE BRAVE HOSPITAL WORKERS TO THE ANNUNCIATION SCHOOL SHOOTING
+
+**Speaking:** Morrison, Kelly (M001234) [D-MN]
+
+```
+   RECOGNIZING THE BRAVE HOSPITAL WORKERS TO THE ANNUNCIATION SCHOOL 
+                                SHOOTING
+
+  (Ms. MORRISON asked and was given permission to address the House for 
+1 minute and to revise and extend her remarks.)
+  Ms. MORRISON. Mr. Speaker, today, I rise in recognition of the brave 
+hospital workers who responded to the Annunciation school shooting last 
+week.
+  Whenever a mass shooting happens, the ripple effects of the trauma it 
+causes in that community are profound. I will take a moment to thank 
+every healthcare worker who helped save lives in responding to this 
+event.
+  Children's Masonic, and particularly the staff at Hennepin 
+Healthcare, took in nearly a dozen children in critical condition. 
+These children arrived alone, unidentified, and ripped apart by gunshot 
+wounds.
+  The hospital staff leapt into action immediately, removing shrapnel, 
+performing emergency surgery, and providing stabilizing care and 
+comfort to these little children.
+  While we are immensely grateful for their expertise, we should not 
+normalize that doctors and nurses in the United States have had to 
+become expert in managing war wounds. The toll it takes on them is 
+real. This event reminds us of how critically important our level 1 
+trauma centers are in our communities. They are lifesaving, and these 
+hospital workers are our heroes. I am immeasurably grateful.
+
+                          ____________________
+```

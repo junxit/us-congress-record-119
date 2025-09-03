@@ -1,0 +1,35 @@
+---
+granule: CREC-2025-09-03-pt1-PgH3769
+date: 2025-09-03
+edition: CREC
+section: HOUSE
+page: H3769
+citation: 171 Cong. Rec. H3769
+---
+
+# CONSTITUENT OF THE WEEK: ERNISHA HALL
+
+**Speaking:** Vindman, Eugene Simon (V000138) [D-VA]
+
+```
+                 CONSTITUENT OF THE WEEK: ERNISHA HALL
+
+  (Mr. VINDMAN asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. VINDMAN. Mr. Speaker, I am honored to recognize this week's 
+constituent of the week, Ernisha Hall, on her work as cofounder, 
+president, and CEO of the Virginia Black Chamber of Commerce.
+  For over half a decade, Ernisha has been leading the chamber in 
+working to foster economic stability for Black businessowners. Serving 
+over 2,700 businessowners to date, the chamber has introduced programs 
+throughout Virginia that are aimed at strengthening the visibility of 
+Black businessowners.
+  Mr. Speaker, Ernisha's commitment to her community and continued 
+success serve as an inspiration to us all. As her Representative in 
+Congress, I am grateful for the work she does each day in pursuit of 
+economic justice. I congratulate her again on her accomplishments. It 
+is a privilege to highlight her story on the floor of the U.S. House. I 
+am thankful for all that she does.
+
+                          ____________________
+```

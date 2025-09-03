@@ -1,0 +1,277 @@
+---
+granule: CREC-2025-09-03-pt1-PgH3830-12
+date: 2025-09-03
+edition: CREC
+section: HOUSE
+page: H3830
+citation: 171 Cong. Rec. H3830
+---
+
+# ADDITIONAL SPONSORS
+
+**Measures:** H.Con.Res. 4, H.J.Res. 12, H.Con.Res. 12, H.R. 18, H.R. 45, H.R. 51, H.J.Res. 80, H.J.Res. 115, H.J.Res. 116, H.R. 347, H.R. 378, H.R. 392, H.R. 396, H.R. 429, H.Res. 473, H.R. 485, H.R. 507, H.R. 516, H.R. 539, H.Res. 547, H.Res. 551, H.Res. 578, H.Res. 581, H.R. 621, H.R. 645, H.Res. 665, H.Res. 670, H.R. 738, H.R. 740, H.R. 834, H.R. 842, H.R. 863, H.R. 880, H.R. 909, H.R. 979, H.R. 1004, H.R. 1024, H.R. 1028, H.R. 1063, H.R. 1078, H.R. 1089, H.R. 1105, H.R. 1109, H.R. 1132, H.R. 1138, H.R. 1163, H.R. 1171, H.R. 1200, H.R. 1207, H.R. 1236, H.R. 1246, H.R. 1260, H.R. 1262, H.R. 1269, H.R. 1284, H.R. 1357, H.R. 1383, H.R. 1410, H.R. 1517, H.R. 1518, H.R. 1529, H.R. 1566, H.R. 1576, H.R. 1585, H.R. 1623, H.R. 1625, H.R. 1628, H.R. 1659, H.R. 1661, H.R. 1712, H.R. 1735, H.R. 1787, H.R. 1810, H.R. 1877, H.R. 1991, H.R. 1993, H.R. 2033, H.R. 2036, H.R. 2040, H.R. 2089, H.R. 2102, H.R. 2199, H.R. 2202, H.R. 2314, H.R. 2315, H.R. 2369, H.R. 2378, H.R. 2379, H.R. 2381, H.R. 2467, H.R. 2491, H.R. 2495, H.R. 2514, H.R. 2540, H.R. 2576, H.R. 2598, H.R. 2599, H.R. 2675, H.R. 2693, H.R. 2715, H.R. 2736, H.R. 2756, H.R. 2762, H.R. 2784, H.R. 2818, H.R. 2837, H.R. 2853, H.R. 2854, H.R. 2888, H.R. 2941, H.R. 2947, H.R. 3004, H.R. 3045, H.R. 3063, H.R. 3069, H.R. 3078, H.R. 3105, H.R. 3115, H.R. 3151, H.R. 3164, H.R. 3184, H.R. 3218, H.R. 3219, H.R. 3243, H.R. 3246, H.R. 3247, H.R. 3277, H.R. 3342, H.R. 3401, H.R. 3410, H.R. 3411, H.R. 3418, H.R. 3453, H.R. 3470, H.R. 3474, H.R. 3492, H.R. 3495, H.R. 3514, H.R. 3569, H.R. 3597, H.R. 3598, H.R. 3604, H.R. 3619, H.R. 3625, H.R. 3688, H.R. 3694, H.R. 3701, H.R. 3707, H.R. 3723, H.R. 3744, H.R. 3754, H.R. 3824, H.R. 3852, H.R. 3858, H.R. 3871, H.R. 3876, H.R. 3906, H.R. 3917, H.R. 3930, H.R. 3941, H.R. 3946, H.R. 3978, H.R. 4022, H.R. 4037, H.R. 4145, H.R. 4186, H.R. 4206, H.R. 4231, H.R. 4239, H.R. 4242, H.R. 4245, H.R. 4253, H.R. 4303, H.R. 4304, H.R. 4312, H.R. 4317, H.R. 4318, H.R. 4323, H.R. 4348, H.R. 4363, H.R. 4398, H.R. 4404, H.R. 4444, H.R. 4475, H.R. 4500, H.R. 4510, H.R. 4516, H.R. 4566, H.R. 4606, H.R. 4628, H.R. 4662, H.R. 4667, H.R. 4669, H.R. 4676, H.R. 4682, H.R. 4712, H.R. 4721, H.R. 4760, H.R. 4786, H.R. 4796, H.R. 4802, H.R. 4805, H.R. 4832, H.R. 4852, H.R. 4896, H.R. 4901, H.R. 4908, H.R. 4909, H.R. 4910, H.R. 4912, H.R. 4913, H.R. 4916, H.R. 4955, H.R. 4959, H.R. 4966, H.R. 4967, H.R. 4986, H.R. 4992, H.R. 4996, H.R. 4998, H.R. 5013, H.R. 5022, H.R. 5023, H.R. 5030, H.R. 5050, H.R. 5066, H.R. 5068, H.R. 5075, H.R. 5076, H.R. 5080, H.R. 5089
+
+```
+                          ADDITIONAL SPONSORS
+
+  Under clause 7 of rule XII, sponsors were added to public bills and 
+resolutions, as follows:
+
+       H.R. 18: Ms. Adams.
+       H.R. 45: Mr. Loudermilk and Mr. Fitzgerald.
+       H.R. 51: Ms. Titus.
+       H.R. 347: Mrs. Foushee and Mr. Carter of Georgia.
+       H.R. 378: Mr. Calvert.
+       H.R. 392: Mr. Thompson of Mississippi.
+       H.R. 396: Mr. Bera.
+       H.R. 429: Mr. Nehls and Mr. Bost.
+       H.R. 485: Mr. Landsman.
+       H.R. 507: Mr. Sherman.
+       H.R. 516: Mr. Smith of Nebraska and Ms. Lois Frankel of 
+     Florida.
+       H.R. 539: Mr. Kustoff.
+       H.R. 621: Mr. Hamadeh of Arizona.
+       H.R. 645: Mr. Fleischmann.
+       H.R. 738: Mr. Evans of Pennsylvania.
+       H.R. 740: Mr. Buchanan and Mr. Williams of Texas.
+       H.R. 834: Ms. Pou.
+       H.R. 842: Mr. David Scott of Georgia.
+       H.R. 863: Mr. Vindman.
+       H.R. 880: Mr. Westerman.
+       H.R. 909: Mrs. Fletcher, Mr. Allen, Ms. Greene of Georgia, 
+     Mr. Crawford, and Mr. Kelly of Mississippi.
+       H.R. 979: Ms. Kamlager-Dove, Mr. Figures, Mr. Shreve, and 
+     Mr. Onder.
+       H.R. 1004: Ms. Dexter and Mr. Ciscomani.
+       H.R. 1024: Mr. Feenstra.
+       H.R. 1028: Mr. Smith of Nebraska.
+       H.R. 1063: Mr. Gray.
+       H.R. 1078: Mr. Moran and Mr. Lucas.
+       H.R. 1089: Mr. Gill of Texas, Mr. Nehls, Mr. Harris of 
+     North Carolina, and Mr. Collins.
+       H.R. 1105: Mr. Sherman.
+       H.R. 1109: Mr. Gill of Texas.
+       H.R. 1132: Mr. Evans of Pennsylvania and Mr. Quigley.
+       H.R. 1138: Mr. Huizenga and Mr. Sessions.
+       H.R. 1163: Mr. Weber of Texas.
+       H.R. 1171: Mr. Lieu.
+       H.R. 1200: Mr. Begich.
+       H.R. 1207: Mr. Fitzgerald.
+       H.R. 1236: Mr. Carbajal.
+       H.R. 1246: Mr. Stauber.
+       H.R. 1260: Mr. Hamadeh of Arizona.
+       H.R. 1262: Mr. Crank, Mr. Cisneros, Mr. Haridopolos, Mr. 
+     Min, and Mr. Hernandez.
+       H.R. 1269: Mr. Larson of Connecticut, Ms. Boebert, and Mr. 
+     Alford.
+       H.R. 1284: Mr. McDowell and Mr. Rouzer.
+       H.R. 1357: Mr. Kelly of Pennsylvania.
+       H.R. 1383: Ms. Randall.
+       H.R. 1410: Mr. Lynch.
+       H.R. 1517: Mr. Nadler.
+       H.R. 1518: Mrs. Kim, Ms. Ocasio-Cortez, and Mr. Vindman.
+       H.R. 1529: Mr. Stauber and Mr. Morelle.
+       H.R. 1566: Mr. Rouzer and Mr. Neguse.
+       H.R. 1576: Mr. Rutherford.
+       H.R. 1585: Ms. Leger Fernandez.
+       H.R. 1623: Mr. Steube.
+       H.R. 1625: Mr. Miller of Ohio.
+       H.R. 1628: Mr. Edwards.
+       H.R. 1659: Mr. Vindman.
+       H.R. 1661: Mr. Deluzio and Mr. Auchincloss.
+       H.R. 1712: Ms. Salinas.
+       H.R. 1735: Ms. Balint.
+       H.R. 1787: Mrs. Dingell and Ms. Meng.
+       H.R. 1810: Ms. Escobar, Ms. Budzinski, and Mr. Cohen.
+       H.R. 1877: Mr. Menendez and Mr. Himes.
+       H.R. 1991: Mr. Gray.
+       H.R. 1993: Mr. McDowell.
+       H.R. 2033: Mr. Larsen of Washington and Mr. Takano.
+       H.R. 2036: Mr. Stauber and Mrs. Trahan.
+       H.R. 2040: Mr. Thompson of Mississippi.
+       H.R. 2089: Mr. Kelly of Pennsylvania and Mr. Harrigan.
+       H.R. 2102: Mr. Baird.
+       H.R. 2199: Mr. Fong.
+       H.R. 2202: Mr. Self.
+       H.R. 2314: Mr. Cline.
+       H.R. 2315: Ms. Greene of Georgia.
+       H.R. 2369: Ms. Morrison.
+       H.R. 2378: Ms. Greene of Georgia.
+       H.R. 2379: Mr. Vindman.
+       H.R. 2381: Mr. Doggett and Mr. Jackson of Illinois.
+       H.R. 2467: Ms. Budzinski, Ms. Morrison, and Mr. McGovern.
+       H.R. 2491: Mr. Rutherford.
+       H.R. 2495: Mrs. Beatty, Ms. Sherrill, Mr. Castro of Texas, 
+     Mr. Casten, Ms. Barragan, Mr. Moulton, and Ms. Strickland.
+       H.R. 2514: Mr. Vindman.
+       H.R. 2540: Ms. Scanlon and Mr. Sessions.
+       H.R. 2576: Ms. Lofgren, Mr. Carson, and Ms. Brownley.
+       H.R. 2598: Mr. Subramanyam.
+       H.R. 2599: Mr. Wittman.
+       H.R. 2675: Mr. Finstad, Mr. Wittman, and Mr. Gill of Texas.
+       H.R. 2693: Mr. Comer.
+       H.R. 2715: Mr. Steube.
+       H.R. 2736: Mr. Tran.
+       H.R. 2756: Mr. Vindman.
+       H.R. 2762: Ms. Escobar.
+       H.R. 2784: Ms. Strickland.
+       H.R. 2818: Ms. Escobar.
+       H.R. 2837: Mr. Garcia of Illinois.
+       H.R. 2853: Mr. Goldman of New York and Mr. Loudermilk.
+       H.R. 2854: Mr. Kelly of Mississippi, Mr. Rutherford, and 
+     Mr. Krishnamoorthi.
+       H.R. 2888: Ms. Scholten, Mr. Kennedy of New York, Mr. 
+     Larsen of Washington, Ms. Titus, and Mr. Carson.
+       H.R. 2941: Ms. Pou.
+       H.R. 2947: Ms. Davids of Kansas.
+       H.R. 3004: Mr. Norman.
+       H.R. 3045: Mr. Sorensen and Mr. Subramanyam.
+       H.R. 3063: Mr. Flood.
+       H.R. 3069: Mr. Figures.
+       H.R. 3078: Mr. Kennedy of Utah.
+       H.R. 3105: Mr. Baumgartner.
+       H.R. 3115: Ms. Lois Frankel of Florida, Mr. Huffman, and 
+     Mr. Conaway.
+       H.R. 3151: Ms. Bonamici and Mr. Vindman.
+       H.R. 3164: Mr. Flood, Ms. Salinas, and Mr. Peters.
+       H.R. 3184: Ms. Johnson of Texas.
+       H.R. 3218: Ms. Johnson of Texas.
+       H.R. 3219: Mr. Vindman.
+       H.R. 3243: Mr. Larson of Connecticut and Mr. Norcross.
+       H.R. 3246: Mr. Vindman.
+       H.R. 3247: Mr. Self.
+       H.R. 3277: Mr. Fitzgerald.
+       H.R. 3342: Mr. Hamadeh of Arizona.
+       H.R. 3401: Mr. Miller of Ohio.
+       H.R. 3410: Mr. Hudson and Mr. Harrigan.
+       H.R. 3411: Mr. Self.
+       H.R. 3418: Mr. Bacon.
+       H.R. 3453: Mr. Cole.
+       H.R. 3470: Ms. Davids of Kansas.
+       H.R. 3474: Mr. Vindman.
+       H.R. 3492: Mr. Gosar and Mrs. Hinson.
+       H.R. 3495: Mr. Costa and Mr. Hudson.
+       H.R. 3514: Mrs. Fletcher.
+       H.R. 3569: Ms. Simon.
+       H.R. 3597: Mr. Magaziner.
+       H.R. 3598: Mr. Gill of Texas.
+       H.R. 3604: Ms. Lofgren.
+       H.R. 3619: Mr. Miller of Ohio, Mr. Baumgartner, Mr. 
+     Walberg, and Mr. Ciscomani.
+       H.R. 3625: Ms. Greene of Georgia.
+       H.R. 3688: Mr. Self.
+       H.R. 3694: Mr. Turner of Ohio.
+       H.R. 3701: Ms. Budzinski.
+       H.R. 3707: Mr. Vindman.
+       H.R. 3723: Mr. Nehls and Mr. Veasey.
+       H.R. 3744: Mr. Kennedy of Utah.
+       H.R. 3754: Mr. Quigley.
+       H.R. 3824: Mr. Smith of Nebraska.
+       H.R. 3852: Ms. Johnson of Texas.
+       H.R. 3858: Mr. Ezell.
+       H.R. 3871: Ms. Scholten.
+       H.R. 3876: Mr. Costa.
+       H.R. 3906: Mr. Figures.
+       H.R. 3917: Mr. Steube.
+       H.R. 3930: Mr. Foster.
+       H.R. 3941: Ms. Tlaib and Mrs. Beatty.
+       H.R. 3946: Mr. Bilirakis and Mr. Crow.
+       H.R. 3978: Mr. Veasey.
+       H.R. 4022: Ms. Barragan.
+       H.R. 4037: Ms. Norton.
+       H.R. 4145: Mr. Garamendi and Ms. Foxx.
+       H.R. 4186: Ms. Craig.
+       H.R. 4206: Mr. Riley of New York.
+       H.R. 4231: Mr. Pocan.
+       H.R. 4239: Ms. Johnson of Texas.
+       H.R. 4242: Mr. Yakym and Mr. Gill of Texas.
+       H.R. 4245: Mr. Cisneros.
+       H.R. 4253: Mrs. McClain Delaney and Mr. DeSaulnier.
+
+[[Page H3831]]
+
+  
+
+       H.R. 4303: Mr. Doggett and Mr. Tonko.
+       H.R. 4304: Ms. Salinas.
+       H.R. 4312: Mr. Carter of Georgia, Mr. Haridopolos, and Mr. 
+     Cline.
+       H.R. 4317: Mr. Flood.
+       H.R. 4318: Mr. Tony Gonzales of Texas and Mr. Evans of 
+     Pennsylvania.
+       H.R. 4323: Mr. Miller of Ohio.
+       H.R. 4348: Ms. Johnson of Texas.
+       H.R. 4363: Mr. Self.
+       H.R. 4398: Mr. Subramanyam, Mr. Harrigan, Mr. Smith of 
+     Nebraska, and Mr. Vindman.
+       H.R. 4404: Mr. Hamadeh of Arizona.
+       H.R. 4444: Mr. Carson.
+       H.R. 4475: Mr. Bost and Ms. Craig.
+       H.R. 4500: Mr. Flood.
+       H.R. 4510: Ms. Budzinski.
+       H.R. 4516: Mr. Goldman of New York.
+       H.R. 4566: Mr. Thompson of Pennsylvania.
+       H.R. 4606: Mrs. Kim, Ms. Escobar, and Mr. Khanna.
+       H.R. 4628: Mr. Hamadeh of Arizona.
+       H.R. 4662: Mr. Sherman, Mr. Cisneros, Ms. Sanchez, Mr. 
+     Panetta, and Mr. Huffman.
+       H.R. 4667: Mr. Sorensen.
+       H.R. 4669: Mr. Cole and Mr. Moskowitz.
+       H.R. 4676: Mr. Begich.
+       H.R. 4682: Ms. Clarke of New York.
+       H.R. 4712: Ms. Randall and Mr. Vindman.
+       H.R. 4721: Mr. Davis of North Carolina.
+       H.R. 4760: Mr. Palmer.
+       H.R. 4786: Mr. Johnson of Georgia.
+       H.R. 4796: Ms. Johnson of Texas.
+       H.R. 4802: Mr. Nunn of Iowa, Mr. Garamendi, Mr. Shreve, and 
+     Mr. Carson.
+       H.R. 4805: Mr. Hamadeh of Arizona.
+       H.R. 4832: Mr. Finstad.
+       H.R. 4852: Mrs. Kim.
+       H.R. 4896: Ms. Omar.
+       H.R. 4901: Ms. Jacobs.
+       H.R. 4908: Mr. Latimer.
+       H.R. 4909: Mr. Latimer.
+       H.R. 4910: Mr. Latimer.
+       H.R. 4912: Mr. Latimer.
+       H.R. 4913: Mr. Latimer.
+       H.R. 4916: Mr. Latimer.
+       H.R. 4955: Ms. Tokuda.
+       H.R. 4959: Mr. Garcia of Illinois.
+       H.R. 4966: Ms. Omar.
+       H.R. 4967: Mr. Vargas and Mr. Latimer.
+       H.R. 4986: Mr. Gill of Texas.
+       H.R. 4992: Ms. Scanlon.
+       H.R. 4996: Mr. Wittman and Mr. Harrigan.
+       H.R. 4998: Mr. Costa and Ms. Brown.
+       H.R. 5013: Mr. Carson.
+       H.R. 5022: Mr. Carson.
+       H.R. 5023: Ms. Stefanik and Mr. Wittman.
+       H.R. 5030: Mr. Case.
+       H.R. 5050: Mr. Self.
+       H.R. 5066: Mrs. Luna.
+       H.R. 5068: Ms. Pressley, Mr. Foster, and Mr. Deluzio.
+       H.R. 5075: Ms. Van Duyne, Mr. Self, and Ms. Greene of 
+     Georgia.
+       H.R. 5076: Mr. Gill of Texas.
+       H.R. 5080: Ms. Stefanik.
+       H.R. 5089: Mr. McCormick.
+       H.J. Res. 12: Mr. Massie.
+       H.J. Res. 80: Mr. Thompson of Mississippi, Mr. Cohen, Mr. 
+     Takano, Mr. Auchincloss, Ms. Salinas, and Mr. Horsford.
+       H.J. Res. 115: Mr. Tonko, Mr. Schneider, Mr. Hoyer, Ms. 
+     Scanlon, Mr. Casar, Mr. McGovern, Mr. Moulton, Ms. Salinas, 
+     Ms. Pelosi, Mrs. Fletcher, Ms. Velazquez, Mr. Deluzio, Mr. 
+     Pallone, and Ms. Randall.
+       H.J. Res. 116: Mr. Self.
+       H. Con. Res. 4: Mr. Miller of Ohio and Mr. Downing.
+       H. Con. Res. 12: Mr. Veasey and Ms. McClellan.
+       H. Res. 473: Ms. Johnson of Texas and Mr. Neal.
+       H. Res. 547: Ms. Pou.
+       H. Res. 551: Mr. McCormick.
+       H. Res. 578: Mr. Mfume.
+       H. Res. 581: Mr. Bell and Mrs. Sykes.
+       H. Res. 665: Mr. Crane.
+       H. Res. 670: Ms. Davids of Kansas.
+```

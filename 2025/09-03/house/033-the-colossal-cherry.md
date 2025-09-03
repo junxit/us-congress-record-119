@@ -1,0 +1,43 @@
+---
+granule: CREC-2025-09-03-pt1-PgH3770
+date: 2025-09-03
+edition: CREC
+section: HOUSE
+page: H3770
+citation: 171 Cong. Rec. H3770
+---
+
+# THE COLOSSAL CHERRY
+
+**Speaking:** Thompson, Glenn (T000467) [R-PA]
+
+```
+                          THE COLOSSAL CHERRY
+
+  (Mr. THOMPSON of Pennsylvania asked and was given permission to 
+address the House for 1 minute and to revise and extend his remarks.)
+  Mr. THOMPSON of Pennsylvania. Mr. Speaker, I rise today to commend 
+the Wilds Sonshine Factory, a distillery in McKean County, Kane, 
+Pennsylvania, that makes a great product using sunflowers for that 
+beverage.
+  I commend them today for honoring a vital piece of the Commonwealth's 
+logging and conservation heritage, the Colossal Cherry. The Colossal 
+Cherry is now an artifact, but at one time it was the largest black 
+cherry tree in the world. The Wilds Sonshine Factory hosted a 
+dedication ceremony on August 22 in honor of the Colossal Cherry, which 
+is also known as the Sheffield Log.
+  Discovered and preserved through efforts of local historians and 
+conservation advocates, the Sheffield Log stands as a powerful symbol 
+of the region's natural history, the resilience of its people, and the 
+enduring value of sustainable forestry.
+  It once stood in the woods of the Allegheny National Forest before 
+being knocked down during the tornado of 1985. It was then formally 
+homed in Sheffield, Pennsylvania, to mark its sesquicentennial in 1986. 
+Now, the newly restored Colossal Black Cherry sits at its permanent 
+home at the Wilds Sonshine Factory.
+  Mr. Speaker, this rededication is a story worth celebrating. I thank 
+everyone who took part in the preservation of the Colossal Black 
+Cherry.
+
+                          ____________________
+```
