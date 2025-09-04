@@ -1,0 +1,47 @@
+---
+granule: CREC-2025-09-04-pt1-PgH3833-5
+date: 2025-09-04
+edition: CREC
+section: HOUSE
+page: H3833
+citation: 171 Cong. Rec. H3833
+---
+
+# WELCOMING DR. NEIL C. STEWART
+
+**Speaking:** Wilson, Joe (W000795) [R-SC]
+
+```
+                     WELCOMING DR. NEIL C. STEWART
+
+  The SPEAKER. Without objection, Mr. Wilson of South Carolina was 
+recognized for 1 minute.
+  There was no objection.
+  Mr. WILSON of South Carolina. Mr. Speaker, I am very grateful to 
+welcome Dr. Neil Stewart, senior minister of the First Presbyterian 
+Church of Columbia, South Carolina, as the guest chaplain today to the 
+United States House of Representatives.
+  First Presbyterian Church in Columbia is the largest Associate 
+Reformed Presbyterian Church in the world, founded in 1795.
+  His ministry is so meaningful to me as our family has attended First 
+Presbyterian Church for six generations, sitting on the same pew.
+  It is also the churchyard of the graves of the parents of President 
+Woodrow Wilson. This was the boyhood church of President Woodrow 
+Wilson. Also in the churchyard is the grave of Ann Pamela Cunningham, 
+who, in 1854, founded the Mount Vernon Ladies' Association to save 
+Mount Vernon from destruction.
+  Dr. Stewart grew up in Northern Ireland--obviously, you can tell from 
+his not South Carolina accent--and has studied medicine at Queen's 
+University Belfast and was awarded the Ulster Hospital Gold Medal for 
+his studies in medicine, general and orthopedic surgery, pediatrics, 
+obstetrics, and gynecology.
+  Dr. Stewart later moved to Jackson, Mississippi, after feeling a 
+desire to grow in his faith. He graduated with a master of divinity 
+from the Reformed Theological Seminary in Jackson in 2002.
+  I appreciate his wife, Catherine, who is here today. Additionally, 
+with his six children, they now reside in the midlands of South 
+Carolina, and we are blessed to have them choose South Carolina as 
+their home.
+
+                          ____________________
+```

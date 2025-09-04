@@ -1,0 +1,48 @@
+---
+granule: CREC-2025-09-04-pt1-PgH3843-6
+date: 2025-09-04
+edition: CREC
+section: HOUSE
+page: H3843
+citation: 171 Cong. Rec. H3843
+---
+
+# HONORING JOSHUA JARZAB
+
+**Speaking:** Sykes, Emilia Strong (S001223) [D-OH]
+
+```
+                         HONORING JOSHUA JARZAB
+
+  (Mrs. SYKES asked and was given permission to address the House for 1 
+minute and to revise and extend her remarks.)
+  Mrs. SYKES. Mr. Speaker, today I rise to recognize Twinsburg 
+firefighter and local hero, Joshua Jarzab, as Ohio's 13th Congressional 
+District Champion of the Week.
+  On August 17, Joshua responded to a 911 call for a basement fire. 
+Joshua and his team acted swiftly, entering the burning home, fighting 
+back flames, and clearing a path to the basement.
+  Once underground, amidst thick smoke and scorching flames, Joshua and 
+his team conducted and searched for a survivor. Specifically, Joshua 
+and
+
+[[Page H3844]]
+
+his team were searching for an 8-month-old child.
+  Joshua, when asked later about the search, said: We weren't going to 
+leave that basement until that baby was found. We saw the fire, but 
+that wasn't our priority. Our priority was finding this baby.
+  He quickly found the child's bedroom, where he spotted the 8-month-
+old's head poking over the side of his crib. Less than 12 minutes after 
+receiving the initial 911 call, Joshua emerged from the clouds of smoke 
+with the 8-month-old baby boy wrapped safely in his coat.
+  Many of us cannot imagine what it is like running into a fire because 
+when we see fire, we run away. Thankfully, there are dedicated 
+firefighters like Joshua who are willing to do what most of us will 
+not. For these incredible feats, I extend my sincere gratitude to 
+Joshua and his colleagues at the Twinsburg Fire Department. I thank all 
+those at Twinsburg Emergency Services for protecting individuals and 
+families in Ohio's 13th Congressional District.
+
+                          ____________________
+```

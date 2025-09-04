@@ -1,0 +1,38 @@
+---
+granule: CREC-2025-09-04-pt1-PgH3845
+date: 2025-09-04
+edition: CREC
+section: HOUSE
+page: H3845
+citation: 171 Cong. Rec. H3845
+---
+
+# ARREST OF WILDLAND FIREFIGHTER
+
+**Speaking:** Salinas, Andrea (S001226) [D-OR]
+
+```
+                     ARREST OF WILDLAND FIREFIGHTER
+
+  (Ms. SALINAS asked and was given permission to address the House for 
+1 minute and to revise and extend her remarks.)
+  Ms. SALINAS. Mr. Speaker, I rise to call out the Trump administration 
+for their arrest and unconstitutional treatment of my constituent.
+  Last week, my constituent was working as a wildland firefighter to 
+combat the Bear Gulch fire when CBP stopped his crew and arrested him.
+  He was brought to the United States when he was just 4 years old. The 
+United States is the only home he knows.
+  For the past 3 years, he has bravely served as a wildland 
+firefighter, putting his life on the line to protect us.
+  Arresting a firefighter who is actively fighting a wildfire does not 
+make our community safer. For roughly 48 hours after his arrest, the 
+Trump administration violated my constituent's constitutional rights. 
+Despite requesting a phone call and his attorney, he was denied.
+  Let me be clear. Immigrants deserve to be treated with dignity. The 
+Constitution deserves to be followed. Communities deserve safety from 
+wildfires. First responders deserve to do their jobs unimpeded. 
+Anything less is a slap in the face to the values we share as 
+Americans.
+
+                          ____________________
+```

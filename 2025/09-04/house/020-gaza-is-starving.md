@@ -1,0 +1,45 @@
+---
+granule: CREC-2025-09-04-pt1-PgH3842-3
+date: 2025-09-04
+edition: CREC
+section: HOUSE
+page: H3842
+citation: 171 Cong. Rec. H3842
+---
+
+# GAZA IS STARVING
+
+**Speaking:** Dean, Madeleine (D000631) [D-PA]
+
+```
+                            GAZA IS STARVING
+
+  (Ms. DEAN of Pennsylvania asked and was given permission to address 
+the House for 1 minute and to revise and extend her remarks.)
+  Ms. DEAN of Pennsylvania. Mr. Speaker, there are places on this Earth 
+with unbearable suffering. Right now Gaza is starving. Children are 
+starving.
+  These photographs are very difficult to look at, but I ask you to 
+look because this is a man-made famine. We are 698 days into the Hamas-
+Israel war, which we all understand, but it has been nearly 200 days 
+since Prime Minister Netanyahu barbarously blocked all food, water, and 
+medicine into Gaza.
+  There are Palestinians in a cage with very little resources. There 
+are emaciated children too weak to walk or speak. Doctors, aid workers, 
+and journalists struggling with hunger and malnutrition, or being 
+killed as they fight to save the sick and wounded.
+  Instead of responding with mercy and moral clarity, the world watches 
+and
+
+[[Page H3843]]
+
+the Trump administration responds with its usual weakness and cruelty, 
+denying injured Palestinian children passage to the United States for 
+care.
+  This massive suffering is man made, thus it must be stopped by man.
+  Mr. Speaker, Mr. Netanyahu must cease-fire now, bring all hostages 
+home now living and dead, and surge humanitarian aid now. ``We must 
+repair the world''; ``Tikkun Olam.''
+
+                          ____________________
+```
