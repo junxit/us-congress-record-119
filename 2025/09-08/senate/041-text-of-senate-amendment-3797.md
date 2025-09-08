@@ -1,0 +1,93 @@
+---
+granule: CREC-2025-09-08-pt1-PgS6405-3
+date: 2025-09-08
+edition: CREC
+section: SENATE
+page: S6405
+citation: 171 Cong. Rec. S6405
+---
+
+# Text of Senate Amendment 3797
+
+**Speaking:** Young, Todd (Y000064) [R-IN]
+
+**Measures:** S. 2296
+
+```
+  SA 3797. Mr. YOUNG submitted an amendment intended to be proposed to 
+amendment SA 3748 proposed by Mr. Wicker (for himself and Mr. Reed) to
+
+[[Page S6406]]
+
+the bill S. 2296, to authorize appropriations for fiscal year 2026 for 
+military activities of the Department of Defense, for military 
+construction, and for defense activities of the Department of Energy, 
+to prescribe military personnel strengths for such fiscal year, and for 
+other purposes; which was ordered to lie on the table; as follows:
+
+       At the end of title X, add the following:
+
+Subtitle H--Helping Allies Respond to Piracy, Overfishing, and Oceanic 
+                             Negligence Act
+
+     SEC. 1091. SHORT TITLE.
+
+       This subtitle may be cited as the ``Helping Allies Respond 
+     to Piracy, Overfishing, and Oceanic Negligence Act'' or the 
+     ``HARPOON Act''.
+
+     SEC. 1092. DEFINITIONS.
+
+       In this subtitle:
+       (1) Commandant.--The term ``Commandant'' means the 
+     Commandant of the Coast Guard.
+       (2) Illegal, unreported, and unregulated fishing; iuu 
+     fishing.--The terms ``illegal, unreported, and unregulated 
+     fishing'' and ``IUU fishing'' mean activities described as 
+     illegal fishing, unreported fishing, or unregulated fishing 
+     in paragraph 3 of the International Plan of Action to 
+     Prevent, Deter and Eliminate Illegal, Unreported and 
+     Unregulated Fishing, adopted at the 24th Session of the 
+     Committee on Fisheries in Rome on March 2, 2001.
+       (3) Secretary.--The term ``Secretary'' means the Secretary 
+     of Defense.
+
+     SEC. 1093. COUNTER-IUU FISHING PROGRAM ENHANCEMENT.
+
+       (a) In General.--The Secretary and the Commandant, in 
+     coordination with the Secretary of State, may seek to engage 
+     with foreign partners to establish joint patrols to enhance 
+     counter-IUU fishing efforts, combat transnational crime, and 
+     enhance regional security.
+       (b) Report.--
+       (1) In general.--Not later than 120 days after the date of 
+     the enactment of this Act, the Secretary and the Commandant, 
+     in coordination with the Secretary of State, shall jointly 
+     submit to the appropriate committees of Congress a report on 
+     engagements with foreign partners under subsection (a), 
+     including--
+       (A) an identification of specific regions and countries 
+     interested in increased cooperation to combat IUU fishing;
+       (B) a description of any limitations on enhanced counter-
+     IUU fishing partnerships due to insufficient resources or 
+     authorities;
+       (C) recommendations for increased program effectiveness in 
+     counter-IUU fishing operations;
+       (D) an assessment of the effectiveness of ongoing counter-
+     IUU fishing partner operations;
+       (E) an identification of authorities provided in sections 
+     331 and 333(a) of title 10, United States Code, pursuant to 
+     which such counter-IUU fishing operations are conducted; and
+       (F) any other information the Secretary, the Commandant, 
+     and the Secretary of State consider appropriate.
+       (2) Appropriate committees of congress defined.--In this 
+     subsection, the term ``appropriate committees of Congress'' 
+     means--
+       (A) the Committee on Commerce, Science, and Transportation, 
+     the Committee on Armed Services, and the Committee on Foreign 
+     Relations of the Senate; and
+       (B) the Committee on Science, Space, and Technology, the 
+     Committee on Armed Services, and the Committee on Foreign 
+     Affairs of the House of Representatives.
+                                 ______
+```

@@ -1,0 +1,56 @@
+---
+granule: CREC-2025-09-08-pt1-PgH3868
+date: 2025-09-08
+edition: CREC
+section: HOUSE
+page: H3868
+citation: 171 Cong. Rec. H3868
+---
+
+# HONORING LIFE AND LEGACY OF PAUL MCDONALD
+
+**Speaking:** Moylan, James C. (M001219) [R-GU]
+
+```
+               HONORING LIFE AND LEGACY OF PAUL MCDONALD
+
+  (Mr. Moylan of Guam was recognized to address the House for 5 
+minutes.)
+  Mr. MOYLAN. Madam Speaker, I rise today with deep sadness to honor 
+the life and legacy of Mayor Paul McDonald, who has left us after 
+decades of devoted service to our island of Guam.
+  Over the course of decades, Mayor McDonald faithfully served his 
+village, making him not only a leader but a constant presence in the 
+lives of the families he represented. His tenure as the longest serving 
+mayor is not just a record of years. It is a record of trust built 
+through commitment, humility, and care for our people.
+  From the earliest days of his service, Mayor McDonald understood that 
+leadership in Guam's villages is personal. It means being present at 
+every gathering, comforting families in times of loss, and rolling up 
+your sleeves to fix problems no matter how small or large. He carried 
+that responsibility with honor, embodying the true spirit of 
+``inafa'maolek''; ``to make good with one another.''
+  Mayor McDonald's leadership was never about titles or recognition. It 
+was about ensuring that children had safe places to grow, that our 
+``manamko''; ``elders'' are respected and supported and that village 
+life remained rooted in dignity, family, and tradition. Through 
+typhoons, economic hardships, and moments of challenge, he stood as a 
+steady hand and a reassuring voice for his constituents.
+  What made Mayor McDonald remarkable was not only his longevity in 
+office but the way he never grew tired of serving. Even after decades, 
+his door was open. His voice was steady, and his heart remained 
+committed to the people.
+  He leaves behind a legacy that will be remembered not just in the 
+record books but in the daily lives of those who called on him and knew 
+they could count on him.
+  Guam has lost a true public servant. We will remember Mayor McDonald 
+as a man whose life's work was defined by compassion, dedication, and 
+an unwavering love for his people.
+  I extend my deepest condolences to the McDonald family and to all who 
+mourn his passing. May his life of service inspire future generations 
+to lead with the same humility and strength. ``Si Yu'os Ma'ase''; 
+``thank you,'' Mayor McDonald, for your many years of sacrifice and 
+service. May you rest in eternal peace.
+
+                          ____________________
+```

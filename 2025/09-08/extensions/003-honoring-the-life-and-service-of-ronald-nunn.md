@@ -1,0 +1,55 @@
+---
+granule: CREC-2025-09-08-pt1-PgE819-4
+date: 2025-09-08
+edition: CREC
+section: EXTENSIONS
+page: E819
+citation: 171 Cong. Rec. E819
+---
+
+# HONORING THE LIFE AND SERVICE OF RONALD NUNN
+
+**Speaking:** DeSaulnier, Mark (D000623) [D-CA]
+
+```
+              HONORING THE LIFE AND SERVICE OF RONALD NUNN
+
+                                 ______
+                                 
+
+                          HON. MARK DeSAULNIER
+
+                             of california
+
+                    in the house of representatives
+
+                       Monday, September 8, 2025
+
+  Mr. DeSAULNIER. Mr. Speaker, I rise today to recognize the life and 
+service of Ron Nunn. Born on April 8, 1933, Ron was a proud lifelong 
+resident of Brentwood, California. He graduated from Liberty High 
+School in 1951 as a three-sport varsity athlete and went on to play 
+football at the University of the Pacific and Stanford University. He 
+later played semi-pro football for the Antioch Hornets. Additionally, 
+Ron courageously served in the Army and was stationed at Fort Lewis, 
+Washington, fighting in the Korean War.
+  After his time in service, Ron returned to Brentwood where he raised 
+his three children alongside his wife, Shirley. Ron was a passionate 
+advocate for education and a key member of our community. In 
+recognition of his service on the Brentwood School Board, a new 
+elementary school was named in his honor in 1991. Ron was also a very 
+successful farmer and developer. He continued to lead his family's 
+farming operations, a legacy that dates back to the 1880's. Ron 
+expanded operations to build RRS partnership, which manages thousands 
+of acres of farmland, including the largest wine grape operation in 
+Contra Costa County. Ron also led the development of over 5,000 homes 
+in the area through his partnership with the Blackhawk Corporation. 
+Beyond his professional pursuits, Ron enjoyed many interests including 
+cars, wine making, flying planes, and skiing with family and friends.
+  Sadly, Ron passed away on August 8, 2025 at the age of 92. Ron will 
+be remembered for his leadership, dedication to his family, and for his 
+incredible impact on East County. Please join me in honoring Ron Nunn 
+for his many contributions to our community.
+
+                          ____________________
+```

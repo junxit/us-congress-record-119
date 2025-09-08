@@ -1,0 +1,53 @@
+---
+granule: CREC-2025-09-08-pt1-PgE821-2
+date: 2025-09-08
+edition: CREC
+section: EXTENSIONS
+page: E821
+citation: 171 Cong. Rec. E821
+---
+
+# TRIBUTE TO THE HONORABLE JAMES M. BATZER
+
+**Speaking:** Moolenaar, John R. (M001194) [R-MI]
+
+```
+                TRIBUTE TO THE HONORABLE JAMES M. BATZER
+
+                                 ______
+                                 
+
+                         HON. JOHN R. MOOLENAAR
+
+                              of michigan
+
+                    in the house of representatives
+
+                       Monday, September 8, 2025
+
+  Mr. MOOLENAAR. Mr. Speaker, today I rise to recognize the life of 
+Judge James M. Batzer, who passed away on August 28, 2025, at the age 
+of 81.
+  James was born on December 14, 1943, in Manistee, Michigan, where he 
+was raised and graduated from Manistee High School in 1961. He then 
+attended Albion College and graduated with his Bachelor of Arts from 
+the University of Michigan in 1968.
+  After college, he received his master's degree in criminal justice 
+from Michigan State University, and his Juris Doctorate in 1978 from 
+Wayne State University Law School, where he received awards for his 
+writing and scholastic achievement. James went on to serve as the 
+Assistant Attorney General for the State of Michigan's Division of 
+Mental Health where he represented the state in various fields of law.
+  In November of 1984, he was elected to serve the residents of 
+Manistee and Benzie counties as Circuit Judge for the 19th Judicial 
+Circuit. Judge Batzer served his community in this position for 30 
+years until his retirement in January 2015. Judge Batzer dedicated his 
+life to service and left a legacy on the bench of keeping his community 
+safe and running a fair and fact-based courtroom.
+  On behalf of Michigan's 2nd Congressional District, I am honored to 
+recognize Judge James M. Batzer for his lifelong commitment to the 
+residents of Manistee and Benzie counties, and I extend my deepest 
+condolences to his family.
+
+                          ____________________
+```
