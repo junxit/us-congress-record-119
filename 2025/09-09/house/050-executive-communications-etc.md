@@ -1,0 +1,50 @@
+---
+granule: CREC-2025-09-09-pt1-PgH4163-3
+date: 2025-09-09
+edition: CREC
+section: HOUSE
+page: H4163
+citation: 171 Cong. Rec. H4163
+---
+
+# EXECUTIVE COMMUNICATIONS, ETC.
+
+```
+                     EXECUTIVE COMMUNICATIONS, ETC.
+
+  Under clause 2 of rule XIV, executive communications were taken from 
+the Speaker's table and referred as follows:
+
+       EC-1896. A letter from the Senior Bureau Official, Bureau 
+     of Legislative Affairs, Department of State, transmitting 
+     Transmittal No. DDTC 25-014 Certification of Proposed 
+     Issuance of an Export License Pursuant to Sec 36(c) of the 
+     Arms Export Control Act; to the Committee on Foreign Affairs.
+       EC-1897. A letter from the Senior Bureau Official, Bureau 
+     of Legislative Affairs, Department of State, transmitting 
+     Transmittal No. DDTC 25-019 Certification of Proposed 
+     Issuance of an Export License Pursuant to Sec 36(c) of the 
+     Arms Export Control Act; to the Committee on Foreign Affairs.
+       EC-1898. A letter from the Senior Bureau Official, Bureau 
+     of Legislative Affairs, Department of State, transmitting 
+     Transmittal No. DDTC 25-020 Certification of Proposed 
+     Issuance of an Export License Pursuant to Sec 36(c) of the 
+     Arms Export Control Act; to the Committee on Foreign Affairs.
+       EC-1899. A letter from the Senior Bureau Official, Bureau 
+     of Legislative Affairs, Department of State, transmitting 
+     Transmittal No. DDTC 25-043 Certification of Proposed 
+     Issuance of an Export License Pursuant to Sec 36(c) of the 
+     Arms Export Control Act; to the Committee on Foreign Affairs.
+       EC-1900. A letter from the Senior Bureau Official, Bureau 
+     of Legislative Affairs, Department of State, transmitting 
+     Transmittal No. DDTC 25-045 Certification of Proposed 
+     Issuance of an Export License Pursuant to Sec 36(c) of the 
+     Arms Export Control Act; to the Committee on Foreign Affairs.
+       EC-1901. A letter from the Senior Bureau Official, Bureau 
+     of Legislative Affairs, Department of State, transmitting 
+     Transmittal No. DDTC 25-025 Certification of Proposed 
+     Issuance of an Export License Pursuant to Sec 36(c) of the 
+     Arms Export Control Act; to the Committee on Foreign Affairs.
+
+                          ____________________
+```

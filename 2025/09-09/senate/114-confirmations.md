@@ -1,0 +1,35 @@
+---
+granule: CREC-2025-09-09-pt1-PgS6509-2
+date: 2025-09-09
+edition: CREC
+section: SENATE
+page: S6509
+citation: 171 Cong. Rec. S6509
+---
+
+# CONFIRMATIONS
+
+```
+                             CONFIRMATIONS
+
+  Executive nominations confirmed by the Senate September 9, 2025:
+
+
+                             THE JUDICIARY
+
+       MARIA A. LANAHAN, OF MISSOURI, TO BE UNITED STATES DISTRICT 
+     JUDGE FOR THE EASTERN DISTRICT OF MISSOURI.
+
+
+                    DEPARTMENT OF HOMELAND SECURITY
+
+       ROBERT LAW, OF THE DISTRICT OF COLUMBIA, TO BE UNDER 
+     SECRETARY FOR STRATEGY, POLICY, AND PLANS, DEPARTMENT OF 
+     HOMELAND SECURITY.
+
+
+                             THE JUDICIARY
+
+       KYLE CHRISTOPHER DUDEK, OF FLORIDA, TO BE UNITED STATES 
+     DISTRICT JUDGE FOR THE MIDDLE DISTRICT OF FLORIDA.
+```

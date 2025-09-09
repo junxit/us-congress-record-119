@@ -1,0 +1,89 @@
+---
+granule: CREC-2025-09-09-pt1-PgS6500-2
+date: 2025-09-09
+edition: CREC
+section: SENATE
+page: S6500
+citation: 171 Cong. Rec. S6500
+---
+
+# Text of Senate Amendment 3835
+
+**Speaking:** Murkowski, Lisa (M001153) [R-AK]
+
+```
+  SA 3835. Ms. MURKOWSKI submitted an amendment intended to be proposed 
+to amendment SA 3748 proposed by Mr. Wicker (for himself and Mr. Reed) 
+to the bill S. 2296, to authorize appropriations for fiscal year 2026 
+for military activities of the Department of Defense, for military 
+construction, and for defense activities of the Department of Energy, 
+to prescribe military personnel strengths for such fiscal year, and for 
+other purposes; which was ordered to lie on the table; as follows:
+
+        At the end of subtitle E of title XII, add the following:
+
+     SEC. 1265. AMBASSADOR-AT-LARGE FOR ARCTIC AFFAIRS.
+
+       Title I of the State Department Basic Authorities Act of 
+     1956 (22 U.S.C. 2651a et seq.) is amended by adding at the 
+     end the following new section:
+
+     ``SEC. 65. UNITED STATES AMBASSADOR-AT-LARGE FOR ARCTIC 
+                   AFFAIRS.
+
+       ``(a) Establishment.--There is authorized within the 
+     Department of State an Ambassador-at-Large for Arctic 
+     Affairs, appointed under subsection (b).
+       ``(b) Appointment.--The Ambassador shall be appointed by 
+     the President, by, and with the advice and consent of the 
+     Senate.
+       ``(c) Duties.--The Ambassador is authorized to represent 
+     the United States in matters and cases relevant to Arctic 
+     affairs and shall be responsible to the Secretary of State 
+     for all matters, programs, and related activities pertaining 
+     to the Arctic region in the conduct of foreign policy by the 
+     Department, including, as appropriate, leading the 
+     coordination of programs carried out by United States 
+     Government agencies abroad, and such other related duties as 
+     the Secretary may from time to time designate.
+       ``(d) Areas of Responsibility.--The Ambassador-at-Large for 
+     Arctic Affairs is authorized to maintain continuous 
+     observation and coordination of all matters indicated by the 
+     Secretary of State, including those pertaining to energy, 
+     environment, trade, and infrastructure development and 
+     maintenance, and, in consultation with the heads of other 
+     relevant departments and agencies, those pertaining to law 
+     enforcement and political-military affairs in the conduct of 
+     foreign policy in the Arctic, including programs carried out 
+     by other United States Government agencies when such programs 
+     pertain to the following matters, to the extent directed by 
+     the Secretary of State:
+       ``(1) National security.
+       ``(2) Strengthening cooperation among Arctic countries.
+       ``(3) The promotion of responsible natural resource 
+     management and economic development.
+       ``(4) Protecting the Arctic environment and conserving its 
+     biological resources.
+       ``(5) Arctic indigenous peoples, including by involving 
+     them in decisions that affect them.
+       ``(6) Scientific monitoring and research.
+       ``(e) Additional Duties.--In addition to the duties and 
+     responsibilities specified in subsections (c) and (d), the 
+     Ambassador-at-Large for Arctic Affairs shall also carry out 
+     such other relevant duties as the Secretary may assign.
+       ``(f) Definitions.--In this section:
+       ``(1) Arctic region.--The term `Arctic region' means--
+       ``(A) the geographic region north of the 66.56083 parallel 
+     latitude north of the equator;
+       ``(B) all the United States territory north and west of the 
+     boundary formed by the Porcupine, Yukon, and Kuskokwim 
+     Rivers;
+       ``(C) all contiguous seas, including the Arctic Ocean and 
+     the Beaufort, Bering, and Chukchi Seas; and
+       ``(D) the Aleutian Chain.
+       ``(2) Arctic countries.--The term `Arctic countries' means 
+     the permanent members of the Arctic Council, namely the 
+     United States, Canada, Denmark, Iceland, Norway, Sweden, 
+     Finland, and Russia.''.
+                                 ______
+```
