@@ -1,0 +1,35 @@
+---
+granule: CREC-2025-09-10-pt1-PgH4174-3
+date: 2025-09-10
+edition: CREC
+section: HOUSE
+page: H4174
+citation: 171 Cong. Rec. H4174
+---
+
+# PRAYER
+
+```
+                                 PRAYER
+
+  The Chaplain, the Reverend Margaret Grun Kibben, offered the 
+following prayer:
+  Heavenly Father, we pray not our will, but Yours be done this day.
+  Don't answer our prayers with words we want to hear, but cause us to 
+hear how You wish us to respond to the concerns for which we pray.
+  Don't listen to us when we ask for Your favor, lest we be inclined to 
+demand more, but grant us the faith to trust in Your provision when 
+what we have doesn't seem enough.
+  Don't shower us with blessings we desire, but bless us with more of 
+You, that we would desire nothing else.
+  Don't lead us away from the challenges that lie before us, but 
+challenge us to follow You as you lead us through them.
+  Don't quell our anxieties that hurt our hearts with worry, but 
+transform our hearts that they would seek first Your righteousness.
+  Do not forsake us. Do not be far from us, O Lord our God, but come 
+quickly to help us this day, for You, O Lord, are our Savior.
+  It is in Your sovereign name we pray.
+  Amen.
+
+                          ____________________
+```

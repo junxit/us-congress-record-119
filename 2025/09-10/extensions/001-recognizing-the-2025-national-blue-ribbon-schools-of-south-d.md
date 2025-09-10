@@ -1,0 +1,49 @@
+---
+granule: CREC-2025-09-10-pt1-PgE833-2
+date: 2025-09-10
+edition: CREC
+section: EXTENSIONS
+page: E833
+citation: 171 Cong. Rec. E833
+---
+
+# RECOGNIZING THE 2025 NATIONAL BLUE RIBBON SCHOOLS OF SOUTH DAKOTA
+
+**Speaking:** Johnson, Dusty (J000301) [R-SD]
+
+```
+   RECOGNIZING THE 2025 NATIONAL BLUE RIBBON SCHOOLS OF SOUTH DAKOTA
+
+                                  _____
+                                 
+
+                           HON. DUSTY JOHNSON
+
+                            of south dakota
+
+                    in the house of representatives
+
+                     Wednesday, September 10, 2025
+
+  Mr. JOHNSON of South Dakota. Mr. Speaker, each year, the National 
+Blue Ribbon Schools Program recognizes a select group of schools across 
+the country, celebrating their academic achievements and contributions 
+to educational excellence. As a South Dakotan, I am proud of Howard 
+High School, Jones County Middle School, and Warner Elementary School 
+for being named as National Blue Ribbon Schools by the South Dakota 
+Department of Education.
+  Howard High School is recognized for their outstanding achievement in 
+English and mathematics, Warner Elementary for their strong graduation 
+rate and attendance, and Jones County Middle School for supporting 
+students in overcoming barriers to succeed in English, mathematics, and 
+attendance.
+  Outstanding teachers and a supportive community are key to the 
+success of each of these Blue Ribbon Schools. It is paramount that we 
+continue to have exceptional teachers and schools for our kids and the 
+future of our Nation. Mr. Speaker, I ask the House of Representatives 
+to join me in congratulating these three exceptional schools in South 
+Dakota. I am confident they will continue making great contributions to 
+our future leaders.
+
+                          ____________________
+```

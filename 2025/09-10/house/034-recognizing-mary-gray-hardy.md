@@ -1,0 +1,43 @@
+---
+granule: CREC-2025-09-10-pt1-PgH4175-5
+date: 2025-09-10
+edition: CREC
+section: HOUSE
+page: H4175
+citation: 171 Cong. Rec. H4175
+---
+
+# RECOGNIZING MARY GRAY HARDY
+
+**Speaking:** Davis, Donald G. (D000230) [D-NC]
+
+```
+                      RECOGNIZING MARY GRAY HARDY
+
+  (Mr. DAVIS of North Carolina asked and was given permission to 
+address the House for 1 minute and to revise and extend his remarks.)
+  Mr. DAVIS of North Carolina. Mr. Speaker, I have exciting news to 
+share about a remarkable young woman, and her name is Mary Gray Hardy.
+  The election results are in, and Mary Gray was elected as Spring 
+Creek High School's student body president. Her victory is not just any 
+win here. Mary Gray may be one of the few, if not the only, students 
+with Down syndrome in our State serving as her school's student body 
+president.
+  Mary Gray's classmates elected her not because of her Down syndrome 
+but because they believe in her. I have been around Mary Gray, and she 
+is nothing but amazing.
+
+[[Page H4176]]
+
+  With the news of her election, it brought tears of happiness, and 
+they flowed freely.
+  Mr. Speaker, I congratulate Mary Gray--I am sorry--Madam President. 
+Actually, that has a special ring, President Hardy.
+  Mary Gray, keep working hard. Know that your Congressman is praying 
+for your successful presidency and for your school. Your story is part 
+of the American story.
+  Mr. Speaker, Mary Gray's community, her parents, and I are incredibly 
+proud of her.
+
+                          ____________________
+```

@@ -1,0 +1,62 @@
+---
+granule: CREC-2025-09-10-pt1-PgH4236
+date: 2025-09-10
+edition: CREC
+section: HOUSE
+page: H4236
+citation: 171 Cong. Rec. H4236
+---
+
+# REPORTS OF COMMITTEES ON PUBLIC BILLS AND RESOLUTIONS
+
+**Measures:** H.R. 909, H.R. 3400, H.R. 3767, H.R. 4446, H.R. 5100
+
+```
+         REPORTS OF COMMITTEES ON PUBLIC BILLS AND RESOLUTIONS
+
+  Under clause 2 of rule XIII, reports of committees were delivered to 
+the Clerk for printing and reference to the proper calendar, as 
+follows:
+
+       Mr. BOST: Committee on Veterans' Affairs. H.R. 3400. A bill 
+     to amend title 38, United States Code, to authorize the 
+     Secretary of Veterans Affairs to assign physicians of the 
+     Department of Veterans Affairs to temporarily serve as 
+     traveling physicians in the territories and possessions of 
+     the United States, and for other purposes; with an amendment 
+     (Rept. 119-263). Referred to the Committee of the Whole House 
+     on the state of the Union.
+       Mr. BOST: Committee on Veterans' Affairs. H.R. 3767. A bill 
+     to amend title 38, United States Code, to provide for a time 
+     frame for the employment in the Department of Veterans 
+     Affairs of participants in the Health Professionals 
+     Scholarship Program, and for other purposes; with an 
+     amendment (Rept. 119-264). Referred to the Committee of the 
+     Whole House on the state of the Union.
+       Mr. WILLIAMS of Texas: Committee on Small Business. H.R. 
+     5100. A bill to extend the SBIR and STTR programs, and for 
+     other purposes (Rept. 119-265 Pt. 1). Referred to the 
+     Committee of the Whole House on the state of the Union.
+       Mr. BOST: Committee on Veterans' Affairs. H.R. 4446. A bill 
+     to amend title 38, United States Code, to modify the 
+     conditions under which the Secretary of Veterans Affairs is 
+     required to redevelop the individualized vocational 
+     rehabilitation plan for a veteran, and for other purposes 
+     (Rept. 119-266). Referred to the Committee of the Whole House 
+     on the state of the Union.
+
+
+                         DISCHARGE OF COMMITTEE
+
+  Pursuant to clause 2 of rule XIII, the Committee on Science, Space, 
+and Technology discharged from further consideration. H.R. 5100 
+referred to the Committee of the Whole House on the state of the Union.
+
+
+                           CONSENSUS CALENDAR
+
+  Under clause 7 of rule XV, the following motion was filed with the 
+Clerk: Motion No. 1, September 10, 2025 by Mrs. Wagner on H.R. 909.
+
+                          ____________________
+```
