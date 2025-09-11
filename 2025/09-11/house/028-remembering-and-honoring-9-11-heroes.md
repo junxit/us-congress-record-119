@@ -1,0 +1,35 @@
+---
+granule: CREC-2025-09-11-pt1-PgH4252-2
+date: 2025-09-11
+edition: CREC
+section: HOUSE
+page: H4252
+citation: 171 Cong. Rec. H4252
+---
+
+# REMEMBERING AND HONORING 9/11 HEROES
+
+**Speaking:** Kean, Thomas H. (K000398) [R-NJ]
+
+```
+                  REMEMBERING AND HONORING 9/11 HEROES
+
+  (Mr. KEAN of New Jersey asked and was given permission to address the 
+House for 1 minute and to revise and extend his remarks.)
+  Mr. KEAN of New Jersey. Mr. Speaker, on September 11, 2001, our 
+Nation endured an unspeakable tragedy, and New Jersey carried a deep 
+share of that loss. Thousands of our neighbors left home for work that 
+morning and never returned.
+  Today, 24 years later, we honor those we lost, the first responders, 
+the everyday citizens who became heroes, and the families who continue 
+to carry this grief.
+  We also recognize the tens of thousands who still suffer from cancer 
+and other illnesses caused by that day's attacks and its aftermath. 
+Their sacrifice and their strength remind us of the very best of 
+America--our resilience, our compassion, and our unity.
+  We remember each and every one of them, and each generation will 
+ensure that they are never forgotten. May God bless their memory, their 
+families, and may God bless the United States of America.
+
+                          ____________________
+```
