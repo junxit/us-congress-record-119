@@ -1,0 +1,33 @@
+---
+granule: CREC-2025-09-15-pt1-PgH4301-4
+date: 2025-09-15
+edition: CREC
+section: HOUSE
+page: H4301
+citation: 171 Cong. Rec. H4301
+---
+
+# GIVE 'EM HELL WRAP-UP
+
+**Speaking:** Bynum, Janelle S. (B001326) [D-OR]
+
+```
+                         GIVE 'EM HELL WRAP-UP
+
+  (Ms. BYNUM asked and was given permission to address the House for 1 
+minute and to revise and extend her remarks.)
+  Ms. BYNUM. Mr. Speaker, I just wrapped up the Give 'Em Hell Tour, 10 
+townhalls over the last 3 months from every corner of my district. We 
+welcomed all Oregonians, and we were thankful to have community leaders 
+participating and local law enforcement keeping us safe.
+  From Bend to Portland, Silverton to Albany, over 42,000 people joined 
+and made their voices heard. Mr. Speaker, the message was clear: Quit 
+messing with our healthcare and start making life more affordable.
+  Mr. Speaker, hear me when I say this: We will not back down--not on 
+healthcare, not on costs, and not on making our voices heard.
+  My message to my fellow Oregonians is: I hear you, and I got you. 
+Even though the Give 'Em Hell Tour is over, there is always an open 
+line of communication between you and me.
+
+                          ____________________
+```

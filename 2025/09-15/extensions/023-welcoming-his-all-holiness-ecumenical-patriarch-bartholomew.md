@@ -1,0 +1,45 @@
+---
+granule: CREC-2025-09-15-pt1-PgE847-4
+date: 2025-09-15
+edition: CREC
+section: EXTENSIONS
+page: E847
+citation: 171 Cong. Rec. E847
+---
+
+# WELCOMING HIS ALL-HOLINESS ECUMENICAL PATRIARCH BARTHOLOMEW
+
+**Speaking:** Deluzio, Christopher R. (D000530) [D-PA]
+
+```
+      WELCOMING HIS ALL-HOLINESS ECUMENICAL PATRIARCH BARTHOLOMEW
+
+                                 ______
+                                 
+
+                      HON. CHRISTOPHER R. DELUZIO
+
+                            of pennsylvania
+
+                    in the house of representatives
+
+                       Monday, September 15, 2025
+
+  Mr. DELUZIO. Mr. Speaker, I rise today to welcome His All-Holiness 
+Ecumenical Patriarch Bartholomew to Washington, D.C.
+  As the Ecumenical Patriarch of Constantinople, His All-Holiness 
+Bartholomew, is the spiritual leader of 300 million Orthodox Christians 
+worldwide, including thousands living in Western Pennsylvania. Since 
+his election as the 270th Archbishop of Constantinople-New Rome in 
+1991, His All-Holiness has continuously worked to promote religious 
+freedoms, human rights, and stronger environmental protections.
+  Through the tireless work to promote international peace and 
+religious tolerance, His All-Holiness was awarded the Gold Medal of 
+Congress during his visit in 1997. During this current visit to the 
+United States, His All-Holiness will receive the Templeton Prize, the 
+prestigious award honoring contribution in religion and science.
+  I welcome His All-Holiness to Washington, D.C. and I congratulate him 
+on his great achievement.
+
+                          ____________________
+```

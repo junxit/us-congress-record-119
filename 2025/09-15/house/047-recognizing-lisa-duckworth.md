@@ -1,0 +1,40 @@
+---
+granule: CREC-2025-09-15-pt1-PgH4301-3
+date: 2025-09-15
+edition: CREC
+section: HOUSE
+page: H4301
+citation: 171 Cong. Rec. H4301
+---
+
+# RECOGNIZING LISA DUCKWORTH
+
+**Speaking:** Kennedy, Mike (K000403) [R-UT]
+
+```
+                              {time}  1910
+                       RECOGNIZING LISA DUCKWORTH
+
+  (Mr. KENNEDY of Utah asked and was given permission to address the 
+House for 1 minute and to revise and extend his remarks.)
+  Mr. KENNEDY of Utah. Mr. Speaker, today I rise and recognize a proud 
+U.S. Army veteran, Lisa Duckworth, who was recently named Military 
+Friendly's 2025 Veteran of the Year for the State of Utah. From her 
+role as a chaplaincy resources manager in the Army for close to 6 years 
+to her current role as Utah's veteran employment representative, Lisa 
+has demonstrated her outstanding devotion to education and empowerment.
+  As Utah's veteran employment representative, Lisa advocates for the 
+veteran and military community by working with organizations that 
+provide them with employment, training, and development opportunities.
+  This award given to Lisa recognizes the tangible difference she makes 
+every day for those in Utah's military community.
+  Her unwavering dedication to those who have served our country 
+reminds us that all public service continues beyond uniform, whether it 
+be through advocacy or community. She reminds us that when we support 
+our veterans and military members, we strengthen our communities.
+  I am proud to have Lisa Duckworth representing our beautiful State 
+and thank her for her continued service. I thank Lisa for all she does 
+to ensure a supportive environment for our veterans in Utah.
+
+                          ____________________
+```

@@ -1,0 +1,39 @@
+---
+granule: CREC-2025-09-15-pt1-PgH4272-3
+date: 2025-09-15
+edition: CREC
+section: HOUSE
+page: H4272
+citation: 171 Cong. Rec. H4272
+---
+
+# PRAYER
+
+```
+                                 PRAYER
+
+  The Chaplain, the Reverend Margaret Grun Kibben, offered the 
+following prayer:
+  God of justice and love, You have told us what is good, that we are 
+to love You, O Lord our God, with all our heart, with all our soul, and 
+with all our mind. This first and greatest commandment is written on 
+our hearts. This day and always may we follow Your law.
+  But help us to see that to fulfill this law, we are obliged to follow 
+with as much devotion the second law, to love our neighbor as 
+ourselves.
+  These days, when neighbors are often our opponents, when loving them 
+requires us to set aside our anger, when our own wounds bind our hearts 
+from reaching out, help us to realize that to follow Your law is to 
+reorient ourselves to what it means to love You.
+  As You have blessed us, sinners that we are, may we bless those who 
+have sinned against us. As we stand in debt to Your mercy, may we show 
+mercy to those who have taken something from us. And as we ourselves 
+have violated Your law, yet You love us. May we love even those 
+neighbors who have deeply offended us.
+  To Your laws we dedicate our lives, and in Your love may we live 
+them.
+  In Your merciful name we pray.
+  Amen.
+
+                          ____________________
+```

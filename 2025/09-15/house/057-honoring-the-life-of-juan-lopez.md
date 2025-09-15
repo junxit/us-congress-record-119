@@ -1,0 +1,52 @@
+---
+granule: CREC-2025-09-15-pt1-PgH4303
+date: 2025-09-15
+edition: CREC
+section: HOUSE
+page: H4303
+citation: 171 Cong. Rec. H4303
+---
+
+# HONORING THE LIFE OF JUAN LOPEZ
+
+**Speaking:** Ramirez, Delia C. (R000617) [D-IL]
+
+```
+                    HONORING THE LIFE OF JUAN LOPEZ
+
+  (Ms. RAMIREZ asked and was given permission to address the House for 
+1 minute and to revise and extend her remarks.)
+  Ms. RAMIREZ. Mr. Speaker, I rise to honor the life of Juan Lopez.
+  (English translation of the statement made in Spanish is as follows:)
+  I rise today to honor the life of Juan Lopez--a Honduran, a Catholic 
+leader, a human rights defender, an environmental activist--a year 
+after his brutal assassination.
+  Today, I declare we will not forget Juan Lopez. As Juan said, ``They 
+can tear me up, they can cut me down. But I'll always come back.''
+  Today, I honor all those who carry on Juan's legacy to live without 
+fear of powerful companies and corrupt officials stealing and polluting 
+their land and murdering courageous leaders for peacefully defending 
+natural resources that are rightfully theirs.
+  Today, I stand in solidarity with all those who loved Juan Lopez, who 
+continue his struggle, and who will not back down until we realize 
+justice for Juan, for Berta Caceres and for all those land defenders 
+murdered.
+  Me levanto hoy para honrar la vida de Juan Lopez--hondureno, lider 
+catolico defensor de los derechos humanos y activista ambiental--un ano 
+luego de su brutal asesinato.
+  Hoy, declaro que no olvidaremos a Juan Lopez. Como dijo: ``Pueden 
+destrozarme, pueden derribarme. Pero siempre volvere''.
+  Hoy, rindo homenaje a todos aquellos que continuan el legado de Juan, 
+viviendo sin temor a que empresas poderosas y funcionarios corruptos 
+les roben y contamine sus tierras y asesinen a lideres valientes por 
+defender pacificamente los recursos naturales que les pertenecen por 
+derecho.
+  Hoy, me solidarizo con todos aquellos que amaron a Juan Lopez, que 
+continuan su lucha y que no cederan hasta que se haga justicia para 
+Juan, para Berta Caceres y para todos los defensores de la tierra 
+asesinados.
+
+  The SPEAKER pro tempore. The gentlewoman will provide a translation.
+
+                          ____________________
+```
