@@ -1,0 +1,83 @@
+---
+granule: CREC-2025-09-16-pt1-PgE859-3
+date: 2025-09-16
+edition: CREC
+section: EXTENSIONS
+page: E859
+citation: 171 Cong. Rec. E859
+---
+
+# APPRECIATING CHARLIE KIRK
+
+**Speaking:** Wilson, Joe (W000795) [R-SC]
+
+```
+                       APPRECIATING CHARLIE KIRK
+
+                                 ______
+                                 
+
+                            HON. JOE WILSON
+
+                           of south carolina
+
+                    in the house of representatives
+
+                      Tuesday, September 16, 2025
+
+  Mr. WILSON of South Carolina. Mr. Speaker, with the abysmal 
+assassination of American Patriot Charlie Kirk on September 10, 2025, 
+this tragedy inspired South Carolina Poet Tony Pichoff of Hopkins, 
+South Carolina, with his heartfelt poem of Turning Point:
+
+                             Turning Point
+
+     On this twenty-fourth eve of 9/11,
+     One of Satan's minions
+     Sent your faithful soul to Heaven.
+     And in so doing,
+     Sowed the seeds
+     Of their undoing,
+     On the road to reckoning and ruin.
+     In this epic battle
+     For the very soul of America,
+     Never yielding
+     To the terror of
+     Those who seek to silence, you,
+     The disarming bearer of
+     God's good news.
+     Wielding intellectual weapons
+     Of well reasoned wisdom
+     With calm confidence
+     And articulate precision
+     That did mortally threaten
+     To undo the institution
+     Insidiously dedicated
+     To undermining our constitution.
+     An unholy breeding ground
+     Of hatred and division
+     Infecting our very youth
+     With lies disguised as truth.
+     Administered via ``higher learning's''
+     Spiritual circumcision.
+     In obedience to God,
+     Upon these battle grounds
+     You bravely trod,
+     And did not do so in vain.
+     For even in your very death,
+     You delivered victory again!
+     And just as the attack on 9/11
+     Our national resolve did anoint,
+     Your MAGA martyrdom
+     Marks THIS historic turning point.
+     And when 45 became 47,
+     Just as certainly as then we knew,
+     The tide continues to turn in our favor
+     Now confirmed by you.
+     As challenging as it may be,
+     While we mourn we must also see,
+     That it is through those like you
+     We shall remain the indomitable land of the Free.
+
+                          ____________________
+```

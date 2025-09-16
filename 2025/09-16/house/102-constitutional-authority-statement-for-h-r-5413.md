@@ -1,0 +1,20 @@
+---
+granule: CREC-2025-09-16-pt1-PgH4365
+date: 2025-09-16
+edition: CREC
+section: HOUSE
+page: H4365
+citation: 171 Cong. Rec. H4365
+---
+
+# Constitutional Authority Statement for H.R. 5413
+
+**Measures:** H.R. 5413
+
+```
+           By Ms. TENNEY:
+       H.R. 5413.
+       Congress has the power to enact this legislation pursuant 
+     to the following:
+       Article I
+```

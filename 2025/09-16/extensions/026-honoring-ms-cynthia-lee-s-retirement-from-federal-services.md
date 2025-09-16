@@ -1,0 +1,55 @@
+---
+granule: CREC-2025-09-16-pt1-PgE862-2
+date: 2025-09-16
+edition: CREC
+section: EXTENSIONS
+page: E862
+citation: 171 Cong. Rec. E862
+---
+
+# HONORING MS. CYNTHIA LEE'S RETIREMENT FROM FEDERAL SERVICES
+
+**Speaking:** Vindman, Eugene Simon (V000138) [D-VA]
+
+```
+      HONORING MS. CYNTHIA LEE'S RETIREMENT FROM FEDERAL SERVICES
+
+                                 ______
+                                 
+
+                       HON. EUGENE SIMON VINDMAN
+
+                              of virginia
+
+                    in the house of representatives
+
+                      Tuesday, September 16, 2025
+
+  Mr. VINDMAN. Mr. Speaker, I rise today to celebrate Ms. Cynthia Lee 
+for her remarkable 44 years of federal service with the Department of 
+the Army.
+  Ms. Lee began her journey at Virginia State University where she 
+earned a Bachelor of Science in Business Administration. She then went 
+on to pursue a Master of Science in Contract and Acquisition Management 
+from the Florida Institute of Technology, laying the academic 
+foundation for a career that would span more than 4 decades.
+  At the age of 18, Ms. Lee began her career as a student hire. From 
+those early days, she demonstrated exceptional leadership, rising 
+through the ranks to become a well-respected leader.
+  Over the course of her career, Ms. Lee's contributions have left a 
+lasting impact on both her peers and the entire federal workforce in 
+her role as Program Manager of Small Business Programs within the 
+Department of the Army.
+  In recognition for her exceptional performance, Ms. Lee has received 
+numerous awards that reflect her commitment and dedication. As Resource 
+Management Chief, she was commended for her service as Acting Deputy 
+Commander from May 2021 to January 2022, a role in which she displayed 
+exceptional professionalism.
+  I want to personally thank Ms. Lee for her decades of service. Mr. 
+Speaker, I ask my colleagues to join me in honoring Ms. Lee for her 44 
+years of outstanding federal service. We are deeply grateful for her 
+dedication, her leadership, and her invaluable contributions to our 
+Nation.
+
+                          ____________________
+```

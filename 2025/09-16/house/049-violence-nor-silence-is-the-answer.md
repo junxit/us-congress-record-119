@@ -1,0 +1,40 @@
+---
+granule: CREC-2025-09-16-pt1-PgH4348-5
+date: 2025-09-16
+edition: CREC
+section: HOUSE
+page: H4348
+citation: 171 Cong. Rec. H4348
+---
+
+# VIOLENCE NOR SILENCE IS THE ANSWER
+
+**Speaking:** Stansbury, Melanie A. (S001218) [D-NM]
+
+```
+                   VIOLENCE NOR SILENCE IS THE ANSWER
+
+  (Ms. STANSBURY asked and was given permission to address the House 
+for 1 minute and to revise and extend her remarks.)
+  Ms. STANSBURY. Mr. Speaker, violence is never the answer, but neither 
+is silence.
+  We must reject political violence in all of its forms and push back 
+against all who would seek to stoke further violence, division, and 
+fear amongst us. In fact, the very foundation of our democracy is built 
+on the idea that the voices of our people are our most powerful tool, 
+exercised at the ballot box, the debate podium, and in our communities. 
+That is how we come together as a nation to form a more perfect Union.
+  Indeed, the very concept of democracy was forged in that crucible, 
+that a government by the people and for the people is exercised through 
+the fellowship of debate.
+  Let us join in that fellowship to see our fellow Americans as 
+brothers and sisters, as neighbors and friends, even when we disagree. 
+Yet, let this not become a moment to silence debate or silence dissent 
+or silence the truth or those of conscience who work to hold our 
+leaders accountable and right the wrongs of an unjust world. That is 
+how history will remember us: those who stood, those who spoke, and 
+those who fought to protect our democracy and bend the arc of history 
+toward justice.
+
+                          ____________________
+```
