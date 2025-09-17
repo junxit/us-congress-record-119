@@ -1,0 +1,40 @@
+---
+granule: CREC-2025-09-17-pt1-PgS6684-2
+date: 2025-09-17
+edition: CREC
+section: SENATE
+page: S6684
+citation: 171 Cong. Rec. S6684
+---
+
+# WELCOMING ECUMENICAL PATRIARCH BARTHOLOMEW
+
+**Speaking:** Kelly, Mark (K000377) [D-AZ]
+
+```
+               WELCOMING ECUMENICAL PATRIARCH BARTHOLOMEW
+
+  Mr. KELLY. Mr. President, I rise today to welcome His All-Holiness 
+Ecumenical Patriarch Bartholomew to Washington, DC. He is the spiritual 
+leader of Orthodox Christianity, the second largest Christian Church in 
+the world, with more than 250 million members worldwide and over 1 
+million here in the United States.
+  His All-Holiness is the 269th successor of the Apostle Andrew and the 
+longest serving Ecumenical Patriarch in history. He is recognized 
+across the globe for his leadership in promoting peace, advancing 
+religious freedom, and speaking out on environmental stewardship. He 
+has been honored with the Congressional Gold Medal and will receive the 
+Templeton Prize during this visit.
+  In Arizona, the Greek Orthodox community is an important part of our 
+State's civic and cultural life. Parishes across the State serve as 
+places of worship, education, and service, and they host traditions 
+that strengthen families and connect generations. Their contributions 
+are an important part of Arizona's diversity and character.
+  I am proud to join Orthodox Christians in Arizona and across the 
+country in welcoming His All-Holiness to the United States and to 
+Congress. His visit is a point of pride for many Arizonans and a 
+reminder of the shared values of faith, service, and community that 
+strengthen our country.
+
+                          ____________________
+```

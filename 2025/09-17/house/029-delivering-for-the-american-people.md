@@ -1,0 +1,35 @@
+---
+granule: CREC-2025-09-17-pt1-PgH4375-3
+date: 2025-09-17
+edition: CREC
+section: HOUSE
+page: H4375
+citation: 171 Cong. Rec. H4375
+---
+
+# DELIVERING FOR THE AMERICAN PEOPLE
+
+**Speaking:** Walkinshaw, James R. (W000831) [D-VA]
+
+```
+                   DELIVERING FOR THE AMERICAN PEOPLE
+
+  (Mr. WALKINSHAW asked and was given permission to address the House 
+for 1 minute and to revise and extend his remarks.)
+  Mr. WALKINSHAW. Mr. Speaker, across America, hardworking people are 
+struggling to pay their bills. This includes housing, groceries, 
+healthcare, and more. Hundreds of thousands of jobs have been cut due 
+to the DOGE policies. Our economy is sputtering, and the tariffs are 
+jacking up prices.
+  The so-called big, beautiful bill will decimate Medicaid, taking 
+healthcare from seniors, children, and working families, while driving 
+up premiums.
+  The President has told the majority not to negotiate with our side to 
+keep the government open. The budget that has been introduced will 
+drive up everyday costs, including healthcare premiums.
+  Mr. Speaker, it is time for us to come together and deliver what the 
+American people need, which is access to affordable healthcare and a 
+government that is funded and functional.
+
+                          ____________________
+```
