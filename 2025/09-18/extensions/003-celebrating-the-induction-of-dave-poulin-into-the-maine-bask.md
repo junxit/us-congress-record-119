@@ -1,0 +1,55 @@
+---
+granule: CREC-2025-09-18-pt1-PgE875-4
+date: 2025-09-18
+edition: CREC
+section: EXTENSIONS
+page: E875
+citation: 171 Cong. Rec. E875
+---
+
+# CELEBRATING THE INDUCTION OF DAVE POULIN INTO THE MAINE BASKETBALL HALL OF FAME
+
+**Speaking:** Golden, Jared F. (G000592) [D-ME]
+
+```
+CELEBRATING THE INDUCTION OF DAVE POULIN INTO THE MAINE BASKETBALL HALL 
+                                OF FAME
+
+                                 ______
+                                 
+
+                          HON. JARED F. GOLDEN
+
+                                of maine
+
+                    in the house of representatives
+
+                      Thursday, September 18, 2025
+
+  Mr. GOLDEN of Maine. Mr. Speaker, in small-town gyms across Maine, 
+winter evenings are marked by two familiar things: the sound of 
+sneakers on hardwood and the voice of a coach emphasizing the 
+fundamentals. For twenty-two years in Winthrop, Maine that voice 
+belonged to Coach Dave Poulin.
+  A local celebrity in his own right, Coach Poulin taught generations 
+of young men the value of working hard, and working together, to bring 
+out the best in one another--on and off the court. In addition to 
+coaching hundreds, he also taught social studies to thousands at 
+Winthrop High School from 1973 to 2019. Coach Poulin's induction into 
+the Maine Basketball Hall of Fame is a testament to that public 
+service.
+  On the court, Coach Poulin's teams were reliable in a way that is 
+rare in high school sports: twenty-one tourney runs in twenty-two 
+seasons and multiple state titles to show for it. That record speaks to 
+skill, but it speaks even more to what Coach Poulin inspired in his 
+athletes--a sense of responsibility to one another, to their community, 
+and ultimately to something greater than themselves.
+  That's why I know this is as much an honor for Coach Poulin as it is 
+for the community of Winthrop. His former players, students, and 
+colleagues are a credit to him--and it is my hope that they have been 
+able to celebrate this great achievement alongside Coach Poulin.
+  Mr. Speaker, please join me in honoring public servant, leader, and 
+Maine's newest Hall of Famer, Coach Dave Poulin.
+
+                          ____________________
+```

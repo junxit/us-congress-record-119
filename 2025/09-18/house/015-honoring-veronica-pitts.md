@@ -1,0 +1,64 @@
+---
+granule: CREC-2025-09-18-pt1-PgH4418-2
+date: 2025-09-18
+edition: CREC
+section: HOUSE
+page: H4418
+citation: 171 Cong. Rec. H4418
+---
+
+# HONORING VERONICA PITTS
+
+**Speaking:** Sewell, Terri A. (S001185) [D-AL]
+
+```
+                        HONORING VERONICA PITTS
+
+  (Ms. Sewell of Alabama was recognized to address the House for 5 
+minutes.)
+  Ms. SEWELL. Mr. Speaker, I rise to congratulate an extraordinary 
+educator from my hometown of Selma, Alabama, Ms. Veronica Pitts, of 
+Selma High School, for being named the National Civics Teacher of the 
+Year by the Bill of Rights Institute.
+  Each year, only one teacher in the Nation is selected to receive this 
+prestigious honor, and I am thrilled that, this year, the teacher hails 
+from Alabama's Seventh Congressional District.
+  Ms. Pitts exemplifies the very best of what it means to be an 
+educator and a public servant. With a deep passion for education and 
+tireless commitment to her students, she has dedicated her career to 
+teaching not just government and economics but the importance of civic 
+engagement and community leadership.
+  Through her engaging lessons, Ms. Pitts has helped her students 
+understand that democracy is not a spectator sport. It requires 
+informed, empowered, and active participants. Her classroom is a place 
+where students don't just learn about the government. They learn about 
+their role in shaping it.
+  As the daughter of two lifelong educators who worked at Selma High 
+School for over 36 years, I know firsthand the transformational power 
+of good education, especially good education in Selma. I have seen what 
+our students can do and achieve with the help of amazing teachers and 
+wonderful role models.
+  Teachers like Ms. Pitts do more than prepare young people for tests. 
+They
+
+[[Page H4419]]
+
+prepare them for life. They nurture curiosity, instill core values, and 
+light the spark of leadership that will carry students far beyond the 
+school walls.
+  Located less than 2 miles up the road from the historic Edmund Pettus 
+Bridge, it is only befitting that from Selma High School would emerge a 
+teacher who is building the next generation of civic leaders, 
+activists, and change agents.
+  After all, it was the people of Alabama's Seventh Congressional 
+District that brought us the Civil Rights Act of 1964 and the Voting 
+Rights Act of 1965. These were ordinary Americans who dared to make 
+this Nation live up to its highest ideals of equality and justice for 
+all.
+  Mr. Speaker, on behalf of Alabama's Seventh Congressional District, I 
+ask my colleagues to join me in congratulating Veronica Pitts. We are 
+all so proud of her, and we are grateful for the work that she does 
+each and every day to create opportunities for our students to thrive.
+
+                          ____________________
+```
