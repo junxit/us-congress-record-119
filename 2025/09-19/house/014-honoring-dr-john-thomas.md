@@ -1,0 +1,39 @@
+---
+granule: CREC-2025-09-19-pt1-PgH4461
+date: 2025-09-19
+edition: CREC
+section: HOUSE
+page: H4461
+citation: 171 Cong. Rec. H4461
+---
+
+# HONORING DR. JOHN THOMAS
+
+**Speaking:** Arrington, Jodey C. (A000375) [R-TX]
+
+```
+                        HONORING DR. JOHN THOMAS
+
+  (Mr. ARRINGTON asked and was given permission to address the House 
+for 1 minute.)
+  Mr. ARRINGTON. Mr. Speaker, I rise today to honor the life and legacy 
+of my dear friend and brother in Christ, Dr. John Thomas, a devoted 
+husband, father, and community leader, who dedicated his life to 
+serving his neighbors in west Texas and those around the world.
+  Dr. Thomas was a skilled surgeon, but his true calling was healing 
+hearts and lifting souls.
+  In 1999, he founded Operation HOPE, a nonprofit that deployed teams 
+of healthcare professionals to underserved areas across the globe.
+  His faith was his compass, Mr. Speaker, as he lived the words of 
+Jesus to love thy neighbor and to do unto the least of these through 
+his tireless medical missions, disaster relief efforts, and unwavering 
+advocacy for the sanctity of life.
+  For Keri and Andrew and the entire Thomas family, our hearts and 
+prayers are with them.
+  I can assure you that Dr. Thomas' light will continue to shine 
+through the countless lives he touched and especially and most of all 
+in his wife, Keri, and in his beloved son, Andrew. May God comfort 
+them.
+
+                          ____________________
+```

@@ -1,0 +1,44 @@
+---
+granule: CREC-2025-09-19-pt1-PgH4461-4
+date: 2025-09-19
+edition: CREC
+section: HOUSE
+page: H4461
+citation: 171 Cong. Rec. H4461
+---
+
+# CELEBRATING EL SALVADOR'S INDEPENDENCE DAY
+
+**Speaking:** Subramanyam, Suhas (S001230) [D-VA]
+
+```
+                              {time}  0920
+               CELEBRATING EL SALVADOR'S INDEPENDENCE DAY
+
+  (Mr. SUBRAMANYAM asked and was given permission to address the House 
+for 1 minute and to revise and extend his remarks.)
+  Mr. SUBRAMANYAM. Mr. Speaker, I rise to celebrate El Salvador's 
+Independence Day, a day marking the end of Spanish colonial rule 204 
+years ago.
+  This week, El Salvadorans across the globe celebrated with music, 
+parades, and cultural traditions. I celebrated with food. I am honored 
+to represent a vibrant and growing El Salvadoran community in Virginia.
+  ``God, Union, Liberty''; ``Dios, Union, Libertad.''
+  Happy Independence Day to El Salvador.
+
+
+     Expressing Concern Over Violence Against Minority Communities
+
+  Mr. SUBRAMANYAM. Mr. Speaker, I rise today to express deep concern 
+over the recent reports of violence against minority communities, 
+including Hindus in Bangladesh.
+  In the aftermath of Bangladesh's change in government, we have heard, 
+including from my constituents, accounts of looting and vandalism of 
+homes and damage to religious sites like temples.
+  These acts represent a pattern of violence against communities around 
+the world. While we continue to work toward stability in places like 
+Bangladesh, we simply have to acknowledge what is going on and not turn 
+a blind eye to it.
+
+                          ____________________
+```
