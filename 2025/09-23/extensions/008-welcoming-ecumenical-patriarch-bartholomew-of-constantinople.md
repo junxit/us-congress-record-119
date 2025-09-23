@@ -1,0 +1,50 @@
+---
+granule: CREC-2025-09-23-pt1-PgE888-3
+date: 2025-09-23
+edition: CREC
+section: EXTENSIONS
+page: E888
+citation: 171 Cong. Rec. E888
+---
+
+# WELCOMING ECUMENICAL PATRIARCH BARTHOLOMEW OF CONSTANTINOPLE TO WASHINGTON, D.C.
+
+**Speaking:** Rulli, Michael A. (R000619) [R-OH]
+
+```
+    WELCOMING ECUMENICAL PATRIARCH BARTHOLOMEW OF CONSTANTINOPLE TO 
+                            WASHINGTON, D.C.
+
+                                  _____
+                                 
+
+                         HON. MICHAEL A. RULLI
+
+                                of ohio
+
+                    in the house of representatives
+
+                      Tuesday, September 23, 2025
+
+  Mr. RULLI. Mr. Speaker, I rise today to welcome Ecumenical Patriarch 
+Bartholomew of Constantinople to Washington, D.C. A true beacon of 
+peace, Ecumenical Patriarch Bartholomew leads 250 million Orthodox 
+Christians.
+  Elected in October 1991, Ecumenical Patriarch Bartholomew has 
+continuously shown his desire for peace, even in the face of attacks 
+and persecution. He has championed international peace conferences, 
+bringing together Christians, Muslims, and Jews for the purpose of 
+alliance and understanding.
+  His efforts across multiple realms have been recognized by the United 
+States Congress, the United Nations, and the European Union. His 
+influence extends beyond the Orthodox Christian community and has been 
+instrumental in promoting global unity and harmony.
+  Ecumenical Patriarch Bartholomew continues to stand as a symbol of 
+hope. I am very pleased to welcome the Ecumenical Patriarch to 
+Washington, D.C. as he meets with President Trump.
+  Invite my colleagues in the United States House of Representatives to 
+join me in welcoming Ecumenical Patriarch Bartholomew to Washington, 
+D.C.
+
+                          ____________________
+```

@@ -1,0 +1,47 @@
+---
+granule: CREC-2025-09-23-pt1-PgE888
+date: 2025-09-23
+edition: CREC
+section: EXTENSIONS
+page: E888
+citation: 171 Cong. Rec. E888
+---
+
+# RECOGNIZING FIRE CHIEF DAVID RAMOS
+
+**Speaking:** Pettersen, Brittany (P000620) [D-CO]
+
+```
+                   RECOGNIZING FIRE CHIEF DAVID RAMOS
+
+                                  _____
+                                 
+
+                        HON. BRITTANY PETTERSEN
+
+                              of colorado
+
+                    in the house of representatives
+
+                      Tuesday, September 23, 2025
+
+  Ms. PETTERSEN. Mr. Speaker, I rise today to congratulate Fire Chief 
+David Ramos of Broomfield, Colorado, on his retirement after 41 years 
+of service with the North Metro Fire Rescue District.
+  Chief Ramos joined the North Metro Fire Rescue District in 1984, and 
+his many years of exemplary service earned him the position of Fire 
+Chief. While in this position of leadership, he did a commendable job 
+modernizing and expanding North Metro Fire, and he improved 
+collaboration for emergency services in surrounding communities.
+  Chief Ramos honorably served this community for decades through 
+numerous challenges, and he has been widely regarded as a mentor and a 
+friend to many. Throughout his career, he was a visionary leader who 
+always put people first, and his lifesaving leadership across Colorado 
+will not be forgotten.
+  On behalf of the people of Colorado's 7th Congressional District, it 
+is my honor to congratulate Fire Chief David Ramos for his more than 
+four decades of service with the North Metro Fire Rescue District and 
+sincerely thank him for his contributions to the Colorado community.
+
+                          ____________________
+```
