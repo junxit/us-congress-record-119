@@ -1,0 +1,58 @@
+---
+granule: CREC-2025-09-26-pt1-PgE901-3
+date: 2025-09-26
+edition: CREC
+section: EXTENSIONS
+page: E901
+citation: 171 Cong. Rec. E901
+---
+
+# HONORING GENO SHELTON'S 40TH ANNIVERSARY IN ENTERTAINMENT
+
+**Speaking:** Carson, Andre (C001072) [D-IN]
+
+```
+       HONORING GENO SHELTON'S 40TH ANNIVERSARY IN ENTERTAINMENT
+
+                                 ______
+                                 
+
+                           HON. ANDRE CARSON
+
+                               of indiana
+
+                    in the house of representatives
+
+                       Friday, September 26, 2025
+
+  Mr. CARSON. Mr. Speaker, I rise today to honor the remarkable career 
+of Geno Shelton, a pioneering promoter, radio personality, and cultural 
+visionary who has shaped the sound and soul of Indianapolis for 40 
+years.
+  Since arriving in Indianapolis in 1985 to join the team at WTLC-FM, 
+Geno Shelton has been a driving force behind the city's live music and 
+comedy scenes. From his early days spinning records on the airwaves to 
+launching some of our city's most memorable concert series, Geno has 
+used his platform to spotlight talent, uplift local artists, and bring 
+world-class entertainment to Indianapolis.
+  His contributions are as historic as they are heartfelt. He hosted 
+the now-legendary ``Hots'' dance parties at the Walker Theatre, brought 
+jazz to the Vogue, and opened doors for Black comedians through the 
+``Hip Hop Comedy Shop'' series. Over the years, his stages have 
+featured some of the biggest names in music and comedy. Yet Geno has 
+always made it a priority to showcase homegrown talent and create 
+meaningful opportunities for local artists to shine. His approach has 
+not only launched careers, but also strengthened the creative fabric of 
+our city.
+  This year, Geno celebrates his 40th anniversary with a two-night 
+showcase at Clowes Memorial Hall, featuring both Funk Fest and Comedy 
+Jam during Circle City Classic weekend. Rather than simply marking a 
+personal milestone, he is using this moment to offer a heartfelt thank-
+you to the community that has supported him every step of the way.
+  Mr. Speaker, I ask my colleagues to join me in recognizing Geno 
+Shelton for his outstanding contributions to arts and culture in 
+Indianapolis. His vision, perseverance, and generosity have enriched 
+our city and empowered generations of entertainers.
+
+                          ____________________
+```

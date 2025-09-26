@@ -1,0 +1,62 @@
+---
+granule: CREC-2025-09-26-pt1-PgH4499-3
+date: 2025-09-26
+edition: CREC
+section: HOUSE
+page: H4499
+citation: 171 Cong. Rec. H4499
+---
+
+# REPORTS OF COMMITTEES ON PUBLIC BILLS AND RESOLUTIONS
+
+**Measures:** H.R. 659, H.R. 1458, H.R. 2605, H.R. 3492, H.R. 4057, H.R. 4070
+
+```
+         REPORTS OF COMMITTEES ON PUBLIC BILLS AND RESOLUTIONS
+
+  Under clause 2 of rule XIII, reports of committees were delivered to 
+the Clerk for printing and reference to the proper calendar, as 
+follows:
+
+       Mr. BOST: Committee on Veterans' Affairs. H.R. 1458. A bill 
+     to amend title 38, United States Code, to modify the criteria 
+     for approval of certain independent study programs for 
+     purposes of the educational assistance programs of the 
+     Department of Veterans Affairs, with an amendment (Rept. 119-
+     308). Referred to the Committee of the Whole House on the 
+     state of the Union.
+       Mr. BOST: Committee on Veterans' Affairs. H.R. 659. A bill 
+     to amend title 38, United States Code, to direct the Chairman 
+     of the Board of Veterans' Appeals to give priority to 
+     individuals with certain professional experience in 
+     recommending such individuals to serve as members of the 
+     Board of Veterans' Appeals, and for other purposes (Rept. 
+     119-309). Referred to the Committee of the Whole House on the 
+     state of the Union.
+       Mr. BOST: Committee on Veterans' Affairs. H.R. 2605. A bill 
+     to require the Secretary of Veterans Affairs to award grants 
+     to nonprofit organizations to assist such organizations in 
+     carrying out programs to provide service dogs to eligible 
+     veterans, and for other purposes; with an amendment (Rept. 
+     119-310). Referred to the Committee of the Whole House on the 
+     state of the Union.
+       Mr. JORDAN: Committee on the Judiciary. H.R. 3492. A bill 
+     to amend section 116 of title 18, United States Code, with 
+     respect to genital and bodily mutilation and chemical 
+     castration of minors, with an amendment (Rept. 119-311). 
+     Referred to the Committee of the Whole House on the state of 
+     the Union.
+       Mr. GARBARINO: Committee on Homeland Security. H.R. 4057. A 
+     bill to establish a pilot program on home kenneling of 
+     canines for U.S. Customs and Border Protections Office of 
+     Field Operations, and for other purposes (Rept. 119-312). 
+     Referred to the Committee of the Whole House on the state of 
+     the Union.
+       Mr. GARBARINO: Committee on Homeland Security. H.R. 4070. A 
+     bill to require a homeland security border threat assessment 
+     on Tren de Aragua and associated strategic plan, and for 
+     other purposes (Rept. 119-313). Referred to the Committee of 
+     the Whole House on the state of the Union.
+
+                          ____________________
+```

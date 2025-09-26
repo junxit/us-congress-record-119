@@ -1,0 +1,54 @@
+---
+granule: CREC-2025-09-26-pt1-PgE900-3
+date: 2025-09-26
+edition: CREC
+section: EXTENSIONS
+page: E900
+citation: 171 Cong. Rec. E900
+---
+
+# HONORING NATHAN CURLEE
+
+**Speaking:** Edwards, Chuck (E000246) [R-NC]
+
+```
+                         HONORING NATHAN CURLEE
+
+                                 ______
+                                 
+
+                           HON. CHUCK EDWARDS
+
+                           of north carolina
+
+                    in the house of representatives
+
+                       Friday, September 26, 2025
+
+  Mr. EDWARDS. Mr. Speaker, I rise today to honor the selfless service 
+of line apprentice, Nathan Curlee of Buncombe County.
+  As a line apprentice, Mr. Curlee is typically responsible for 
+assisting linemen in the installation, maintenance, and repair of 
+electrical power systems; however, after the devastating damage left in 
+the wake of Hurricane Helene, Mr. Curlee took on additional 
+responsibilities to restore power to Western North Carolina. Mr. 
+Curlee, in collaboration with Journey Lineman Matt Martinka, became 
+aware that the Veteran Affairs (VA) Hospital of Asheville needed 
+restored power. Mr. Curlee and Mr. Martinka hiked 1.5 miles through the 
+mountainous terrain of Western North Carolina to analyze the problems 
+and restore power to the VA Hospital.
+  Mr. Curlee viewed restoring power to the VA Hospital as his way of 
+giving back to the veterans for their years of service to our country. 
+The men hiked through the dangerous terrain, remaining determined to 
+restore power to the veterans of Buncombe County. In addition to Nathan 
+Curlee's electrical expertise, his integrity, service, and humble 
+attitude deserve the recognition and applause of Western North Carolina 
+and the United States.
+  On behalf of all of Western North Carolina, I would like to take a 
+moment to sincerely thank Nathan Curlee for his service to Duke Energy 
+customers. I especially commend his exceptional efforts in restoring 
+power to the veterans of Asheville, North Carolina in the aftermath of 
+Hurricane Helene.
+
+                          ____________________
+```
