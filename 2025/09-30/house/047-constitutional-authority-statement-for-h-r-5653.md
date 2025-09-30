@@ -1,0 +1,20 @@
+---
+granule: CREC-2025-09-30-pt1-PgH4510-19
+date: 2025-09-30
+edition: CREC
+section: HOUSE
+page: H4510
+citation: 171 Cong. Rec. H4510
+---
+
+# Constitutional Authority Statement for H.R. 5653
+
+**Measures:** H.R. 5653
+
+```
+           By Mr. NORCROSS:
+       H.R. 5653.
+       Congress has the power to enact this legislation pursuant 
+     to the following:
+       Necessary and Proper Clausew (Art. 1, Sec. 8, Cl. 18)
+```

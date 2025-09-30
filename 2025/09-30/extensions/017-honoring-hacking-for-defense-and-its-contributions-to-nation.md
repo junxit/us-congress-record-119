@@ -1,0 +1,58 @@
+---
+granule: CREC-2025-09-30-pt1-PgE915-3
+date: 2025-09-30
+edition: CREC
+section: EXTENSIONS
+page: E915
+citation: 171 Cong. Rec. E915
+---
+
+# HONORING HACKING FOR DEFENSE AND ITS CONTRIBUTIONS TO NATIONAL SECURITY
+
+**Speaking:** Liccardo, Sam T. (L000607) [D-CA]
+
+```
+HONORING HACKING FOR DEFENSE AND ITS CONTRIBUTIONS TO NATIONAL SECURITY
+
+                                  _____
+                                 
+
+                          HON. SAM T. LICCARDO
+
+                             of california
+
+                    in the house of representatives
+
+                      Tuesday, September 30, 2025
+
+  Mr. LICCARDO. Mr. Speaker, I rise to recognize and celebrate the 10th 
+anniversary of the Hacking for Defense (H4D) program and its 
+significant and unique contributions to our national security.
+  Launched in 2015, H4D is a for-credit course that has been taken by 
+over 4,000 students in the U.S., addressed more than 1,000 national 
+security problems, and led to the formation of 71 companies that have 
+raised more than $365 million in private capital.
+  The H4D program provides an invaluable experience for students, 
+enabling them to engage directly with real-world problems, interact 
+with key government stakeholders, gain rare exposure to defense and 
+intelligence missions, and develop skills in problem validation, 
+customer discovery, and rapid prototyping.
+  For that, I would like to commend the students, faculty, university 
+partners, government sponsors, and program organizers for their 
+dedication and contributions to national security. That work has 
+contributed to the program growing from a pilot at Stanford to 67 
+universities in the U.S., 24 in the U.K., and 2 in Australia.
+  H4D plays a critical role in preparing the next generation of 
+entrepreneurial talent to address some of our Nation's toughest 
+problems, like tracking hypersonic threats, securing U.S. dominance in 
+critical minerals, AI-powered troubleshooting for military mechanics, 
+and improving the quality, security, and resilience of communications 
+for special operators. These are just a few of the ways that the 
+solutions developed by H4D student teams benefit service members and 
+the defense innovation ecosystem as a whole.
+  I would like to thank all those involved in the H4D program for their 
+continued public service and their efforts to advance U.S. national 
+security.
+
+                          ____________________
+```
