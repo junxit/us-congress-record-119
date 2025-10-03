@@ -1,0 +1,47 @@
+---
+granule: CREC-2025-10-03-pt1-PgE929-2
+date: 2025-10-03
+edition: CREC
+section: EXTENSIONS
+page: E929
+citation: 171 Cong. Rec. E929
+---
+
+# REMEMBERING NORLAN GUZMAN-FUENTES
+
+**Speaking:** Veasey, Marc A. (V000131) [D-TX]
+
+```
+                   REMEMBERING NORLAN GUZMAN-FUENTES
+
+                                  _____
+                                 
+
+                          HON. MARC A. VEASEY
+
+                                of texas
+
+                    in the house of representatives
+
+                        Friday, October 3, 2025
+
+  Mr. VEASEY. Mr. Speaker, I am profoundly saddened by the 
+heartbreaking loss of Norlan Guzman-Fuentes, whose life was tragically 
+taken in the recent attack at the Dallas ICE facility. His death is a 
+sobering reminder of the human toll that violence leaves behind and the 
+fragility of life when communities are confronted with such senseless 
+acts.
+  At a time like this, my deepest condolences go out to Mr. Guzman-
+Fuentes's wife, Berenice Prieto, loved ones, and all who knew him. 
+Their grief is immeasurable, and they deserve the comfort, compassion, 
+and solidarity of their community as they endure this painful loss. My 
+prayers are with them, and I hope they find strength in the love and 
+memories they shared with Norlan.
+  As a community, we must stand together to reject violence and embrace 
+peace and humanity. Every life lost diminishes us all, and we honor 
+Norlan's memory by recommitting ourselves to building a safer, more 
+compassionate future where gun violence must end. May his family be 
+surrounded by support and healing in the difficult days ahead.
+
+                          ____________________
+```

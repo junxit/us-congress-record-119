@@ -1,0 +1,59 @@
+---
+granule: CREC-2025-10-03-pt1-PgE924-2
+date: 2025-10-03
+edition: CREC
+section: EXTENSIONS
+page: E924
+citation: 171 Cong. Rec. E924
+---
+
+# HONORING THE 120TH ANNIVERSARY OF THE SAINT GEORGE GREEK ORTHODOX CHURCH
+
+**Speaking:** Pappas, Chris (P000614) [D-NH]
+
+```
+   HONORING THE 120TH ANNIVERSARY OF THE SAINT GEORGE GREEK ORTHODOX 
+                                 CHURCH
+
+                                  _____
+                                 
+
+                           HON. CHRIS PAPPAS
+
+                            of new hampshire
+
+                    in the house of representatives
+
+                        Friday, October 3, 2025
+
+  Mr. PAPPAS. Mr. Speaker, I rise today to honor the 120th anniversary 
+of the founding of Saint George Greek Orthodox Church.
+  For over a century, St. George has been at the heart of New 
+Hampshire's Greek Orthodox community and has served as a spiritual and 
+cultural hub for generations of New Hampshire families. St. George has 
+witnessed every season of life for its parishioners and has remained a 
+constant presence for generations.
+  My own family has been part of this community and this parish for 
+years. I am grateful for those who have taught me so much about my 
+Greek heritage and culture. These are lessons that I carry with me each 
+and every day.
+  Consecrated as a cathedral in 1970, St. George took on a new role 
+within the Greek Orthodox faith, and it continues to serve as a vital 
+connection to the larger Orthodox community. In addition to serving the 
+spiritual needs of parishioners, St. George has been dedicated to 
+enriching the lives of so many in the Greater Manchester area through 
+youth programs, community events, Sunday and Greek School, basketball, 
+and more.
+  For much of its history, St. George has opened its doors for 
+festivals like Glendi and welcomed thousands of visitors of all faiths 
+and backgrounds to enjoy authentic Greek food, culture, and history. 
+The Anagennesis Ladies Society also remains devoted to taking on 
+religious, cultural, and humanitarian efforts that are at the heart of 
+the Church.
+  On behalf of the constituents of New Hampshire's First Congressional 
+District, I congratulate the Saint George Greek Orthodox Church on 
+achieving this incredible milestone. I thank them for the work done by 
+so many to make Manchester and New Hampshire a better place.
+
+                          ____________________
+```
