@@ -1,0 +1,55 @@
+---
+granule: CREC-2025-10-08-pt1-PgE940-2
+date: 2025-10-08
+edition: CREC
+section: EXTENSIONS
+page: E940
+citation: 171 Cong. Rec. E940
+---
+
+# HONORING THE RETIREMENT OF BRUCE HARTMANN
+
+**Speaking:** Burchett, Tim (B001309) [R-TN]
+
+```
+               HONORING THE RETIREMENT OF BRUCE HARTMANN
+
+                                 ______
+                                 
+
+                           HON. TIM BURCHETT
+
+                              of tennessee
+
+                    in the house of representatives
+
+                       Wednesday, October 8, 2025
+
+  Mr. BURCHETT. Mr. Speaker, I rise today in honor of my friend Bruce 
+Hartmann in celebration of his amazing career. Bruce is a Knoxville 
+native who served in multiple management roles at the Knoxville News 
+Sentinel for twenty-six years, before serving as Senior Vice President 
+and Chief Community Relations Officer at the University of Tennessee 
+Medical Center.
+  Bruce's career began in Baltimore at The Baltimore Sun, followed by 
+stints in Massachusetts at The Lowell Sun and in New Hampshire at The 
+Nashua Telegraph. Finally settling down in Knoxville, he began work at 
+E.W. Scripps Company, becoming the youngest President and Publisher of 
+the Company at 36 years old. He oversaw the construction of the new 
+Knoxville News Sentinel headquarters in 2001 and has been an integral 
+part of the success of the News Sentinel.
+  Most recently, Bruce has served the Knoxville community at the 
+University of Tennessee Medical Center. He has helped the hospital 
+secure more than 60 million dollars in grants for the advancement of 
+patient care. He also helped establish the Fentress County Emergency 
+Department and was a true pioneer of rural healthcare in East 
+Tennessee.
+  Perhaps more importantly, Bruce has a wonderful wife, Tami, and 
+together they have raised an amazing family. Tami and Bruce have been 
+married for 44 years with three children and eight grandchildren. I am 
+thankful for Bruce, his commitment to East Tennessee, and his advocacy 
+for the University of Tennessee. We wish him all the best in 
+retirement.
+
+                          ____________________
+```

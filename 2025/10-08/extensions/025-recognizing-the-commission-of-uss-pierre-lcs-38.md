@@ -1,0 +1,47 @@
+---
+granule: CREC-2025-10-08-pt1-PgE944-3
+date: 2025-10-08
+edition: CREC
+section: EXTENSIONS
+page: E944
+citation: 171 Cong. Rec. E944
+---
+
+# RECOGNIZING THE COMMISSION OF USS PIERRE (LCS 38)
+
+**Speaking:** Johnson, Dusty (J000301) [R-SD]
+
+```
+           RECOGNIZING THE COMMISSION OF USS PIERRE (LCS 38)
+
+                                 ______
+                                 
+
+                           HON. DUSTY JOHNSON
+
+                            of south dakota
+
+                    in the house of representatives
+
+                       Wednesday, October 8, 2025
+
+  Mr. JOHNSON of South Dakota. Mr. Speaker, I rise today to recognize 
+the officers and crew of the USS Pierre (LCS 38) as they prepare for 
+the commissioning of their ship, the 19th and final Independence-
+variant Littoral Combat Ship of the United States Navy.
+  The USS Pierre is the second Navy vessel to bear the name of South 
+Dakota's capital city. Littoral combat ships are fast, agile, and 
+mission-focused, built to counter 21st-century coastal threats while 
+ensuring security and supporting joint operations across the globe. The 
+men and women who serve aboard the USS Pierre will carry forward this 
+mission with dedication and distinction.
+  For the people of South Dakota, it is a great honor to see the name 
+of our capital city once again sail under the flag of the United States 
+Navy. This ship and her crew will continue a proud legacy of service 
+that began with the first USS Pierre during World War II.
+  Mr. Speaker, I ask my colleagues to join me in congratulating the 
+officers and crew of the newly commissioned USS Pierre (LCS 38). We 
+honor their commitment and thank them for their service.
+
+                          ____________________
+```
