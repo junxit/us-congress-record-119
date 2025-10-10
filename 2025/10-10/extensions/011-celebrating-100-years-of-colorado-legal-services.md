@@ -1,0 +1,54 @@
+---
+granule: CREC-2025-10-10-pt1-PgE951-2
+date: 2025-10-10
+edition: CREC
+section: EXTENSIONS
+page: E951
+citation: 171 Cong. Rec. E951
+---
+
+# CELEBRATING 100 YEARS OF COLORADO LEGAL SERVICES
+
+**Speaking:** DeGette, Diana (D000197) [D-CO]
+
+```
+            CELEBRATING 100 YEARS OF COLORADO LEGAL SERVICES
+
+                                  _____
+                                 
+
+                           HON. DIANA DeGETTE
+
+                              of colorado
+
+                    in the house of representatives
+
+                        Friday, October 10, 2025
+
+  Ms. DeGETTE. Mr. Speaker, I rise today to recognize Colorado Legal 
+Services on its 100th anniversary and to honor its enduring commitment 
+to justice for all Coloradans.
+  Founded as the Legal Aid Society of Denver in February 1925, Colorado 
+Legal Services has been a lifeline for low-income individuals and 
+seniors in every county across our state--providing free, high-quality 
+civil legal assistance to those who need it most. As a former trial 
+attorney, I understand how critical legal representation can be when 
+everything is at stake.
+  Whether it's helping someone keep their home, secure child support, 
+access health care, or find safety from abuse, Colorado Legal Services 
+delivers life-changing support that strengthens families and 
+communities across our state.
+  Their work extends far beyond the courtroom--offering clients the 
+stability, emotional support, and community resources they need to move 
+forward.
+  In August of this year alone, Colorado Legal Services opened nearly a 
+thousand new cases to help Coloradans facing housing insecurity, 
+domestic violence, and other urgent challenges. That's the kind of 
+quiet, vital work that keeps our communities strong and resilient.
+  I want to congratulate Colorado Legal Services on a century of 
+unwavering service and express my deepest gratitude to its staff, 
+volunteers, and supporters for their tireless dedication to equal 
+justice under the law.
+
+                          ____________________
+```
