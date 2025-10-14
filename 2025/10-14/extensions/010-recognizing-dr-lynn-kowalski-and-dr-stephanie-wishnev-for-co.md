@@ -1,0 +1,49 @@
+---
+granule: CREC-2025-10-14-pt1-PgE957-2
+date: 2025-10-14
+edition: CREC
+section: EXTENSIONS
+page: E957
+citation: 171 Cong. Rec. E957
+---
+
+# RECOGNIZING DR. LYNN KOWALSKI AND DR. STEPHANIE WISHNEV FOR COMPLETING THE TRANSAMERICA ROUTE
+
+**Speaking:** Lee, Susie (L000590) [D-NV]
+
+```
+RECOGNIZING DR. LYNN KOWALSKI AND DR. STEPHANIE WISHNEV FOR COMPLETING 
+                         THE TRANSAMERICA ROUTE
+
+                                  _____
+                                 
+
+                             HON. SUSIE LEE
+
+                               of nevada
+
+                    in the house of representatives
+
+                       Tuesday, October 14, 2025
+
+  Ms. LEE of Nevada. Mr. Speaker, I rise today to recognize two 
+extraordinary women, Dr. Lynn Kowalski and Dr. Stephanie Wishnev, for 
+completing one of the TransAmerica routes. It is one of the most 
+challenging cycling endeavors in the world, spanning from Astoria, 
+Oregon to Yorktown, Virginia.
+  As an avid cyclist myself, I know the grit and determination it takes 
+to complete even a single long-distance ride. What these two women 
+accomplished is nothing short of remarkable. Over the course of five 
+years, they rode coast-to-coast, fully self-supported, conquering steep 
+mountain climbs, unpredictable weather, and thousands of miles of open 
+road.
+  Their journey not only tested their endurance but also embodied the 
+very spirit of perseverance and adventure that defines our Nation. I 
+commend Dr. Kowalski and Dr. Wishnev for their incredible achievement 
+and for inspiring all of us who strive to push past limits and see what 
+lies on the other side.
+  Mr. Speaker, I ask my colleagues to join me in recognizing their 
+achievement.
+
+                          ____________________
+```
