@@ -1,0 +1,56 @@
+---
+granule: CREC-2025-10-17-pt1-PgE962-2
+date: 2025-10-17
+edition: CREC
+section: EXTENSIONS
+page: E962
+citation: 171 Cong. Rec. E962
+---
+
+# HONORING JENNIFER SEVILLA KORN AS A 2025 SHE LEADS AMERICA CHRISTIAN WOMAN OF DISTINCTION
+
+```
+ HONORING JENNIFER SEVILLA KORN AS A 2025 SHE LEADS AMERICA CHRISTIAN 
+                          WOMAN OF DISTINCTION
+
+                                 ______
+                                 
+
+                          HON. LISA C. McCLAIN
+
+                              of michigan
+
+                    in the house of representatives
+
+                        Friday, October 17, 2025
+
+  Mrs. McClain. Mr. Speaker, I rise today to recognize Jennifer S. Korn 
+as a 2025 She Leads America Young Christian Woman of Distinction award 
+recipient.
+  A native of East Los Angeles and a proud Marine Corps spouse, 
+Jennifer is a national conservative leader, policy expert, and 
+political strategist whose faith has guided her throughout a 
+distinguished 20-year career in public service. She helped elect and 
+advise two U.S. Presidents and two U.S. Attorneys General while leading 
+national grassroots and communications efforts that achieved historic 
+gains among minority, veteran, and faith voters.
+  Appointed by President Trump as Deputy Assistant to the President and 
+Director of the newly created White House Faith Office, Jennifer works 
+to protect religious freedom, ensuring Americans of all faiths have a 
+voice in their government. She advises the President on matters of 
+faith at home and abroad. Previously, she co-founded the National Faith 
+Advisory Board, the largest faith coalition in the United States, 
+representing leaders from every state, denomination, and ethnic 
+background.
+  Her earlier career includes serving as Deputy Political Director at 
+the Republican National Committee, Director of Hispanic and Women's 
+Affairs in the George W. Bush White House, and Senior Advisor to two 
+U.S. Attorneys General at the Department of Justice. As a She Leads 
+America honoree, Jennifer believes leadership is a calling to serve 
+others with both truth and compassion, empowering individuals, 
+strengthening families, and preserving freedom for future generations.
+  Mr. Speaker, I ask my colleagues to join me in congratulating this 
+outstanding woman of distinction.
+
+                          ____________________
+```

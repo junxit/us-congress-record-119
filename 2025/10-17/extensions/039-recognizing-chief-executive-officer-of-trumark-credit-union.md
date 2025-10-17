@@ -1,0 +1,56 @@
+---
+granule: CREC-2025-10-17-pt1-PgE972-3
+date: 2025-10-17
+edition: CREC
+section: EXTENSIONS
+page: E972
+citation: 171 Cong. Rec. E972
+---
+
+# RECOGNIZING CHIEF EXECUTIVE OFFICER OF TRUMARK CREDIT UNION, MS. KELLY BOTTI
+
+**Speaking:** Fitzpatrick, Brian K. (F000466) [R-PA]
+
+```
+RECOGNIZING CHIEF EXECUTIVE OFFICER OF TRUMARK CREDIT UNION, MS. KELLY 
+                                 BOTTI
+
+                                 ______
+                                 
+
+                       HON. BRIAN K. FITZPATRICK
+
+                            of pennsylvania
+
+                    in the house of representatives
+
+                        Friday, October 17, 2025
+
+  Mr. FITZPATRICK. Mr. Speaker, I rise today to recognize and celebrate 
+Ms. Kelly Botti, a respected leader, advocate, and CEO of Trumark 
+Credit Union, whose birthday on November 3rd provides a fitting 
+occasion to honor her outstanding service and dedication to our 
+communities.
+  Based in the Greater Philadelphia region, Ms. Kelly Botti has built a 
+distinguished career marked by integrity, compassion, and an unwavering 
+commitment to financial empowerment. As CEO of Trumark Credit Union, 
+she has championed innovative approaches to serve the underserved and 
+underbanked, expanding access to fair, transparent, and affordable 
+financial services for families and small businesses alike. Her 
+leadership reflects the very best of what community driven institutions 
+can achieve when guided by a mission of service over profit.
+  Kelly has also been a steadfast advocate for the credit union 
+movement on both state and national levels. Her thoughtful engagement 
+with policymakers like myself rooted in collaboration, expertise, and 
+genuine care for people, has advanced the cause of financial inclusion 
+in the First Congressional District of Pennsylvania and across the 
+entire Commonwealth and beyond. Through her advocacy, countless 
+individuals have gained new opportunities to achieve financial 
+stability, education, and independence.
+  Mr. Speaker, I ask my colleagues in the United States House of 
+Representatives, to help me extend my heartfelt congratulations to Ms. 
+Kelly Botti for her achievements, her leadership, and her continuing 
+efforts to make a meaningful difference in the lives of others.
+
+                          ____________________
+```
