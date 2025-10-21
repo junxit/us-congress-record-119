@@ -1,0 +1,38 @@
+---
+granule: CREC-2025-10-21-pt1-PgH4545-3
+date: 2025-10-21
+edition: CREC
+section: HOUSE
+page: H4545
+citation: 171 Cong. Rec. H4545
+---
+
+# PRAYER
+
+```
+                                 PRAYER
+
+  The Chaplain, the Reverend Margaret Grun Kibben, offered the 
+following prayer:
+  Lord, when it comes down to it, all of us want to live well and act 
+wisely. Though we insist on devising our own plans, brainstorming our 
+own options, too often we come up short, for only Your purpose 
+prevails.
+  In these days, may we listen for Your inimitable counsel. Silence the 
+noise of argument. Reveal the truth in debate. Humble the proud and 
+give wisdom to those who are willing to reason.
+  We only make it worse when we try to fix things without Your 
+guidance. We endure the backlash of our own anger when we fail to let 
+Your mercy preside over our hearts.
+  God, our judge and ruler, we accept Your correction. Grow wisdom in 
+our hearts and clear our heads to receive Your instruction, that we may 
+live to revere You and to yield to Your divine will.
+  From this posture of humility and faithfulness, may Your design for 
+this day and for our work be fulfilled.
+  Now to You, the only one who is able to keep us from falling, the 
+only God our Savior, may we bring glory and honor. In the strength 
+found in Your name, we pray.
+  Amen.
+
+                          ____________________
+```

@@ -1,0 +1,44 @@
+---
+granule: CREC-2025-10-21-pt1-PgS7172
+date: 2025-10-21
+edition: CREC
+section: SENATE
+page: S7172
+citation: 171 Cong. Rec. S7172
+---
+
+# BREAST CANCER AWARENESS MONTH
+
+**Speaking:** Grassley, Chuck (G000386) [R-IA]
+
+```
+                     BREAST CANCER AWARENESS MONTH
+
+  Mr. GRASSLEY. Mr. President, October is Breast Cancer Awareness 
+month. October is the month that we bring attention to the plight of 
+those who have had breast cancer and educate others on the importance 
+of early detection.
+  My wife Barbara is a 38-year breast cancer survivor. We are fortunate 
+that her breast cancer was detected very early. We know with certainty 
+that early detection can dramatically increase a woman's chance of 
+defeating breast cancer.
+  A regular mammogram is the best way to find breast cancer early. As 
+screening and treatment have improved, we have also learned more about 
+the accuracy of mammogram tests. However, if you have what is called 
+dense breast tissue, it can make it harder for the radiologist reading 
+the mammogram to see the breast cancer. So last year, the Food and Drug 
+Administration started requiring that all mammogram reports sent to 
+patients must include breast density, which should be described as 
+either ``not dense'' or ``dense.''
+  If someone is notified that they have dense breasts, they should talk 
+to their healthcare provider to discuss the next steps, as an MRI or 
+ultrasound may be recommended to confirm the mammogram reading.
+  This new yet simple requirement by the Food and Drug Administration 
+will better inform patients and help them advocate for themselves.
+  Early detection was critical for my wife. Today, patients will be 
+better informed when they do get checked. As my wife often says: Just 
+keep on getting checked.
+  I yield the floor.
+
+                          ____________________
+```
