@@ -1,0 +1,61 @@
+---
+granule: CREC-2025-10-31-pt1-PgE1024-2
+date: 2025-10-31
+edition: CREC
+section: EXTENSIONS
+page: E1024
+citation: 171 Cong. Rec. E1024
+---
+
+# HONORING MICHELE MYHAND AS ONE OF CALIFORNIA'S 8TH CONGRESSIONAL DISTRICT'S WOMEN OF THE YEAR
+
+**Speaking:** Garamendi, John (G000559) [D-CA]
+
+```
+   HONORING MICHELE MYHAND AS ONE OF CALIFORNIA'S 8TH CONGRESSIONAL 
+                      DISTRICT'S WOMEN OF THE YEAR
+
+                                  _____
+                                 
+
+                          HON. JOHN GARAMENDI
+
+                             of california
+
+                    in the house of representatives
+
+                        Friday, October 31, 2025
+
+  Mr. GARAMENDI. Mr. Speaker, I rise today to recognize the 
+contributions of Ms. Michele Myhand, as she is honored as one of 
+California's 8th Congressional District's Women of the Year for her 
+exceptional leadership and service to the 60th Operations Support 
+Squadron at Travis Air Force Base. Michele exemplifies the dedication 
+and integrity that define our Nation's finest public servants. 
+Following a distinguished career in the United States Army, Michele 
+chose to continue serving in a civilian capacity at Travis Air Force 
+Base, demonstrating her deep commitment to country, community, and 
+family. As Office Manager, Unit Program Coordinator, and Government 
+Purchasing Authority, she ensures the seamless operation of her 435-
+member squadron by overseeing travel, logistics, and compliance 
+programs with precision and care. Her leadership and professionalism 
+earned her recognition as the 2024 Civilian of the Year. Michele's 
+impact extends far beyond administrative excellence. She welcomes every 
+new squadron member with warmth, fostering a true sense of belonging 
+through the monthly receptions she organizes. She is also a trusted 
+mentor, guiding Airmen through personal challenges with compassion and 
+integrity. Her mentorship has transformed lives, helping struggling 
+service members regain confidence and purpose. Beyond the base, Michele 
+builds bridges between military families and the broader Fairfield and 
+Solano County communities by connecting newcomers with local resources, 
+schools, and volunteer opportunities. Her efforts strengthen the bond 
+between Travis Air Force Base and the surrounding community. Michele's 
+dedication, leadership, and selfless service inspire all who know her. 
+She has made a lasting difference in the lives of her colleagues, her 
+community, and the men and women who serve our Nation. On behalf of the 
+people of California's 8th Congressional District, it is my pleasure to 
+honor and recognize Michele Myhand for her invaluable contributions to 
+our community.
+
+                          ____________________
+```

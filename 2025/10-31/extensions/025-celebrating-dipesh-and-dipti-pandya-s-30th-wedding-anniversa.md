@@ -1,0 +1,65 @@
+---
+granule: CREC-2025-10-31-pt1-PgE1025-4
+date: 2025-10-31
+edition: CREC
+section: EXTENSIONS
+page: E1025
+citation: 171 Cong. Rec. E1025
+---
+
+# CELEBRATING DIPESH AND DIPTI PANDYA'S 30TH WEDDING ANNIVERSARY
+
+**Speaking:** Fitzpatrick, Brian K. (F000466) [R-PA]
+
+```
+     CELEBRATING DIPESH AND DIPTI PANDYA'S 30TH WEDDING ANNIVERSARY
+
+                                  _____
+                                 
+
+                       HON. BRIAN K. FITZPATRICK
+
+                            of pennsylvania
+
+                    in the house of representatives
+
+                        Friday, October 31, 2025
+
+  Mr. FITZPATRICK. Mr. Speaker, I rise today to recognize and honor two 
+of my remarkable constituents of Pennsylvania's 1st Congressional 
+District, Dipesh and Dipti Pandya, as they celebrate their 30th wedding 
+anniversary.
+  On this joyous occasion, we celebrate not only thirty years of 
+marriage, but thirty years of partnership, commitment, and steadfast 
+love. Dipesh and Dipti's marriage is a profound example of what it 
+means to build a life rooted
+
+[[Page E1026]]
+
+in respect, compassion, and shared purpose. Over three decades, they 
+faced challenges with grace, celebrated triumphs with gratitude, and 
+walked side-by-side through every season of life.
+  Dipesh and Dipti are the embodiment of the American story. They are 
+dedicated parents, faithful friends, and generous members of our 
+community. Their unwavering work ethic and perseverance reflect values 
+that have strengthened both their family and those around them. Through 
+their kindness, hospitality, and warmth of spirit, they have touched 
+countless lives.
+  Together they have built a home filled with love, laughter, and 
+understanding. Their marriage stands as a testament to the enduring 
+power of devotion, communication, and, above all, unconditional love. 
+They are living proof that the most meaningful legacy we leave is not 
+measured in material achievements, but in the love we share and the 
+lives we uplift.
+  As they celebrate this incredible milestone surrounded by family, 
+friends, and loved ones, we honor their commitment to one another and 
+to the values that make our community strong. May the next chapter of 
+their journey be blessed with continued health, happiness, and 
+cherished memories.
+  Mr. Speaker, on behalf of the United States House of Representatives 
+and the people of Pennsylvania's 1st District, I extend my warmest 
+congratulations to Dipesh and Dipti Pandya on their 30th wedding 
+anniversary. May their love continue to inspire all of us.
+
+                          ____________________
+```
