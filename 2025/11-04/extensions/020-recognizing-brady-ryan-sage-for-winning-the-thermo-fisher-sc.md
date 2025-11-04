@@ -1,0 +1,46 @@
+---
+granule: CREC-2025-11-04-pt1-PgE1036
+date: 2025-11-04
+edition: CREC
+section: EXTENSIONS
+page: E1036
+citation: 171 Cong. Rec. E1036
+---
+
+# RECOGNIZING BRADY RYAN SAGE FOR WINNING THE THERMO FISHER SCIENTIFIC JUNIOR INNOVATORS CHALLENGE ENGINEERING AWARD
+
+**Speaking:** Johnson, Dusty (J000301) [R-SD]
+
+```
+ RECOGNIZING BRADY RYAN SAGE FOR WINNING THE THERMO FISHER SCIENTIFIC 
+             JUNIOR INNOVATORS CHALLENGE ENGINEERING AWARD
+
+                                 ______
+                                 
+
+                           HON. DUSTY JOHNSON
+
+                            of south dakota
+
+                    in the house of representatives
+
+                       Tuesday, November 4, 2025
+
+  Mr. JOHNSON of South Dakota. Mr. Speaker, I rise today to recognize 
+Brady Ryan Sage of Rapid City, South Dakota, who earned First Place in 
+Engineering at the Thermo Fisher Scientific Junior Innovators 
+Challenge, the Nation's premier middle school science, technology, 
+engineering, and math (STEM) competition.
+  Brady's project, ``Optimizing Driver Flight Distance and Accuracy'', 
+demonstrated exceptional creativity and engineering skills, applying 
+physics and design principles to improve golf driver performance. 
+Selected from nearly 2,000 applicants nationwide, Brady's achievement 
+reflects his dedication to science and the strength of STEM education 
+in South Dakota.
+  I am proud to recognize Brady for his remarkable accomplishment and 
+for representing South Dakota with excellence. His hard work and 
+ingenuity serve as an inspiration to students across our state and our 
+Nation.
+
+                          ____________________
+```

@@ -1,0 +1,54 @@
+---
+granule: CREC-2025-11-04-pt1-PgE1035-2
+date: 2025-11-04
+edition: CREC
+section: EXTENSIONS
+page: E1035
+citation: 171 Cong. Rec. E1035
+---
+
+# RECOGNIZING THE GRAND OPENING OF THE ENDEAVORS HEALTH & WELLNESS CENTER IN EL PASO
+
+**Speaking:** Escobar, Veronica (E000299) [D-TX]
+
+```
+RECOGNIZING THE GRAND OPENING OF THE ENDEAVORS HEALTH & WELLNESS CENTER 
+                               IN EL PASO
+
+                                 ______
+                                 
+
+                         HON. VERONICA ESCOBAR
+
+                                of texas
+
+                    in the house of representatives
+
+                       Tuesday, November 4, 2025
+
+  Ms. ESCOBAR. Mr. Speaker, I rise today to recognize and celebrate the 
+grand opening of the Endeavors Health & Wellness Center in El Paso, 
+Texas. Endeavors is a distinguished Texas-based nonprofit organization 
+dedicated to serving veterans, active-duty service members, first 
+responders, caregivers, and their families through comprehensive 
+housing, behavioral health care, wellness, and community support 
+services.
+  Endeavors has demonstrated commitment to the El Paso community 
+through the establishment of the Endeavors Health & Wellness Center, a 
+centrally located facility designed to expand access to integrated, 
+whole-person care that complements and strengthens existing local, 
+state, and federal resources.
+  The Endeavors Health & Wellness Center in El Paso represents a 
+significant investment in community care, strengthening El Paso's 
+continuum of services through increased access to critical behavioral 
+health resources, collaboration with local and national partners, and 
+the promotion of dignity, resilience, and recovery among those who have 
+served and sacrificed for others. This community-focused asset will 
+undoubtedly help thousands of El Pasoans in need of support. I am 
+grateful for Endeavors' commitment to care for veterans, active-duty 
+service members, first responders, caregivers, and their families and 
+look forward to continuing to collaborate for the greater good of so 
+many.
+
+                          ____________________
+```

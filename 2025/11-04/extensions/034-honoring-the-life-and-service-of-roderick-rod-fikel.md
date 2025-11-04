@@ -1,0 +1,52 @@
+---
+granule: CREC-2025-11-04-pt1-PgE1040
+date: 2025-11-04
+edition: CREC
+section: EXTENSIONS
+page: E1040
+citation: 171 Cong. Rec. E1040
+---
+
+# HONORING THE LIFE AND SERVICE OF RODERICK "ROD" FIKEL
+
+**Speaking:** Walberg, Tim (W000798) [R-MI]
+
+```
+        HONORING THE LIFE AND SERVICE OF RODERICK ``ROD'' FIKEL
+
+                                 ______
+                                 
+
+                            HON. TIM WALBERG
+
+                              of michigan
+
+                    in the house of representatives
+
+                       Tuesday, November 4, 2025
+
+  Mr. WALBERG. Mr. Speaker, it is my special privilege to recognize 
+Roderick ``Rod'' Fikel of Coldwater, Michigan, as the Veteran of the 
+Month for November for his distinguished service to our community.
+  Rod served as an MOS 25V Combat Documentation Specialist in the U.S. 
+Army from 1989 to 1996 and was deployed to both Kuwait and Iraq. For 
+his dedicated service to our country, he was awarded the Southwest Asia 
+Service Medal, the Army Commendation Medal, the Army Good Conduct 
+Medal, the National Defense Service Medal, and the Valorous Unit Award. 
+He has also received numerous skill badges.
+  Since returning, Rod has become a cornerstone of the veteran 
+community, actively participating as a dedicated member of the American 
+Legion. Additionally, when the Branch County Department of Veterans 
+Affairs sought to assemble veterans for a community committee, Rod was 
+the first person to respond and attended every meeting. During these 
+gatherings, Rod offered support and advice to his peers and became 
+well-known for his positivity and sense of humor.
+  Rod has also shown remarkable perseverance in the face of adversity. 
+Despite being diagnosed with cancer, he has remained strong and in high 
+spirits, continuing to offer support to the veteran community.
+  Rod is truly an inspiration to many, and I express my profound 
+gratitude for his significant and lasting contributions to our great 
+Nation.
+
+                          ____________________
+```

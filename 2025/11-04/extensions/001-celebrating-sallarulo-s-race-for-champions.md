@@ -1,0 +1,58 @@
+---
+granule: CREC-2025-11-04-pt1-PgE1031-2
+date: 2025-11-04
+edition: CREC
+section: EXTENSIONS
+page: E1031
+citation: 171 Cong. Rec. E1031
+---
+
+# CELEBRATING SALLARULO'S RACE FOR CHAMPIONS
+
+**Speaking:** Wasserman Schultz, Debbie (W000797) [D-FL]
+
+```
+               CELEBRATING SALLARULO'S RACE FOR CHAMPIONS
+
+                                 ______
+                                 
+
+                     HON. DEBBIE WASSERMAN SCHULTZ
+
+                               of florida
+
+                    in the house of representatives
+
+                       Tuesday, November 4, 2025
+
+  Ms. WASSERMAN SCHULTZ. Mr. Speaker, it is with great pleasure that I 
+rise to recognize the tremendous work and 20th Anniversary of 
+Sallarulo's Race for Champions, an annual, inclusive 5K run/walk that 
+takes place in my Congressional district.
+  Sallarulo's Race for Champions was founded by Paul Sallarulo, whose 
+relationship with Special Olympics began more than 45 years ago as a 
+volunteer in high school. Paul's efforts and relationship deepened when 
+his son, Patrick, began participating as an athlete at age eight. 
+Patrick is now 30 years old, and for more than two decades has trained 
+and competed in swimming, bocce ball, bowling and skiing. Patrick and 
+his sister Samantha serve each year as Race for Champions team 
+captains.
+  This event celebrates respect and compassion for all by providing an 
+opportunity for the entire community to walk or run alongside Special 
+Olympics Florida athletes and each year, grows in size, visibility and 
+fundraising capacity thanks to Paul's leadership and connection to the 
+community.
+  The funds raised by Sallarulo's Race for Champions benefit Special 
+Olympics Florida and help serve more than 6,000 athletes and their 
+families each year. This includes year-round sports training and 
+competition in a variety of 19 sports, health services, inclusive 
+programming and leadership training. Through the transformative power 
+and joy of sport, Special Olympics Florida and Sallarulo's Race for 
+Champions help athletes live richer, fuller lives.
+  I am grateful to Paul Sallarulo, his family, and the team at 
+Sallurulo's Race for Champions for improving the lives of thousands in 
+our community. I congratulate them on 20 meaningful years and look 
+forward to many more exciting years to come.
+
+                          ____________________
+```
