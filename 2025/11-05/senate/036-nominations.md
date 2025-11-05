@@ -1,0 +1,72 @@
+---
+granule: CREC-2025-11-05-pt1-PgS7929-6
+date: 2025-11-05
+edition: CREC
+section: SENATE
+page: S7929
+citation: 171 Cong. Rec. S7929
+---
+
+# NOMINATIONS
+
+```
+                              NOMINATIONS
+
+  Executive nominations received by the Senate:
+
+
+                       DEPARTMENT OF THE INTERIOR
+
+        STEVAN PEARCE, OF NEW MEXICO, TO BE DIRECTOR OF THE BUREAU 
+     OF LAND MANAGEMENT, VICE TRACY STONE-MANNING, RESIGNED.
+
+
+                     NUCLEAR REGULATORY COMMISSION
+
+        DOUGLAS WEAVER, OF MARYLAND, TO BE A MEMBER OF THE NUCLEAR 
+     REGULATORY COMMISSION FOR THE REMAINDER OF THE TERM EXPIRING 
+     JUNE 30, 2026, VICE ANNIE CAPUTO.
+
+
+                         DEPARTMENT OF JUSTICE
+
+        DANIEL E. BURROWS, OF COLORADO, TO BE AN ASSISTANT 
+     ATTORNEY GENERAL, VICE AARON REITZ, RESIGNED.
+
+
+                              IN THE ARMY
+
+       THE FOLLOWING NAMED OFFICER FOR APPOINTMENT IN THE RESERVE 
+     OF THE ARMY TO THE GRADE INDICATED UNDER TITLE 10, U.S.C., 
+     SECTION 12203:
+
+                          To be major general
+
+BRIG. GEN. RICHARD W. CORNER II
+       THE FOLLOWING NAMED OFFICERS FOR APPOINTMENT IN THE RESERVE 
+     OF THE ARMY TO THE GRADE INDICATED UNDER TITLE 10, U.S.C., 
+     SECTION 12203:
+
+                          To be major general
+
+BRIG. GEN. STEPHANIE Q. HOWARD
+BRIG. GEN. JENNIFER A. MARRASTHOST
+
+
+                              IN THE NAVY
+
+       THE FOLLOWING NAMED OFFICER FOR APPOINTMENT IN THE UNITED 
+     STATES NAVY TO THE GRADE INDICATED UNDER TITLE 10, U.S.C., 
+     SECTION 624:
+
+[[Page S7930]]
+
+  
+
+
+                           To be rear admiral
+
+REAR ADM. (LH) BENJAMIN G. REYNOLDS
+
+                          ____________________
+```
