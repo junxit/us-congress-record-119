@@ -1,0 +1,58 @@
+---
+granule: CREC-2025-11-07-pt1-PgE1044
+date: 2025-11-07
+edition: CREC
+section: EXTENSIONS
+page: E1044
+citation: 171 Cong. Rec. E1044
+---
+
+# CONGRATULATING FIRE CHIEF GINA SWEAT ON HER RETIREMENT
+
+**Speaking:** Cohen, Steve (C001068) [D-TN]
+
+```
+         CONGRATULATING FIRE CHIEF GINA SWEAT ON HER RETIREMENT
+
+                                  _____
+                                 
+
+                            HON. STEVE COHEN
+
+                              of tennessee
+
+                    in the house of representatives
+
+                        Friday, November 7, 2025
+
+  Mr. COHEN. Mr. Speaker, I rise today to commend the outstanding 
+public service performed by Memphis' first female Fire Chief, Gina 
+Sweat, who retired last month after more than 33 years with the 
+department. Ms. Sweat joined the Memphis Fire Department in May of 
+1992, one of two women in her recruiting class of 84, after receiving a 
+bachelor of business administration in 1988 from Freed-Hardeman 
+University in Henderson, Tennessee, where she played collegiate 
+basketball. After joining the department, she continued her education 
+by receiving a bachelor's of professional studies in fire 
+administration in 2000 and a master's of professional studies in 
+strategic leadership in 2013 from the University of Memphis. She rose 
+through the ranks as a driver, lieutenant, battalion chief and division 
+chief, deputy chief of logistics and deputy director until she was 
+appointed Fire Chief by former Mayor Jim Strickland on January 1, 2016. 
+In interviews through the years Chief Sweat said she learned to ``over-
+prepare'' for each new assignment. As chief, she undertook initiatives 
+to improve the Insurance Services Office, made multi-million dollar 
+renovations of the 911 Communications Center, the Office of Emergency 
+Management building and built three new state-of-the-art fire stations 
+and a new fire administration building. Chief Sweat's tenure also saw 
+the department expand into responding to medical emergencies. It also 
+included the Covid epidemic period when the fire department was the 
+lead local agency conducting vaccinations. In my contacts with Chief 
+Sweat, she was always pleasant. She was easy to communicate with and 
+she certainly had a professional demeanor, which inspired my belief 
+that the Fire Department was in good hands. Sweat had ``the most 
+appropriate name for the job'' joked a local columnist, and her tenure 
+as chief led to significant advances. I wish her well in retirement.
+
+                          ____________________
+```
