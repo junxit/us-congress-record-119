@@ -1,0 +1,22 @@
+---
+granule: CREC-2025-11-10-pt1-PgH4591-2
+date: 2025-11-10
+edition: CREC
+section: HOUSE
+page: H4591
+citation: 171 Cong. Rec. H4591
+---
+
+# Constitutional Authority Statement for H.R. 5992
+
+**Measures:** H.R. 5992
+
+```
+           By Mr. CALVERT:
+       H.R. 5992.
+       Congress has the power to enact this legislation pursuant 
+     to the following:
+       The constitutional authority of Congress to enact this 
+     legislation is provided by Article I, Section 8 of the United 
+     States Constitution, specifically clause 1 and clause 18.
+```

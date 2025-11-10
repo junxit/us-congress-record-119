@@ -1,0 +1,63 @@
+---
+granule: CREC-2025-11-10-pt1-PgE1052-4
+date: 2025-11-10
+edition: CREC
+section: EXTENSIONS
+page: E1052
+citation: 171 Cong. Rec. E1052
+---
+
+# RECOGNIZING THE RETIREMENT OF STEVE KENNEDY
+
+**Speaking:** Bean, Aaron (B001314) [R-FL]
+
+```
+              RECOGNIZING THE RETIREMENT OF STEVE KENNEDY
+
+                                 ______
+                                 
+
+                            HON. AARON BEAN
+
+                               of florida
+
+                    in the house of representatives
+
+                       Monday, November 10, 2025
+
+  Mr. BEAN of Florida. Mr. Speaker, I have always believed that a 
+strong city is like a well-planted tree: deep roots give you staying 
+power, sturdy branches let you grow, and a good neighborhood street, 
+well, that's your main limb. So today, I'm pleased to recognize a man 
+whose roots run deep and whose work on roots and limbs alike has 
+brought new life to Green Cove Springs, Florida. I rise to honor the 
+retirement of Steve Kennedy, longtime City Manager for the City of 
+Green Cove Springs.
+  Steve joined the city as City Manager on October 1, 2018, following 
+more than 38 years of exemplary municipal service in Georgia. During 
+his nearly seven-year tenure here, he led with vision, steadiness, and 
+a keen sense of public service, culminating in an impressive 48-year 
+career in local government.
+  One of Steve's signature achievements for Green Cove Springs is the 
+redevelopment of Walnut Street, where he oversaw the major redesign and 
+reconstruction project that is now helping the city both preserve its 
+historic charm and position itself for future growth. This project 
+reflects Steve's commitment to the everyday quality of life for 
+residents, business owners, and visitors alike.
+  Under his leadership, the city also advanced the Harbor Road Advanced 
+Wastewater Treatment Plant and established the city's first
+
+[[Page E1053]]
+
+Community Redevelopment Agency, major infrastructure and policy shifts 
+that will benefit the community for decades to come.
+  On behalf of the people of Northeast Florida, I extend my sincere 
+thanks to Steve Kennedy for his dedication to public service, his 
+countless hours working behind the scenes to ensure this city's 
+progress, and for planting the kind of roots that will support growth 
+for generations. May his retirement be full of relaxation, quality time 
+with family and the satisfaction of watching all he built continue to 
+flourish.
+
+                          ____________________
+```

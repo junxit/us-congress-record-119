@@ -1,0 +1,16 @@
+---
+granule: CREC-2025-11-10-pt1-PgD1130
+date: 2025-11-10
+edition: CREC
+section: DAILYDIGEST
+page: D1130
+citation: 171 Cong. Rec. D1130
+---
+
+# Daily Digest/Senate Committee Meetings
+
+```
+Committee Meetings
+(Committees not listed did not meet)
+  No committee meetings were held.
+```

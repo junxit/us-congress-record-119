@@ -1,0 +1,71 @@
+---
+granule: CREC-2025-11-10-pt1-PgE1051-4
+date: 2025-11-10
+edition: CREC
+section: EXTENSIONS
+page: E1051
+citation: 171 Cong. Rec. E1051
+---
+
+# HONORING MR. DELVONTE M. ADAMS
+
+**Speaking:** Thompson, Bennie G. (T000193) [D-MS]
+
+```
+                     HONORING MR. DELVONTE M. ADAMS
+
+                                 ______
+                                 
+
+                        HON. BENNIE G. THOMPSON
+
+                             of mississippi
+
+                    in the house of representatives
+
+                       Monday, November 10, 2025
+
+  Mr. THOMPSON of Mississippi. Mr. Speaker, I rise today to honor a 
+tenacious and self-motivated leader, Mr. Delvonte M. Adams. He has 
+shown what can be achieved through hard work, dedication, and a 
+steadfast commitment to change.
+  Delvonte is a passionate young community leader and the proud owner 
+of Change Lives & Lend A Helping Hand Outreach. Known for his 
+unwavering dedication to service, Delvonte actively works to uplift and 
+support those around him.
+  This year, he hosted a successful Homecoming Tailgate and a week-long 
+series of community events, bringing people together and fostering a 
+spirit of unity. Delvonte also takes the time to host an annual 
+Thanksgiving dinner, providing a warm and welcoming space for those in 
+need.
+  In addition to his community events, Delvonte is committed to 
+education and personal development. He offers after-school tutoring 
+classes to children in his community, helping them to succeed in their 
+studies. He also makes it a point to visit local schools, checking in 
+on students and identifying any additional support they may require.
+  Delvonte's commitment to his community extends beyond education. He 
+has been a loyal partner with the Toys for Tots program for three 
+years, providing essential gifts to those who need them most. And, for 
+the past three years, he has hosted a Trunk or Treat event in the local 
+baseball pit, creating a safe and fun space for children to celebrate 
+Halloween.
+  Furthermore, Delvonte is a dedicated trainer and mentor, offering 
+group training sessions at the 180 Career Center. His expertise and 
+guidance help individuals to build skills, gain confidence, and achieve 
+their goals.
+  For his tireless efforts and commitment to his community, Delvonte 
+was recognized with a prestigious award: a Key to the Community from 
+the Best of Mississippi 2024. This honor is a testament to his 
+selflessness, compassion, and dedication to making a positive impact on 
+the lives of those around him.
+  Mr. Speaker, I ask my colleagues to join me in recognizing Mr. 
+Delvonte M. Adams for his dedication to service to his community, and 
+for reminding us all that true leadership begins with courage, 
+compassion, and the will to act on behalf of others.
+
+[[Page E1052]]
+
+  
+
+                          ____________________
+```
