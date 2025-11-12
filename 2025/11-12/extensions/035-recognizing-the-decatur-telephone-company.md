@@ -1,0 +1,53 @@
+---
+granule: CREC-2025-11-12-pt1-PgE1065-4
+date: 2025-11-12
+edition: CREC
+section: EXTENSIONS
+page: E1065
+citation: 171 Cong. Rec. E1065
+---
+
+# RECOGNIZING THE DECATUR TELEPHONE COMPANY
+
+**Speaking:** Guest, Michael (G000591) [R-MS]
+
+```
+               RECOGNIZING THE DECATUR TELEPHONE COMPANY
+
+                                  _____
+                                 
+
+                           HON. MICHAEL GUEST
+
+                             of mississippi
+
+                    in the house of representatives
+
+                      Wednesday, November 12, 2025
+
+  Mr. GUEST. Mr. Speaker, I rise today to recognize the importance of 
+small-town business owners and the impact they have on local 
+communities and to honor the Bailey family and their locally-run 
+Telephone business.
+  In 1945, newlyweds William D. ``Bill'' Bailey and Louise Robinson 
+Bailey returned to Bill's hometown of Decatur and purchased the Decatur 
+Telephone Company. For eighty years Decatur Telephone Company has 
+served the East Mississippi community with connectivity. They have gone 
+from the original 7 individual phones in 1945 to laying fiber-optic 
+cable today for a fully digitalized system privately owned in rural 
+Mississippi. The Baileys have made a massive impact on their local 
+community through their active participation in local groups, their 
+church, and their support for their employees, Mr. Bailey passed away 
+in 2015, and Mrs. Bailey continued in daily assistance of the operation 
+of the company until her passing in 2018.
+  Today, their daughter Dr. Esther Bailey Smith keeps the Decatur 
+Telephone Company
+
+[[Page E1066]]
+
+tradition of service alive. Her dedication to the family legacy ensures 
+continued service for many years to come. I am proud to represent 
+Decatur Telephone Company in my Congressional District.
+
+                          ____________________
+```

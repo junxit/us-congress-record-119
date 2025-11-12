@@ -1,0 +1,64 @@
+---
+granule: CREC-2025-11-12-pt1-PgE1059-2
+date: 2025-11-12
+edition: CREC
+section: EXTENSIONS
+page: E1059
+citation: 171 Cong. Rec. E1059
+---
+
+# HONORING MRS. YAKITTA LANDRUM-LOVETT
+
+**Speaking:** Thompson, Bennie G. (T000193) [D-MS]
+
+```
+                  HONORING MRS. YAKITTA LANDRUM-LOVETT
+
+                                  _____
+                                 
+
+                        HON. BENNIE G. THOMPSON
+
+                             of mississippi
+
+                    in the house of representatives
+
+                      Wednesday, November 12, 2025
+
+  Mr. THOMPSON of Mississippi. Mr. Speaker, I rise today to honor an 
+outstanding healthcare professional, Mrs. Yakitta Landrum-Lovett, for 
+her dedication, compassion, and exemplary service to her patients, 
+colleagues, and community.
+  Mrs. Lovett has been employed at The Medical Center for 23 years, 
+where she continues to demonstrate a strong commitment to excellence in 
+patient care and leadership. Her professionalism, integrity, and 
+service-minded spirit have earned her the respect and admiration of her 
+peers.
+  She has been married for 22 years to Mr. Larry R. Lovett, Jr., and 
+together they have two children, Lailah and Keelan. Beyond her 
+professional achievements, Mrs. Lovett is deeply rooted in her faith 
+and community. She is an active member of New Jerusalem Missionary 
+Baptist Church, where she serves on the Health Ministry and as a Youth 
+Advisor.
+  Mrs. Lovett's passion for nursing extends beyond the workplace. She 
+is a member of the Eliza Pillars Registered Nurses Association for 
+District 2, the American Association of Nurse Practitioners, and serves 
+on the board of My Preemie & Me, Inc.--a testament to her commitment to 
+advancing the field of nursing and supporting families in need.
+  Her colleague, Chrissy Nicholson, Chief Human Resources Officer, 
+shared, ``Yakitta displays true leadership in her role with the added 
+bonus of a caring, dedicated, and compassionate nurse. I am grateful 
+that she is on our team.''
+  In here own words, Mrs. Lovett said, ``I enjoy helping my community 
+become healthier one step at a time. I like working here because of the 
+close-knit family atmosphere and how we show up for each other in times 
+of need and adversity.''
+  Outside of her professional and community endeavors, Mrs. Lovett 
+enjoys shopping, traveling, cooking, and spending time with family and 
+friends.
+  Mr. Speaker, I ask my colleagues to join me in recognizing Mrs. 
+Yakitta Landrum-Lovett for her outstanding service, leadership, and 
+unwavering commitment to her profession and community.
+
+                          ____________________
+```

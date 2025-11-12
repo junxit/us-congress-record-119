@@ -1,0 +1,50 @@
+---
+granule: CREC-2025-11-12-pt1-PgE1063
+date: 2025-11-12
+edition: CREC
+section: EXTENSIONS
+page: E1063
+citation: 171 Cong. Rec. E1063
+---
+
+# RECOGNIZING THE 130TH ANNIVERSARY OF FAIR OAKS
+
+**Speaking:** Bera, Ami (B001287) [D-CA]
+
+```
+             RECOGNIZING THE 130TH ANNIVERSARY OF FAIR OAKS
+
+                                  _____
+                                 
+
+                             HON. AMI BERA
+
+                             of california
+
+                    in the house of representatives
+
+                      Wednesday, November 12, 2025
+
+  Mr. BERA. Mr. Speaker, I rise today to recognize Fair Oaks on their 
+130th Anniversary. Originally founded as an agricultural colony, Fair 
+Oaks has grown into an area of deep cultural history and a strong sense 
+of community.
+  The land in Fair Oaks was part of the original 1844 Mexican Land 
+Grant, Rancho San Juan, and was advertised as a new paradise waiting 
+for farmers looking to make a comfortable living. Even though founding 
+residents experienced hardships like the Great Depression, World War 
+II, and a devastating freeze that wiped out many citrus crops, the area 
+continued to thrive and develop.
+  As Fair Oaks grew, so too did its industry and commerce. The 
+completion of the Folsom and Nimbus dams, and arrival of Aerojet 
+signaled a new page in Fair Oaks' history. Fair Oaks is a booming town 
+that continues to change with its fast-growing population.
+  It is with great appreciation to the Fair Oaks Historical Society 
+that the founding and legacy of Fair Oaks has continued to be preserved 
+and honored. On this day, the Society celebrates their 50th Anniversary 
+alongside Fair Oaks' 130th Anniversary.
+  I ask that my colleagues join me in recognizing this day as Fair 
+Oaks' 130th Anniversary and commend this community's beautiful history.
+
+                          ____________________
+```

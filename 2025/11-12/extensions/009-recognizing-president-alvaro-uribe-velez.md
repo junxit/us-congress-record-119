@@ -1,0 +1,58 @@
+---
+granule: CREC-2025-11-12-pt1-PgE1058-5
+date: 2025-11-12
+edition: CREC
+section: EXTENSIONS
+page: E1058
+citation: 171 Cong. Rec. E1058
+---
+
+# RECOGNIZING PRESIDENT ALVARO URIBE VELEZ
+
+**Speaking:** Gimenez, Carlos A. (G000593) [R-FL]
+
+```
+                RECOGNIZING PRESIDENT ALVARO URIBE VELEZ
+
+                                  _____
+                                 
+
+                         HON. CARLOS A. GIMENEZ
+
+                               of florida
+
+                    in the house of representatives
+
+                      Wednesday, November 12, 2025
+
+  Mr. GIMENEZ. Mr. Speaker, I rise today to recognize and honor the 
+former President of the Republic of Colombia, Alvaro Uribe Velez, for 
+his extraordinary leadership, steadfast defense of democracy, and 
+unwavering commitment to the safety and prosperity of the Colombian 
+people.
+  President Uribe assumed office in 2002 during one of the most 
+challenging periods in Colombia's modern history, a time marked by 
+violence, narco-terrorism, and instability. Through his bold and 
+visionary ``Democratic Security'' policy, President Uribe restored law 
+and order, dismantled the strongholds of terrorist organizations like 
+the FARC, and reestablished the authority of the Colombian state across 
+the nation.
+  Under his leadership, Colombia's economy flourished through increased 
+trade and investment. His administration strengthened U.S.-Colombian 
+relations, culminating in the U.S.-Colombia Trade Promotion Agreement, 
+which expanded cooperation on security and counter-narcotics efforts.
+  President Uribe's courage in confronting narco-terrorist groups and 
+his dedication to the rule of law set a model for democratic 
+governance. For his leadership, integrity, and tireless defense of 
+liberty, many regard President
+
+[[Page E1059]]
+
+Uribe as the Abraham Lincoln of Colombia, a unifying figure who 
+preserved his nation's democracy and restored hope to millions.
+  I ask my colleagues to join me in recognizing President Alvaro Uribe 
+Velez for his historic contributions to the people of Colombia and to 
+the cause of freedom and democracy.
+
+                          ____________________
+```
