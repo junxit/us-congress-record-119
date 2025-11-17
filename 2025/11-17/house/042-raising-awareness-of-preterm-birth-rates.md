@@ -1,0 +1,39 @@
+---
+granule: CREC-2025-11-17-pt1-PgH4698-5
+date: 2025-11-17
+edition: CREC
+section: HOUSE
+page: H4698
+citation: 171 Cong. Rec. H4698
+---
+
+# RAISING AWARENESS OF PRETERM BIRTH RATES
+
+**Speaking:** McClellan, Jennifer L. (M001227) [D-VA]
+
+```
+                RAISING AWARENESS OF PRETERM BIRTH RATES
+
+  (Ms. McCLELLAN asked and was given permission to address the House 
+for 1 minute and to revise and extend her remarks.)
+  Ms. McCLELLAN. Mr. Speaker, the United States has one of the highest 
+preterm birth rates in the world, which is a leading cause of infant 
+mortality.
+  Today, the March of Dimes released its 2025 report card on the state 
+of maternal and infant health. The United States received a D-plus for 
+preterm birthrate for the fourth consecutive year in a row.
+  In 2024, 380,000 babies were born prematurely. That is 10.4 percent 
+of all babies born. The worst rates are in the southern region of the 
+United States.
+  These statistics are personal for me. My daughter was born 9 weeks 
+early when my placenta ruptured. We both nearly died. She spent the 
+next 6 weeks in the neonatal intensive care unit. We were among the 
+lucky ones. Far too many mothers and babies don't have that same 
+outcome.
+  Mr. Speaker, today I join Representatives Jennifer Kiggans and Robin 
+Kelly to introduce a bipartisan resolution to designate November 2025 
+as Prematurity Awareness Month, and I join my colleagues to do more to 
+prevent preterm births.
+
+                          ____________________
+```

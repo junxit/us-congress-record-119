@@ -1,0 +1,58 @@
+---
+granule: CREC-2025-11-17-pt1-PgE1069-3
+date: 2025-11-17
+edition: CREC
+section: EXTENSIONS
+page: E1069
+citation: 171 Cong. Rec. E1069
+---
+
+# HONORING VILMA AQUINO AS ONE OF CALIFORNIA'S 8TH CONGRESSIONAL DISTRICT'S WOMEN OF THE YEAR
+
+**Speaking:** Garamendi, John (G000559) [D-CA]
+
+```
+    HONORING VILMA AQUINO AS ONE OF CALIFORNIA'S 8TH CONGRESSIONAL 
+                      DISTRICT'S WOMEN OF THE YEAR
+
+                                  _____
+                                 
+
+                          HON. JOHN GARAMENDI
+
+                             of california
+
+                    in the house of representatives
+
+                       Monday, November 17, 2025
+
+  Mr. GARAMENDI. Mr. Speaker, I rise today to honor Vilma Aquino as one 
+of California's 8th Congressional District's Women of the Year. Vilma 
+has spent over three decades transforming lives and communities through 
+the power of gardening. Since the 1990's, she has been a passionate 
+educator and advocate for sustainable growing practices, community 
+health, and environmental awareness. In 2009, she founded the Vallejo 
+People's Garden, which provided fresh produce to the Christian Help 
+Center's kitchen for ten years, feeding up to 75 clients daily. For 
+fifteen years, she worked with students from Touro University to teach 
+future healthcare professionals how gardening supports the concept of 
+food as medicine. Her innovative work with Kaiser Permanente's Rehab 
+Department and Residency Program brought healing and hands-on gardening 
+education to patients, caregivers, and medical staff. Over the years, 
+Vilma has helped several community gardens in Vallejo get started, 
+including the garden at the Reynaissance Family Shelter in 2014. In 
+2024 and 2025, she co-founded the Bay Area Butterfly Festival, which 
+attracted thousands of attendees and raised awareness about the 
+declining Western Monarch Butterfly population and the critical role of 
+native plants in ecosystem health. She coordinates a wide variety of 
+gardening and wellness classes for the community, including culturally 
+relevant offerings such as ``Filipino Fruits and Vegetables You Can 
+Grow at Home in Solano County.'' Vilma is currently a Board Member at 
+the Global Center for Success on Mare Island and continues to work with 
+organizations such as Touro University, Kaiser Permanente, and Solano 
+Community. On behalf of the people of California's 8th Congressional 
+District, it is my pleasure to honor and recognize Vilma Aquino for her 
+invaluable contributions to our community.
+
+                          ____________________
+```

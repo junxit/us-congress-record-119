@@ -1,0 +1,39 @@
+---
+granule: CREC-2025-11-17-pt1-PgH4675-3
+date: 2025-11-17
+edition: CREC
+section: HOUSE
+page: H4675
+citation: 171 Cong. Rec. H4675
+---
+
+# TRUMP ACHIEVEMENT FOR PEACE
+
+**Speaking:** Wilson, Joe (W000795) [R-SC]
+
+```
+                      TRUMP ACHIEVEMENT FOR PEACE
+
+  (Mr. WILSON of South Carolina asked and was given permission to 
+address the House for 1 minute and to revise and extend his remarks.)
+  Mr. WILSON of South Carolina. Mr. Speaker, President Donald Trump has 
+another historic achievement for peace and prosperity in the Middle 
+East, reducing threats to Americans at home and abroad.
+  The Wall Street Journal reported Monday: ``Syria has joined the U.S.-
+led mission to defeat Islamic State . . . after President Trump and 
+Syrian President Ahmed al-Sharaa met at the White House.''
+  This meeting was the first of a Syrian head of state to visit the 
+White House in the 8,000-year history of Damascus.
+  It was promoted by Ambassador Tom Barrack, the tireless Trump envoy 
+for Syria, and Admiral Brad Cooper, head of U.S. Central Command.
+  I personally appreciate the Trump triumph as, last November, I was 
+condemned by the Syrian dictator, Assad, as an enemy of the state weeks 
+before he fled to Moscow.
+  Mr. Speaker, 8 months later, I was a guest in the Damascus office of 
+Assad with the new President and Senator Jeanne Shaheen.
+  In conclusion, God bless our troops as the global war on terrorism 
+continues. Trump is reinstituting peace through strength, revealing war 
+criminal Putin lies, insulting Trump with attacks on civilians.
+
+                          ____________________
+```

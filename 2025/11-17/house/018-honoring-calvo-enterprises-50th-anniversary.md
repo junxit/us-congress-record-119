@@ -1,0 +1,43 @@
+---
+granule: CREC-2025-11-17-pt1-PgH4675-5
+date: 2025-11-17
+edition: CREC
+section: HOUSE
+page: H4675
+citation: 171 Cong. Rec. H4675
+---
+
+# HONORING CALVO ENTERPRISES' 50TH ANNIVERSARY
+
+**Speaking:** Moylan, James C. (M001219) [R-GU]
+
+```
+              HONORING CALVO ENTERPRISES' 50TH ANNIVERSARY
+
+  (Mr. MOYLAN asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. MOYLAN. Mr. Speaker, I rise today in honor of Calvo Enterprises, 
+Inc., as it marks 50 years of service to the people of Guam. From its 
+beginning in 1938 with the island's first locally owned insurance 
+agency, the Calvo family built more than just businesses. They built 
+opportunity for our island.
+  Over the decades, Calvo Enterprises grew to include companies that 
+became part of daily life, from Mid-Pacific Distributors and Pepsi 
+bottling company, to KUAM, giving our community a strong media voice; 
+and Pay-Less Supermarkets, helping to provide food and essentials to 
+our families.
+  What we recognize today is not only business success but a commitment 
+to Guam through civic and charitable work, including the Edward M. 
+Calvo Cancer Foundation, which has supported families during some of 
+their most difficult moments.
+  Mr. Speaker, three generations later, the Calvo family continues to 
+lead with the same values of hard work, integrity, and service to 
+community, helping to strengthen our island and create a future that 
+our children can rely on.
+  I thank the Calvo family and every employee who contributed to this 
+agency.
+  I congratulate Calvo Enterprises on 50 years of growing with Guam and 
+for Guam. May the next 50 be just as strong.
+
+                          ____________________
+```

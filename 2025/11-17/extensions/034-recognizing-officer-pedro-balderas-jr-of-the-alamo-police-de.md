@@ -1,0 +1,61 @@
+---
+granule: CREC-2025-11-17-pt1-PgE1078-3
+date: 2025-11-17
+edition: CREC
+section: EXTENSIONS
+page: E1078
+citation: 171 Cong. Rec. E1078
+---
+
+# RECOGNIZING OFFICER PEDRO BALDERAS, JR. OF THE ALAMO POLICE DEPARTMENT
+
+**Speaking:** Gonzalez, Vicente (G000581) [D-TX]
+
+```
+ RECOGNIZING OFFICER PEDRO BALDERAS, JR. OF THE ALAMO POLICE DEPARTMENT
+
+                                  _____
+                                 
+
+                         HON. VICENTE GONZALEZ
+
+                                of texas
+
+                    in the house of representatives
+
+                       Monday, November 17, 2025
+
+  Mr. VICENTE GONZALEZ of Texas. Mr. Speaker, I rise today to recognize 
+Officer Pedro Balderas, Jr. of the Alamo Police Department in Alamo, 
+Texas, for his exceptional service to his community.
+  Since joining the department, Officer Balderas has gone above and 
+beyond the call of duty, earning the respect of his colleagues and the 
+gratitude of the community he serves. From his early days as a patrol 
+officer, he demonstrated initiative, integrity, and a tireless work 
+ethic. Through his proactive policing and sharp investigative 
+instincts, he quickly became known for his ability to identify criminal 
+patterns, develop intelligence, and pursue offenders with 
+determination.
+  As a Major Crimes Investigator, Officer Balderas has played a pivotal 
+role in solving complex cases that require persistence, analytical 
+skill, and sound judgment. His leadership has contributed to numerous 
+successful prosecutions and the dismantling of criminal operations that 
+have threatened the safety of our communities.
+  In addition to his service with the Alamo Police Department, Officer 
+Balderas has distinguished himself as a Drug Enforcement Administration 
+Task Force Officer. Through close collaboration with state and federal 
+partners, he has led major narcotics investigations that resulted in 
+significant drug seizures, arrests of key figures in organized crime, 
+and the recovery of substantial assets through federal and state 
+forfeiture processes.
+  Beyond his investigative accomplishments, Officer Balderas is known 
+for being a mentor to his colleagues and upholding the highest 
+professional standards. His integrity and commitment to justice embody 
+the very best of South Texas.
+  Mr. Speaker, Officer Pedro Balderas, Jr. is a shining example of the 
+courage and dedication that define South Texas law enforcement. I am 
+proud to represent Officer Balderas and recognize his outstanding 
+contributions and thank him for his continued service to our region.
+
+                          ____________________
+```
