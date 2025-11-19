@@ -1,0 +1,41 @@
+---
+granule: CREC-2025-11-19-pt1-PgH4782-2
+date: 2025-11-19
+edition: CREC
+section: HOUSE
+page: H4782
+citation: 171 Cong. Rec. H4782
+---
+
+# EXTEND THE TAX CREDITS
+
+**Speaking:** Magaziner, Seth (M001223) [D-RI]
+
+```
+                              {time}  1210
+                         EXTEND THE TAX CREDITS
+
+  (Mr. MAGAZINER asked and was given permission to address the House 
+for 1 minute and to revise and extend his remarks.)
+  Mr. MAGAZINER. Mr. Speaker, while Donald Trump gives billions of 
+dollars to Argentina and gets rich selling cryptocurrency to criminals 
+and foreign agents, millions of Americans are facing financial ruin 
+from rising health insurance costs.
+  All across the country, Americans are getting letters like this from 
+their insurance companies telling them how much their premiums are 
+going up because of the failure of Republicans to extend the Affordable 
+Care Act tax credits.
+  Susan, from Foster, Rhode Island, a marketing consultant, is seeing 
+her insurance go up from $600 a month to $2,100, a 250 percent 
+increase.
+  Sarah, a small business owner from Cranston, is seeing her premiums 
+go up more than $5,000 a year. Hillary, from Providence, her family of 
+four is going to be paying $10,600 more next year for the same 
+insurance.
+  It is time for President Trump and House Republicans to wake up to 
+what the American people are experiencing and extend the Affordable 
+Care Act tax credits now. Stop playing games. Let's save the healthcare 
+of the American people.
+
+                          ____________________
+```

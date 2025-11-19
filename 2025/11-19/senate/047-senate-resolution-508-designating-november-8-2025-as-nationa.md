@@ -1,0 +1,57 @@
+---
+granule: CREC-2025-11-19-pt1-PgS8244
+date: 2025-11-19
+edition: CREC
+section: SENATE
+page: S8244
+citation: 171 Cong. Rec. S8244
+---
+
+# SENATE RESOLUTION 508--DESIGNATING NOVEMBER 8, 2025, AS "NATIONAL SCIENCE, TECHNOLOGY, ENGINEERING, AND MATHEMATICS (STEM) DAY" AND CELEBRATING THE IMPORTANCE OF SCIENCE, TECHNOLOGY, ENGINEERING...
+
+**Measures:** S.Res. 508
+
+```
+  SENATE RESOLUTION 508--DESIGNATING NOVEMBER 8, 2025, AS ``NATIONAL 
+  SCIENCE, TECHNOLOGY, ENGINEERING, AND MATHEMATICS (STEM) DAY'' AND 
+  CELEBRATING THE IMPORTANCE OF SCIENCE, TECHNOLOGY, ENGINEERING, AND 
+    MATHEMATICS IN EDUCATION AND THE WORKFORCE IN THE UNITED STATES
+
+  Ms. ROSEN (for herself and Mrs. Capito) submitted the following 
+resolution; which was considered and agreed to:
+
+                              S. Res. 508
+
+       Whereas the National Center for Science and Engineering 
+     Statistics shows that nearly 36,000,000 people of the United 
+     States are employed in science, technology, engineering, and 
+     mathematics (referred to in this preamble as ``STEM'') 
+     occupations in the United States;
+       Whereas the Bureau of Labor Statistics shows that STEM 
+     occupations are projected to grow by more than 8 percent 
+     between 2024 and 2034;
+       Whereas approximately 870,000 new STEM job openings will 
+     become available within the next decade;
+       Whereas, in 2019, only 20 percent of high school graduates 
+     in the United States were fully prepared for college-level 
+     STEM curriculum courses;
+       Whereas women are largely underrepresented in the STEM 
+     workforce and hold less than \1/3\ of all STEM jobs;
+       Whereas the National Center for Science and Engineering 
+     Statistics shows that, in 2021, Hispanic workers represented 
+     only 15 percent of the STEM workforce and Black workers 
+     represented only 9 percent; and
+       Whereas teaching STEM subjects to students in the classroom 
+     can help inspire them to consider STEM career paths: Now, 
+     therefore, be it
+       Resolved, That the Senate--
+       (1) designates November 8, 2025, as ``National Science, 
+     Technology, Engineering, and Mathematics (STEM) Day'';
+       (2) celebrates the importance of science, technology, 
+     engineering, and mathematics in education and the workforce 
+     in the United States; and
+       (3) urges the people of the United States to observe 
+     National STEM Day with appropriate programs and activities.
+
+                          ____________________
+```

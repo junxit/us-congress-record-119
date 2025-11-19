@@ -1,0 +1,43 @@
+---
+granule: CREC-2025-11-19-pt1-PgH4812-5
+date: 2025-11-19
+edition: CREC
+section: HOUSE
+page: H4812
+citation: 171 Cong. Rec. H4812
+---
+
+# RECOGNIZING WILLIAM WOODARD BUTLER VETERAN OF THE YEAR
+
+**Speaking:** McClellan, Jennifer L. (M001227) [D-VA]
+
+```
+         RECOGNIZING WILLIAM WOODARD BUTLER VETERAN OF THE YEAR
+
+  (Ms. McCLELLAN asked and was given permission to address the House 
+for 1 minute and to revise and extend her remarks.)
+  Ms. McCLELLAN. Mr. Speaker, today I rise to honor a lifetime of 
+service of one of my constituents, Colonel William Woodard Butler, the 
+2025 Veteran of the Year for Virginia's Fourth Congressional District.
+  With over 38 years of service between Active Duty and the Reserves, 
+Colonel Butler has devoted his military career and beyond to improving 
+the lives of our servicemembers, advancing medical research, and giving 
+back to his community.
+  Colonel Butler completed two overseas deployments, one to Okinawa and 
+another to Qatar. He has over 980 hours of flight time, of which 65 are 
+in combat.
+  He then rounded out his military career as a professor of aerospace 
+medicine at the United States Air Force School of Aerospace Medicine.
+  In addition to this, he now serves as an active member of his 
+community, as a trustee for the John Randolph Foundation, and as a 
+member of the city of Hopewell's planning commission.
+  He helped establish a permanently endowed scholarship for 
+Chesterfield, Hopewell, and Prince George students pursuing a medical 
+career.
+  I thank Colonel Butler for his service to our Nation and admire all 
+he has done to improve the lives of those in our community, 
+Commonwealth, and country. I am honored to name him the 2025 Veteran of 
+the Year for Virginia's Fourth Congressional District.
+
+                          ____________________
+```

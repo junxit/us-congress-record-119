@@ -1,0 +1,39 @@
+---
+granule: CREC-2025-11-19-pt1-PgH4813
+date: 2025-11-19
+edition: CREC
+section: HOUSE
+page: H4813
+citation: 171 Cong. Rec. H4813
+---
+
+# JUSTICE SHOULD BE REQUIRED
+
+**Speaking:** Cohen, Steve (C001068) [D-TN]
+
+```
+                              {time}  2150
+                       JUSTICE SHOULD BE REQUIRED
+
+  (Mr. COHEN asked and was given permission to address the House for 1 
+minute.)
+  Mr. COHEN. Mr. Speaker, I am here to talk about two incidents that 
+shame me as a Member of this House and as an American citizen.
+  Today, President Trump signed the Epstein documents release bill. 
+Lots of women were up here who were victims of Jeffrey Epstein's sexual 
+felonies, and they celebrated when the House passed it and the Senate 
+passed it, but it is clear today that classified documents therein will 
+not be released and documents that might relate to an ongoing 
+investigation which President Trump authorized going after Bill 
+Clinton, Larry Summers, and others on the Democratic side which are 
+false and improper investigations where Ms. Bondi said there was 
+nothing there, will not allow for material to be disclosed.
+  The Senate said the House shouldn't get involved with the $500,000 
+that each Senator should get for simply having a phone call noted--not 
+listened to, not documented, but noted. It is $500,000 for nine 
+Senators.
+  That money should go to the Epstein victims. Truth spoken. Justice 
+should be required.
+
+                          ____________________
+```

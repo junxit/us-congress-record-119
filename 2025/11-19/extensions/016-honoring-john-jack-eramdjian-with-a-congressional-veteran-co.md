@@ -1,0 +1,61 @@
+---
+granule: CREC-2025-11-19-pt1-PgE1097-2
+date: 2025-11-19
+edition: CREC
+section: EXTENSIONS
+page: E1097
+citation: 171 Cong. Rec. E1097
+---
+
+# HONORING JOHN "JACK" ERAMDJIAN WITH A CONGRESSIONAL VETERAN COMMENDATION
+
+**Speaking:** Fallon, Pat (F000246) [R-TX]
+
+```
+     HONORING JOHN ``JACK'' ERAMDJIAN WITH A CONGRESSIONAL VETERAN 
+                              COMMENDATION
+
+                                  _____
+                                 
+
+                            HON. PAT FALLON
+
+                                of texas
+
+                    in the house of representatives
+
+                      Wednesday, November 19, 2025
+
+  Mr. FALLON. Mr. Speaker, I rise today to recognize Staff Sergeant 
+Jack Eramdjian of Celina, Texas, and to honor him with a Congressional 
+Veteran Commendation. Staff Sergeant Eramdjian honorably served in the 
+United States Army from 1964 to 1966 and in the United States Army 
+Reserve from 1966 to 1970, demonstrating steadfast dedication and 
+service to our Nation.
+  Staff Sergeant Eramdjian began his military career as a first-year 
+drill sergeant at Fort Ord, California, where he trained new recruits 
+and helped shape the next generation of soldiers with discipline, 
+strength, and integrity. His service later took him to Fort Lewis, 
+Washington, where he served proudly with the 4th Infantry Division. 
+Throughout his time in uniform, Jack excelled in multiple roles--as an 
+infantryman, field generator specialist, and brigade commander's 
+driver--demonstrating adaptability, professionalism, and dedication to 
+mission success. His commitment to excellence and leadership earned him 
+the Army Good Conduct Medal, recognizing his honorable service and 
+steadfast devotion to duty.
+  Following his military career, Jack continued to live a life of 
+service during his 27 years with the American Red Cross in California, 
+where he deployed across the country to assist communities recovering 
+from disasters. A tireless advocate for veterans, Jack dedicates his 
+time to advising others on their benefits and claims, promoting 
+participation in Honor Flight, and proudly serving as a member of the 
+American Legion for the past 14 years. In addition, as a certified 
+scuba dive master and master diver, Jack has shared his expertise by 
+training sheriff rescue teams in saltwater operations.
+  I am deeply honored to recognize Staff Sergeant Jack Eramdjian for 
+his outstanding courage, patriotism, and lifelong devotion to serving 
+others. He exemplifies the very best of Texas' 4th Congressional 
+District and of the United States of America.
+
+                          ____________________
+```
