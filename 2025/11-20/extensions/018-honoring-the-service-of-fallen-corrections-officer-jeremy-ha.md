@@ -1,0 +1,68 @@
+---
+granule: CREC-2025-11-20-pt1-PgE1111-2
+date: 2025-11-20
+edition: CREC
+section: EXTENSIONS
+page: E1111
+citation: 171 Cong. Rec. E1111
+---
+
+# HONORING THE SERVICE OF FALLEN CORRECTIONS OFFICER JEREMY HALL
+
+**Speaking:** Griffith, H. Morgan (G000568) [R-VA]
+
+```
+     HONORING THE SERVICE OF FALLEN CORRECTIONS OFFICER JEREMY HALL
+
+                                  _____
+                                 
+
+                        HON. H. MORGAN GRIFFITH
+
+                              of virginia
+
+                    in the house of representatives
+
+                      Thursday, November 20, 2025
+
+  Mr. GRIFFITH. Mr. Speaker, the 9th Congressional District of Virginia 
+and the entire Commonwealth of Virginia mourn the loss of Virginia 
+Department of Corrections Officer Jeremy Hall.
+  On Monday, November 17th, Officer Hall was working a morning shift at 
+the North River Correctional Center in Independence, Virginia. Just 
+before 8 am, an inmate at the facility attacked multiple officers, 
+including Officer Hall. As a result of the inmate attack, Officer Hall 
+suffered serious injuries and died.
+  Our communities depend on the incredible sacrifices of corrections 
+officers to keep our communities safe. These officers are trained to 
+respond to, supervise and effectively tend to inmates under state 
+custody. Accordingly, our corrections officers must be willing to put 
+their own well-being on the line to handle stressful, challenging and 
+even dangerous circumstances.
+  We rely on figures like Officer Hall, who made the selfless choice to 
+serve the Virginia Department of Corrections since April 2024. Officer 
+Hall carried out his corrections work with professionalism, integrity 
+and strength. But he is also remembered for showing up to every shift 
+with a smile and with pride in his work.
+  The attitude that Officer Hall carried to work can be attributed to 
+his deep love for his family. Like so many of our corrections officers, 
+Officer Hall received great support from his family and community.
+  He is survived by his wife Dawn Marie Hall, of the home; daughter, 
+Amaya Hall (Bland, Virginia), mother, Mary Susan Richardson 
+(Wytheville, Virginia); father, Michael L. Hall (Debra) Elk Creek, 
+Virginia; Mother-in-law, JoAnn Bollin (Dorchester, South Carolina); 
+brother, Drew Hall (Wytheville, Virginia); maternal grandmother, Edna 
+Ruth Burcham (Galax, Virginia); paternal grandmother, Ruth Hall (Elk 
+Creek, Virginia); stepchildren, Felix and Sophi Johnson (Durham, North 
+Carolina) beloved dogs, Chia and Willow; and several loved aunts, 
+uncles and cousins also survive. Jeremy is proceeded in death by 
+paternal grandfather, James Hall.
+  Officer Hall was about to celebrate his 41st birthday at the time of 
+his death. While our region grieves his loss, River North Correctional 
+Center and the Virginia Department of Corrections remain resolute in 
+providing protection, safety and care to our communities. They will 
+continue to operate according to the very same mission that Officer 
+Hall supported and they will remember his service and sacrifice.
+
+                          ____________________
+```

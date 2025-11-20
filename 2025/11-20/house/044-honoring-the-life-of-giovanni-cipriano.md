@@ -1,0 +1,36 @@
+---
+granule: CREC-2025-11-20-pt1-PgH4834-5
+date: 2025-11-20
+edition: CREC
+section: HOUSE
+page: H4834
+citation: 171 Cong. Rec. H4834
+---
+
+# HONORING THE LIFE OF GIOVANNI CIPRIANO
+
+**Speaking:** Gillen, Laura (G000602) [D-NY]
+
+```
+                 HONORING THE LIFE OF GIOVANNI CIPRIANO
+
+  (Ms. GILLEN asked and was given permission to address the House for 1 
+minute and to revise and extend her remarks.)
+  Ms. GILLEN. Mr. Speaker, I rise today to welcome to our Nation's 
+Capitol my constituent from Lynbrook and the founder of the Love for 
+Giovanni Foundation, Georgina Cornago.
+  Mr. Speaker, Georgina is the beloved mother of Long Island native 
+Giovanni ``Gio'' Cipriano, pictured here, who we tragically lost in 
+2013 due to a severe allergic reaction.
+  In the face of unimaginable loss, Georgina has transformed her grief 
+into purpose. She has been a tireless force behind Gio's law, a 
+bipartisan legislation that I introduced to equip local law enforcement 
+with EpiPens to quickly and effectively respond to allergic reactions 
+and save lives. Thanks to her advocacy, first responders on Long Island 
+are already saving lives.
+  Mr. Speaker, I ask all my colleagues to join me in honoring the 
+memory of Gio and working together to prevent future tragedies and pass 
+Gio's law.
+
+                          ____________________
+```

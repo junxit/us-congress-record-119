@@ -1,0 +1,62 @@
+---
+granule: CREC-2025-11-20-pt1-PgE1108-2
+date: 2025-11-20
+edition: CREC
+section: EXTENSIONS
+page: E1108
+citation: 171 Cong. Rec. E1108
+---
+
+# RECOGNIZING CAPTAIN STEVE PETTY
+
+**Speaking:** Cammack, Kat (C001039) [R-FL]
+
+```
+                    RECOGNIZING CAPTAIN STEVE PETTY
+
+                                  _____
+                                 
+
+                            HON. KAT CAMMACK
+
+                               of florida
+
+                    in the house of representatives
+
+                      Thursday, November 20, 2025
+
+  Mrs. CAMMACK. Mr. Speaker, I rise today to recognize and honor 
+Captain Steve Petty, a United States Army veteran, who was inducted 
+into the Florida Veterans Hall of Fame on November 5, 2025, for his 
+outstanding service, leadership, and unwavering commitment to the 
+health and dignity of his fellow veterans.
+  Captain Petty has dedicated his post-service life to ensuring that 
+those who served our Nation receive the care, respect, and honors they 
+have earned. As Director of the Veterans Resource Center in Ocala, 
+Florida, he has led groundbreaking efforts to provide free Galleri 
+blood testing for veterans exposed to carcinogens such as Agent Orange 
+and burn pits--conditions that have claimed far too many lives long 
+after the battles ended. Through his leadership, veterans who served 
+``boots on the ground'' in the Vietnam War, Gulf War, and the Global 
+War on Terrorism can now access this $950 cancer screening at no cost, 
+right in their own community. This lifesaving initiative--made possible 
+through partnerships with the Marion County Hospital District and the 
+Marion County Community Development Block Grant--stands as a model of 
+community collaboration, compassion, and unwavering commitment to those 
+who have borne the battle.
+  Beyond his work in advancing preventive care, Captain Petty has also 
+been instrumental in ensuring that every Marion County veteran interred 
+at the Bushnell National Cemetery receives full military honors--a 
+solemn and sacred recognition of their service to our Nation. Captain 
+Petty's dedication exemplifies the very best of the veteran community: 
+leadership through service, compassion through action, and a steadfast 
+refusal to leave any brother or sister behind. His induction into the 
+Florida Veterans Hall of Fame is not only well-deserved--it stands as a 
+testament to what one individual can accomplish when driven by love of 
+country and devotion to those who have borne the battle.
+  On behalf of Florida's 3rd Congressional District, I offer my deepest 
+congratulations to Captain Steve Petty, his wife Joan, and all those at 
+the Veterans Resource Center who continue to serve those who served us.
+
+                          ____________________
+```
