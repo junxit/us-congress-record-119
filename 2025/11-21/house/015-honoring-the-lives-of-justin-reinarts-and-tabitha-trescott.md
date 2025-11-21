@@ -1,0 +1,45 @@
+---
+granule: CREC-2025-11-21-pt1-PgH4882-6
+date: 2025-11-21
+edition: CREC
+section: HOUSE
+page: H4882
+citation: 171 Cong. Rec. H4882
+---
+
+# HONORING THE LIVES OF JUSTIN REINARTS AND TABITHA TRESCOTT
+
+**Speaking:** Finstad, Brad (F000475) [R-MN]
+
+```
+       HONORING THE LIVES OF JUSTIN REINARTS AND TABITHA TRESCOTT
+
+  (Mr. FINSTAD asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. FINSTAD. Mr. Speaker, I rise today to remember the lives of 
+Justin Reinarts and Tabitha Trescott, two individuals whose lives were 
+senselessly taken on November 2 in the close-knit community of Hanska, 
+Minnesota.
+  Justin served 17 years with the Hanska Fire Department. He took great 
+pride as a first responder, never giving a second thought to doing 
+anything he could to help others.
+  At his funeral last week, seven area fire departments paid tribute to 
+Justin, and scores of community members lined the streets to say good-
+bye.
+  Tabitha was a warm light in the lives of those who knew her. She is 
+remembered by many for her steadfast belief in God's unconditional 
+love, the driving force behind the love that she showed to others.
+  Hanska, a town of just a few hundred residents, has been shaken by 
+this tragedy that has left our community heartbroken for the families 
+of Justin and Tabitha, especially their children who are left to carry 
+on without them.
+  I am honored here today to pay tribute to Justin and Tabitha, and may 
+their lives and their contributions to southern Minnesota never be 
+forgotten.
+
+[[Page H4883]]
+
+  
+
+                          ____________________
+```
