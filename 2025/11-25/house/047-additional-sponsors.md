@@ -1,0 +1,148 @@
+---
+granule: CREC-2025-11-25-pt1-PgH4903-9
+date: 2025-11-25
+edition: CREC
+section: HOUSE
+page: H4903
+citation: 171 Cong. Rec. H4903
+---
+
+# ADDITIONAL SPONSORS
+
+**Measures:** H.Con.Res. 12, H.Con.Res. 61, H.Res. 120, H.R. 227, H.Res. 381, H.R. 507, H.Res. 670, H.R. 846, H.Res. 866, H.Res. 877, H.Res. 894, H.Res. 905, H.Res. 906, H.R. 909, H.R. 1027, H.R. 1171, H.R. 1197, H.R. 1348, H.R. 1410, H.R. 1421, H.R. 1517, H.R. 1564, H.R. 1662, H.R. 1735, H.R. 1776, H.R. 1827, H.R. 1849, H.R. 1960, H.R. 1991, H.R. 1993, H.R. 2036, H.R. 2049, H.R. 2253, H.R. 2257, H.R. 2333, H.R. 2353, H.R. 2366, H.R. 2487, H.R. 2538, H.R. 2539, H.R. 2540, H.R. 2548, H.R. 2550, H.R. 2671, H.R. 2736, H.R. 2756, H.R. 2853, H.R. 3093, H.R. 3112, H.R. 3184, H.R. 3306, H.R. 3474, H.R. 3496, H.R. 3534, H.R. 3569, H.R. 3699, H.R. 3781, H.R. 3922, H.R. 3923, H.R. 3924, H.R. 3946, H.R. 3954, H.R. 4093, H.R. 4109, H.R. 4150, H.R. 4169, H.R. 4170, H.R. 4176, H.R. 4186, H.R. 4206, H.R. 4291, H.R. 4393, H.R. 4477, H.R. 4516, H.R. 4568, H.R. 4763, H.R. 4872, H.R. 4996, H.R. 5017, H.R. 5104, H.R. 5142, H.R. 5330, H.R. 5336, H.R. 5411, H.R. 5434, H.R. 5490, H.R. 5544, H.R. 5586, H.R. 5604, H.R. 5652, H.R. 5763, H.R. 5768, H.R. 5841, H.R. 5883, H.R. 6010, H.R. 6011, H.R. 6056, H.R. 6120, H.R. 6146, H.R. 6178, H.R. 6181, H.R. 6191, H.R. 6199, H.R. 6207, H.R. 6215, H.R. 6231, H.R. 6243, H.R. 6271, H.R. 6276, H.R. 6283, H.R. 6285, H.R. 6286
+
+```
+                          ADDITIONAL SPONSORS
+
+  Under clause 7 of rule XII, sponsors were added to public bills and 
+resolutions, as follows:
+
+       H.R. 227: Mr. Davis of Illinois.
+       H.R. 507: Mr. Whitesides.
+       H.R. 846: Ms. Ross.
+       H.R. 909: Mr. DeSaulnier, Mr. Whitesides, and Mr. Boyle of 
+     Pennsylvania.
+       H.R. 1027: Ms. Ansari.
+       H.R. 1171: Mrs. Hayes.
+       H.R. 1197: Ms. Lee of Florida.
+       H.R. 1348: Ms. Escobar.
+       H.R. 1410: Ms. Wasserman Schultz and Mr. Smith of New 
+     Jersey.
+       H.R. 1421: Mr. Whitesides.
+       H.R. 1517: Mr. Carson.
+       H.R. 1564: Ms. Ansari.
+       H.R. 1662: Mr. DeSaulnier.
+       H.R. 1735: Ms. Escobar.
+       H.R. 1776: Mr. Westerman.
+       H.R. 1827: Mr. Whitesides.
+       H.R. 1849: Mr. Levin.
+       H.R. 1960: Mr. Whitesides.
+       H.R. 1991: Mr. Rouzer.
+       H.R. 1993: Mr. Thompson of Pennsylvania.
+       H.R. 2036: Mr. Mrvan, Mr. Gooden, and Mr. Conaway.
+       H.R. 2049: Mr. Whitesides.
+       H.R. 2253: Mr. Pallone and Mr. Moskowitz.
+       H.R. 2257: Mr. Whitesides.
+       H.R. 2333: Ms. Pettersen.
+       H.R. 2353: Mr. Kennedy of New York.
+       H.R. 2366: Mr. Green of Texas.
+       H.R. 2487: Mr. Sherman.
+       H.R. 2538: Mr. Smith of Nebraska.
+       H.R. 2539: Ms. Ross.
+       H.R. 2540: Ms. Pettersen and Mr. Wied.
+       H.R. 2548: Mr. Langworthy, Mr. Deluzio, Ms. Maloy, and Mrs. 
+     Hayes.
+       H.R. 2550: Mrs. Grijalva and Mr. Mackenzie.
+       H.R. 2671: Ms. Adams, Ms. Jacobs, Mr. Amo, Mr. Bresnahan, 
+     and Mr. Smith of New Jersey.
+       H.R. 2736: Mr. Smith of New Jersey and Mr. Aguilar.
+       H.R. 2756: Mrs. McClain Delaney.
+       H.R. 2853: Mr. Horsford and Mr. Langworthy.
+       H.R. 3093: Ms. Ansari and Mr. DeSaulnier.
+       H.R. 3112: Mr. Moskowitz and Mr. Scott of Virginia.
+       H.R. 3184: Mr. Casar.
+       H.R. 3306: Ms. Ansari.
+       H.R. 3474: Mr. Smith of New Jersey.
+       H.R. 3496: Ms. Goodlander.
+       H.R. 3534: Mr. Whitesides.
+       H.R. 3569: Mr. Harder of California, Mrs. Grijalva, Ms. 
+     Ansari, Mr. Sherman, and Ms. Titus.
+       H.R. 3699: Mr. Burlison, Mrs. Kiggans of Virginia, Mr. 
+     Austin Scott of Georgia, Mr. Alford, Mr. Reschenthaler, Mr. 
+     Kelly of Mississippi, and Mr. Stauber.
+       H.R. 3781: Mr. Brecheen.
+       H.R. 3922: Mr. Whitesides.
+       H.R. 3923: Mr. Whitesides.
+       H.R. 3924: Mr. Whitesides.
+       H.R. 3946: Mr. Schweikert and Mrs. Kim.
+       H.R. 3954: Mr. Kennedy of New York and Ms. Johnson of 
+     Texas.
+       H.R. 4093: Mr. Miller of Ohio.
+       H.R. 4109: Mr. Bresnahan.
+       H.R. 4150: Ms. Escobar.
+       H.R. 4169: Mr. Whitesides.
+       H.R. 4170: Ms. Pou.
+       H.R. 4176: Mr. Hernandez.
+       H.R. 4186: Mr. Carson.
+       H.R. 4206: Mr. Sorensen, Ms. Kelly of Illinois, and Mr. 
+     Magaziner.
+       H.R. 4291: Mr. Moylan.
+       H.R. 4393: Mr. Smucker, Mr. Ryan, Ms. King-Hinds, and Ms. 
+     Titus.
+       H.R. 4477: Mr. Whitesides.
+       H.R. 4516: Ms. Titus, Ms. McCollum, and Ms. McClellan.
+       H.R. 4568: Mr. Whitesides.
+       H.R. 4763: Mr. Harder of California.
+       H.R. 4872: Mrs. Grijalva and Ms. Ansari.
+       H.R. 4996: Mr. Schmidt.
+       H.R. 5017: Ms. Malliotakis, Ms. Goodlander, Mr. Lawler, and 
+     Ms. Tokuda.
+       H.R. 5104: Ms. Budzinski.
+       H.R. 5142: Mr. Pfluger.
+       H.R. 5330: Ms. Hageman.
+       H.R. 5336: Mr. Espaillat.
+       H.R. 5411: Mr. Gottheimer.
+       H.R. 5434: Mrs. Fletcher, Ms. Williams of Georgia, Mr. 
+     Schneider, Ms. Tokuda, Mr. Quigley, Mr. Gottheimer, Mr. 
+     Thompson of California, and Ms. Friedman.
+       H.R. 5490: Mr. Gottheimer.
+       H.R. 5544: Mr. Krishnamoorthi.
+       H.R. 5586: Mr. Davis of North Carolina.
+       H.R. 5604: Ms. Pettersen.
+       H.R. 5652: Mr. Whitesides.
+       H.R. 5763: Ms. Goodlander.
+       H.R. 5768: Mr. Ciscomani.
+       H.R. 5841: Ms. Norton.
+       H.R. 5883: Mr. Gooden.
+       H.R. 6010: Mr. Lawler and Mr. Nunn of Iowa.
+       H.R. 6011: Mrs. Torres of California.
+       H.R. 6056: Ms. Hoyle of Oregon, Ms. Randall, and Ms. 
+     Stevens.
+       H.R. 6120: Mr. Stauber.
+       H.R. 6146: Mr. Bacon.
+       H.R. 6178: Mr. Lawler and Mr. Gottheimer.
+       H.R. 6181: Mr. Neguse, Ms. Williams of Georgia, Ms. 
+     McBride, Ms. Pressley, Ms. Jayapal, and Mr. Soto.
+       H.R. 6191: Mr. Moore of West Virginia.
+       H.R. 6199: Ms. Davids of Kansas.
+       H.R. 6207: Mr. Weber of Texas.
+       H.R. 6215: Mr. Quigley.
+       H.R. 6231: Mr. Webster of Florida and Mr. Suozzi.
+       H.R. 6243: Mr. Fleischmann.
+       H.R. 6271: Ms. Elfreth.
+       H.R. 6276: Mr. Garamendi.
+       H.R. 6283: Mr. Bacon.
+       H.R. 6285: Mr. Begich.
+       H.R. 6286: Mr. Case and Mr. Gottheimer.
+       H. Con. Res. 12: Mr. Barr and Mr. Gosar.
+       H. Con. Res. 61: Mr. Garamendi and Mr. Lynch.
+       H. Res. 120: Ms. Adams.
+       H. Res. 381: Mr. Thompson of California.
+       H. Res. 670: Mr. Whitesides.
+       H. Res. 866: Mr. Fry.
+       H. Res. 877: Ms. Tokuda.
+       H. Res. 894: Mrs. Watson Coleman.
+       H. Res. 905: Ms. Tokuda.
+       H. Res. 906: Mr. Gottheimer, Mr. Huffman, Mr. Mannion, and 
+     Ms. Jacobs.
+```

@@ -1,0 +1,58 @@
+---
+granule: CREC-2025-11-25-pt1-PgH4900-3
+date: 2025-11-25
+edition: CREC
+section: HOUSE
+page: H4900
+citation: 171 Cong. Rec. H4900
+---
+
+# BILLS PRESENTED TO THE PRESIDENT
+
+**Measures:** H.J.Res. 133, H.R. 695, H.R. 998, H.R. 1512, H.R. 2316, H.R. 2483, H.R. 4405
+
+```
+                    BILLS PRESENTED TO THE PRESIDENT
+
+  Kevin F. McCumber, Clerk of the House, reported that on November 19, 
+2025, the following bill was presented to the President of the United 
+States for approval:
+
+       H.R. 4405. To require the Attorney General to release all 
+     documents and records in possession of the Department of 
+     Justice relating to Jeffrey Epstein, and for other purposes.
+
+  Kevin F. McCumber, Clerk of the House, further reported that on 
+November 21, 2025, the following bill and Joint Resolution were 
+presented to the President of the United States for approval:
+
+       H.R. 1512. To amend the Taiwan Assurance Act of 2020 to 
+     require periodic reviews and updated reports relating to the 
+     Department of State's Taiwan Guidelines.
+       H.J. Res. 133. Requesting the Secretary of the Interior to 
+     authorize unique and one-time arrangements for displays on 
+     the National Mall and the Washington Monument during the 
+     period beginning on December 31, 2025, and ending on January 
+     5, 2026.
+
+  Kevin F. McCumber, Clerk of the House, further reported that on 
+November 25, 2025, the following bills were presented to the President 
+of the United States for approval:
+
+       H.R. 2483. To reauthorize certain programs that provide for 
+     opioid use disorder prevention, treatment and recovery, and 
+     for other purposes.
+       H.R. 2316. To amend the Pittman-Robertson Wildlife 
+     Restoration Act to provide that interest on obligations held 
+     in the Federal aid to wildlife restoration fund shall become 
+     available for apportionment at the beginning of fiscal year 
+     2033.
+       H.R. 998. To amend the Internal Revenue Code of 1986 to 
+     require additional information on math and clerical error 
+     notices.
+       H.R. 695. To amend title 38, United States Code, to 
+     increase the rate of the special pension payable to Medal of 
+     Honor recipients, and for other purposes.
+
+                          ____________________
+```
