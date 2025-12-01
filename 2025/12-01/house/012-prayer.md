@@ -1,0 +1,39 @@
+---
+granule: CREC-2025-12-01-pt1-PgH4911-5
+date: 2025-12-01
+edition: CREC
+section: HOUSE
+page: H4911
+citation: 171 Cong. Rec. H4911
+---
+
+# PRAYER
+
+```
+                                 PRAYER
+
+  The Chaplain, the Reverend Margaret Grun Kibben, offered the 
+following prayer:
+  God of hope, fill us this day with all joy and peace. Lift our minds 
+out of the current disquiet and renew our hearts in the belief that our 
+desires and our contentment are to be found in You and not in anything 
+we devise or which the world designs.
+  By the power of Your Holy Spirit, may we discover the strength 
+available to us when we hope in You.
+  In You, our creator, we find our source, the wellspring of all that 
+is good and right. May we establish all of our decisions, intentions, 
+and pursuits on Your firm foundation.
+  In You, our redeemer, we find our salvation, the one who delivers us 
+from our trials and inspires us in our weakness. May we trust that You 
+will bring forth the best outcomes from our worst attempts.
+  In You, our sustainer, we find our strength and purpose, the power 
+that upholds and guides us to serve as instruments of Your will. May we 
+abound in the hope You provide.
+  In serving You in these days, in these times, may all that we are and 
+all that we do reveal the joy and peace found only in You.
+  We pray in the name of the one who is our joy, our peace, and the 
+source of our hope.
+  Amen.
+
+                          ____________________
+```
