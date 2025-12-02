@@ -1,0 +1,48 @@
+---
+granule: CREC-2025-12-02-pt1-PgH4992
+date: 2025-12-02
+edition: CREC
+section: HOUSE
+page: H4992
+citation: 171 Cong. Rec. H4992
+---
+
+# SHAMEFUL HERNANDEZ PARDON
+
+**Speaking:** Pelosi, Nancy (P000197) [D-CA]
+
+```
+                              {time}  1550
+                       SHAMEFUL HERNANDEZ PARDON
+
+  (Ms. PELOSI asked and was given permission to address the House for 1 
+minute and to revise and extend her remarks.)
+  Ms. PELOSI. Mr. Speaker, I rise today with deep concern at the 
+President's outrageous and shameful pardon of Juan Orlando Hernandez, a 
+man an American jury convicted of trafficking tons of cocaine into the 
+United States and of corrupting his own government in the process.
+  I saw this firsthand when I brought a bipartisan delegation to 
+Honduras when he was President. We refused to meet with him because he 
+is/was a thug.
+  This is not a minor case. This is not a close call. This was a 
+decisive conviction for crimes that have devastated American families 
+and fueled violence and instability abroad. Yet, President Trump chose 
+to use one of the most powerful powers of the Presidency to wipe it all 
+out.
+  This is so hypocritical as he is bombing small boats that he 
+describes as full of drugs coming to the United States. Perhaps they 
+are, and that is a different thing. However, if he is doing that, why 
+would he pardon a thug?
+  Hernandez once boasted at a meeting of narcotraffickers that 
+``together they were going to shove the drugs right up the noses of the 
+gringos.'' What message does pardoning this criminal send to parents 
+who have lost children to narcotics, to law enforcement officers 
+risking everything to stop the flow of deadly drugs?
+  This disgraceful pardon should be met with bipartisan condemnation as 
+an affront to our values, our safety, our rule of law, and our 
+democracy.
+  Those who do not join in that condemnation are either pro-crime or do 
+not care. It is another reminder the American people must be vigilant.
+
+                          ____________________
+```

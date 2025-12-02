@@ -1,0 +1,52 @@
+---
+granule: CREC-2025-12-02-pt1-PgE1137-3
+date: 2025-12-02
+edition: CREC
+section: EXTENSIONS
+page: E1137
+citation: 171 Cong. Rec. E1137
+---
+
+# RECOGNIZING THE RETIREMENT OF BERSHEBA AUSTIN
+
+**Speaking:** Rogers, Mike D. (R000575) [R-AL]
+
+```
+             RECOGNIZING THE RETIREMENT OF BERSHEBA AUSTIN
+
+                                  _____
+                                 
+
+                            HON. MIKE ROGERS
+
+                               of alabama
+
+                    in the house of representatives
+
+                       Tuesday, December 2, 2025
+
+  Mr. ROGERS of Alabama. Mr. Speaker, I rise today to recognize the 
+retirement of Bersheba Austin as Human Resources Director for the City 
+of Anniston, Alabama.
+  Bersheba received a Bachelor of Business Administration from Faulkner 
+University in 2008, an associate's degree in science from Gadsden State 
+Community College in 1995 and a Bookkeeping and Accounting Diploma from 
+Ayers State Technical College in 1982. She is a 1995 graduate of 
+Cleburne County High School.
+  Bersheba came to work for the City of Anniston in August of 2000 as 
+Clerk Typist. She moved up the ranks to Payroll Clerk, Personnel 
+Specialist, and finally Human Resources Director. Bersheba has 
+dedicated 25 years to the City of Anniston.
+  She is a member of the Alabama Association of Public Personnel 
+Administrators and the Public Sector Human Resources Association. She 
+also served in leadership roles for the IPMA-HR Southern Region 
+organization.
+  Bersheba is blessed with two daughters, Ashley Burton and Alayna 
+Pernell, and two grandchildren. On December 10, 2025, an event will be 
+held to celebrate her retirement at the Anniston City Meeting Center.
+  Mr. Speaker, please join me in recognizing Bersheba Austin on her 
+retirement and thanking her for her dedication and service to the City 
+of Anniston. I congratulate Bersheba.
+
+                          ____________________
+```
