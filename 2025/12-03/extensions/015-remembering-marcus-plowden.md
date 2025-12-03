@@ -1,0 +1,58 @@
+---
+granule: CREC-2025-12-03-pt1-PgE1142
+date: 2025-12-03
+edition: CREC
+section: EXTENSIONS
+page: E1142
+citation: 171 Cong. Rec. E1142
+---
+
+# REMEMBERING MARCUS PLOWDEN
+
+**Speaking:** Kennedy, Timothy M. (K000402) [D-NY]
+
+```
+                       REMEMBERING MARCUS PLOWDEN
+
+                                 ______
+                                 
+
+                        HON. TIMOTHY M. KENNEDY
+
+                              of new york
+
+                    in the house of representatives
+
+                      Wednesday, December 3, 2025
+
+  Mr. KENNEDY of New York. Mr. Speaker, I rise to honor the life of Mr. 
+Marcus Plowden, a beloved husband, father, and friend whose legacy of 
+love, compassion, and devotion to his family, the Western New York 
+community, and our Nation inspired all who knew him.
+  Born on August 29, 1950, in Buffalo, New York to Mr. Robert Fortson 
+and Mrs. Dorothy Plowden, Mr. Plowden was surrounded by love from the 
+very beginning. He married the love of his life Brenda, and shortly 
+after their union, the couple became parents to Anthony Plowden. He is 
+survived by numerous loved ones, including a host of relatives and 
+friends. His love for his family and his desire to be there for his 
+Nation and local community, left a lasting impact on all who crossed 
+his path.
+  Before beginning his career at General Motors, Mr. Plowden graduated 
+from Emerson High School and immediately enlisted in the United States 
+Marine Corps. His service was marked by extraordinary dedication, 
+earning him the National Defense Service Medal. The discipline, 
+leadership, and resilience he developed during his time in the 
+military, would go on to shape his professional approach and contribute 
+significantly to his success in the automotive industry.
+  Mr. Speaker, Mr. Marcus Plowden lived a life of devotion to his 
+family, community, and Nation. His unwavering commitment to those he 
+loved and his compassion for others made a profound impact on all who 
+knew him. Mr. Plowden was a man who believed in the importance of 
+family above all else and worked tirelessly to support those around 
+him. His kindness, loyalty, and the warmth in his heart will forever be 
+remembered and deeply missed. Let us continue to honor his legacy by 
+carrying forward the values he lived by: integrity, respect, and above 
+all, love.
+
+                          ____________________
+```

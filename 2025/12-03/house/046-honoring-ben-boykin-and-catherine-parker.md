@@ -1,0 +1,45 @@
+---
+granule: CREC-2025-12-03-pt1-PgH5014
+date: 2025-12-03
+edition: CREC
+section: HOUSE
+page: H5014
+citation: 171 Cong. Rec. H5014
+---
+
+# HONORING BEN BOYKIN AND CATHERINE PARKER
+
+**Speaking:** Latimer, George (L000606) [D-NY]
+
+```
+                HONORING BEN BOYKIN AND CATHERINE PARKER
+
+  (Mr. LATIMER asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. LATIMER. Mr. Speaker, I rise to recognize two members of the 
+Westchester County Board of Legislators who will each leave office at 
+month's ends, as they have completed 12 years in their positions and 
+have reached their term limit. They are the Honorable Ben Boykin of 
+White Plains and the Honorable Catherine Parker of Rye. They have 
+provided exemplary service to their districts and beyond and to all the 
+residents of Westchester County.
+  Ben Boykin is a financial professional who previously served on the 
+White Plains school board. He has also served as councilman and 
+president of the White Plains Common Council. Since 2014, he has served 
+as the legislator for the 5th County Legislative District of White 
+Plains, Scarsdale, and West Harrison. He served two terms as chair of 
+the county board, as well as chair of important committees, and more 
+recently as president of the New York State Association of Counties.
+  Catherine Parker has owned her own retail business on Purchase Street 
+in Rye, served as leader of her co-op apartment board, and served for 6 
+years as Rye City councilwoman. She was a majority leader of the board 
+of legislators and has been the author of major environmental 
+legislation. She represents the 7th District, which includes Rye, 
+Mamaroneck, Larchmont, and part of Harrison.
+
+  Both Ben and Catherine will bring their public service skills to new 
+challenges, but we salute them for their legislative accomplishments on 
+the Westchester County Board of Legislators.
+
+                          ____________________
+```
