@@ -1,0 +1,44 @@
+---
+granule: CREC-2025-12-04-pt1-PgH5031-3
+date: 2025-12-04
+edition: CREC
+section: HOUSE
+page: H5031
+citation: 171 Cong. Rec. H5031
+---
+
+# HONORING THE LIFE AND LEGACY OF CHARLIE TOMBRAS, JR.
+
+**Speaking:** Burchett, Tim (B001309) [R-TN]
+
+```
+          HONORING THE LIFE AND LEGACY OF CHARLIE TOMBRAS, JR.
+
+  (Mr. BURCHETT asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. BURCHETT. Mr. Speaker, I rise to honor the life and legacy of my 
+dear friend and fellow east Tennessean, Charlie Tombras, Jr. Charlie 
+passed away at 83 in Knoxville, Tennessee.
+  Charlie was a Knoxville native. After high school, he continued his 
+education at the University of Tennessee where he was a member of the 
+Sigma Alpha Epsilon fraternity.
+  After his time at UT, Charlie served his country by joining the Army 
+and heading to Vietnam, becoming a decorated Army Ranger. After his 
+service, he returned to Knoxville to work for his father, the legendary 
+Charles P. Tombras, Sr., founder of the Tombras Group Advertising 
+Agency.
+  Charlie demonstrated grit and dedication to advertising and pioneered 
+campaigns for many of the world's most recognizable brands. Charlie 
+also kick-started the process of establishing the Tombras School of 
+Advertising and Public Relations at our beloved University of Tennessee 
+in 2022.
+  In addition to his successful business ventures, Charlie was a great 
+outdoorsman, holding records in marlin fly-fishing, sailfishing, and 
+spearfishing, and loved to spend his spare time in the Smoky Mountains 
+and the rivers of Colorado.
+  Mr. Speaker, Charlie was a known all-American family man, who passed 
+in the presence of his loved ones after a long battle with leukemia.
+  We love and miss him.
+
+                          ____________________
+```
