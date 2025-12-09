@@ -1,0 +1,45 @@
+---
+granule: CREC-2025-12-09-pt1-PgH5065-7
+date: 2025-12-09
+edition: CREC
+section: HOUSE
+page: H5065
+citation: 171 Cong. Rec. H5065
+---
+
+# PRESIDENT TRUMP SUPPORTS SYRIA
+
+**Speaking:** Wilson, Joe (W000795) [R-SC]
+
+```
+                     PRESIDENT TRUMP SUPPORTS SYRIA
+
+  (Mr. WILSON of South Carolina asked and was given permission to 
+address the House for 1 minute and to revise and extend his remarks.)
+  Mr. WILSON of South Carolina. Mr. Speaker, 1 year ago, the Syrian 
+people achieved the historic impossible. After 12 years of murderous 
+conflict with 54 years of Baathist socialist dictatorship, they drove 
+out the sadistic regime of al-Assad.
+  President Donald Trump has proclaimed successfully ``give Syria a 
+chance.''
+  Under Assad, half a million people were killed, half of the nation 
+was displaced, and 90 percent of the country was in poverty.
+  In August, I visited Damascus with Senator Jeanne Shaheen and Trump 
+envoy Tom Barrack and saw the devastation of war. It was inspiring, 
+though, to meet with President al-Sharaa, his cabinet, and the diverse 
+interfaith leaders.
+
+[[Page H5066]]
+
+  Syria has a real promise of stability benefiting all the Middle East, 
+including change in Tehran. That is why both of us, a Democrat and 
+Republican, appreciate so much the repeal of the Caesar Act, which is 
+sanctions on the Assad regime with the full support of President Donald 
+Trump.
+  In conclusion, God bless our troops as the global war on terrorism 
+continues. Trump is reinstituting peace through strength, revealing war 
+criminal Putin lies, insulting and mocking Trump, speaking lovely in 
+the morning and conducting mass murder in the evening.
+
+                          ____________________
+```

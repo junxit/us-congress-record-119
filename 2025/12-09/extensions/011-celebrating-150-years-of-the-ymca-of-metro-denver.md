@@ -1,0 +1,64 @@
+---
+granule: CREC-2025-12-09-pt1-PgE1163-3
+date: 2025-12-09
+edition: CREC
+section: EXTENSIONS
+page: E1163
+citation: 171 Cong. Rec. E1163
+---
+
+# CELEBRATING 150 YEARS OF THE YMCA OF METRO DENVER
+
+**Speaking:** DeGette, Diana (D000197) [D-CO]
+
+```
+           CELEBRATING 150 YEARS OF THE YMCA OF METRO DENVER
+
+                                  _____
+                                 
+
+                           HON. DIANA DeGETTE
+
+                              of colorado
+
+                    in the house of representatives
+
+                       Tuesday, December 9, 2025
+
+  Ms. DeGETTE. Mr. Speaker, I rise today to honor the 150th anniversary 
+of the YMCA of Metro Denver. This is an extraordinary milestone for an 
+organization that has shaped the lives of countless Coloradoans and 
+helped build stronger, healthier, and more connected communities for a 
+century and a half.
+  The YMCA of Metro Denver was founded in 1875, shortly before Colorado 
+became a state. Since then, the Y has been committed to meeting the 
+needs of a growing and changing city, offering a supportive environment 
+for all who need it.
+  Over the past 150 years, the YMCA's success has been driven by the 
+people who bring its mission to life, including its members, 
+volunteers, donors, and staff. Every achievement, every milestone, and 
+every moment of progress reflects their dedication, compassion, and 
+belief in the power of community. This anniversary is, above all, a 
+celebration of them.
+  Guided by its core values of respect, caring, honesty, 
+responsibility, and innovation, the Y continues to evolve to meet the 
+needs of our Mile High community. Their programs are focused on 
+supporting youth development, promoting healthy living, and advancing 
+social responsibility.
+  It is a place where families find support, where neighbors connect, 
+where children learn and grow, and where people of all ages and 
+backgrounds discover a sense of belonging. Whether through wellness 
+programs, early childhood education, mentoring, swim safety, or 
+community partnerships, the Y is fostering relationships, inspiring 
+achievement, and promoting equity and well-being across our region.
+  The YMCA of Metro Denver has been woven into the fabric of our 
+community for 150 years. As we celebrate this remarkable anniversary, 
+we honor its proud history and its bright future, one where the YMCA 
+will continue to uplift, empower, and strengthen our community for 
+generations to come.
+  I congratulate the YMCA of Metro Denver on 150 years of 
+transformative impact and thank all those who have contributed to its 
+enduring mission.
+
+                          ____________________
+```

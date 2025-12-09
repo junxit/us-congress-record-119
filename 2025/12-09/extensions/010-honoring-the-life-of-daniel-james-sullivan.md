@@ -1,0 +1,59 @@
+---
+granule: CREC-2025-12-09-pt1-PgE1163-2
+date: 2025-12-09
+edition: CREC
+section: EXTENSIONS
+page: E1163
+citation: 171 Cong. Rec. E1163
+---
+
+# HONORING THE LIFE OF DANIEL JAMES SULLIVAN
+
+**Speaking:** Quigley, Mike (Q000023) [D-IL]
+
+```
+               HONORING THE LIFE OF DANIEL JAMES SULLIVAN
+
+                                  _____
+                                 
+
+                           HON. MIKE QUIGLEY
+
+                              of illinois
+
+                    in the house of representatives
+
+                       Tuesday, December 9, 2025
+
+  Mr. QUIGLEY. Mr. Speaker, I rise today to honor the life and legacy 
+of Daniel James Sullivan of Chicago--a veteran, a man of deep faith, 
+and above all, a devoted husband, father, and grandfather.
+  Daniel served our country during the Korean War, enlisting in the 
+U.S. Army in 1946. Even in uniform, his compassion stood out--once 
+building a false-bottom delivery truck to secretly deliver bread to 
+nuns at a nearby orphanage. That act alone captures who he was: quietly 
+brave, endlessly generous, and guided by compassion, even in uniform.
+  Daniel brought that same spirit to his family, his church, and his 
+community. He was a devoted parishioner at Our Lady of Lourdes Catholic 
+Church in the Ravenswood neighborhood of Chicago, where his service was 
+recognized with the Christifideles Award, presented by Cardinal Blase 
+J. Cupich.
+  A loyal Chicagoan and proud season ticket holder, Daniel cheered for 
+the White Sox, Bears, Blackhawks, and Notre Dame football. But nothing 
+gave him more joy than the time he spent with his six grandchildren. Of 
+his six grandchildren, I had the pleasure of working with Catherine 
+Flannery, who interned in my Washington D.C. office. Daniel's home was 
+a place where family traditions were made, where patience was endless, 
+and where every grandchild knew they were deeply loved.
+  Though Daniel never sought the spotlight, he lit up every room he 
+entered--with humor, humility, and grace. His legacy lives on in the 
+family he raised, the faith he lived by, and the quiet example he set 
+every single day.
+  We remember and honor Daniel Sullivan not just as a veteran, but as 
+the kind of American we should all aspire to be. May his memory be a 
+blessing.
+  Mr. Speaker, I ask everyone to join me in recognizing Daniel James 
+Sullivan for his service to our country and honoring his legacy.
+
+                          ____________________
+```

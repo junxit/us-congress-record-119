@@ -1,0 +1,53 @@
+---
+granule: CREC-2025-12-09-pt1-PgE1165-2
+date: 2025-12-09
+edition: CREC
+section: EXTENSIONS
+page: E1165
+citation: 171 Cong. Rec. E1165
+---
+
+# RECOGNIZING MANASSAS REGIONAL AIRPORT'S AIR TRAFFIC CONTROL
+
+**Speaking:** Subramanyam, Suhas (S001230) [D-VA]
+
+```
+      RECOGNIZING MANASSAS REGIONAL AIRPORT'S AIR TRAFFIC CONTROL
+
+                                  _____
+                                 
+
+                         HON. SUHAS SUBRAMANYAM
+
+                              of virginia
+
+                    in the house of representatives
+
+                       Tuesday, December 9, 2025
+
+  Mr. SUBRAMANYAM. Mr. Speaker, I rise today to recognize and 
+congratulate the extraordinary Air Traffic Controllers of Manassas 
+Regional Airport. Despite challenging circumstances during the 2025 
+federal government shutdown, the dedicated Manassas Tower workforce 
+worked arduously to ensure seamless airport operations. Manassas Tower 
+is one of few towers to have zero staffing triggers throughout the 
+shutdown, a testament to the unwavering commitment and efforts of its 
+employees.
+  The Manassas Tower is a critical part of regional air traffic. As the 
+largest regional airport in Virginia and ranked in the top 25 percent 
+of busiest general aviation airports, it oversaw over 100,000 flights 
+in 2024. In addition to prioritizing the safety of all flights moving 
+through the airport, Manassas Tower is committed to providing 
+mentorship and professional development for all its staff. Their 
+impeccable training for controllers has equipped several employees with 
+the skills and experiences to transition to major airport facilities.
+  Manassas Tower has historically prevailed against difficult 
+circumstances. It has faced critical infrastructure issues yet 
+maintained its role as a leader in air traffic control. As they prepare 
+for commercial flights in 2026, they will continue to be a role model 
+for perseverance and leading with purpose.
+  I ask that my colleagues join me in recognizing and commemorating the 
+efforts of the Manassas Air Traffic Control Tower team.
+
+                          ____________________
+```
