@@ -1,0 +1,148 @@
+---
+granule: CREC-2025-12-10-pt1-PgS8610
+date: 2025-12-10
+edition: CREC
+section: SENATE
+page: S8610
+citation: 171 Cong. Rec. S8610
+---
+
+# Unanimous Consent Request--S. 3380 (Executive Session)
+
+**Speaking:** Marshall, Roger (M001198) [R-KS], Warnock, Raphael G. (W000790) [D-GA], Van Hollen, Chris (V000128) [D-MD]
+
+**Measures:** S. 3380
+
+```
+                   Unanimous Consent Request--S. 3380
+
+  Mr. MARSHALL. Mr. President, healthcare is in a crisis. What 
+Republicans want to do is put patients in charge, not insurance 
+companies. But the first thing we need to do to fix ObamaCare is to 
+address the fraud in ObamaCare. If we can't agree on this, I don't know 
+how we can possibly begin to fix ObamaCare.
+  I refer everyone to the recent week's Government Accounting Office 
+report. They show people enrolled without consent, subsidies flowing 
+from the Federal Government to insurance companies from people who 
+don't even know they are enrolled in ObamaCare. They show that there 
+were toddlers enrolled in ObamaCare. They demonstrated 58,000 dead 
+people who were enrolled in ObamaCare, each of them having premiums 
+sent to insurance companies on their dead body's behalf for some 9 
+months on average. We saw one Social Security number being used over 
+and over again.
+  In fact, over a third of the people on ObamaCare didn't file a claim. 
+Now, I am not saying that all those people are fraudulent. In a group 
+of otherwise healthy folks, maybe 20 percent of people don't file a 
+claim. But from 2021 to 2024, we saw that the number of people not 
+filing a claim went from 19 percent to 35 percent, and that is when the 
+enhanced subsidies kicked in, and therefore many people had zero 
+premiums, so the Federal Government was paying their entire premium.
+  Again, we think that this report demonstrates billions of dollars of 
+fraud, very often estimated at some $25 billion. That is why we 
+introduced our bill, S. 3380, the ACA Marketplace Integrity Act, to 
+stop the fraud. Who could be against that? Who could be against 
+stopping the fraud?
+  Our solution--I think it is pretty simple.
+  First of all, mandatory identification verification for enrollment. 
+Look, you can't get on an airplane, you can't get a hotel room, you 
+can't rent a car without an ID. So let's verify identification. That is 
+going to help decrease the fraud.
+  Secondly, we are asking for a minimal monthly payment from everybody 
+involved in ObamaCare. We are asking for $5--the cost of a Big Mac, 
+maybe a Big Mac meal. For $5--we are asking people to contribute to 
+their own healthcare insurance, and we don't think that is too much to 
+ask.
+  How is that going to prevent fraud? Well, look, if you are seeing $5 
+taken out of your paycheck or your bank account or charged to your 
+debit card every month, you are going to sit there and say: Huh, where 
+is that coming from? And if you contact the person where that debit is 
+going to, then you are going to find out, oh, it is an insurance 
+company.
+  I know we have all had something similar to that happen to us where 
+we signed up for some type of streaming service years ago, and you 
+can't get it off your credit card, but it just keeps recurring.
+  So what we are asking for is a minimum monthly payment of $5 from 
+everybody on ObamaCare.
+  Now, my friends across the aisle are going to say that eliminating 
+the zero-dollar premium will prevent people from getting a plan and 
+that it is a trap to dismantle the ACA.
+  Look, I am not trying to dismantle the ACA; I am trying to fix it. I 
+am trying to fix it for the folks who have seen their premiums more 
+than double, people whose deductibles went from $1,000 a year to 
+$15,000 a year. Why would we want those fraud dollars going to the 
+insurance companies of all things? Let's take that same money and fund 
+healthcare savings accounts.
+  Now, the next point we do with our bill is we codify President 
+Trump's integrity rule to strengthen verification. I think that just 
+these simple tests, these simple solutions, will decrease the fraud.
+  I think what consumers need to realize is that, just like 
+shoplifting--even though the day you are there shopping, someone 
+shoplifting doesn't impact the price of what you are buying, eventually 
+it does. So this shoplifting, this fraud that is going on where we are 
+taking good, hard-earned taxpayer money and sending it to insurance 
+companies, is driving up the cost of healthcare for everybody, and 
+every wasted dollar skips the real care that is needed.
+  I don't know why my Democrat friends want to prioritize insurance 
+companies over real people and shrug their shoulders at fraud by 
+fighting subsidy cuts.
+  What we as Republicans demand is honesty, accountability, 
+transparency, and then we are going to redirect these subsidies. Let's 
+redirect the subsidies, empowering patients over insurance companies--
+again, all with transparent services. But we have to start with anti-
+fraud. If we can't agree to stop funding imaginary enrollees, what can 
+we agree on? If it is not our plan, then what is the Democrats' plan? 
+Show us a plan that fights fraud.
+  In Kansas and in every State of this Union, resources are blessings. 
+It is Christmastime. It is a time to remember other people. I truly 
+want every person in America to have meaningful, affordable access to 
+healthcare, and the Republican plan does that. But we have to start by 
+stopping the fraud.
+  Let's not waste hard-earned taxpayer dollars. Let's stop throwing 
+good money after bad money.
+  This bill will stop the fraud. It is going to prioritize patients. 
+And I urge every Member of the Senate to help us immediately stop the 
+fraud.
+  Mr. President, I ask unanimous consent that, as if in legislative 
+session and notwithstanding rule XXII, the Finance Committee be 
+discharged from further consideration of S. 3380 and the Senate proceed 
+to its immediate consideration. I further ask that the bill be 
+considered read a third time and passed and that the motion to 
+reconsider be considered made and laid upon the table.
+  The PRESIDING OFFICER. Is there an objection?
+  The Senator from Georgia.
+  Mr. WARNOCK. Mr. President, reserving the right to object, listen, I 
+have had the honor of working with my friend the Senator from Kansas on 
+many issues, and I welcome him to join the conversation on our side of 
+the table about how to get people affordable healthcare.
+  I can tell you that as I move across the State of Georgia, which is a 
+non-expansion State, much like Texas, people are trying to figure out 
+how they are going to keep their healthcare.
+  In about a month, folks will see their healthcare premiums double, on 
+average. For some, it will triple. For others, it will quadruple. 
+People will lose their healthcare, and some people will die as a result 
+of that.
+  A healthcare policy in general is a matter of life and death. We have 
+seen the Republicans through their ``Big Ugly Bill'' cut $1 trillion 
+out of Medicaid, and 15 million people lost their
+
+[[Page S8611]]
+
+healthcare. Now 22 million people are going to see their healthcare 
+double, on average. That is the problem we are confronting right now.
+  I have not heard a solution from that side of the aisle about how to 
+fix that. So I object that we would add yet another 1 million people 
+who will not be covered as a result of this plan that my colleague from 
+the State of Kansas is offering this evening.
+  It is particularly harmful for nonexpansion States. Some may 
+reasonably ask: Why these zero-dollar premiums? Georgia, like Kansas, 
+is a nonexpansion State. The truth is, a lot of these folks who have 
+the zero-dollar premium plans, they would have zero dollars if they 
+were in an expansion State.
+  So for me, it is a matter of fairness. I am standing up for the 
+people in my State of Georgia. There are 500,000 Georgians in the 
+healthcare coverage cap. If they lived in California, if they lived in 
+New York, if they lived in North Carolina, they would be covered. And 
+so, for that reason and others, I object.
+  The PRESIDING OFFICER. The objection is noted.
+  The PRESIDING OFFICER. The Senator from Alabama.
+```
