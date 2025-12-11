@@ -1,0 +1,45 @@
+---
+granule: CREC-2025-12-11-pt1-PgH5767-2
+date: 2025-12-11
+edition: CREC
+section: HOUSE
+page: H5767
+citation: 171 Cong. Rec. H5767
+---
+
+# WOLVES SHOULD NOT BE AN ENDANGERED SPECIES
+
+**Speaking:** LaMalfa, Doug (L000578) [R-CA]
+
+```
+               WOLVES SHOULD NOT BE AN ENDANGERED SPECIES
+
+  (Mr. LaMALFA asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. LaMALFA. Mr. Speaker, there is a lot of talk about the word 
+``affordability'' around here these days. I am going to touch on the 
+burdensome regulations that make the cost of everything go up.
+  There is a lot of worry about what the cost of beef is, the cost of 
+groceries in general, but what is helping drive up the cost of beef? I 
+will tell you what is hurting the cost of producing it for growers is 
+the introduction of more and more wolves to the areas where they grow 
+their product, like in northeast California, Colorado, and other areas 
+around the country.
+  What is the issue there? Under the Endangered Species Act, somehow 
+the wolf is still seen as an endangered species, even though there are 
+tens of thousands of them scattered across the country. A lot of them 
+end up in the upper Midwest.
+  The rule seems to be that you have to have them in every single 
+county, in every rural area. Otherwise, they still count as endangered.
+  It is costing growers thousands and thousands of dollars, while the 
+government is operating many millions of dollars of an operation to 
+spread these wolves around. The latest scheme is to pull them out of 
+places like Washington and bring them down into Colorado, capturing 
+wolves that are already there.
+  Why are we doing this? Why are we driving the cost of food up? Why 
+are we making it impossible for the growers to be able to keep their 
+livestock alive as well as the wildlife that are devastating areas 
+because of a nonendangered animal?
+
+                          ____________________
+```

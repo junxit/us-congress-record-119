@@ -1,0 +1,55 @@
+---
+granule: CREC-2025-12-11-pt1-PgE1181-2
+date: 2025-12-11
+edition: CREC
+section: EXTENSIONS
+page: E1181
+citation: 171 Cong. Rec. E1181
+---
+
+# NATIONAL DEFENSE AUTHORIZATION ACT FOR FISCAL YEAR 2026
+
+**Speaking:** Green, Al (G000553) [D-TX]
+
+```
+        NATIONAL DEFENSE AUTHORIZATION ACT FOR FISCAL YEAR 2026
+
+                                 ______
+                                 
+
+                               speech of
+
+                             HON. AL GREEN
+
+                                of texas
+
+                    in the house of representatives
+
+                      Wednesday, December 10, 2025
+
+  Mr. GREEN of Texas. Mr. Speaker, I rise to indicate my reasons that I 
+will not be voting to fund Israel's military, most of which are 
+contained in the letter that was delivered to Speaker Mike Johnson's 
+office on December 10, 2025.
+  I ask that funding for our military not be linked to funding Israel's 
+military. I support our military. I do not approve of attaching my 
+support for our military to Israel's military. We, who support our 
+military should be allowed to do so without having to fund Israel's 
+military. Those who support Israel's military should be able to do so 
+in a standalone bill. I cannot in good conscience vote to authorize 
+sending our tax dollars to a military whose prime minister has been 
+accused by the International Criminal Court of ``the war crimes of 
+starvation as a method of warfare and of intentionally directing an 
+attack against the civilian population; and the crimes against humanity 
+of murder, persecution, and other inhumane acts;'' to a military that 
+has killed more than 70,000 thousand Palestinian men, women, and 
+especially children in Gaza.
+  If my request to detach funding our military from funding Israel's 
+military in legislation is not granted, I will oppose the legislation. 
+While I believe Israel should have a military, I will not vote to 
+support funding Israel's military. I make this request on behalf of 
+myself and no one else. On some issues it is better to stand alone than 
+not stand at all.
+
+                          ____________________
+```

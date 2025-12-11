@@ -1,0 +1,48 @@
+---
+granule: CREC-2025-12-11-pt1-PgH5804-5
+date: 2025-12-11
+edition: CREC
+section: HOUSE
+page: H5804
+citation: 171 Cong. Rec. H5804
+---
+
+# CHAMPIONS OF THE WEEK: KAXTEN McGREW, BASTAIN NOWAK, AND LUKE HINKELMAN
+
+**Speaking:** Sykes, Emilia Strong (S001223) [D-OH]
+
+```
+CHAMPIONS OF THE WEEK: KAXTEN McGREW, BASTAIN NOWAK, AND LUKE HINKELMAN
+
+  (Mrs. SYKES asked and was given permission to address the House for 1 
+minute and to revise and extend her remarks.)
+  Mrs. SYKES. Mr. Speaker, today, I rise to honor Kaxten McGrew, 
+Bastian Nowak, and Luke Hinkelman as the winners of the 2025 
+Congressional App Challenge for our district and name them as Ohio's 
+13th Congressional District's champions of the week.
+  Their app, Eagle Express, is an innovative system that allows 
+students and teachers to better track and complete transactions within 
+their school's token-based incentive program. The app will help 
+teachers better manage students and students better manage their 
+finances.
+  Named after STEM High School's mascot, Beak Bucks allow teachers to 
+award points to students for positive behavior in the form of paper 
+money that they can redeem for prizes, but Kaxten, Bastian, and Luke 
+felt this was inconsistent and susceptible to forgery and fraud.
+  Their app, Eagle Express, establishes online wallets for students to 
+virtually track their Beak Bucks balances and redeem them for prize 
+rewards. Eagle Express also streamlines the process for teachers, 
+creating more efficient ways to track and allocate Beak Bucks.
+  Mr. Speaker, stories of innovation like these raise my spirits and 
+make me more optimistic for the future of our district and the rest of 
+the country.
+  Kaxten, Bastian, and Luke are impressive examples of what our 
+children can do when we invest in their futures and set them free to 
+explore their interests.
+  Mr. Speaker, I, once again, extend to them my congratulations for 
+being named 2025 App Challenge winners for Ohio's 13th Congressional 
+District. We cannot wait to see what the future holds for these three 
+young people.
+
+                          ____________________
+```

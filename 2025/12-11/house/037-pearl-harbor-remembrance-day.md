@@ -1,0 +1,39 @@
+---
+granule: CREC-2025-12-11-pt1-PgH5802-3
+date: 2025-12-11
+edition: CREC
+section: HOUSE
+page: H5802
+citation: 171 Cong. Rec. H5802
+---
+
+# PEARL HARBOR REMEMBRANCE DAY
+
+**Speaking:** Thompson, Glenn (T000467) [R-PA]
+
+```
+                      PEARL HARBOR REMEMBRANCE DAY
+
+  (Mr. THOMPSON of Pennsylvania asked and was given permission to 
+address the House for 1 minute and to revise and extend his remarks.)
+  Mr. THOMPSON of Pennsylvania. Mr. Speaker, over the weekend, we 
+marked a solemn day: Pearl Harbor Remembrance Day.
+  On December 7, 1941, our great Nation was suddenly attacked by the 
+Imperial Japanese Navy, killing more than 2,400 American servicemembers 
+and civilians and propelling us into World War II.
+  On the 84th anniversary of the attack, we remember those brave souls 
+who lost their lives that day, and we honor those who survived. There 
+are only 12 remaining survivors, and they are all over 100 years old.
+  Unfortunately, none were able to make the trip to Hawaii this year 
+for the remembrance ceremony, but we are forever indebted to their 
+sacrifices. We will forever honor all of the Americans who were at the 
+naval base in Pearl Harbor, Hawaii, that day.
+  Mr. Speaker, President Franklin D. Roosevelt said:
+  ``No matter how long it may take us to overcome this premeditated 
+invasion, the American people in their righteous might will win through 
+to absolute victory.''
+  And we did.
+  God bless those who lost their lives that day, and God bless America.
+
+                          ____________________
+```

@@ -1,0 +1,42 @@
+---
+granule: CREC-2025-12-11-pt1-PgH5804-6
+date: 2025-12-11
+edition: CREC
+section: HOUSE
+page: H5804
+citation: 171 Cong. Rec. H5804
+---
+
+# THANKING PRESIDENT TRUMP
+
+**Speaking:** Grothman, Glenn (G000576) [R-WI]
+
+```
+                        THANKING PRESIDENT TRUMP
+
+  (Mr. GROTHMAN asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. GROTHMAN. Mr. Speaker, I thank President Trump and his Secretary 
+of Defense for acting resolutely when it became apparent a boat full of 
+illegal drugs, including fentanyl, was coming across the Caribbean Sea.
+  Every year in this country about 80,000 people have been dying. It 
+used to be over 100,000 people killed from illegal drugs. For far too 
+long, wimpy Presidents sat there, watched it happen, and didn't do 
+anything.
+  Finally, President Trump stepped up to the plate when he heard that 
+there was a boat coming with enough fentanyl to kill millions of 
+Americans. He acted resolutely. I am sure he had lawyers who told him 
+he could and lawyers who told him he couldn't. He said, I am going to 
+err on the side of saving tens of thousands of American lives.
+  Mr. Speaker, I recently found out that I knew somebody whose son died 
+of a fentanyl overdose and how horrible that must be. The rest of their 
+life must be devastated. I am glad President Trump feels their pain, 
+and he is acting strongly in this situation.
+  I thank President Trump.
+
+[[Page H5805]]
+
+  
+
+                          ____________________
+```

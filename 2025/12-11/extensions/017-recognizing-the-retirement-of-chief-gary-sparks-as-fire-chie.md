@@ -1,0 +1,54 @@
+---
+granule: CREC-2025-12-11-pt1-PgE1180-3
+date: 2025-12-11
+edition: CREC
+section: EXTENSIONS
+page: E1180
+citation: 171 Cong. Rec. E1180
+---
+
+# RECOGNIZING THE RETIREMENT OF CHIEF GARY SPARKS AS FIRE CHIEF FOR THE CITY OF OXFORD, ALABAMA
+
+**Speaking:** Rogers, Mike D. (R000575) [R-AL]
+
+```
+ RECOGNIZING THE RETIREMENT OF CHIEF GARY SPARKS AS FIRE CHIEF FOR THE 
+                        CITY OF OXFORD, ALABAMA
+
+                                  _____
+                                 
+
+                            HON. MIKE ROGERS
+
+                               of alabama
+
+                    in the house of representatives
+
+                      Thursday, December 11, 2025
+
+  Mr. ROGERS of Alabama. Mr. Speaker, I rise today to recognize Fire 
+Chief Gary Sparks on his retirement, after more than 40 years of 
+service as a firefighter for the City of Oxford, Alabama.
+  Chief Sparks began his work with the City of Oxford when he was just 
+15 years old, washing trucks and cleaning the station. On May 12, 1983, 
+he became an official member of the Oxford Volunteer Fire Department.
+  He later became a full-time member of the Anniston Fire Department on 
+February 13, 1987, rising through the ranks to eventually become 
+Assistant Fire Chief in 2003.
+  After 20 years of service with the Anniston Fire Department, he 
+retired on February 13, 2007. Chief Sparks became full-time Fire Chief 
+for the City of Oxford on March 3, 2007.
+  Chief Sparks is involved in several civic organizations in his 
+community. He is currently serving on the Alabama Joint Fire Council. 
+He has served Alabama's fire service for eight years with dedication 
+and insight as a member of the Personnel Standards & Education 
+Commission with the Alabama Fire College. He is a Past President of the 
+Alabama Fire Chiefs Association and was voted the 2015 Alabama Fire 
+Chief of the Year.
+  In addition to being a dedicated firefighter, Chief Sparks is also a 
+committed husband to his wife, Monica, a wonderful father to his son 
+Robert (Meaghen) and grandfather to McKenna and Conor.
+  On February 2, 2026, Chief Sparks will retire.
+
+                          ____________________
+```
