@@ -1,0 +1,39 @@
+---
+granule: CREC-2025-12-15-pt1-PgH5889-2
+date: 2025-12-15
+edition: CREC
+section: HOUSE
+page: H5889
+citation: 171 Cong. Rec. H5889
+---
+
+# VISITING SALT LAKE TEMPLE
+
+**Speaking:** Kennedy, Mike (K000403) [R-UT]
+
+```
+                       VISITING SALT LAKE TEMPLE
+
+  (Mr. KENNEDY of Utah asked and was given permission to address the 
+House for 1 minute and to revise and extend his remarks.)
+  Mr. KENNEDY of Utah. Mr. Speaker, in 2027, beginning in April and 
+ending in October, the Salt Lake Temple, which is to my left, will be 
+open for public tours.
+  All are welcome, with 3 million to 5 million visitors expected during 
+this historic event that will be important to Utahns and especially to 
+those who will again worship and serve there. I invite all of my 
+colleagues in the House and their friends to visit Salt Lake City and 
+tour the temple with me.
+  Though it was not the first, it has become the most recognizable 
+temple of
+
+[[Page H5890]]
+
+The Church of Jesus Christ of Latter-day Saints.
+  Many visitors associate the temple with Utah's capital city. The 
+temple is built of native granite and took 40 years to complete, with 
+the goal to construct it so it would last throughout time.
+  Come experience the spirit of this event with me.
+
+                          ____________________
+```

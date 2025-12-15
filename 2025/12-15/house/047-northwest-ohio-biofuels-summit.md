@@ -1,0 +1,43 @@
+---
+granule: CREC-2025-12-15-pt1-PgH5890-3
+date: 2025-12-15
+edition: CREC
+section: HOUSE
+page: H5890
+citation: 171 Cong. Rec. H5890
+---
+
+# NORTHWEST OHIO BIOFUELS SUMMIT
+
+**Speaking:** Kaptur, Marcy (K000009) [D-OH]
+
+```
+                              {time}  1910
+                     NORTHWEST OHIO BIOFUELS SUMMIT
+
+  (Ms. KAPTUR asked and was given permission to address the House for 1 
+minute and to revise and extend her remarks.)
+  Ms. KAPTUR. Mr. Speaker, I say thank you so very much to Ohio's corn 
+and soy farmers for their excellent agricultural summit in which I 
+participated about a week ago in Defiance, Ohio. We discussed the 
+importance of biofuels as a reliable source of income for northwest 
+Ohio farmers, in fact, 44 percent of their income and rising.
+  This is a great victory for our country over the last three decades. 
+Let me thank our region's farmers, processors, and growers for bringing 
+together leaders from the biofuels industry, ag commodity groups, Ohio 
+Farm Bureau, and refineries to hear directly about the increase in 
+demand and production for biofuels as a new initiative every day to 
+increase income for farmers as they lose export markets due to tariffs. 
+Biofuels now comprise over 44 percent of their bottom line.
+  In the early days, I worked with Senators on both sides of the aisle 
+and led the effort here in the House to make sure people had access to 
+E85 ethanol at the fuel pumps. It has been a great gift of my career to 
+have served long enough to see that we have been successful.
+  We also flew the first fighter jet F-16 out of our base 20 years ago 
+using biofuels, and it worked. We are very proud of this industry as it 
+grows. My hat is off to Ohio farmers and Midwest farmers who are making 
+this reality in our lifetime. What America makes and grows makes and 
+grows America.
+
+                          ____________________
+```

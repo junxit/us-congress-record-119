@@ -1,0 +1,49 @@
+---
+granule: CREC-2025-12-15-pt1-PgS8741-4
+date: 2025-12-15
+edition: CREC
+section: SENATE
+page: S8741
+citation: 171 Cong. Rec. S8741
+---
+
+# Text of Senate Amendment 3989
+
+**Speaking:** Cornyn, John (C001056) [R-TX]
+
+```
+  SA 3989. Mr. CORNYN (for himself and Mr. Kelly) submitted an 
+amendment intended to be proposed by him to the bill S. 3052, to 
+promote recruiter access to secondary schools; which was referred to 
+the Committee on Armed Services; as follows:
+
+        Strike all after the enacting clause and insert the 
+     following:
+
+     SECTION 1. RECRUITER ACCESS TO SECONDARY SCHOOLS.
+
+       Section 503(c)(1)(A) of title 10, United States Code, is 
+     amended by striking clauses (i) through (iii) and inserting 
+     the following new clauses:
+       ``(i) shall provide to a military recruiter, for the 
+     purpose of recruiting students who are at least 17 years old, 
+     access--
+       ``(I) to the campus of a secondary school under the 
+     jurisdiction of such local educational agency; and
+       ``(II) that is equivalent to access provided to such campus 
+     to a prospective employer of such students, an institution of 
+     higher education, or another recruiter;
+       ``(ii) shall, upon the request of a military recruiter for 
+     the purpose described in clause (i), provide access to at 
+     least one in-person recruitment event (such as a career fair) 
+     per academic year; and
+       ``(iii) shall, upon the request of a military recruiter for 
+     the purpose described in clause (i), provide, not later than 
+     30 days after receiving such request, access to secondary 
+     school student names, addresses, electronic mail addresses 
+     (which shall be the electronic mail addresses provided by the 
+     school, if available), and telephone and mobile phone 
+     listings, notwithstanding subsection (a)(5) of section 444 of 
+     the General Education Provisions Act (20 U.S.C. 1232g).''.
+                                 ______
+```
