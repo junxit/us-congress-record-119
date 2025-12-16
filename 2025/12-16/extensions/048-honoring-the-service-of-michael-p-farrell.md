@@ -1,0 +1,59 @@
+---
+granule: CREC-2025-12-16-pt1-PgE1212-3
+date: 2025-12-16
+edition: CREC
+section: EXTENSIONS
+page: E1212
+citation: 171 Cong. Rec. E1212
+---
+
+# HONORING THE SERVICE OF MICHAEL P. FARRELL
+
+**Speaking:** Carter, John R. (C001051) [R-TX]
+
+```
+               HONORING THE SERVICE OF MICHAEL P. FARRELL
+
+                                 ______
+                                 
+
+                          HON. JOHN R. CARTER
+
+                                of texas
+
+                    in the house of representatives
+
+                       Tuesday, December 16, 2025
+
+  Mr. CARTER of Texas. Mr. Speaker, Captain Michael P. Farrell has 
+lived a life defined by service to his country and his community, and I 
+am honored to recognize him with a Congressional Veteran Commendation.
+  Captain Farrell began his distinguished Coast Guard career in 1977 
+and graduated from the U.S. Coast Guard Academy in 1981. Over 32 years 
+of service, he served as a helicopter pilot, conducting lifesaving 
+missions, performing high-risk rescues, and supporting operations 
+around the world. He participated in Operation Uphold Democracy in 
+Haiti and later served as Chief of the Migrant Interdiction Division at 
+Coast Guard Headquarters, where he oversaw the safe repatriation of 
+hundreds of migrants in coordination with the Departments of State and 
+Defense and the National Security Council.
+  As Coast Guard Attache to the U.S. Embassy in Mexico City, Captain 
+Farrell helped forge a historic law enforcement agreement with the 
+Mexican Navy, leading to enhanced joint operations, maritime security 
+cooperation, and the seizure of a semi-submersible vessel carrying more 
+than five tons of cocaine. His distinguished career earned him numerous 
+honors, including the Legion of Merit, the Meritorious Service Medal, 
+the Coast Guard Commendation Medal, and the Coast Guard Achievement 
+Medal.
+  Since retiring in 2009, Captain Farrell has continued his commitment 
+to service through work with several Texas state agencies focused on 
+safety and family protection. He has also shared his expertise as an 
+educator at St. Edward's University, the University of Phoenix, and 
+Hawai'i Pacific University. A devoted volunteer, he has served with the 
+Knights of Columbus, Mobile Loaves & Fishes, and the St. John Vianney 
+Committee.
+  On behalf of the United States House of Representatives, I extend my 
+deepest appreciation to Captain Michael P. Farrell for his lifelong 
+dedication to service and his enduring impact on both his country and 
+his community.
+```

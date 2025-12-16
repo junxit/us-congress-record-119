@@ -1,0 +1,52 @@
+---
+granule: CREC-2025-12-16-pt1-PgH5903
+date: 2025-12-16
+edition: CREC
+section: HOUSE
+page: H5903
+citation: 171 Cong. Rec. H5903
+---
+
+# CONGRATULATING TEXAS TECH RED RAIDERS
+
+**Speaking:** Arrington, Jodey C. (A000375) [R-TX]
+
+```
+                 CONGRATULATING TEXAS TECH RED RAIDERS
+
+  (Mr. Arrington of Texas was recognized to address the House for 5 
+minutes.)
+  Mr. ARRINGTON. Mr. Speaker, as we say in west Texas: ``Sun's up. Guns 
+up.'' Our Texas Tech Red Raiders have gone through this football 
+season, guns ablazing, and have taken the Big 12 by storm. They posted 
+a historic 11-win regular season with an average victory margin of more 
+than 35 points and their best year since 2008.
+  Now, after securing their outright Big 12 championship, the Red 
+Raiders are knocking on the door of their first-ever national 
+championship.
+  I congratulate Coach Joey McGuire, his tremendous staff, and the 
+outstanding student athletes at Texas Tech, all of whom represent the 
+spirit of west Texas: tenacious, relentless, and 100 percent class and 
+character.
+  Mr. Speaker, Texas Tech, I would argue, is America's team. It is a 
+Main Street university in middle America made up of mostly kids from 
+working families. It is a heartland culture that reflects our Nation's 
+traditional faith and family values.
+  Like our pioneering fathers who braved the harsh elements to settle 
+the Great Plains of west Texas, Red Raiders know how to work, how to 
+fight, and never quit. They don't expect anybody to give them anything. 
+They don't waste time complaining about being underrated or 
+underestimated.
+  They know that respect is earned and not given. They know it is not 
+about pleasing the crowd or the pundits. It is about giving their best 
+to each other, to themselves, and to their university that they love.
+  I am proud to be a Red Raider. I am honored to represent Texas Tech 
+in Congress. I am fired up for the country to know more about west 
+Texas, the food, fuel, fiber, and football capital of the world.
+  Mr. Speaker, as for me and my house, we will be in Miami on New 
+Year's Day with a lot of proud and rowdy Red Raiders cheering on 
+America's team to win it all.
+  Guns up. Go, Red Raiders. Let's win that national championship.
+
+                          ____________________
+```

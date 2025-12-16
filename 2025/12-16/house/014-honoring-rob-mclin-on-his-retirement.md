@@ -1,0 +1,75 @@
+---
+granule: CREC-2025-12-16-pt1-PgH5906
+date: 2025-12-16
+edition: CREC
+section: HOUSE
+page: H5906
+citation: 171 Cong. Rec. H5906
+---
+
+# HONORING ROB McLIN ON HIS RETIREMENT
+
+**Speaking:** Messmer, Mark B. (M001233) [R-IN]
+
+```
+                  HONORING ROB McLIN ON HIS RETIREMENT
+
+  (Mr. Messmer of Indiana was recognized to address the House for 5 
+minutes.)
+  Mr. MESSMER. Mr. Speaker, I rise today to honor a Hoosier leader and 
+a man whose service to our community has had a great impact on all of 
+Indiana and the healthcare industry of our country. After 34 fruitful 
+years, Mr. Rob McLin will retire in January from Good Samaritan 
+Hospital in Vincennes, Indiana, the hospital in which he was born.
+  Over the years, Rob has shown great leadership at every level he has 
+worked, including 15 years as president and CEO.
+  His tenure brought some of the most transformative advancements in 
+Good Samaritan history, including the Beacon Project, the Gibault 
+Memorial Tower construction, implementation of the Epic medical records 
+system, creation of the hospital's EMS program, expansion of the Family 
+Health Center, and establishment of a residency program that now 
+educates new physicians in southern Indiana.
+  Rob has led the hospital through immense challenges, including the 
+disastrous COVID-19 pandemic. He is a well-respected healthcare 
+advocate, having served as the chair of the Indiana Hospital 
+Association in 2020; and this year receiving the distinguished service 
+award, which is one of the highest honors in Indiana healthcare.
+  Rob retires, leaving not only his many accomplishments but also a 
+legacy of compassion, excellence, and commitment to the people who he 
+served. I congratulate him on his well-deserved retirement and wish him 
+many happy adventures with his wife, Angela, and their children and 
+grandchildren.
+  Mr. Speaker, I thank Rob for his great service to our community.
+
+
+              Honoring Rockport Elementary School Students
+
+  Mr. MESSMER. Mr. Speaker, I rise today to honor an extraordinary 
+group of young, Eighth District Hoosier artists from Indiana's Rockport 
+Elementary School whose handmade Christmas ornaments are beautifully 
+representing our great State at this year's National Christmas Tree 
+Lighting Festival.
+  Each year, students from across the country are chosen to design 
+Christmas tree ornaments that reflect the beauty and character of their 
+home State.
+  This year, Rockport Elementary students in my district created 
+wonderful ornaments that celebrate the spirit of Indiana, with some 
+ornaments honoring our proud agricultural heritage and others 
+displaying our State bird, the ruby red northern cardinal; and our 
+State flower, the elegant peony.
+  Their artwork showcases everything from the Indy 500 race to our 
+perpetual rolling cornfields and even pays tribute to Abraham Lincoln's 
+boyhood home. These students just didn't create decorations, but they 
+captured the spirit of our Hoosier State for the whole Nation to 
+admire.
+  When I landed in Washington, D.C., this week, I went straight from 
+the airport to visit our special State tree nearby the White House 
+Christmas tree. I was so proud to see the artistry of our students, and 
+I am inspired by their talent and creativity.
+  Mr. Speaker, I congratulate every student who contributed to this 
+wonderful display, as well as the teachers and families who encouraged 
+their education and talents. Rockport Elementary has made Indiana 
+proud, and I am honored to recognize their achievements here today.
+
+                          ____________________
+```

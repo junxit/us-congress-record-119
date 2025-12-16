@@ -1,0 +1,62 @@
+---
+granule: CREC-2025-12-16-pt1-PgE1207-3
+date: 2025-12-16
+edition: CREC
+section: EXTENSIONS
+page: E1207
+citation: 171 Cong. Rec. E1207
+---
+
+# HONORING OFFICERS GONZALO RUBIO AND FRANK MALDONADO OF THE BROWNSVILLE POLICE DEPARTMENT
+
+**Speaking:** Gonzalez, Vicente (G000581) [D-TX]
+
+```
+HONORING OFFICERS GONZALO RUBIO AND FRANK MALDONADO OF THE BROWNSVILLE 
+                           POLICE DEPARTMENT
+
+                                 ______
+                                 
+
+                         HON. VICENTE GONZALEZ
+
+                                of texas
+
+                    in the house of representatives
+
+                       Tuesday, December 16, 2025
+
+  Mr. VICENTE GONZALEZ of Texas. Mr. Speaker, I rise today to recognize 
+Officers Gonzalo Rubio and Frank Maldonado of the Brownsville Police 
+Department for an extraordinary act of compassion that reflects the 
+very best of public service and community-centered policing.
+  In the early morning hours of December 5, 2025, while on routine 
+patrol in downtown Brownsville, Texas, Officers Rubio and Maldonado 
+noticed a man lying on the sidewalk wrapped in a blanket. With 
+temperatures in the low 50's and cold, breezy conditions, the officers 
+stopped to conduct a welfare check. Upon approaching the individual, 
+they observed that he was shivering, soaked from the damp blanket he 
+was using for cover. As they further assessed his condition, the 
+officers realized the man was not fully clothed and exposed to the 
+elements.
+  Recognizing the immediate safety concern, Officers Rubio and 
+Maldonado attempted to locate an open business nearby to purchase 
+clothing. When they found that all downtown stores were closed at that 
+hour, they chose not to treat the situation as routine or walk away. 
+Instead, they drove to a nearby Walmart and used their own personal 
+funds to purchase warm, dry clothing. The officers returned with the 
+items and ensured the man was safe and comfortable.
+  This quiet, selfless act speaks volumes about the character of 
+Officers Rubio and Maldonado. Their actions exemplify the Brownsville 
+Police Department's guiding principle of ``Service From the Heart,'' 
+demonstrating that true public safety is grounded not only in 
+enforcement, but in empathy, dignity, and care for the most vulnerable 
+among us.
+  Officers Gonzalo Rubio and Frank Maldonado went beyond the call of 
+duty to help a fellow human being in need. Their actions are a powerful 
+reminder that policing at its best is about compassion, humanity, and 
+service to the community. I am proud to recognize them for their 
+commitment to the people of Brownsville.
+
+                          ____________________
+```

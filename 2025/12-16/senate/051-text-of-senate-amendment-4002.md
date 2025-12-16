@@ -1,0 +1,31 @@
+---
+granule: CREC-2025-12-16-pt1-PgS8785-2
+date: 2025-12-16
+edition: CREC
+section: SENATE
+page: S8785
+citation: 171 Cong. Rec. S8785
+---
+
+# Text of Senate Amendment 4002
+
+**Speaking:** Merkley, Jeff (M001176) [D-OR]
+
+```
+  SA 4002. Mr. MERKLEY submitted an amendment intended to be proposed 
+by him to the bill H.R. 4016, making appropriations for the Department 
+of Defense for the fiscal year ending September 30, 2026, and for other 
+purposes; which was ordered to lie on the table; as follows:
+
+       At the appropriate place, insert the following:
+
+     SEC. ___. PROHIBITION ON LAST-MINUTE RESCISSIONS.
+
+       Notwithstanding any provision of the Impoundment Control 
+     Act of 1974 (2 U.S.C. 681 et seq.), a special message 
+     transmitted under section 1012 or 1013 of such Act may not 
+     propose to rescind or defer any budget authority that expires 
+     on or before the date that is 90 days after the date on which 
+     such special message is transmitted.
+                                 ______
+```

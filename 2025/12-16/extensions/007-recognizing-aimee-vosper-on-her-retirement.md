@@ -1,0 +1,65 @@
+---
+granule: CREC-2025-12-16-pt1-PgE1204-2
+date: 2025-12-16
+edition: CREC
+section: EXTENSIONS
+page: E1204
+citation: 171 Cong. Rec. E1204
+---
+
+# RECOGNIZING AIMEE VOSPER ON HER RETIREMENT
+
+**Speaking:** Walkinshaw, James R. (W000831) [D-VA]
+
+```
+               RECOGNIZING AIMEE VOSPER ON HER RETIREMENT
+
+                                 ______
+                                 
+
+                        HON. JAMES R. WALKINSHAW
+
+                              of virginia
+
+                    in the house of representatives
+
+                       Tuesday, December 16, 2025
+
+  Mr. WALKINSHAW. Mr. Speaker, I rise today to recognize Aimee Vosper 
+on the occasion of her retirement from the Fairfax County Park 
+Authority and to commend her for more than a decade of distinguished 
+service to the residents of Fairfax County as Park Authority Deputy 
+Director for Planning and Development and Chief of Business 
+Development.
+  For over ten years, Aimee Vosper has provided steady, thoughtful 
+leadership to one of the largest park systems in the country. 
+Throughout her tenure, she demonstrated an unwavering commitment to 
+stewardship, public service, and preservation, while also showing 
+genuine care for the well-being of Park Authority staff, stakeholders, 
+and community partners. Her work reflects a deeply held belief that 
+parks strengthen our communities and improve quality of life for all 
+residents.
+  Aimee's leadership is evident in the countless projects she helped 
+lead during her tenure, including the renovation of the 139,000-square-
+foot Mount Vernon Rec Center and major land acquisitions that moved the 
+Park Authority closer to its goal of setting aside ten percent of 
+Fairfax County as parkland. These efforts set new standards for 
+accessibility, sustainability, and recreational opportunities in 
+Fairfax County.
+  During the unprecedented challenges of the pandemic, Aimee's steady 
+leadership helped ensure that Fairfax County parks remained safe and 
+accessible at a time when residents needed them most. She consistently 
+balanced complex political challenges and competing priories with 
+empathy, professionalism, and an unshakeable commitment to the 
+residents of Fairfax County.
+  Her vision and strategic leadership strengthened the Park Authority's 
+planning, resource management, development, and marketing in truly 
+lasting ways. Aimee Vosper's impact will be felt for generations, and 
+her service reflects the highest standard of what it means to be a 
+public servant.
+  Mr. Speaker, I ask my colleagues to join me in thanking Aimee Vosper 
+for her outstanding contributions to the Fairfax County Park Authority 
+and in wishing her a joyful, fulfilling, and well-earned retirement.
+
+                          ____________________
+```

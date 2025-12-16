@@ -1,0 +1,61 @@
+---
+granule: CREC-2025-12-16-pt1-PgE1205
+date: 2025-12-16
+edition: CREC
+section: EXTENSIONS
+page: E1205
+citation: 171 Cong. Rec. E1205
+---
+
+# SALUTING THE SERVICE OF JOSEPH ALAN MATHIS, SR.
+
+**Speaking:** Carter, John R. (C001051) [R-TX]
+
+```
+            SALUTING THE SERVICE OF JOSEPH ALAN MATHIS, SR.
+
+                                 ______
+                                 
+
+                          HON. JOHN R. CARTER
+
+                                of texas
+
+                    in the house of representatives
+
+                       Tuesday, December 16, 2025
+
+  Mr. CARTER of Texas. Mr. Speaker, I rise to recognize Mr. Joseph Alan 
+Mathis, Sr. with a Congressional Veteran Commendation in honor of his 
+exemplary service to the United States, both in uniform and through 
+decades of continued commitment to his community.
+  Mr. Mathis began his military career in 1970 when he volunteered for 
+service in the United States Army. He rose rapidly through the enlisted 
+ranks from E-1 to E-6 and went on to serve four years in Germany before 
+returning stateside to Fort Bliss. While stationed there, he completed 
+a Bachelor of Science in Business Management, graduating Summa Cum 
+Laude. He later attended the newly established Combat Arms Staff 
+Service School and subsequently served with the 7th Infantry Division 
+Combat Aviation Brigade in California.
+  Promoted to Major, Mr. Mathis was assigned as Chief for Battlefield 
+Automation in Combat Developments at Fort McClellan. He was later 
+selected to serve as the Chemical Officer for the 25th Infantry 
+Division before choosing to retire in order to dedicate more time to 
+his family. Over the course of 23 years, as both an enlisted soldier 
+and commissioned officer, he distinguished himself through leadership, 
+technical expertise, and service to others. He also gave back as a 
+church musician and choir leader, extending his sense of service far 
+beyond his military duties.
+  Following his honorable retirement, Mr. Mathis continued serving the 
+Nation for another 23 years as a contractor supporting the Program 
+Executive Office, where he helped develop advanced technical data 
+systems. He has remained deeply engaged in community service as well as 
+a leader in the Lions Club, President of the Gatesville Exchange Club, 
+a supporter of local emergency management efforts, and an active 
+volunteer with Operation Stand Down Central Texas.
+  I am honored to commend Mr. Joseph Alan Mathis, Sr. for his 
+outstanding service to our country and his steadfast dedication to the 
+Central Texas community.
+
+                          ____________________
+```
