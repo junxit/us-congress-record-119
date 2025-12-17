@@ -1,0 +1,43 @@
+---
+granule: CREC-2025-12-17-pt1-PgH6010-3
+date: 2025-12-17
+edition: CREC
+section: HOUSE
+page: H6010
+citation: 171 Cong. Rec. H6010
+---
+
+# FEDERAL RECOGNITION FOR LUMBEE TRIBE
+
+**Speaking:** Rouzer, David (R000603) [R-NC]
+
+```
+                              {time}  1850
+                  FEDERAL RECOGNITION FOR LUMBEE TRIBE
+
+  (Mr. ROUZER asked and was given permission to address the House for 1 
+minute.)
+  Mr. ROUZER. Madam Speaker, today marks a monumental day for the 
+Lumbee Tribe of North Carolina, the effects of which will transcend 
+generations. The Lumbee have fought tirelessly for decades to achieve 
+full recognition by the U.S. Congress. Today, that day has arrived.
+  The Lumbee Fairness Act, which I offered as an amendment to the 
+National Defense Authorization Act, will soon head to the President's 
+desk, as part of the annual defense bill, for his signature, providing 
+full Federal recognition. This is a historic milestone, decades in the 
+making, and a moment of celebration for a community that has never 
+wavered in its resolve.
+  This amazing achievement would not have been possible without the 
+steadfast leadership of Chairman John Lowery and generations of Lumbee. 
+Their voice has been heard, and their commitment and perseverance have 
+brought us to this historic moment.
+  I commend and thank President Trump for his tremendous support, as 
+well as our current Senators Thom Tillis and Ted Budd, former Senators 
+Elizabeth Dole and Richard Burr, and my many colleagues here in the 
+House who continually supported this effort.
+  Madam Speaker, I thank them all, for the Lumbee are a great and 
+honorable people who deserve Federal recognition with all the rights 
+and benefits that come with it.
+
+                          ____________________
+```

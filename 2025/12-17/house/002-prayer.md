@@ -1,0 +1,39 @@
+---
+granule: CREC-2025-12-17-pt1-PgH5945-2
+date: 2025-12-17
+edition: CREC
+section: HOUSE
+page: H5945
+citation: 171 Cong. Rec. H5945
+---
+
+# PRAYER
+
+```
+                                 PRAYER
+
+  The Chaplain, the Reverend Margaret Grun Kibben, offered the 
+following prayer:
+  From wherever we have come, and wherever we now find ourselves, may 
+our seeking lead us to You, O Lord. No matter how far we have wandered, 
+regardless of the distance we have strayed, You have always remained 
+near to us. May we return to You that You may have mercy on us.
+  Whether our way of life has proven unsustainable, or our life 
+decisions shameful, You have always maintained Your love for us. May we 
+abandon all that has dishonored You and surrender our willfulness to 
+Your forgiveness.
+  Then, by Your forbearance, may we realize that our thoughts are not 
+Your thoughts, nor are our ways Your ways. Your Heavens are high above 
+the Earth, so Your will far surpasses what our limited perspective can 
+imagine.
+  On this day, grant us the overwhelming joy to be found knowing that 
+You want us to have a role in Your sovereign plan. May we engage in the 
+work You have set before us with gratitude for the opportunity You have 
+given us to serve You and this Nation at this time.
+  And may this day bring glory to You and peace in our lives and the 
+lives of those whom we have been called to represent.
+  In Your mighty name, we pray.
+  Amen.
+
+                          ____________________
+```

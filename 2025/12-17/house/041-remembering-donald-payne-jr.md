@@ -1,0 +1,39 @@
+---
+granule: CREC-2025-12-17-pt1-PgH6010-4
+date: 2025-12-17
+edition: CREC
+section: HOUSE
+page: H6010
+citation: 171 Cong. Rec. H6010
+---
+
+# REMEMBERING DONALD PAYNE, JR.
+
+**Speaking:** Norcross, Donald (N000188) [D-NJ]
+
+```
+                     REMEMBERING DONALD PAYNE, JR.
+
+  (Mr. NORCROSS asked and was given permission to address the House for 
+1 minute.)
+  Mr. NORCROSS. Madam Speaker, I rise today to honor my dear friend, 
+Donald Payne, Jr., on what would have been his 67th birthday.
+  There were a few differences between Donald Payne and me. We often 
+got confused. His birthday was on December 17; mine was on December 13. 
+He came from north Jersey; I come from south Jersey. I served the First 
+District; he served the 10th District.
+  What mattered most was what we had in common. We both fought for 
+families in the State of New Jersey. Don brought to New Jersey the 
+values of what we were to be from New Jersey each and every day.
+  He was tough. For those of you who knew him, he had dialysis in the 
+morning and would come here in the afternoon and continue to work. For 
+anybody who has ever been through dialysis, that was tough, and he knew 
+it. We owe him a great debt of gratitude for coming to work each and 
+every day.
+  I will always remember him for his kindness, his compassion, and his 
+open heart; and I will be forever grateful for his friendship.
+  Madam Speaker, from one Don to another from New Jersey, we miss him 
+and his bow tie.
+
+                          ____________________
+```

@@ -1,0 +1,60 @@
+---
+granule: CREC-2025-12-17-pt1-PgS8841-4
+date: 2025-12-17
+edition: CREC
+section: SENATE
+page: S8841
+citation: 171 Cong. Rec. S8841
+---
+
+# SENATE RESOLUTION 564--RECOGNIZING THE ABILITY OF SOLAR, STORAGE, AND WIND TO QUICKLY AND CHEAPLY MEET UNITED STATES POWER DEMAND GROWTH
+
+**Measures:** S.Res. 564
+
+```
+ SENATE RESOLUTION 564--RECOGNIZING THE ABILITY OF SOLAR, STORAGE, AND 
+   WIND TO QUICKLY AND CHEAPLY MEET UNITED STATES POWER DEMAND GROWTH
+
+  Mr. WHITEHOUSE (for himself, Mr. Merkley, Mr. Schatz, Mr. Markey, Mr. 
+Van Hollen, Ms. Duckworth, Ms. Smith, Mr. Padilla, Mr. Welch, and Ms. 
+Blunt Rochester) submitted the
+
+[[Page S8842]]
+
+following resolution; which was referred to the Committee on Energy and 
+Natural Resources:
+
+                              S. Res. 564
+
+       Whereas, as of 2025, United States power demand growth is 
+     higher than at any point in the previous 2 decades;
+       Whereas, over the next 10 years after the date of enactment 
+     of this resolution, nearly every region of the United States 
+     faces potential power capacity shortfalls;
+       Whereas, as of 2025, solar and wind are the most cost-
+     effective forms of new power generation on an unsubsidized 
+     basis and electricity storage (battery) costs are sharply 
+     declining;
+       Whereas, in 2024, solar, storage, and wind made up 93 
+     percent of new power capacity installations in the United 
+     States;
+       Whereas, as of 2025, solar, storage, and wind make up 95 
+     percent of power capacity awaiting grid interconnection in 
+     the United States;
+       Whereas, in 2024, solar and wind produced more electricity 
+     than coal;
+       Whereas, in 2025, costs of new natural gas construction 
+     reached 10-year highs;
+       Whereas, as of 2025, wait times for turbines for new 
+     natural gas-fired power plants are as long as 7 years; and
+       Whereas forcing large fossil fuel plants that are scheduled 
+     to retire in 2026, 2027, and 2028 to keep running could 
+     increase costs to ratepayers by over $3,000,000,000 per year: 
+     Now, therefore, be it
+       Resolved, That the Senate recognizes that accelerating 
+     solar, storage, and wind deployment is essential to meet 
+     rising power demand, and that the United States should 
+     increase production of renewable energy.
+
+                          ____________________
+```

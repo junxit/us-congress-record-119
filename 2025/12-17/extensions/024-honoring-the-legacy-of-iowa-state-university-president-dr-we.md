@@ -1,0 +1,69 @@
+---
+granule: CREC-2025-12-17-pt1-PgE1217-3
+date: 2025-12-17
+edition: CREC
+section: EXTENSIONS
+page: E1217
+citation: 171 Cong. Rec. E1217
+---
+
+# HONORING THE LEGACY OF IOWA STATE UNIVERSITY PRESIDENT, DR. WENDY WINTERSTEEN
+
+**Speaking:** Nunn, Zachary (N000193) [R-IA]
+
+```
+   HONORING THE LEGACY OF IOWA STATE UNIVERSITY PRESIDENT, DR. WENDY 
+                              WINTERSTEEN
+
+                                 ______
+                                 
+
+                           HON. ZACHARY NUNN
+
+                                of iowa
+
+                    in the house of representatives
+
+                      Wednesday, December 17, 2025
+
+  Mr. NUNN of Iowa. Mr. Speaker, I rise today to recognize and honor 
+the remarkable leadership and service of Dr. Wendy Wintersteen, 
+President of Iowa State University, who is retiring after years of 
+distinguished service to the university, the State of Iowa, and the 
+agricultural community nationwide.
+  Dr. Wintersteen's career stands as a testament to the power of 
+education, innovation, and public service. A proud Iowa State 
+University alumna, she earned both her bachelor's and doctoral degrees 
+from the institution she would later lead, showing the next generation 
+of students what it means to enact the Cyclone values of hard work, 
+humility, and service to others.
+  Before becoming Iowa State's 16th and first female president in 2017, 
+Dr. Wintersteen spent decades advancing Iowa's land-grant mission. Her 
+work in the College of Agriculture and Life Sciences and the Iowa State 
+University Extension and Outreach program helped strengthen Iowa's 
+leadership in agricultural research and community development. She 
+built partnerships that lasted, connected classrooms to family farms, 
+and ensured that students learned not just from textbooks but from the 
+people who grow our food and fuel our economy. Through her efforts, she 
+ensured that Iowa's innovation in agriculture continues to feed our 
+Nation and fuel the world.
+  Under her leadership as president, Iowa State saw record-breaking 
+research funding, significant campus improvements, and expanded 
+opportunities for students from all
+
+[[Page E1218]]
+
+walks of life. She guided the university through challenges with 
+resilience and vision, always putting students first and keeping Iowa 
+at the heart of every decision she made. President Wintersteen 
+represents the very best of what a Cyclone can and should be.
+  Mr. Speaker, President Wintersteen's dedication to education and 
+public service has inspired thousands across our state. Her legacy will 
+endure in the classrooms she strengthened, the students she championed, 
+and the future leaders she helped shape.
+  I ask my colleagues to join me in recognizing President Wendy 
+Wintersteen for her extraordinary contributions to higher education, 
+agriculture, and the people of Iowa.
+
+                          ____________________
+```
