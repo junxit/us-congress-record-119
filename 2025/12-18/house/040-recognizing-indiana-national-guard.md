@@ -1,0 +1,39 @@
+---
+granule: CREC-2025-12-18-pt1-PgH6096-5
+date: 2025-12-18
+edition: CREC
+section: HOUSE
+page: H6096
+citation: 171 Cong. Rec. H6096
+---
+
+# RECOGNIZING INDIANA NATIONAL GUARD
+
+**Speaking:** Stutzman, Marlin A. (S001188) [R-IN]
+
+```
+                   RECOGNIZING INDIANA NATIONAL GUARD
+
+  (Mr. STUTZMAN asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. STUTZMAN. Mr. Speaker, I rise today to recognize the courageous 
+men and women from the Indiana National Guard who are here to serve in 
+Washington, D.C.
+  On December 6, about 300 servicemembers from Indiana deployed to our 
+Nation's Capital. They have already started their mission in D.C. to 
+keep our streets safe and free from violent criminals. I am especially 
+thankful to these men and women for serving during the holidays.
+  These Hoosiers will miss cherished times celebrating Christmas and 
+New Year's with family and friends to restore order in D.C.
+  While these Hoosiers just begin their mission here, this deployment 
+is just another one of the ways on a long list that Indiana troops have 
+supported our country.
+  In 2024, Indiana National Guardsmen deployed to Texas to secure our 
+border. Earlier this year, 400 National Guardsmen returned from their 
+mission in the Middle East. Indiana National Guardsmen continue to pour 
+out their time and talents to serve our Nation.
+  Mr. Speaker, the Indiana National Guard's dedication to serving our 
+country continues to make all of us in Indiana very proud.
+
+                          ____________________
+```

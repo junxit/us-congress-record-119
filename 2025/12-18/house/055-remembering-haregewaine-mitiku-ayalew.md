@@ -1,0 +1,44 @@
+---
+granule: CREC-2025-12-18-pt1-PgH6099-2
+date: 2025-12-18
+edition: CREC
+section: HOUSE
+page: H6099
+citation: 171 Cong. Rec. H6099
+---
+
+# REMEMBERING HAREGEWAINE MITIKU AYALEW
+
+**Speaking:** Liccardo, Sam T. (L000607) [D-CA]
+
+```
+                 REMEMBERING HAREGEWAINE MITIKU AYALEW
+
+  (Mr. LICCARDO asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. LICCARDO. Mr. Speaker, I rise today to honor the life and legacy 
+of Ms. Haregewaine Mitiku Ayalew, a beloved community member from San 
+Jose, California, who passed away in November.
+  Ms. Ayalew's life was defined by service, generosity, humility, and 
+an unwavering commitment to uplifting the vulnerable.
+  Ms. Ayalew dedicated her professional life to caring for those made 
+vulnerable by illness, age, or circumstance. As a certified home care 
+aide and home health aide, she provided essential care for our aging 
+neighbors.
+  Guided by her faith and deep compassion, her service reached across 
+continents as she organized aid and support programs for families in 
+her native Ethiopia, including raising funds to build a facility for 
+elders and individuals living with disabilities and illness.
+  Her volunteer energy and time commitment to the Mekane Rama Saint 
+Gabriel Church was extraordinary and deeply appreciated by an entire 
+community.
+  I recall visiting that very church when I attended her memorial and 
+was moved by the sight of more than 1,000 neighbors who came out to pay 
+their respects and pay homage to this remarkable woman.
+  May Ms. Ayalew's memory be a blessing. Her life's work and values 
+live on through her two daughters, Aden Kassaye and Rebekah Kassaye, 
+and in the countless lives she uplifted through her compassion and 
+service.
+
+                          ____________________
+```

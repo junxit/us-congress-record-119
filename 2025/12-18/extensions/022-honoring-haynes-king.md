@@ -1,0 +1,53 @@
+---
+granule: CREC-2025-12-18-pt1-PgE1228-4
+date: 2025-12-18
+edition: CREC
+section: EXTENSIONS
+page: E1228
+citation: 171 Cong. Rec. E1228
+---
+
+# HONORING HAYNES KING
+
+**Speaking:** Moran, Nathaniel (M001224) [R-TX]
+
+```
+                          HONORING HAYNES KING
+
+                                 ______
+                                 
+
+                          HON. NATHANIEL MORAN
+
+                                of texas
+
+                    in the house of representatives
+
+                      Thursday, December 18, 2025
+
+  Mr. MORAN. Mr. Speaker, I rise today to recognize Longview, Texas 
+native Haynes King, on being named the Atlantic Coast Conference Player 
+of the Year and ACC Offensive Player of the Year. These honors reflect 
+an outstanding season and place him among the top players in one of 
+college football's premier conferences.
+  Haynes King attended Longview High School, where he played for the 
+Longview Lobos under his father, John King, who has served as head 
+coach since 2004. As a junior in 2018, Haynes led Longview to its first 
+state championship in 81 years, an achievement that brought a proud 
+East Texas community together and remains a defining moment in Longview 
+football history.
+  Longview football is known for toughness, discipline, and 
+accountability. Those values shaped Haynes King early and followed him 
+to
+
+[[Page E1229]]
+
+Georgia Tech, where he earned conference-wide recognition for his 
+leadership, resilience, and performance under pressure.
+  His journey from Longview to the collegiate stage reflects the 
+strength of East Texas families, coaches, and communities. Longview is 
+proud of Haynes King, and I commend him, his family, and his coaches on 
+this well-earned achievement.
+
+                          ____________________
+```
