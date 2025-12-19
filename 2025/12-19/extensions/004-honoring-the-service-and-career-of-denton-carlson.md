@@ -1,0 +1,58 @@
+---
+granule: CREC-2025-12-19-pt1-PgE1235-5
+date: 2025-12-19
+edition: CREC
+section: EXTENSIONS
+page: E1235
+citation: 171 Cong. Rec. E1235
+---
+
+# HONORING THE SERVICE AND CAREER OF DENTON CARLSON
+
+**Speaking:** DeSaulnier, Mark (D000623) [D-CA]
+
+```
+           HONORING THE SERVICE AND CAREER OF DENTON CARLSON
+
+                                 ______
+                                 
+
+                          HON. MARK DeSAULNIER
+
+                             of california
+
+                    in the house of representatives
+
+                       Friday, December 19, 2025
+
+  Mr. DeSAULNIER. Mr. Speaker, I rise today to recognize the service 
+and career of San Ramon Police Chief Denton Carlson.
+  Chief Carlson is retiring from the San Ramon Police Department after 
+more than 27 years of service. Throughout his career, Chief Carlson has 
+demonstrated his professionalism and his steadfast commitment to public 
+service and community engagement. Chief Carlson began his law 
+enforcement career in 1998 as a Deputy Sheriff, working in the City of 
+San Ramon since 2002. He then joined the San Ramon Police Department at 
+its inception in 2007. In the San Ramon Police Department, he has 
+served as a Patrol Officer, Detective, Tactical Team Leader, SWAT Team 
+Commander, and Public Information Officer. His leadership was 
+instrumental in launching the Police Department's Community Resource 
+and Crime Prevention Division and its social media and emergency 
+communications systems.
+  He was promoted to Captain in 2017 and has also served as Director of 
+the City's Office of Emergency Management from 2015 to 2022. In this 
+role, he was instrumental in keeping residents safe and informed, and 
+was recognized in 2016 as Employee of the Year by the San Ramon Chamber 
+of Commerce for his work to promote public safety. In 2022, he became 
+the 5th Police Chief of San Ramon. Chief Carlson has consistently shown 
+his dedication to fostering a safe and secure community for San Ramon 
+residents.
+  I thank Chief Denton Carlson for many years of service to our 
+community and congratulate him on his well-deserved retirement.
+
+[[Page E1236]]
+
+  
+
+                          ____________________
+```
