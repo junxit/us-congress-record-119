@@ -1,0 +1,36 @@
+---
+granule: CREC-2025-12-23-pt1-PgH6125-7
+date: 2025-12-23
+edition: CREC
+section: HOUSE
+page: H6125
+citation: 171 Cong. Rec. H6125
+---
+
+# ENROLLED BILLS SIGNED
+
+**Measures:** H.R. 1823, H.R. 4323, H.R. 4446
+
+```
+                         ENROLLED BILLS SIGNED
+
+  Kevin F. McCumber, Clerk of the House, reported and found truly 
+enrolled bills of the House of the following titles, which were 
+thereupon signed by the Speaker pro tempore, Mr. Smith of Nebraska, on 
+Tuesday, December 23, 2025:
+
+       H.R. 1823. An act to direct the Secretary of Veterans 
+     Affairs and the Comptroller General of the United States to 
+     report on certain funding shortfalls in the Department of 
+     Veterans Affairs.
+       H.R. 4323. An act to provide for the vacating of certain 
+     convictions and expungement of certain arrests of victims of 
+     human trafficking.
+       H.R. 4446. An act to amend title 38, United States Code, to 
+     modify the conditions under which the Secretary of Veterans 
+     Affairs is required to redevelop the individualized 
+     vocational rehabilitation plan for a veteran, and for other 
+     purposes.
+
+                          ____________________
+```

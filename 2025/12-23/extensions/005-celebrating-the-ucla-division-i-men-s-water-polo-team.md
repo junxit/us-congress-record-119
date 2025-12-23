@@ -1,0 +1,56 @@
+---
+granule: CREC-2025-12-23-pt1-PgE1243-6
+date: 2025-12-23
+edition: CREC
+section: EXTENSIONS
+page: E1243
+citation: 171 Cong. Rec. E1243
+---
+
+# CELEBRATING THE UCLA DIVISION I MEN'S WATER POLO TEAM
+
+**Speaking:** Lieu, Ted (L000582) [D-CA]
+
+```
+         CELEBRATING THE UCLA DIVISION I MEN'S WATER POLO TEAM
+
+                                 ______
+                                 
+
+                             HON. TED LIEU
+
+                             of california
+
+                    in the house of representatives
+
+                       Tuesday, December 23, 2025
+
+  Mr. LIEU. Mr. Speaker, I rise today to celebrate the Men's Water Polo 
+team from the University of California, Los Angeles. The Bruins Men's 
+Water Polo team took home the 2025 NCAA Men's National Collegiate Water 
+Polo Championship on December 7, 2025. UCLA defeated the Men's Water 
+Polo team from the University of Southern California at the Avery 
+Aquatic Center on the campus of Stanford University.
+  This year's championship secures UCLA's 14th national title win in 
+program history. It also marks the 125th overall NCAA title win by a 
+UCLA Bruin team in any sport.
+  The UCLA Men's Water Polo team should be proud of their achievement 
+in earning the distinction of being national champions, amongst the 
+more than half a million student-athletes who participate in NCAA 
+events each
+
+[[Page E1244]]
+
+year. The team's championship season culminated in a thrilling 11-10 
+win against USC in the final match. With guidance from Coach Adam 
+Wright, the team went on to improve their record to 103-94-1 all time 
+in the series history.
+  I would like to congratulate the UCLA's Men's Water Polo team once 
+again on winning the national championship for a second straight 
+season, and I wish them the best of luck next season. This win is a 
+special moment in the collegiate athletic careers of each individual 
+UCLA player and marks an exceptional accomplishment and historical 
+achievement for the UCLA community. Go Bruins.
+
+                          ____________________
+```
