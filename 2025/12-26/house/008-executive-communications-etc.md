@@ -1,0 +1,41 @@
+---
+granule: CREC-2025-12-26-pt1-PgH6127-7
+date: 2025-12-26
+edition: CREC
+section: HOUSE
+page: H6127
+citation: 171 Cong. Rec. H6127
+---
+
+# EXECUTIVE COMMUNICATIONS, ETC.
+
+```
+                     EXECUTIVE COMMUNICATIONS, ETC.
+
+   Under clause 2 of rule XIV, executive communications were taken from 
+the Speaker's table and referred as follows:
+
+       EC-2463. A letter from the General Counsel, Office of 
+     General Counsel, Federal Housing Finance Agency, transmitting 
+     the Agency's Major final rule -- 2026-2028 Enterprise Housing 
+     Goals (RIN: 2590-AB59) received December 22, 2025, pursuant 
+     to 5 U.S.C. 801(a)(1)(A); Public Law 104-121, Sec. 251; (110 
+     Stat. 868); to the Committee on Financial Services.
+       EC-2464. A letter from the Director, Office of Regulatory 
+     Oversight and Management, Office of Management, Veterans 
+     Affairs, transmitting the Department's Major final rule -- 
+     Extending Deadline for Debtor To Request a Waiver [Docket 
+     No.: VA-2024-OTHER-0024] (RIN: 2900-AS18) received December 
+     7, 2025, pursuant to 5 U.S.C. 801(a)(1)(A); Public Law 104-
+     121, Sec. 251; (110 Stat. 868); to the Committee on Veterans' 
+     Affairs.
+       EC-2465. A letter from the Federal Register Liaison, 
+     Internal Revenue Service, transmitting the Service's final 
+     rule -- Income of Foreign Governments and of International 
+     Organizations [TD: 10042] (RIN: 1545-BG08) received December 
+     19, 2025, pursuant to 5 U.S.C. 801(a)(1)(A); Public Law 104-
+     121, Sec. 251; (110 Stat. 868); to the Committee on Ways and 
+     Means.
+
+                          ____________________
+```
