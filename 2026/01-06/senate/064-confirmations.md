@@ -1,0 +1,41 @@
+---
+granule: CREC-2026-01-06-pt1-PgS61-2
+date: 2026-01-06
+edition: CREC
+section: SENATE
+page: S61
+citation: 172 Cong. Rec. S61
+---
+
+# CONFIRMATIONS
+
+```
+                             CONFIRMATIONS
+
+  Executive nominations confirmed by the Senate January 6, 2026:
+
+
+                   EXECUTIVE OFFICE OF THE PRESIDENT
+
+       SARA BAILEY, OF TEXAS, TO BE DIRECTOR OF NATIONAL DRUG 
+     CONTROL POLICY.
+
+
+                              IN THE ARMY
+
+       THE FOLLOWING NAMED OFFICER FOR APPOINTMENT AS VICE CHIEF 
+     OF STAFF OF THE ARMY AND APPOINTMENT IN THE UNITED STATES 
+     ARMY TO THE GRADE INDICATED WHILE ASSIGNED TO A POSITION OF 
+     IMPORTANCE AND RESPONSIBILITY UNDER TITLE 10, U.S.C., 
+     SECTIONS 601 AND 7034:
+
+                             To be general
+
+LT. GEN. CHRISTOPHER C. LANEVE
+
+
+                      CENTRAL INTELLIGENCE AGENCY
+
+       JOSHUA SIMMONS, OF VIRGINIA, TO BE GENERAL COUNSEL OF THE 
+     CENTRAL INTELLIGENCE AGENCY.
+```
