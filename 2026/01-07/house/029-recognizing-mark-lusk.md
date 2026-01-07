@@ -1,0 +1,39 @@
+---
+granule: CREC-2026-01-07-pt1-PgH112-2
+date: 2026-01-07
+edition: CREC
+section: HOUSE
+page: H112
+citation: 172 Cong. Rec. H112
+---
+
+# RECOGNIZING MARK LUSK
+
+**Speaking:** Thompson, Glenn (T000467) [R-PA]
+
+```
+                         RECOGNIZING MARK LUSK
+
+  (Mr. THOMPSON of Pennsylvania asked and was given permission to 
+address the House for 1 minute and to revise and extend his remarks.)
+  Mr. THOMPSON of Pennsylvania. Mr. Speaker, I rise today to recognize 
+Lycoming County Sheriff Mark Lusk, who retired Monday after 50 years of 
+outstanding community service.
+  Mark was elected as Lycoming County sheriff in 2009 and served in 
+this role for four consecutive terms. Over his 50-year career, Mark has 
+held a variety of positions, including patrolman, criminal 
+investigator, corporal, chief of police, and deputy coroner.
+  Mark's leadership has been pivotal, and he was responsible for many 
+rescue operations when the county experienced major floods.
+  Beyond his role as sheriff, Mark has volunteered for the Old Lycoming 
+Township Volunteer Fire Company for 45 years. He has also worked 
+alongside the local VFW and American Legion.
+  Mark has received various awards for his leadership over his career. 
+In 2007, he was recognized by the Lycoming County Department of Public 
+Safety and the Pennsylvania State House of Representatives.
+  Mr. Speaker, Mark has dedicated his career to serving the community 
+and answering the call of those in need. I thank him for his service, 
+and I wish him the very best.
+
+                          ____________________
+```
