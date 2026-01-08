@@ -1,0 +1,42 @@
+---
+granule: CREC-2026-01-08-pt1-PgH227-3
+date: 2026-01-08
+edition: CREC
+section: HOUSE
+page: H227
+citation: 172 Cong. Rec. H227
+---
+
+# NATIONAL BLOOD DONOR MONTH
+
+**Speaking:** Thompson, Glenn (T000467) [R-PA]
+
+```
+                              {time}  1720
+                       NATIONAL BLOOD DONOR MONTH
+
+  (Mr. THOMPSON of Pennsylvania asked and was given permission to 
+address the House for 1 minute and to revise and extend his remarks.)
+  Mr. THOMPSON of Pennsylvania. Mr. Speaker, I rise today to recognize 
+January as National Blood Donor Month.
+  Since its inception in 1970, National Blood Donor Month recognizes 
+the millions of Americans who help save lives by donating blood. 
+Statistics show that every two seconds, someone in this country needs 
+blood.
+  On average, one in seven hospital patients need blood, and 
+approximately 29,000 units of red blood cells are needed every day in 
+the United States.
+  Over the last 50 years, public awareness for blood donation has 
+increased. Now approximately 13.6 million volunteers donate blood 
+annually.
+  In the Commonwealth of Pennsylvania, more than 5,000 blood drives 
+were held in 2025, according to the Red Cross. I am encouraged to see 
+constituents ready to roll up their sleeves and help those in need. In 
+fact, one of the most challenging times of the year to collect blood 
+donations is in the winter months.
+  Mr. Speaker, I hope all Americans will take the time to consider 
+donating blood this month. It is important to know that one blood 
+donation can save lives.
+
+                          ____________________
+```

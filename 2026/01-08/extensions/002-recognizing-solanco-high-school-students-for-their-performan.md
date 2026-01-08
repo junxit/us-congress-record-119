@@ -1,0 +1,51 @@
+---
+granule: CREC-2026-01-08-pt1-PgE13-3
+date: 2026-01-08
+edition: CREC
+section: EXTENSIONS
+page: E13
+citation: 172 Cong. Rec. E13
+---
+
+# RECOGNIZING SOLANCO HIGH SCHOOL STUDENTS FOR THEIR PERFORMANCE AT THE 2025 STUDENT DRONE CHALLENGE
+
+**Speaking:** Smucker, Lloyd (S001199) [R-PA]
+
+```
+ RECOGNIZING SOLANCO HIGH SCHOOL STUDENTS FOR THEIR PERFORMANCE AT THE 
+                      2025 STUDENT DRONE CHALLENGE
+
+                                 ______
+                                 
+
+                           HON. LLOYD SMUCKER
+
+                            of pennsylvania
+
+                    in the house of representatives
+
+                       Thursday, January 8, 2026
+
+  Mr. SMUCKER. Mr. Speaker, I am pleased to recognize and congratulate 
+Solanco High School students Robert Baxter, Lucas Vilk, and Caleb Reed 
+on their success in the 2025 Student Drone Challenge.
+  The Student Drone Challenge is hosted by the Interaction of Ionizing 
+Radiation with Matter University Research Alliance (IIRM-URA), which is 
+a collaborative partnership between universities, laboratories, and 
+industrial companies. Funded by the Defense Threat Reduction Agency, 
+the IIRM-URA's primary concern is to mitigate threats against weapons 
+of mass destruction. The competition is an opportunity for students to 
+learn and engage in the fields that IIRM-URA supports.
+  The 2025 challenge involved a virtual drone simulation where students 
+conducted reconnaissance to identify radiological threats in a building 
+captured by friendly forces. Pitting over 800 competitors including 
+those from university, high school, and middle school--the Solanco High 
+School students took the top spots on the podium. Robert Baxter placed 
+1st overall, Lucas Vilk placed 2nd for high school students, and Caleb 
+Reed placed 3rd for high school students.
+  I am grateful for educational programs that broaden our students' 
+horizons. I congratulate the winning students, and I look forward to 
+what their bright futures hold.
+
+                          ____________________
+```

@@ -1,0 +1,43 @@
+---
+granule: CREC-2026-01-08-pt1-PgH227-4
+date: 2026-01-08
+edition: CREC
+section: HOUSE
+page: H227
+citation: 172 Cong. Rec. H227
+---
+
+# SOCIAL SECURITY CUSTOMER SERVICE
+
+**Speaking:** Subramanyam, Suhas (S001230) [D-VA]
+
+```
+                    SOCIAL SECURITY CUSTOMER SERVICE
+
+  (Mr. SUBRAMANYAM asked and was given permission to address the House 
+for 1 minute and to revise and extend his remarks.)
+
+[[Page H228]]
+
+  
+
+  Mr. SUBRAMANYAM. Mr. Speaker, 74 million Americans depend on Social 
+Security, but because of the Trump administration's actions, customer 
+service has completely collapsed. The agency faces 6 million backlogged 
+cases, 12 million delayed field-office transactions, and some of the 
+worst wait times in history.
+  Why is this happening? It is because the Trump administration pushed 
+out 7,000 Social Security employees. That is 12 percent of their 
+workforce. Offices were reorganized overnight, hiring was frozen, and 
+thousands of workers were reassigned.
+  This has real-life consequences for my constituents, like a 75-year-
+old stroke victim who hasn't received his check for months because he 
+can't drive or use a computer, or an immigrant who may lose his job 
+because a name correction appointment is weeks away, or the retiree who 
+waited hours just to schedule an appointment on the phone.
+  Social Security is not a political experiment. It is a promise. The 
+American people paid into the system and earned these benefits. They 
+shouldn't have to fight their own government to receive them.
+
+                          ____________________
+```

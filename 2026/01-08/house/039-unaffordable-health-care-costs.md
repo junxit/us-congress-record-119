@@ -1,0 +1,42 @@
+---
+granule: CREC-2026-01-08-pt1-PgH150
+date: 2026-01-08
+edition: CREC
+section: HOUSE
+page: H150
+citation: 172 Cong. Rec. H150
+---
+
+# UNAFFORDABLE HEALTH CARE COSTS
+
+**Speaking:** Morrison, Kelly (M001234) [D-MN]
+
+```
+                     UNAFFORDABLE HEALTH CARE COSTS
+
+  (Ms. MORRISON asked and was given permission to address the House for 
+1 minute and to revise and extend her remarks.)
+  Ms. MORRISON. Madam Speaker, thousands of Minnesotans and millions of 
+Americans are facing unaffordable healthcare costs. Because of their 
+cruelly named One Big Beautiful Bill Act and Speaker Johnson's refusal 
+to act, the Republican majority is creating a healthcare crisis that 
+will literally dismantle American public health.
+  Americans are being forced into crushing medical debt, are in danger 
+of losing their closest hospital, clinic, or emergency room.
+  As a doctor, I worry for the patients delaying their care and for 
+clinics and hospitals already struggling to meet the needs of their 
+community.
+  As a Minnesotan, I am heartbroken for my State. Minnesotans have 
+suffered immeasurable loss following the tragedies of recent months.
+  The Trump administration's reckless actions and deliberate inaction 
+from Republicans in Congress jeopardize the operation and availability 
+of facilities that are the first site of care in the most tragic 
+circumstances.
+  I have a responsibility to be abundantly clear, Madam Speaker. The 
+consequences of inaction and ignoring hospitals, doctors, patients, and 
+your own constituents will be catastrophic. The price of failing to 
+deliver affordable healthcare isn't losing elections. It is real human 
+suffering and American lives.
+
+                          ____________________
+```
