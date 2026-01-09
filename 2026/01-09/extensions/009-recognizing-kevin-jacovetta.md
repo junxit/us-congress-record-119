@@ -1,0 +1,53 @@
+---
+granule: CREC-2026-01-09-pt1-PgE21-3
+date: 2026-01-09
+edition: CREC
+section: EXTENSIONS
+page: E21
+citation: 172 Cong. Rec. E21
+---
+
+# RECOGNIZING KEVIN JACOVETTA
+
+**Speaking:** Pettersen, Brittany (P000620) [D-CO]
+
+```
+                      RECOGNIZING KEVIN JACOVETTA
+
+                                  _____
+                                 
+
+                        HON. BRITTANY PETTERSEN
+
+                              of colorado
+
+                    in the house of representatives
+
+                        Friday, January 9, 2026
+
+  Ms. PETTERSEN. Mr. Speaker, I rise today to recognize retired 
+firefighter Kevin Jacovetta, who passed away on September 19, 2025 from 
+cancer. Kevin, or ``KJ'', served Arvada Fire for over 33 years. He 
+joined as a volunteer in 1988, was hired as a full-time firefighter in 
+1999, and held the roles of firefighter/EMT, engineer, and acting 
+officer throughout his career.
+
+[[Page E22]]
+
+  Kevin's death has been designated as a Line of Duty Death--Illness 
+(LODD-I), connected to severe burns that he sustained in 2011 while 
+rescuing a fellow firefighter during a devastating house fire. His 
+bravery that day earned him the Medal of Valor. While he courageously 
+recovered and returned to duty, complications from his injuries 
+eventually led to his retirement in 2021 and a cancer diagnosis in 
+2023.
+  Kevin's passing is a solemn reminder of the risks our firefighters 
+ensure to keep our friends, family, and neighbors safe. As a 
+firefighter, husband, and father, Kevin's selflessness carried through 
+every aspect of his life. His legacy of kindness, dedication, and 
+service to our community will not be forgotten.
+  On behalf of the people of Colorado's 7th Congressional District, I 
+am honored to recognize firefighter Kevin Jacovetta's legacy and extend 
+my deepest condolences to his family, friends, and the entire Arvada 
+Fire Department.
+```

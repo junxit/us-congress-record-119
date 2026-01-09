@@ -1,0 +1,40 @@
+---
+granule: CREC-2026-01-09-pt1-PgH606-5
+date: 2026-01-09
+edition: CREC
+section: HOUSE
+page: H606
+citation: 172 Cong. Rec. H606
+---
+
+# MAKING THE MOST OF HARD-EARNED COLLEGE CREDITS
+
+**Speaking:** Subramanyam, Suhas (S001230) [D-VA]
+
+```
+             MAKING THE MOST OF HARD-EARNED COLLEGE CREDITS
+
+  (Mr. SUBRAMANYAM asked and was given permission to address the House 
+for 1 minute and to revise and extend his remarks.)
+  Mr. SUBRAMANYAM. Mr. Speaker, college has become outrageously 
+expensive and forced students and families to take out huge loans or 
+forgo higher education entirely. That is why many high schoolers choose 
+to take AP and IB exams, where they can earn college credit at much 
+less expense.
+  Unfortunately, it is hard for students to find information on which 
+colleges award credits for certain AP and IB exams. A lot of students 
+show up to their chosen school and only then realize that their credits 
+are worthless.
+  That is why I am introducing the COURSE Credit Act with 
+Representative Jeff Van Drew. This commonsense, bipartisan legislation 
+directs the Department of Education to collect and publish detailed 
+information on AP and IB credit policies at colleges and universities.
+  It also requires colleges and universities to publish the same 
+information on their own websites. This will give students, families, 
+and counselors a quick and easy way to see how much credit they will 
+receive for their AP and IB exams at any given college, allowing 
+students to choose a school where they can make the most of their hard-
+earned credit.
+
+                          ____________________
+```
