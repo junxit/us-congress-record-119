@@ -1,0 +1,36 @@
+---
+granule: CREC-2026-01-12-pt1-PgH648-5
+date: 2026-01-12
+edition: CREC
+section: HOUSE
+page: H648
+citation: 172 Cong. Rec. H648
+---
+
+# BE THE VOICE OF MORAL GRANDEUR AND SPIRITUAL AUDACITY
+
+**Speaking:** Balint, Becca (B001318) [D-VT]
+
+```
+         BE THE VOICE OF MORAL GRANDEUR AND SPIRITUAL AUDACITY
+
+  (Ms. BALINT asked and was given permission to address the House for 1 
+minute and to revise and extend her remarks.)
+  Ms. BALINT. Mr. Speaker, Rabbi Abraham Heschel once sent a telegram 
+to John F. Kennedy. Referring to racism in this country, he said: ``The 
+hour calls for moral grandeur and spiritual audacity.''
+  Now, 62 years later, we see the excessive brutality of ICE agents. 
+Peaceful protesters are tear-gassed in the face. A pastor was shot in 
+the head with a pepper ball. We have children being zip-tied, car 
+windows smashed, people tackled and dragged, and guns pointed at 
+unarmed bystanders. We have people targeted for the color of their skin 
+or the accents that they speak in. ICE agents are demanding entrance to 
+homes without warrants, and last week, an American citizen was gunned 
+down.
+  Americans know this is wrong, and they are horrified. People of 
+conscience across this country must come together and be that voice of 
+moral grandeur and spiritual audacity once again. We have to find our 
+courage and speak out. There is no other way.
+
+                          ____________________
+```

@@ -1,0 +1,73 @@
+---
+granule: CREC-2026-01-12-pt1-PgH654-3
+date: 2026-01-12
+edition: CREC
+section: HOUSE
+page: H654
+citation: 172 Cong. Rec. H654
+---
+
+# REPORTS OF COMMITTEES ON PUBLIC BILLS AND RESOLUTIONS
+
+**Measures:** H.R. 725, H.Res. 988, H.R. 1422, H.R. 1681, H.R. 2262, H.R. 2270, H.R. 2312, H.R. 2860, H.R. 2988, H.R. 3168, H.R. 4366
+
+```
+         REPORTS OF COMMITTEES ON PUBLIC BILLS AND RESOLUTIONS
+
+  Under clause 2 of rule XIII, reports of committees were delivered to 
+the Clerk for printing and reference to the proper calendar, as 
+follows:
+
+       Mr. WESTERMAN: Committee on Natural Resources. H.R. 725. A 
+     bill to take certain mineral interests into trust for the 
+     benefit of the Crow Tribe of Montana, and for other purposes; 
+     with an amendment (Rept. 119-436). Referred to the Committee 
+     of the Whole House on the state of the Union.
+       Mr. WESTERMAN: Committee on Natural Resources. H.R. 2860. A 
+     bill to reauthorize the Northwest Straits Marine Conservation 
+     Initiative Act to promote the protection of the resources of 
+     the Northwest Straits, and for other purposes; with an 
+     amendment (Rept. 119-437). Referred to the Committee of the 
+     Whole House on the state of the Union.
+       Mr. WESTERMAN: Committee on Natural Resources. H.R. 3168. A 
+     bill to reauthorize the Earthquake Hazards Reduction Act of 
+     1977, and for other purposes (Rept. 119-438 Pt. 1). Ordered 
+     to be printed.
+       Mr. WESTERMAN: Committee on Natural Resources. H.R. 1681. A 
+     bill to require the Assistant Secretary of Commerce for 
+     Communications and Information to establish an interagency 
+     strike force to ensure that certain Federal land management 
+     agencies, including the organizational units of such 
+     agencies, prioritize the review of requests for 
+     communications use authorizations, and for other purposes 
+     (Rept. 119-439 Pt. 1). Ordered to be printed.
+       Mrs. FISCHBACH: Committee on Rules. H. Res. 988. A 
+     resolution providing for consideration of the bill (H.R. 
+     2988) to amend the Employee Retirement Income Security Act of 
+     1974 to specify requirements concerning the consideration of 
+     pecuniary and non-pecuniary factors, and for other purposes; 
+     providing for consideration of the bill (H.R. 2262) to amend 
+     the Fair Labor Standards Act of 1938 to exclude certain 
+     activities from hours worked, and for other purposes; 
+     providing for consideration of the bill (H.R. 2270) to amend 
+     the Fair Labor Standards Act of 1938 to exclude child and 
+     dependent care services and payments from the rate used to 
+     compute overtime compensation; providing for consideration of 
+     the bill (H.R. 2312) to amend the Fair Labor Standards Act of 
+     1938 to revise the definition of the term ``tipped 
+     employee'', and for other purposes; and providing for 
+     consideration of the bill (H.R. 4366) to clarify the 
+     treatment of 2 or more employers as joint employers under the 
+     National Labor Relations Act and the Fair Labor Standards Act 
+     of 1938 (Rept: 119-440). Referred to the House Calendar.
+
+
+                           CONSENSUS CALENDAR
+
+  Under clause 7 of rule XV, the following motion was filed with the 
+Clerk:
+
+       Motion No. 2, January 12, 2026 by Mr. Lawler on H.R. 1422.
+
+                          ____________________
+```

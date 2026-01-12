@@ -1,0 +1,40 @@
+---
+granule: CREC-2026-01-12-pt1-PgH650-2
+date: 2026-01-12
+edition: CREC
+section: HOUSE
+page: H650
+citation: 172 Cong. Rec. H650
+---
+
+# DEFENDING FEDERAL RESERVE CHAIR JEROME POWELL
+
+```
+             DEFENDING FEDERAL RESERVE CHAIR JEROME POWELL
+
+  (Mrs. McCLAIN DELANEY asked and was given permission to address the 
+House for 1 minute and to revise and extend her remarks.)
+  Mrs. McCLAIN DELANEY. Mr. Speaker, I rise today with grave concern 
+over President Trump's vicious attacks on Federal Reserve Chair Jerome 
+Powell.
+  I know Jerome Powell. He is a man of integrity. More importantly, he 
+is an honorable and faithful public servant with extreme knowledge and 
+expertise of our financial ecosystem.
+  The President's effort to criminally target him with baseless 
+accusations is an unprecedented assault on our democracy and the 
+independence of the Federal Reserve.
+  An independent Federal Reserve is essential to America's economic 
+stability, market confidence, and fairness to working families. The 
+Federal Reserve is nonpartisan for a reason. It is guided by evidence, 
+data, and duty. It does not cater to the whims of a President 
+interested in his own political and personal fortune.
+  If the Federal Reserve loses its independence, the consequences will 
+be felt on an international stage, undermining global confidence in our 
+economy, destabilizing financial markets, and risking economic chaos 
+worldwide.
+  The threat against Jay Powell is part of a growing and dangerous 
+pattern. We must stand with Jay Powell and defend those independent 
+agencies that underpin our economic resilience and national security.
+
+                          ____________________
+```

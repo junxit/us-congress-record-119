@@ -1,0 +1,58 @@
+---
+granule: CREC-2026-01-12-pt1-PgE26
+date: 2026-01-12
+edition: CREC
+section: EXTENSIONS
+page: E26
+citation: 172 Cong. Rec. E26
+---
+
+# HONORING THE LIFE OF BENJAMIN SOO RHEE
+
+**Speaking:** Lieu, Ted (L000582) [D-CA]
+
+```
+                 HONORING THE LIFE OF BENJAMIN SOO RHEE
+
+                                  _____
+                                 
+
+                             HON. TED LIEU
+
+                             of california
+
+                    in the house of representatives
+
+                        Monday, January 12, 2026
+
+  Mr. LIEU. Mr. Speaker, I rise to honor the life and legacy of 
+Benjamin Soo Rhee. Benjamin was a respected physician, devoted family 
+man and cherished member of his community. He passed away peacefully on 
+December 25, 2025.
+  Dr. Rhee dedicated his life to the service of others through his work 
+in medicine. He was deeply respected and admired by his colleagues and 
+countless patients for his compassion, professionalism and integrity 
+over the course of his distinguished career. He graduated from Korea 
+University Medical School and later immigrated to the United States in 
+1964 from the Kyungi Province of the Republic of Korea, becoming a U.S. 
+Citizen in 1976.
+  Dr. Rhee completed his residency in Internal Medicine in New York and 
+went into private medical practice with his wife, a pediatrician. 
+Together they would treat and heal patients for decades before retiring 
+and moving to the City of Irvine, California.
+  Beyond his professional accomplishments, Dr. Rhee had a passion and 
+love for music, including singing karaoke. He also had a love for 
+reading and writing, including authoring a 300-page book which 
+documented the genealogy of his family dating back seventeen 
+generations.
+  Benjamin was a loving husband, father and grandfather. He is survived 
+by his wife Dr. Wha Ja Choi, his two children, Edward and Richard and 
+his six grandchildren: Brandon, Colin, Jason, Chloe, Kendall and 
+Christian, who were the lights of his life.
+  He will be remembered not only for his contributions to the field of 
+medicine, but also for his kindness, intellect and deep devotion to his 
+family and community. His legacy of service and engagement will 
+continue to inspire and guide those whom he served in his life.
+
+                          ____________________
+```

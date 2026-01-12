@@ -1,0 +1,116 @@
+---
+granule: CREC-2026-01-12-pt1-PgS133-5
+date: 2026-01-12
+edition: CREC
+section: SENATE
+page: S133
+citation: 172 Cong. Rec. S133
+---
+
+# Text of Senate Amendment 4163
+
+**Speaking:** Blackburn, Marsha (B001243) [R-TN]
+
+```
+  SA 4163. Mrs. BLACKBURN submitted an amendment intended to be 
+proposed by her to the bill H.R. 6938, making consolidated 
+appropriations for the fiscal year ending September 30, 2026, and for 
+other purposes; which was ordered to lie on the table; as follows:
+
+       At the appropriate place in title II of division D, insert 
+     the following:
+
+     SEC. __. GRACIE ACT OF 2026.
+
+       (a) Short Title.--This section may be cited as the 
+     ``Generate Recordings of All Child protective Interviews 
+     Everywhere Act'' or the ``GRACIE Act of 2026''.
+       (b) Grants.--The Associate Commissioner may award grants to 
+     States for the purpose of assisting State agencies 
+     responsible for conducting child welfare interviews in 
+     recording and retaining all child welfare interviews 
+     conducted by such State agencies.
+       (c) Application.--A State seeking a grant under this 
+     section shall submit an application to the Associate 
+     Commissioner at such time and in such manner as the Associate 
+     Commissioner may require. Such application shall include--
+       (1) the State's lead agency for the grant program and that 
+     agency's current requirements involving the recording and 
+     retention of child welfare interviews;
+       (2) the challenges the State faces in developing, 
+     implementing, and monitoring requirements involving the 
+     recording and retention of child welfare interviews; and
+       (3) a description of how the State plans to use funds for 
+     activities described in subsection (d).
+       (d) Use of Funds.--
+       (1) In general.--Amounts received under a grant under this 
+     section shall be used exclusively for costs directly 
+     associated with conducting and retaining for 5 years the 
+     recording of all child welfare interviews by a State agency 
+     responsible for conducting child welfare interviews, 
+     including initial interviews conducted during a family 
+     assessment to the extent practicable.
+       (2) Recording requirement.--A State receiving a grant under 
+     this section shall have a statute, ordinance, policy, or 
+     practice requiring all child welfare interviews conducted by 
+     the State agency responsible for conducting child welfare 
+     interviews to be recorded through electronic audio recording, 
+     body camera video, or any other reasonable means of 
+     recording.
+       (3) Retention requirement.--A State receiving a grant under 
+     this section shall have a statute, ordinance, policy, or 
+     practice requiring the recordings described in paragraph (2) 
+     to be retained and stored for not less than 5 years in a 
+     manner consistent with the protocols established by the State 
+     for such recordings, which shall include that--
+       (A) a copy of such recording--
+       (i) subject to clause (ii), may only be released to 
+     appropriate government agencies investigating an allegation 
+     or prosecuting an offense relating to an allegation; and
+       (ii) upon request by a caregiver or guardian in connection 
+     with a judicial proceeding, shall be made available to the 
+     caregiver or guardian, unless the court orders otherwise;
+       (B) a penalty is imposed for a violation of the limitation 
+     described in subparagraph (A); and
+       (C) the retention systems of the State agency responsible 
+     for conducting child welfare interviews securely manage the 
+     storage and distribution of such a recording with access 
+     controls and role-based permission management.
+       (e) Accountability.--
+       (1) Records.--A State that receives a grant under this 
+     section shall maintain such records as the Associate 
+     Commissioner may require to facilitate an effective audit 
+     relating to the receipt of the grant, the use of amounts from 
+     the grant, or outsourcing activities.
+       (2) Access.--For the purpose of conducting audits and 
+     examinations, the Associate Commissioner shall have access to 
+     any book, document, or record of the State agency that 
+     receives a grant under this section if the Associate 
+     Commissioner determines that the book, document, or record 
+     relates to--
+       (A) the receipt of the grant; or
+       (B) the use of amounts from the grant.
+       (f) Definitions.--In this section:
+       (1) Associate commissioner.--The term ``Associate 
+     Commissioner'' means the Associate Commissioner of the 
+     Children's Bureau of the Office of the Administration for 
+     Children and Families of the Department of Health and Human 
+     Services.
+       (2) Child welfare interview.--The term ``child welfare 
+     interview'' means a documented interview with any relevant 
+     parties, including a child or an adult, conducted by a State 
+     agency responsible for conducting child welfare interviews in 
+     order to elicit information regarding concerns of abuse of a 
+     child, neglect of a child, or other crimes against a child.
+       (3) State.--The term ``State'' means--
+       (A) each of the several States;
+       (B) the District of Columbia;
+       (C) the Commonwealth of Puerto Rico; and
+       (D) any territory or possession of the United States.
+       (g) Funding and Sunset.--For each of fiscal years 2026 
+     through 2031, the Associate Commissioner shall use not more 
+     than $30,000,000 of the amounts appropriated to carry out 
+     subpart 1 of part B of title IV of the Social Security Act 
+     (42 U.S.C. 621 et seq.) to carry out this section.
+                                 ______
+```
