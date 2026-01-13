@@ -1,0 +1,72 @@
+---
+granule: CREC-2026-01-13-pt1-PgH716-3
+date: 2026-01-13
+edition: CREC
+section: HOUSE
+page: H716
+citation: 172 Cong. Rec. H716
+---
+
+# REPORTS OF COMMITTEES ON PUBLIC BILLS AND RESOLUTIONS
+
+**Measures:** H.R. 580, H.Res. 992, H.R. 2516, H.R. 2616, H.R. 2617, H.R. 3453, H.R. 7006
+
+```
+         REPORTS OF COMMITTEES ON PUBLIC BILLS AND RESOLUTIONS
+
+  Under clause 2 of rule XIII, reports of committees were delivered to 
+the Clerk for printing and reference to the proper calendar, as 
+follows:
+
+       Mr. WALBERG: Committee on Education and Workforce. H.R. 
+     2616. A bill to require public elementary and middle schools 
+     that receive funds under the Elementary and Secondary 
+     Education Act of 1965 to obtain parental consent before 
+     changing a minor's gender markers, pronouns, or preferred 
+     name on any school form or sex-based accommodations, 
+     including locker rooms or bathrooms, with an amendment (Rept. 
+     119-441). Referred to the Committee of the Whole House on the 
+     state of the Union.
+       Mr. WALBERG: Committee on Education and Workforce. H.R. 
+     2617. A bill to amend the Elementary and Secondary Education 
+     Act of 1965 to prevent the use of funds under such Act to 
+     teach or advance concepts related to gender ideology, and for 
+     other purposes; with an amendment (Rept. 119-442). Referred 
+     to the Committee of the Whole House on the state of the 
+     Union.
+       Mr. WALBERG: Committee on Education and Workforce. H.R. 
+     3453. A bill to modify the program of grants to support high-
+     quality charter schools, with an amendment
+
+[[Page H717]]
+
+     (Rept. 119-443). Referred to the Committee of the Whole House 
+     on the state of the Union.
+       Mr. WALBERG: Committee on Education and Workforce H.R. 
+     2516. A bill to amend the Higher Education Act of 1965 to 
+     prohibit political litmus tests in accreditation of 
+     institutions of higher education, and for other purposes, 
+     with an amendment (Rept. 119-444). Referred to the Committee 
+     of the Whole House on the state of the Union.
+       Ms. FOXX: Committee on Rules. H. Res. 992. A resolution 
+     providing for consideration of the bill (H.R. 7006) making 
+     further consolidated appropriations for the fiscal year 
+     ending September 30, 2026, and for other purposes (Rept. 119-
+     445). Referred to the House Calendar.
+       Mr. COMER: Committee on Oversight and Government Reform. 
+     H.R. 580. A bill to amend the Unfunded Mandates Reform Act of 
+     1995 to provide for regulatory impact analyses for certain 
+     rules, and for other purposes; with an amendment (Rept. 119-
+     446 Pt. 1). Referred to the Committee of the Whole House on 
+     the state of the Union.
+
+
+                         DISCHARGE OF COMMITTEE
+
+  Pursuant to clause 2 of rule XIII, the Committees on Rules, the 
+Budget, and the Judiciary discharged from further consideration. H.R. 
+580 referred to the Committee of the Whole House on the state of the 
+Union.
+
+                          ____________________
+```

@@ -1,0 +1,52 @@
+---
+granule: CREC-2026-01-13-pt1-PgE32-4
+date: 2026-01-13
+edition: CREC
+section: EXTENSIONS
+page: E32
+citation: 172 Cong. Rec. E32
+---
+
+# HONORING EULESS JAIL SUPERVISOR ALISHA JOHNSON
+
+**Speaking:** Van Duyne, Beth (V000134) [R-TX]
+
+```
+             HONORING EULESS JAIL SUPERVISOR ALISHA JOHNSON
+
+                                 ______
+                                 
+
+                          HON. BETH VAN DUYNE
+
+                                of texas
+
+                    in the house of representatives
+
+                       Tuesday, January 13, 2026
+
+  Ms. VAN DUYNE. Mr. Speaker, I rise today to honor the distinguished 
+career of Jail Supervisor Alisha Johnson of the Euless Police 
+Department, who is retiring after twenty-five years of dedicated 
+service.
+  Alisha joined the City of Euless in November 1999 as a Public Service 
+Officer, after previously serving as a Correctional Officer with 
+Correctional Service Corporation in Fort Worth. Through her commitment 
+to public service, she was promoted to Jail Supervisor in October 2023. 
+She is an expert in the Live Scan fingerprinting system and has 
+completed new supervisor school and other job-related training courses.
+  Alisha graduated from Kofa High School in Yuma, Arizona, pursued 
+accounting and business at Arizona Western University, and earned an 
+Associate Degree in General Studies from Tarrant County College. She is 
+a member of the Euless Peace Officers Association and has received 
+numerous awards, including the Blackie Sustaire Award, Employee of the 
+Month in 2006, Civilian of the Year in 2013, the Distinguished Service 
+Civilian Award in 2020, and a Unit Citation in 2022.
+  She enjoys traveling, reading, outdoor activities, and spending time 
+with her family.
+  I would like to thank Jail Supervisor Johnson for her exemplary 
+service to the Euless community and congratulate her on her well-
+deserved retirement.
+
+                          ____________________
+```
