@@ -1,0 +1,41 @@
+---
+granule: CREC-2026-01-14-pt1-PgH727-2
+date: 2026-01-14
+edition: CREC
+section: HOUSE
+page: H727
+citation: 172 Cong. Rec. H727
+---
+
+# NATO
+
+**Speaking:** Dean, Madeleine (D000631) [D-PA]
+
+```
+                                  NATO
+
+  (Ms. DEAN of Pennsylvania asked and was given permission to address 
+the House for 1 minute and to revise and extend her remarks.)
+  Ms. DEAN of Pennsylvania. Mr. Speaker, the core of NATO is Article 5: 
+An attack on one is an attack on all.
+  Since the end of World War II, the U.S. and our allies have honored 
+and operated on this mutual trust. President Truman called it a 
+neighborly act.
+  There is no article for if a NATO member attacks another because for 
+80 years, we have led a peaceful partnership for our shared democratic 
+ideals. Truman considered the treaty a means to establish freedom from 
+aggression and from the use of force in the North Atlantic community. 
+If one ally invaded another, the center would not hold.
+  Now, President Trump seeks to threaten our historic alliance by his 
+flippant, poisonous quip that we will have Greenland one way or 
+another. As a member of the Committee on Foreign Affairs, I have met 
+with the Prime Minister of Denmark and other key allies. They believe 
+in America's global leadership. They have fought and died alongside us 
+in Iraq and Afghanistan.
+  Now, they fear our words. They plan for a future in which the United 
+States is no longer the indispensable nation, a core global ally.
+  This cannot be the path we forge. It is good to have friends, and in 
+order to have friends, we must be one.
+
+                          ____________________
+```

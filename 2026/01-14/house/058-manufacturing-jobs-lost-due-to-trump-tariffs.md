@@ -1,0 +1,40 @@
+---
+granule: CREC-2026-01-14-pt1-PgH803-3
+date: 2026-01-14
+edition: CREC
+section: HOUSE
+page: H803
+citation: 172 Cong. Rec. H803
+---
+
+# MANUFACTURING JOBS LOST DUE TO TRUMP TARIFFS
+
+**Speaking:** Kaptur, Marcy (K000009) [D-OH]
+
+```
+              MANUFACTURING JOBS LOST DUE TO TRUMP TARIFFS
+
+  (Ms. KAPTUR asked and was given permission to address the House for 1 
+minute and to revise and extend her remarks.)
+  Ms. KAPTUR. Mr. Speaker, I rise today to draw attention to the 68,000 
+manufacturing jobs lost across our country in 2025 as a direct result 
+of President Trump's reckless tariffs and DOGE cuts.
+  Why did he visit Detroit yesterday when his insistence on continuing 
+these tariffs actually cuts investment in American manufacturing? It is 
+all backward, and it puts America backward and America's workers 
+backward.
+  In December, manufacturing jobs continued an 8-month decline that 
+began after President Trump falsely promised these new tariffs would 
+lead to an economic resurgence for American workers.
+  Instead, his broad across-the-board tariffs have driven prices up for 
+everyday goods and all supply chains. Tariffs create uncertainty in the 
+job market, leaving hardworking families worse off.
+  When manufacturing jobs disappear as costs rise, Ohio families feel 
+it. Lost jobs and rising costs are not an abstract economic theory for 
+us. They are a harsh reality. Thousands of families I represent have 
+been touched. Another company just closed in Fulton County.
+  Mr. Speaker, let's make manufacturing more competitive, not less. 
+Let's create jobs in the USA.
+
+                          ____________________
+```
