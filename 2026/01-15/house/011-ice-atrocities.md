@@ -1,0 +1,37 @@
+---
+granule: CREC-2026-01-15-pt1-PgH908-3
+date: 2026-01-15
+edition: CREC
+section: HOUSE
+page: H908
+citation: 172 Cong. Rec. H908
+---
+
+# ICE ATROCITIES
+
+**Speaking:** McGarvey, Morgan (M001220) [D-KY]
+
+```
+                             ICE ATROCITIES
+
+  (Mr. McGARVEY asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. McGARVEY. Mr. Speaker, today I speak out of grave concern for my 
+neighbors in Louisville, in Minneapolis, across the country, and for my 
+colleagues here in Washington who somehow continue to excuse, dismiss, 
+and ignore the atrocities that ICE exhibits each day.
+  Mr. Speaker, do not look away. Watch as people in the freest country 
+on Earth get dragged from their cars down the street by masked men. 
+Watch as parents are pinned to the ground in the pick-up line outside 
+their kids' schools. Watch as Renee Nicole Good, a 37-year-old mother 
+of three, is killed in front of her wife.
+  Watch, because looking away will not absolve you from the violence 
+and atrocities made possible when you voted to hand over taxpayer money 
+to fund this government's campaign of terror.
+  Mr. Speaker, every single day you look away from what this President 
+is doing is another day that our neighbors face unimaginable cruelty at 
+the hands of their own government.
+  Mr. Speaker, do not look away.
+
+                          ____________________
+```

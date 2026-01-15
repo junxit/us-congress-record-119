@@ -1,0 +1,39 @@
+---
+granule: CREC-2026-01-15-pt1-PgH911-5
+date: 2026-01-15
+edition: CREC
+section: HOUSE
+page: H911
+citation: 172 Cong. Rec. H911
+---
+
+# HONORING LIFE OF MATEO CAMARILLO
+
+**Speaking:** Vargas, Juan (V000130) [D-CA]
+
+```
+                    HONORING LIFE OF MATEO CAMARILLO
+
+  (Mr. VARGAS asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. VARGAS. Mr. Speaker, I rise today to honor the life of Mateo 
+Camarillo, a great trailblazer and leader in San Diego, who passed away 
+recently.
+  Mateo was born in 1941 in Tijuana and immigrated to the United States 
+as a child. As a fierce advocate for social justice and civil rights, 
+Mateo put community at the heart of everything he did.
+  He was the force behind many incredible organizations and efforts 
+that changed San Diego for the better. Mateo began organizing and 
+helped create Casa Familiar and the San Ysidro Health Center. He fought 
+to expand bilingual access in public institutions. He also served as 
+the executive director of The Chicano Federation.
+  In addition to his public service, he was a very successful 
+entrepreneur and educator. Despite his many accomplishments, his 
+family--his family--was his pride and joy.
+  Mateo was once asked what his biggest motivation was for his work. He 
+said it was helping immigrant communities reach for the American Dream 
+of equal opportunity for all. He did more than that. He did great 
+things. May Mateo rest in peace. A job well done.
+
+                          ____________________
+```

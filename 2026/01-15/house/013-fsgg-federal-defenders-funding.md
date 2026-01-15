@@ -1,0 +1,41 @@
+---
+granule: CREC-2026-01-15-pt1-PgH908-5
+date: 2026-01-15
+edition: CREC
+section: HOUSE
+page: H908
+citation: 172 Cong. Rec. H908
+---
+
+# FSGG FEDERAL DEFENDERS FUNDING
+
+**Speaking:** Bonamici, Suzanne (B001278) [D-OR]
+
+```
+                              {time}  1050
+                     FSGG FEDERAL DEFENDERS FUNDING
+
+  (Ms. BONAMICI asked and was given permission to address the House for 
+1 minute.)
+  Ms. BONAMICI. Mr. Speaker, I rise today to applaud the House passage 
+of full funding for the Federal Defender Services. This is an issue I 
+have worked on for years. It affects the overall operation of the 
+Federal criminal justice system, and it continues to be nonpartisan.
+  Defendants have a constitutional right to counsel in criminal cases, 
+and for indigent defendants, counsel is appointed from the Federal 
+Defender Service. If there aren't enough Federal defenders, justice 
+could be delayed. Panel attorneys can be hired, but from the panel they 
+could be more expensive.
+  In fiscal year 2024, there was an inadvertent budgeting error that 
+resulted in initial funding levels that were at least $100 million less 
+than what the program needed. As a result of underfunding, Federal 
+Defender Services began fiscal year 2026 significantly in the red. We 
+just fixed that.
+  I thank Chair Cole, Ranking Member DeLauro, Chair Joyce, and Ranking 
+Member Hoyer for leading this issue in the House. I urge my Senate 
+colleagues to quickly advance this legislation because it is in 
+everyone's interests to have an efficient, reliable, and fair criminal 
+justice system.
+
+                          ____________________
+```

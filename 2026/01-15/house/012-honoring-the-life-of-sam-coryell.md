@@ -1,0 +1,41 @@
+---
+granule: CREC-2026-01-15-pt1-PgH908-4
+date: 2026-01-15
+edition: CREC
+section: HOUSE
+page: H908
+citation: 172 Cong. Rec. H908
+---
+
+# HONORING THE LIFE OF SAM CORYELL
+
+**Speaking:** Burlison, Eric (B001316) [R-MO]
+
+```
+                    HONORING THE LIFE OF SAM CORYELL
+
+  (Mr. BURLISON asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. BURLISON. Mr. Speaker, today I rise to honor the life of a 
+remarkable constituent and dedicated Missourian, Sam Coryell, whose 
+impact on Springfield and southwest Missouri will be remembered for 
+generations.
+  Sam started his career as a teacher, serving for 30 years as a 
+college music professor at Evangel University before focusing his 
+talents on entrepreneurship. In 1988 Sam cofounded TLC Properties, 
+helping oversee the development and management of thousands of 
+residential units across southwest Missouri. What began as a local 
+venture grew into a family of businesses rooted in service, integrity, 
+and community that created homes and opportunity for countless families 
+in Missouri's Seventh District.
+  Those who knew Sam described him as a visionary leader who believed 
+in helping others, always doing the right thing, and serving the 
+community. His personality and flair will be missed, but his impact 
+will be felt for generations.
+  While he is welcomed into the glory and presence of our Lord and 
+Savior, we who remain get to benefit from the amazing and lasting 
+legacy that he leaves behind.
+  May you rest in peace, Sam. We look forward to our reunion in Heaven.
+
+                          ____________________
+```

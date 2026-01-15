@@ -1,0 +1,140 @@
+---
+granule: CREC-2026-01-15-pt1-PgS263-4
+date: 2026-01-15
+edition: CREC
+section: SENATE
+page: S263
+citation: 172 Cong. Rec. S263
+---
+
+# RECOGNIZING THE ACHIEVEMENTS AND CONTRIBUTIONS OF THE AH-64 APACHE ATTACK HELICOPTER TO THE NATIONAL DEFENSE OF THE UNITED STATES AND ITS ALLIES
+
+**Speaking:** Barrasso, John (B001261) [R-WY]
+
+**Measures:** S.Res. 519
+
+```
+  RECOGNIZING THE ACHIEVEMENTS AND CONTRIBUTIONS OF THE AH-64 APACHE 
+ATTACK HELICOPTER TO THE NATIONAL DEFENSE OF THE UNITED STATES AND ITS 
+                                 ALLIES
+
+  Mr. BARRASSO. Mr. President, I ask unanimous consent that the 
+Committee on Armed Services be discharged from further consideration of 
+S. Res. 519 and the Senate proceed to its immediate consideration.
+  The PRESIDING OFFICER. The clerk will report the resolution by title.
+  The senior assistant legislative clerk read as follows:
+
+       A resolution (S. Res. 519) recognizing the achievements and 
+     contributions of the AH-64 Apache attack helicopter to the 
+     national defense of the United States and its allies and 
+     honoring the dedication, service, and sacrifice of the United 
+     States Army aviators, maintainers, and support personnel who 
+     operate and sustain the Apache.
+
+  There being no objection, the committee was discharged and the Senate 
+proceeded to consider the resolution.
+  Mr. BARRASSO. I ask unanimous consent that the resolution be agreed 
+to; that the Kelly amendment to the preamble be considered and agreed 
+to; that the preamble, as amended, be agreed to; and that the motions 
+to reconsider be considered made and laid upon the table with no 
+intervening action or debate.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The resolution (S. Res. 519) was agreed to.
+  The amendment (No. 4233) to the preamble was agreed to, as follows:
+
+                   (Purpose: To improve the preamble)
+
+       In paragraph (4) of the sixth whereas clause, strike 
+     ``2011'' and insert ``2010''.
+       In paragraph (4) of the sixth whereas clause, strike 
+     ``and'' at the end.
+       Between paragraph (5) of the sixth whereas clause and the 
+     seventh whereas clause, insert the following:
+       (6) Operation Just Cause;
+       (7) Operation Freedom's Sentinel (2015-2021); and
+       (8) Operation Atlantic Resolve;
+       In the eighth whereas clause, strike ``18'' and insert 
+     ``16''.
+  The resolution with its preamble, as amended, reads as follows:
+
+                              S. Res. 519
+
+       Whereas, on September 30, 1975, the Apache attack 
+     helicopter prototype YAH-64 took its first flight, marking a 
+     defining milestone in the history of aviation and defense 
+     innovation;
+       Whereas the AH-64 Apache was designed as a twin-engine, 
+     tandem-seat, heavy attack helicopter capable of providing 
+     close air support, deep strike, and reconnaissance missions 
+     under adverse conditions;
+       Whereas, since its first flight, the AH-64 Apache has 
+     become the most advanced, combat-proven attack helicopter in 
+     the world, amassing more than 5,200,000 total flight hours, 
+     including over 1,300,000 combat hours, in defense of the 
+     United States and its allies;
+       Whereas the AH-64 Apache has undergone continuous 
+     modernization, from the AH-64A through the AH-64E, 
+     incorporating digital avionics, advanced sensors, and 
+     networked weapons systems to enhance survivability, 
+     lethality, and interoperability;
+       Whereas production and sustainment of the AH-64 Apache have 
+     been carried out at facilities across the United States, with 
+     final assembly in Arizona and a supplier base across 46 
+     States, reflecting decades of leadership of the United States 
+     in aerospace design, engineering, and advanced manufacturing;
+       Whereas the AH-64 Apache has played a decisive role in 
+     major combat operations, including--
+       (1) Operation Desert Storm (1991), where it conducted the 
+     opening strikes of the Gulf War;
+       (2) Operation Allied Force (1999), during the conflict in 
+     Kosovo;
+       (3) Operation Enduring Freedom (2001-2014), providing close 
+     air support and reconnaissance in Afghanistan;
+       (4) Operation Iraqi Freedom (2003-2010), supporting ground 
+     operations and counterinsurgency missions;
+       (5) Operation Inherent Resolve (beginning in 2014 and 
+     ongoing as of the date of the introduction of this 
+     resolution), conducting precision strike operations against 
+     the Islamic State of Iraq and Syria;
+       (6) Operation Just Cause;
+       (7) Operation Freedom's Sentinel (2015-2021); and
+       (8) Operation Atlantic Resolve;
+       Whereas the AH-64 Apache attack helicopters operate from 
+     key United States Army installations around the world, 
+     including the United States Army Aviation Center of 
+     Excellence at Fort Rucker, Alabama, and 4 Army National Guard 
+     battalions;
+       Whereas the AH-64 Apache also serves with 16 allied and 
+     partner nations, strengthening global security and coalition 
+     interoperability and continuing to prove the indispensable 
+     role of the AH-64 Apache on the modern battlefield, including 
+     in counter-unmanned system efforts;
+       Whereas the AH-64 Apache continues to demonstrate 
+     versatility, resilience, and decisive battlefield capability 
+     in combat operations around the world; and
+       Whereas, on the 50th anniversary of the first flight of the 
+     AH-64 Apache, it is fitting to recognize the extraordinary 
+     innovation, dedication, and service that have defined the 
+     aircraft and the individuals who have designed, built, and 
+     maintained it: Now, therefore, be it
+       Resolved, That the Senate--
+       (1) recognizes the achievements and contributions of the 
+     AH-64 Apache attack helicopter to the national defense of the 
+     United States and its allies;
+       (2) honors the dedication, service, and sacrifice of the 
+     United States Army aviators, maintainers, and support 
+     personnel who operate and sustain the AH-64 Apache;
+       (3) acknowledges the enduring role of the AH-64 Apache in 
+     ensuring that the United States maintains unmatched close air 
+     support and precision strike capability; and
+       (4) respectfully directs the Secretary of the Senate to 
+     transmit an enrolled copy of this resolution to the United 
+     States Army Aviation Center of Excellence at Fort Rucker, 
+     Alabama.
+
+[[Page S264]]
+
+  
+
+                          ____________________
+```
