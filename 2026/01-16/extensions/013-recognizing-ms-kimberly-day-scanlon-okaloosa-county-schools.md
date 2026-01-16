@@ -1,0 +1,57 @@
+---
+granule: CREC-2026-01-16-pt1-PgE50
+date: 2026-01-16
+edition: CREC
+section: EXTENSIONS
+page: E50
+citation: 172 Cong. Rec. E50
+---
+
+# RECOGNIZING MS. KIMBERLY DAY-SCANLON, OKALOOSA COUNTY SCHOOLS 2027 TEACHER OF THE YEAR
+
+**Speaking:** Patronis, Jimmy (P000622) [R-FL]
+
+```
+  RECOGNIZING MS. KIMBERLY DAY-SCANLON, OKALOOSA COUNTY SCHOOLS 2027 
+                          TEACHER OF THE YEAR
+
+                                  _____
+                                 
+
+                          HON. JIMMY PATRONIS
+
+                               of florida
+
+                    in the house of representatives
+
+                        Friday, January 16, 2026
+
+  Mr. PATRONIS. Mr. Speaker, I rise to recognize Ms. Kimberly Day-
+Scanlon as the Okaloosa County Teacher of the Year. For several years, 
+Ms. Day-Scanlon has served Kenwood Elementary School with talent, 
+passion, and an unwavering commitment to a quality education. In 
+Northwest Florida, we are fortunate to have some of the best teachers 
+in the Nation. It is recognized that the teaching profession is one of 
+the most difficult yet rewarding professions in existence. Ms. Day-
+Scanlon has performed her teaching duties exceptionally, while also 
+being an active and supportive member of her community.
+  Ms. Day-Scanlon's outreach extends far beyond the walls of her 
+classroom through her active involvement in her school and community. 
+Kimberly is currently a full-time teacher in Okaloosa County. She has 
+taught students of all ages across various school settings for the last 
+three decades. Kimberly also works with preservice teachers and as a 
+mentor for new classroom teachers. She holds a BS in Special Education 
+(College of Saint Rose) and a MS in Inclusive Education (Nazareth 
+College). Kimberly is certified in Elementary Education, Exceptional 
+Student Education (K-12), and is endorsed in Gifted, ESOL, Reading, and 
+Autism Spectrum Disorders. For all of her admirable contributions to 
+our community, I'm truly proud to have Ms. Day-Scanlon as a constituent 
+in Florida's 1st Congressional District.
+  Mr. Speaker, on behalf of the United States Congress, I am privileged 
+to recognize Ms. Kimberly Day-Scanlon for her many accomplishments, and 
+her commitment to excellence, professionalism, innovation and 
+collaboration in the Okaloosa County School District. I thank her for 
+her service, and wish her all the best for her continued success.
+
+                          ____________________
+```
