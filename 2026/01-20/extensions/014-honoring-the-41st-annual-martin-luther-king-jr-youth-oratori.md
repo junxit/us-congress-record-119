@@ -1,0 +1,65 @@
+---
+granule: CREC-2026-01-20-pt1-PgE56-2
+date: 2026-01-20
+edition: CREC
+section: EXTENSIONS
+page: E56
+citation: 172 Cong. Rec. E56
+---
+
+# HONORING THE 41ST ANNUAL MARTIN LUTHER KING, JR. YOUTH ORATORICAL
+
+**Speaking:** Vindman, Eugene Simon (V000138) [D-VA]
+
+```
+   HONORING THE 41ST ANNUAL MARTIN LUTHER KING, JR. YOUTH ORATORICAL
+
+                                  _____
+                                 
+
+                       HON. EUGENE SIMON VINDMAN
+
+                              of virginia
+
+                    in the house of representatives
+
+                       Tuesday, January 20, 2026
+
+  Mr. VINDMAN. Mr. Speaker, I rise today to honor the 41st Annual 
+Martin Luther King, Jr. Youth Oratorical Contest, hosted by the Prince 
+William County Alumnae Chapter of Delta Sigma Theta Sorority, 
+Incorporated.
+  For more than four decades, the members of the Prince William County 
+Alumnae Chapter of Delta Sigma Theta Sorority, Inc. have hosted this 
+community event in honor of Martin Luther King, Jr. Day. This year 
+marks the 41st anniversary of this distinguished program, one of the 
+oldest and largest celebrations of Dr. King's legacy in the greater 
+Washington, D.C. metropolitan area.
+  The event brings together students in grades six through twelve from 
+Prince William County Public Schools and surrounding areas, offering 
+them a unique opportunity to research, write, and deliver original 
+orations honoring the life, leadership, and vision of Dr. Martin Luther 
+King, Jr.
+  This year's speech topic: ``Awakening the Dream: Breaking Barriers in 
+the Fight for Justice and Unity, ``is inspired by the enduring legacy 
+of Dr. Martin Luther King, Jr., whose calls for justice, unity, and an 
+equitable future continue to resonate today.''
+  I want to personally congratulate the following contestants in the 
+41st ``Annual Martin Luther King, Jr. Youth Oratorical Contest: Middle 
+School Contestants: Brianna McGlawn--Manassas Park Middle School; 
+Daniella Odom--Rippon Middle School; Jasraj Saini--Benton Middle 
+School; Salima Lankford-Diallo--Manassas Park High School; Beulah 
+Sarsah--C.D. Hylton High School; and Ryqah Shaikh--Gainesville High 
+School.
+  Mr. Speaker, I ask that my colleagues join me in commending the 
+Prince William County Alumnae Chapter of Delta Sigma Theta Sorority, 
+Inc. for its unwavering commitment to uplifting our youth and 
+preserving Dr. King's legacy.
+  I also congratulate these talented students for using their voices to 
+advance the ideals of justice, unity, and equality. Let us learn from 
+this next generation and consider how we may honor Dr. King's legacy by 
+continuously seeking justice and leading with light in our own 
+communities.
+
+                          ____________________
+```

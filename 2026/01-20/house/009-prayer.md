@@ -1,0 +1,37 @@
+---
+granule: CREC-2026-01-20-pt1-PgH928-3
+date: 2026-01-20
+edition: CREC
+section: HOUSE
+page: H928
+citation: 172 Cong. Rec. H928
+---
+
+# PRAYER
+
+```
+                                 PRAYER
+
+  The Chaplain, the Reverend Margaret Grun Kibben, offered the 
+following prayer:
+  God of love and compassion, what a privilege it is to come before You 
+on this day. You see us, You receive us just as we are. No matter how 
+different we may be from one another, You care for us with the same 
+depth of love with no prejudicial regard for our differences.
+  Take us then just as we are, whether we come from the East or West, 
+North or South, left or right; whether we bring with us differing 
+convictions or have needs that may seem in conflict with the desires of 
+others. In You there is no distinction for You, O God, are the Lord 
+over all.
+  Bestow on each of us the riches of Your grace as we call upon You 
+throughout the day. Pour out on us the overflowing fountain of Your 
+kindness, that each of us would know that all of us stand equal in our 
+need of Your redeeming grace.
+  Then may we, transformed by the unity found in Your love, look upon 
+all those with whom we interact this day with Your eyes, seeing in them 
+what You see; those whom You have deemed worthy of dignity and respect.
+  In the name of the one who is Lord of all, we pray.
+  Amen.
+
+                          ____________________
+```

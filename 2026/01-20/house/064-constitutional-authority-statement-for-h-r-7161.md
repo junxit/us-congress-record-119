@@ -1,0 +1,23 @@
+---
+granule: CREC-2026-01-20-pt1-PgH948-16
+date: 2026-01-20
+edition: CREC
+section: HOUSE
+page: H948
+citation: 172 Cong. Rec. H948
+---
+
+# Constitutional Authority Statement for H.R. 7161
+
+**Measures:** H.R. 7161
+
+```
+           By Mr. KRISHNAMOORTHI:
+       H.R. 7161.
+
+[[Page H949]]
+
+       Congress has the power to enact this legislation pursuant 
+     to the following:
+       Article I, Section 8 [Page H4586]
+```

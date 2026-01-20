@@ -1,0 +1,41 @@
+---
+granule: CREC-2026-01-20-pt1-PgH929-2
+date: 2026-01-20
+edition: CREC
+section: HOUSE
+page: H929
+citation: 172 Cong. Rec. H929
+---
+
+# PRESIDENT TRUMP IS KEEPING FAMILIES SAFE
+
+**Speaking:** Wilson, Joe (W000795) [R-SC]
+
+```
+                PRESIDENT TRUMP IS KEEPING FAMILIES SAFE
+
+  (Mr. WILSON of South Carolina asked and was given permission to 
+address the House for 1 minute and to revise and extend his remarks.)
+  Mr. WILSON of South Carolina. Mr. Speaker, across the country, 
+arrests of criminal illegal aliens are successful as President Donald 
+Trump is making good on his promise to rid communities of murderous 
+threats to families; making sure killers, gang members, and other 
+violent criminals are deported.
+  The President is ramping up pressure to cooperate with law 
+enforcement by sending in U.S. Immigration and Customs Enforcement 
+officers. This is undermined by extremist paid rioters.
+  The January 14 Washington Times editorial stated: ``Leftists justify 
+their . . . behavior by reciting a version of events existing only in 
+their imaginations.'' Vice President J.D. Vance is correct. Officials 
+are promoting rioting in the streets rather than follow the law.
+  Knowing the President has their back, Federal officials aren't 
+intimidated fighting insurrection. An insurrection is a real attack on 
+democracy.
+  In conclusion, God bless our troops as the global war on terrorism 
+continues. President Trump is reinstituting peace through strength, 
+revealing war criminal Putin lies, insulting Trump, mocking Trump with 
+Putin mercilessly launching rockets on civilian targets, murdering 
+innocent Ukrainians.
+
+                          ____________________
+```
