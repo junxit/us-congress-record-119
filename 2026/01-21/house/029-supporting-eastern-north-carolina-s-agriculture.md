@@ -1,0 +1,36 @@
+---
+granule: CREC-2026-01-21-pt1-PgH1131-4
+date: 2026-01-21
+edition: CREC
+section: HOUSE
+page: H1131
+citation: 172 Cong. Rec. H1131
+---
+
+# SUPPORTING EASTERN NORTH CAROLINA'S AGRICULTURE
+
+**Speaking:** Davis, Donald G. (D000230) [D-NC]
+
+```
+            SUPPORTING EASTERN NORTH CAROLINA'S AGRICULTURE
+
+  (Mr. DAVIS of North Carolina asked and was given permission to 
+address the House for 1 minute and to revise and extend his remarks.)
+  Mr. DAVIS of North Carolina. Mr. Speaker, eastern North Carolina 
+farmers are facing a crisis. Over the past few years, our farmers have 
+been hit by a perfect storm of drought, soaring input costs, and 
+growing trade uncertainty. When our farmers don't have a clear backup 
+plan or real support, then family farms and rural jobs are put at risk.
+  Some say: Congressman, why do you talk about farmers so much?
+  It is this simple. When farmers struggle, local businesses and entire 
+communities feel the impact.
+  Our State's agricultural economy faces a potential $1.9 billion hit 
+if things don't improve. That economic hit would devastate our cotton, 
+sweet potato, peanut, corn, and soybean farmers, tobacco farmers, and 
+pork and poultry producers.
+  We need bold, comprehensive action that lowers costs, expands market 
+access, strengthens disaster recovery, addresses labor concerns, and 
+stands up for our farm families.
+
+                          ____________________
+```

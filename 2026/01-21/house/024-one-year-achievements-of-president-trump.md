@@ -1,0 +1,40 @@
+---
+granule: CREC-2026-01-21-pt1-PgH1130-9
+date: 2026-01-21
+edition: CREC
+section: HOUSE
+page: H1130
+citation: 172 Cong. Rec. H1130
+---
+
+# ONE YEAR ACHIEVEMENTS OF PRESIDENT TRUMP
+
+**Speaking:** Wilson, Joe (W000795) [R-SC]
+
+```
+                ONE YEAR ACHIEVEMENTS OF PRESIDENT TRUMP
+
+  (Mr. WILSON of South Carolina asked and was given permission to 
+address the House for 1 minute and to revise and extend his remarks.)
+  Mr. WILSON of South Carolina. Mr. Speaker, 1 year ago, Donald Trump 
+was sworn in as the 47th President.
+  Taking over a weakened country with a crumbling Biden economy, 
+Republicans have delivered lower costs, bigger paychecks, creating 
+jobs.
+  President Donald Trump signed the Working Families Tax Cuts Act, 
+which limits government, expands freedom, and provides for peace 
+through strength.
+  The law allows Americans to keep their own money. Promises made, 
+promises kept.
+  In conclusion, God bless our troops as the global war on terrorism 
+continues. Trump is reinstituting peace through strength, revealing war 
+criminal Putin lies, insulting Trump and mocking Trump. On the day that 
+war criminal Putin invited envoys Steve Witkoff and Jared Kushner to 
+Moscow, Putin launched 33 missiles and 339 drones on civilian 
+infrastructure to freeze Ukrainian families to death, repeating the 
+Stalin famine of mass murder. Sadly, war criminal Putin continues 
+aggression, violating all agreements as he tries to resurrect the 
+failed Soviet Union.
+
+                          ____________________
+```

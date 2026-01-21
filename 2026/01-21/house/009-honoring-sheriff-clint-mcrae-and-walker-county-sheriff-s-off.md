@@ -1,0 +1,66 @@
+---
+granule: CREC-2026-01-21-pt1-PgH1126-2
+date: 2026-01-21
+edition: CREC
+section: HOUSE
+page: H1126
+citation: 172 Cong. Rec. H1126
+---
+
+# HONORING SHERIFF CLINT McRAE AND WALKER COUNTY SHERIFF'S OFFICE
+
+**Speaking:** Luttrell, Morgan (L000603) [R-TX]
+
+```
+    HONORING SHERIFF CLINT McRAE AND WALKER COUNTY SHERIFF'S OFFICE
+
+  (Mr. Luttrell of Texas was recognized to address the House for 5 
+minutes.)
+  Mr. LUTTRELL. Mr. Speaker, I rise today to honor Sheriff Clint McRae 
+and the outstanding men and women of the Walker County Sheriff's 
+Office.
+  For over 20 years, Sheriff McRae has led with distinction and 
+unwavering commitment to the people of Walker County. His hands-on 
+leadership and devotion to community policing set the standard for 
+excellence.
+  The Walker County Sheriff's Office fulfills its mission each day. 
+From volunteer programs engaging citizens in public safety to 
+responsive patrol operations, these deputies exemplify what it means to 
+serve with honor.
+  Mr. Speaker, I am grateful for their tireless dedication and proud to 
+represent them in Congress.
+
+
+    Recognizing Sheriff Byron Lyons and Polk County Sheriff's Office
+
+  Mr. LUTTRELL. Mr. Speaker, I rise today to recognize Sheriff Byron 
+Lyons and the brave men and women of the Polk County Sheriff's Office 
+for their exceptional service to our community.
+  Under Sheriff Lyons' leadership, the patrol division of 1 captain, 1 
+lieutenant, 4 sergeants, 4 corporals, and 15 deputies keeps 1,100 
+square miles and 1,500 miles of roads safe day in and day out.
+  Beyond their patrol duties, these law enforcement officials engage 
+our community through innovative programs that build trust and 
+strengthen the bond between law enforcement and the families they 
+protect.
+  Mr. Speaker, I am proud to represent these outstanding officers who 
+serve with integrity, professionalism, and unwavering dedication to 
+Polk County.
+
+
+Recognizing Sheriff Sam Houston and San Jacinto County Sheriff's Office
+
+  Mr. LUTTRELL. Mr. Speaker, I rise today to honor Sheriff Sam Houston 
+and the dedicated deputies of the San Jacinto Sheriff's Office.
+  Serving over 27,000 residents across 628 square miles, these law 
+enforcement officers protect our county and keep our families safe 
+every single day.
+  Sheriff Houston leads with commitment to community and engagement in 
+public safety training programs that make our communities stronger and 
+safer. Beyond enforcement, they build trust with our families and serve 
+with honor.
+  Mr. Speaker, I am grateful for their dedication to the people of San 
+Jacinto County.
+
+                          ____________________
+```
