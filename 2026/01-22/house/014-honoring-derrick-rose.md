@@ -1,0 +1,38 @@
+---
+granule: CREC-2026-01-22-pt1-PgH1176-5
+date: 2026-01-22
+edition: CREC
+section: HOUSE
+page: H1176
+citation: 172 Cong. Rec. H1176
+---
+
+# HONORING DERRICK ROSE
+
+**Speaking:** Garcia, Jesus G. "Chuy" (G000586) [D-IL]
+
+```
+                         HONORING DERRICK ROSE
+
+  (Mr. GARCIA of Illinois asked and was given permission to address the 
+House for 1 minute.)
+  Mr. GARCIA of Illinois. Mr. Speaker, today we honor the spirit of a 
+son of Chicago whose game carried the heartbeat of a city, Derrick 
+Rose.
+  From the blacktops of Englewood to the bright lights of the United 
+Center, Rose showed not only talent, but will and determination. He 
+played basketball the way that Chicago lives: fast, fearless, and 
+unafraid of the hard road.
+  As the youngest MVP in NBA history, Derrick Rose attacked the lane 
+like it owed him something, lifting up the franchise and a fan base 
+that saw itself in his humility.
+  He never asked to be a sports hero, yet he became one with a quiet 
+grace that spoke louder than the celebration.
+  Then came the injuries, but Derrick Rose came back again and again, 
+teaching young people that setbacks do not cancel destiny.
+  Derrick Rose reminded Chicagoans and this Nation that even when you 
+fall, you rise. For that we honor not just the basketball player but a 
+symbol of enduring American grit.
+
+                          ____________________
+```

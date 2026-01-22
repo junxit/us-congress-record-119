@@ -1,0 +1,42 @@
+---
+granule: CREC-2026-01-22-pt1-PgH1335-4
+date: 2026-01-22
+edition: CREC
+section: HOUSE
+page: H1335
+citation: 172 Cong. Rec. H1335
+---
+
+# FARM SHOW CENTENNIAL AWARD
+
+**Speaking:** Thompson, Glenn (T000467) [R-PA]
+
+```
+                       FARM SHOW CENTENNIAL AWARD
+
+  (Mr. THOMPSON of Pennsylvania asked and was given permission to 
+address the House for 1 minute and to revise and extend his remarks.)
+  Mr. THOMPSON of Pennsylvania. Mr. Speaker, I rise today to celebrate 
+two families that were awarded Century Farm status at the Pennsylvania 
+Farm Show last week.
+  Agriculture has a long history in the Commonwealth and has been one 
+of the State's first industries. For the prosperity of the State, it is 
+important to preserve these farms and pass them to the next generation.
+  Pennsylvania leads the Nation in the number of preserved farms, and 
+the Century and Bicentennial Farm programs recognize the commitment and 
+hard work that these families have endured to keep their farms in 
+production.
+  This year, two families from Pennsylvania's 15th Congressional 
+District were presented with the Century Farm status.
+  Jeremiah Keck is a resident of DuBois, and the Keck Family Farm dates 
+back to 1860. Their farm and barn were built in 1931 and are still 
+used. Some historical photos of their farm are preserved in the Library 
+of Congress. Their farm is one of the 40 Century Farms in Clearfield 
+County.
+  Scott and Cheryl Kinter, from Smicksburg, have farmed almost 100 
+acres of land since 1867. Indiana County has 56 Century Farms.
+  Mr. Speaker, I thank these families for their hard work and their 
+dedication to the agriculture industry.
+
+                          ____________________
+```

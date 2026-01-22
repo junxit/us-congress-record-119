@@ -1,0 +1,36 @@
+---
+granule: CREC-2026-01-22-pt1-PgH1337-5
+date: 2026-01-22
+edition: CREC
+section: HOUSE
+page: H1337
+citation: 172 Cong. Rec. H1337
+---
+
+# HONORING THE LIFE AND LEGACY OF DR. EDDIE FLOYD
+
+**Speaking:** Fry, Russell (F000478) [R-SC]
+
+```
+            HONORING THE LIFE AND LEGACY OF DR. EDDIE FLOYD
+
+  (Mr. FRY asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. FRY. Mr. Speaker, in rather sad news, I rise today to honor the 
+life and legacy of Dr. Eddie Floyd of Florence, South Carolina.
+  Dr. Floyd was a lifelong Gamecock, a respected physician, a pillar in 
+his community, but more than his titles, he really embodied a life of 
+service to others.
+  From his decades caring for patients to his more than 40 years of 
+leadership at the University of South Carolina, including serving as 
+chairman of the board of trustees, Dr. Floyd believed in investing in 
+people and in the future of our State.
+  He loved his community. He loved his family. He loved his alma mater 
+certainly, and he worked every day to make all of them stronger. He 
+leaves behind a legacy of service, leadership, and kindness.
+  Mr. Speaker, my prayers are with the Floyd family and with everyone 
+who had the privilege of knowing him. South Carolina is a better place 
+because of his service.
+
+                          ____________________
+```
