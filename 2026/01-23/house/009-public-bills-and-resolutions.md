@@ -1,0 +1,69 @@
+---
+granule: CREC-2026-01-23-pt1-PgH1911-8
+date: 2026-01-23
+edition: CREC
+section: HOUSE
+page: H1911
+citation: 172 Cong. Rec. H1911
+---
+
+# PUBLIC BILLS AND RESOLUTIONS
+
+**Measures:** H.Res. 1019, H.R. 7235, H.R. 7236, H.R. 7237, H.R. 7238
+
+```
+                      PUBLIC BILLS AND RESOLUTIONS
+
+  Under clause 2 of rule XII, public bills and resolutions of the 
+following titles were introduced and severally referred, as follows:
+
+           By Mrs. BIGGS of South Carolina (for herself, Mr. 
+             Timmons, Mrs. Bice, Mr. Crane, Mr. Wilson of South 
+             Carolina, Mr. Steube, Ms. Mace, Mr. Ogles, Mr. 
+             Tiffany, Ms. Boebert,
+
+[[Page H1912]]
+
+             Mr. Roy, Mrs. Harshbarger, Mr. Perry, Mr. Moore of 
+             Alabama, Ms. Letlow, Mrs. Miller of Illinois, and Mr. 
+             Harris of Maryland):
+       H.R. 7235. A bill to prohibit agencies from using the term 
+     ``birthing person'' in official documents; to the Committee 
+     on Oversight and Government Reform.
+           By Mr. SHREVE:
+       H.R. 7236. A bill to provide for the Secretary of Health 
+     and Human Services to maintain a national list of licensed 
+     private child placement agencies, and for other purposes; to 
+     the Committee on Ways and Means.
+           By Mr. STUTZMAN (for himself and Mrs. Harshbarger):
+       H.R. 7237. A bill to amend the Public Health Service Act to 
+     ensure that a woman seeking a chemical abortion is made aware 
+     of the risks involved, and for other purposes; to the 
+     Committee on Energy and Commerce.
+           By Mr. TAKANO (for himself, Ms. Norton, Mr. Peters, Mr. 
+             Pocan, Ms. Simon, Mr. Gottheimer, Ms. Davids of 
+             Kansas, Mr. McGarvey, Mr. Garcia of California, Ms. 
+             Randall, Mr. Lieu, Mrs. Ramirez, Mr. Doggett, Ms. 
+             Wilson of Florida, Ms. Tlaib, Ms. Lee of 
+             Pennsylvania, Mr. Davis of Illinois, Mr. Torres of 
+             New York, Mr. Vargas, Ms. Jacobs, Mr. Case, Ms. 
+             Titus, Mr. Goldman of New York, Ms. McBride, Ms. 
+             Bonamici, and Ms. Balint):
+       H.R. 7238. A bill to establish the Commission on Equity and 
+     Reconciliation in the Uniformed Services; to the Committee on 
+     Armed Services, and in addition to the Committee on Veterans' 
+     Affairs, for a period to be subsequently determined by the 
+     Speaker, in each case for consideration of such provisions as 
+     fall within the jurisdiction of the committee concerned.
+           By Ms. SCHAKOWSKY (for herself, Mr. Joyce of Ohio, Mr. 
+             Tonko, and Ms. Bonamici):
+       H. Res. 1019. A resolution recognizing the roles and the 
+     contributions of America's Certified Registered Nurse 
+     Anesthetists (CRNAs) and their critical role in providing 
+     quality health care for the public and our Nation's Armed 
+     Forces, for more than 150 years and through multiple public 
+     health emergencies and beyond; to the Committee on Energy and 
+     Commerce.
+
+                          ____________________
+```
