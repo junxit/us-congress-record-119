@@ -1,0 +1,42 @@
+---
+granule: CREC-2026-02-02-pt1-PgH1925-3
+date: 2026-02-02
+edition: CREC
+section: HOUSE
+page: H1925
+citation: 172 Cong. Rec. H1925
+---
+
+# PRAYER
+
+```
+                                 PRAYER
+
+  The Chaplain, the Reverend Margaret Grun Kibben, offered the 
+following prayer:
+  Sovereign God, Your voice thunders in marvelous ways. You do great 
+things beyond our understanding. You say to the snow: ``Fall on the 
+Earth,'' and to the rain shower: ``Be a mighty downpour.'' In all these 
+things, You make Your work known to us. You stop us in our tracks with 
+Your mighty acts. We cannot help but acknowledge that all things are in 
+Your control and only by the power of Your hand do we live.
+  Let our lives on this day, the midway point between winter and 
+spring, be ones that reflect the source and purpose found in You.
+  When we are inclined to hibernate in an attempt to avoid the harsh 
+winds of this dark season that surrounds us, assure us that even in 
+these times You are working Your purpose out.
+  Even as we anticipate the coming of spring, whether right around the 
+corner or 6 weeks away, or in the promise of relief from the turmoil in 
+which we find ourselves, both in our communities and in this country, 
+remind us again that our hope is found only in You.
+  Let us then listen for Your voice as it thunders in the silence of 
+those who fail to speak or act in righteousness. Let us heed Your 
+counsel as You whisper in the fire and wind stirred up by the bluster 
+of confusion.
+  Hold nothing back, that we would hear Your Word and live in 
+accordance with Your divine will for this season.
+  In Your mighty name we pray.
+  Amen.
+
+                          ____________________
+```

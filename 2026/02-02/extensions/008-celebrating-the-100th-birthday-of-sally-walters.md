@@ -1,0 +1,69 @@
+---
+granule: CREC-2026-02-02-pt1-PgE89
+date: 2026-02-02
+edition: CREC
+section: EXTENSIONS
+page: E89
+citation: 172 Cong. Rec. E89
+---
+
+# CELEBRATING THE 100TH BIRTHDAY OF SALLY WALTERS
+
+**Speaking:** Fitzpatrick, Brian K. (F000466) [R-PA]
+
+```
+            CELEBRATING THE 100TH BIRTHDAY OF SALLY WALTERS
+
+                                  _____
+                                 
+
+                       HON. BRIAN K. FITZPATRICK
+
+                            of pennsylvania
+
+                    in the house of representatives
+
+                        Monday, February 2, 2026
+
+  Mr. FITZPATRICK. Mr. Speaker, I rise today to recognize an 
+extraordinary constituent from my district, Mrs. Sally Walters. Born on 
+January 30, 1926, Sally exemplifies a century of steadfast dedication 
+to family, education, and the spirit of wonder. Her 100 years of life 
+stand as a powerful testament to a life lived to its fullest.
+  Growing up on Long Island at the height of the Great Depression, 
+Sally was fortunate enough to grow up as the daughter of a produce 
+peddler, who taught her the values of clean eating. Sally was ever the 
+diligent student, making the ARISTA List before she graduated from Port 
+Richmond High School in Staten Island, helping to foster her lifelong 
+love of education and learning.
+  Sally enjoyed the best the New York Metropolitan area had to offer, 
+frequenting Manhattan to see the likes of Frank Sinatra perform at the 
+beginning of his rise to fame in addition to attending USO dances 
+during the Second World War to entertain our troops. It was during the 
+war where she met her first husband, Ed, riding bumper cars while he 
+was stationed with the United States Army Air Force nearby. They were 
+married in 1946 and moved to Philadelphia shortly thereafter.
+  As a young woman in post-war America, Sally joined the workforce as 
+an executive secretary to the research chemists at Rohm Haas. She 
+balanced her burgeoning professional career with the responsibilities 
+of motherhood, raising 3 children in Bensalem and eventually joining 
+the Bensalem School District as a secretary. It was during this time 
+that her husband Ed unfortunately passed away.
+  Sally eventually found love again, marrying Bill, a veteran of the 
+Marine Corps who helped reinvigorate her sense of wonder and adventure 
+from her childhood. Together, Sally and Bill traveled across our 
+beautiful country and beyond, exploring the landscape and cultures 
+around the globe. Sally and Bill retired to Hendersonville, North 
+Carolina until his passing, after which she moved to Bristol, 
+Pennsylvania to be closer to her children.
+  Now, as she approaches age 100, Sally remains an extraordinary force, 
+actively involved with her group of friends at the Bensalem Senior 
+Center. She now spends her days enjoying games and the company of her 3 
+grandchildren and 7 great-grandchildren while maintaining a strict 
+schedule of daily exercises, prayers and chores.
+  As we celebrate Sally's 100th birthday, we honor her enduring 
+dedication to Bucks County as an educator, traveler, loving mother, and 
+an inspiring woman of remarkable strength and character.
+
+                          ____________________
+```
