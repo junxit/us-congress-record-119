@@ -1,0 +1,39 @@
+---
+granule: CREC-2026-02-03-pt1-PgS452-2
+date: 2026-02-03
+edition: CREC
+section: SENATE
+page: S452
+citation: 172 Cong. Rec. S452
+---
+
+# Honoring Christopher Ohlmeyer (Executive Calendar)
+
+**Speaking:** Cassidy, Bill (C001075) [R-LA]
+
+```
+                     Honoring Christopher Ohlmeyer
+
+  Mr. CASSIDY. Mr. President, I rise on a very sad occasion, 
+recognizing Jefferson Parish Sheriff's Office Deputy Christopher 
+Ohlmeyer, a motorcycle officer who was just killed in a traffic motor 
+vehicle accident. His death will be felt by his family, his fellow 
+officers, and our entire State.
+  Christopher Ohlmeyer was a great officer, but he was more than the 
+uniform he wore. He was a husband, a father, and a friend.
+  The way that he died, though tragic, is a testament to the way he 
+lived. Deputy Ohlmeyer was struck as he was serving as a motorcycle 
+escort for a funeral procession and was hit by a car from behind. In 
+his final moments, he was serving someone else.
+  I am told that those who did not have a family were invited to be 
+part of his; that he brought people together; that he was deeply 
+committed to serving his community.
+  May we pray for his family, remember his sacrifice, and strive to 
+live our legacy and our lives in whatever way we can, as he did his.
+  With gratitude for Deputy Ohlmeyer's service and remembrance of his 
+life, Mr. President, I ask that we pause for a moment to remember 
+Deputy Ohlmeyer.
+  (Moment of silence.)
+  I yield the floor.
+  The PRESIDING OFFICER. The Senator from Texas.
+```
