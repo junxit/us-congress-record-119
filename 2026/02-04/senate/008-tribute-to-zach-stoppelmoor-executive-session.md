@@ -1,0 +1,33 @@
+---
+granule: CREC-2026-02-04-pt1-PgS475-7
+date: 2026-02-04
+edition: CREC
+section: SENATE
+page: S475
+citation: 172 Cong. Rec. S475
+---
+
+# Tribute to Zach Stoppelmoor (Executive Session)
+
+**Speaking:** Grassley, Chuck (G000386) [R-IA]
+
+```
+                      Tribute to Zach Stoppelmoor
+
+  Mr. GRASSLEY. Mr. President, I want to honor a young Iowan who has 
+probably had a lifetime of hard work preparing for something that is 
+coming up very soon in the 2026 Winter Olympics. They begin on Friday 
+in Italy.
+  As the Senator from Iowa, I am proud that West Des Moines, IA, native 
+Zach Stoppelmoor will be representing Team USA. Zach will be competing 
+in his first Winter Olympics in the 500-meter speed skating 
+competition.
+  He first began skating at around 6 years old at a place called Skate 
+South roller rink in Des Moines. Zach credits his Iowa coaches for 
+instilling a strong work ethic, and he used that Iowa work ethic to win 
+the U.S. trials in January. Zach's goal is to win a gold medal.
+  I look forward to watching Zach and all Americans compete in the 
+Winter Olympics over the next few weeks, and we should all say: Go Team 
+USA.
+  I yield the floor.
+```

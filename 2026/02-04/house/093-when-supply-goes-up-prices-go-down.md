@@ -1,0 +1,42 @@
+---
+granule: CREC-2026-02-04-pt1-PgH2016-3
+date: 2026-02-04
+edition: CREC
+section: HOUSE
+page: H2016
+citation: 172 Cong. Rec. H2016
+---
+
+# WHEN SUPPLY GOES UP, PRICES GO DOWN
+
+**Speaking:** Mrvan, Frank J. (M001214) [D-IN]
+
+```
+                  WHEN SUPPLY GOES UP, PRICES GO DOWN
+
+  (Mr. MRVAN asked and was given permission to address the House for 1 
+minute.)
+  Mr. MRVAN. Mr. Speaker, I rise today to share my deep frustration and 
+anger for the people of northwest Indiana's First Congressional 
+District as they open their heating bills that have skyrocketed this 
+winter.
+  Hoosiers understand that utility rates are regulated at the State 
+level, but they also understand, just as we do here, that Federal 
+policy plays a role in whether our Nation is increasing energy supply 
+or restricting it.
+  It is simple economics. When supply goes up, prices go down. 
+Unfortunately, recent actions by this administration have moved us in 
+the wrong direction.
+  In northwest Indiana, two major energy projects that would have 
+increased supply and lowered costs were canceled. An $8 billion 
+hydrogen project at the BP refinery in Whiting supported by labor, 
+industry, the State, higher education partners, and the Federal 
+Government were halted. An $18 million alternative aviation fuel 
+project in East Chicago was also canceled. These projects would have 
+strengthened our energy supply, created jobs, and supported our 
+regional economy for decades to come.
+  Mr. Speaker, I urge the House to find ways to increase the energy 
+supply so we can lower the costs in northwest Indiana.
+
+                          ____________________
+```

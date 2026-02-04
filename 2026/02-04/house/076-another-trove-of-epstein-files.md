@@ -1,0 +1,36 @@
+---
+granule: CREC-2026-02-04-pt1-PgH2013-4
+date: 2026-02-04
+edition: CREC
+section: HOUSE
+page: H2013
+citation: 172 Cong. Rec. H2013
+---
+
+# ANOTHER TROVE OF EPSTEIN FILES
+
+**Speaking:** Ross, Deborah K. (R000305) [D-NC]
+
+```
+                     ANOTHER TROVE OF EPSTEIN FILES
+
+  (Ms. ROSS asked and was given permission to address the House for 1 
+minute and to revise and extend her remarks.)
+  Ms. ROSS. Mr. Speaker, after months of delays and distractions, 
+Trump's DOJ finally released another trove of documents from the 
+Epstein files.
+  The DOJ claims it is in full compliance with the Epstein Files 
+Transparency Act, but that is simply not true. It is just the latest in 
+a long line of lies and excuses from this administration.
+  To date, the DOJ has only released half of the files, in direct 
+violation of Federal law.
+  The survivors of Jeffrey Epstein's abuse have already endured 
+unimaginable pain. They deserve truth and accountability.
+  However, in this latest release, some of the survivors' names and 
+images were exposed while the men who abused them remained redacted.
+  What is DOJ hiding? Who are they protecting?
+  Here is the bottom line: Anything short of full compliance amounts to 
+a coverup.
+
+                          ____________________
+```

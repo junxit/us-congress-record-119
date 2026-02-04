@@ -1,0 +1,37 @@
+---
+granule: CREC-2026-02-04-pt1-PgH2016
+date: 2026-02-04
+edition: CREC
+section: HOUSE
+page: H2016
+citation: 172 Cong. Rec. H2016
+---
+
+# AMERICA CANNOT HAVE UNLIMITED IMMIGRATION
+
+**Speaking:** Grothman, Glenn (G000576) [R-WI]
+
+```
+               AMERICA CANNOT HAVE UNLIMITED IMMIGRATION
+
+  (Mr. GROTHMAN asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. GROTHMAN. Mr. Speaker, Congress is leaving and won't be back 
+until next week. If it is like every other weekend, a lot of what you 
+see on television is going to be incidents going on in Minnesota 
+affected by the immigration situation.
+  I remind my colleagues and the American people that we are a Nation 
+of immigrants, but every year we naturalize about 800,000 new folks. 
+That is about five times what it was when I was a child. Mr. Speaker, 
+16 percent of the people in our country were not born in America. That 
+is the highest it has been since before 1890.
+  We have nothing to apologize for that we are not letting enough 
+people in this country. However, sadly, there are too many elected 
+officials who, in essence, want to get rid of the immigration laws. We 
+saw this in the 2016 election in which way too many Democrats promised 
+free medical care for people who come here.
+  In any event, we are very generous to immigrants. We cannot have 
+unlimited immigration.
+
+                          ____________________
+```

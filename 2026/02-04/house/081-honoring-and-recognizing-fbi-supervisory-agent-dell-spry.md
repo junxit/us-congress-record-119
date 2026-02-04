@@ -1,0 +1,38 @@
+---
+granule: CREC-2026-02-04-pt1-PgH2014-3
+date: 2026-02-04
+edition: CREC
+section: HOUSE
+page: H2014
+citation: 172 Cong. Rec. H2014
+---
+
+# HONORING AND RECOGNIZING FBI SUPERVISORY AGENT DELL SPRY
+
+**Speaking:** McCormick, Richard (M001218) [R-GA]
+
+```
+        HONORING AND RECOGNIZING FBI SUPERVISORY AGENT DELL SPRY
+
+  (Mr. McCORMICK asked and was given permission to address the House 
+for 1 minute and to revise and extend his remarks.)
+  Mr. McCORMICK. Mr. Speaker, I rise to honor and recognize the career 
+of one of our Nation's greatest spy catchers.
+  My constituent, Marvin ``Dell'' Spry, spent nearly 20 years in the 
+FBI running counterintelligence operations to keep our country safe. 
+Mr. Spry ran the FBI investigations that caught Aldrich Ames, a high-
+ranking CIA official who betrayed his country for money and spent 
+nearly one decade spying for the Soviet Union.
+  In 1994, the FBI caught Ames, and Mr. Spry put him in handcuffs. 
+After pleading guilty to espionage charges, Ames received a life 
+sentence and died in Federal prison last month.
+  Mr. Spry received many decorations for his outstanding leadership of 
+the investigation and retired from the Bureau in 2006. Since then, he 
+has continued to share his wisdom and expertise with FBI trainees and 
+young people interested in law enforcement.
+  On behalf of a grateful nation, I thank Mr. Spry for his patriotism 
+and honorable service to our Nation.
+  Job well done. Semper Fidelis.
+
+                          ____________________
+```

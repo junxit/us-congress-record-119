@@ -1,0 +1,42 @@
+---
+granule: CREC-2026-02-04-pt1-PgH2013-2
+date: 2026-02-04
+edition: CREC
+section: HOUSE
+page: H2013
+citation: 172 Cong. Rec. H2013
+---
+
+# RECOGNIZING MARY ANN NIHART
+
+**Speaking:** Liccardo, Sam T. (L000607) [D-CA]
+
+```
+                      RECOGNIZING MARY ANN NIHART
+
+  (Mr. LICCARDO asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. LICCARDO. Mr. Speaker, I rise today to recognize Mary Ann Nihart, 
+whose life of commitment to healing and community uplifted countless 
+neighbors across Pacifica, California, and beyond.
+  Mary Ann's career in nursing and mental health spanned four decades. 
+She began her service with the County of San Mateo and later joined the 
+San Francisco Veterans Affairs Medical Center where she rose to become 
+clinical director and chief nurse of Mental Health Services.
+  Her excellence earned her Nurse of the Year and distinguished service 
+awards from the American Psychiatric Nurses Association, among many 
+other honors. While caring for thousands of veterans, she also inspired 
+and guided younger professionals pursuing careers in the practice of 
+psychiatric nursing.
+  Mary Ann's dedication to the community didn't stop with her day job. 
+She also served on the Pacifica City Council and for two terms as 
+Pacifica's mayor. She was a hands-on, visionary leader who championed 
+public engagement and collaborative governance.
+  In her final battle with cancer, as with every other facet of her 
+life, Mary Ann Nihart embodied courage, kindness, and an unwavering 
+dedication to others.
+  Though we mourned her loss last Saturday, we will be celebrating her 
+inspiring legacy for many years to come.
+
+                          ____________________
+```

@@ -1,0 +1,60 @@
+---
+granule: CREC-2026-02-04-pt1-PgH1979-4
+date: 2026-02-04
+edition: CREC
+section: HOUSE
+page: H1979
+citation: 172 Cong. Rec. H1979
+---
+
+# BRINGING PEOPLE TOGETHER
+
+**Speaking:** Kennedy, Timothy M. (K000402) [D-NY]
+
+```
+                        BRINGING PEOPLE TOGETHER
+
+  (Mr. Kennedy of New York was recognized to address the House for 5 
+minutes.)
+  Mr. KENNEDY of New York. Mr. Speaker, I rise today to condemn 
+Islamophobia in the United States, an alarming and dangerous trend that 
+goes against the most basic values of our country. Hatred and religious 
+discrimination don't make us safer, stronger, or more united. They do 
+just the opposite.
+  When fear and division are used by people in power, families in our 
+communities are the ones who pay the price. When national leaders 
+single out and demonize an entire faith or culture, it tells people 
+that intolerance is acceptable, that cruelty is strength. Too often, 
+the loudest voices of hate hear that signal clearly.
+  Across our country, Muslim Americans are feeling that impact. Mosques 
+have been threatened. Families have been profiled. Children have been 
+made to feel like they don't belong in the only country they have ever 
+known. It is wrong, it is unjust, and it is profoundly un-American.
+  As Members of Congress, we have a responsibility to stand up for 
+fairness, freedom, and basic decency because Islamophobia has real 
+consequences. Families are afraid to report crimes, workers lose 
+opportunities, students feel isolated, and American citizens are 
+treated differently because of how they pray, how they dress, or where 
+their parents were born.
+  In western New York, from Buffalo to Niagara Falls to the city of 
+Lackawanna, and everywhere in between, we know what it means to face 
+discrimination, hate, and division, and we know the power of standing 
+together united.
+  My district is home to one of the largest Arab American communities 
+in the country. Families came here for the same promises as generations 
+before them, to build a better future for themselves and their 
+children. They believe in the American Dream. Neighbors in the city of 
+Lackawanna came together in an act of love for the community and 
+created ACCESS of Western New York. ACCESS helps families in crisis, 
+supports young people, and gives immigrants and nonimmigrants alike the 
+tools they need to get on their feet. They bring people together 
+instead of pushing them apart.
+  That is what America looks like at its best. At a time when division 
+feels constant, western New York shows there is another way forward, 
+one rooted in respect, compassion, and shared humanity.
+  We all have a choice. We can allow hate to grow, or we can stand up 
+and say it has no place here. I choose to stand against Islamophobia, 
+and I urge my colleagues and all Americans to do the same.
+
+                          ____________________
+```

@@ -1,0 +1,55 @@
+---
+granule: CREC-2026-02-04-pt1-PgH1980
+date: 2026-02-04
+edition: CREC
+section: HOUSE
+page: H1980
+citation: 172 Cong. Rec. H1980
+---
+
+# HONORING THE LIFE OF RICK GARCIA
+
+**Speaking:** Garcia, Jesus G. "Chuy" (G000586) [D-IL]
+
+```
+                    HONORING THE LIFE OF RICK GARCIA
+
+  (Mr. Garcia of Illinois was recognized to address the House for 5 
+minutes.)
+  Mr. GARCIA of Illinois. Mr. Speaker, I rise today to honor the life 
+of Rick Garcia, a giant in the fight for equality in Illinois.
+  I met Rick in the 1980s when being out, visible, and unapologetic 
+came with real risk. We used to call each other primos or cousins 
+because we shared the same last name.
+  Rick believed that change didn't happen by accident and worked across 
+political, religious, and community lines to build unlikely coalitions. 
+He helped pass Illinois' landmark ban on discrimination based on sexual 
+orientation.
+  As a cofounder of Equality Illinois, Rick fought to ensure that love 
+and identity are never grounds for discrimination.
+  Rick's legacy lives on in the movement he helped build and the laws 
+he helped pass, which are now as important as ever.
+  May we honor his legacy in action. May Rick rest in power.
+
+
+                            Losing Benefits
+
+  Mr. GARCIA of Illinois. Mr. Speaker, the price of groceries keeps 
+going up. Starting this week, 4 million people per month will be pushed 
+off their food stamps. In Illinois alone, 360,000 people will lose 
+those benefits. All due to cuts from the big, ugly bill.
+  Americans are being forced to go hungry so the President can pay for 
+his terror campaign in our cities. Children, people with disabilities, 
+and veterans will lose their ability to put food on the table.
+  Food pantries are already seeing longer lines for services. Local 
+grocers warn that this will impact them, too, as people will be unable 
+to shop for food. SNAP benefits are not just a safety net. They also 
+foster economic activity and community stability.
+  The President has made his priorities clear by cutting food 
+assistance for millions of Americans to fund his agenda, while families 
+are pushed closer to hunger.
+  They can lie, tell us to ignore what we see and experience, but the 
+American people will not forget.
+
+                          ____________________
+```
