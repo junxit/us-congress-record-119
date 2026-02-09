@@ -1,0 +1,42 @@
+---
+granule: CREC-2026-02-09-pt1-PgH2085-2
+date: 2026-02-09
+edition: CREC
+section: HOUSE
+page: H2085
+citation: 172 Cong. Rec. H2085
+---
+
+# RECOGNIZING LEHIGH VALLEY HOSPITAL-DICKSON CITY
+
+**Speaking:** Bresnahan, Robert P. (B001327) [R-PA]
+
+```
+            RECOGNIZING LEHIGH VALLEY HOSPITAL-DICKSON CITY
+
+  (Mr. BRESNAHAN asked and was given permission to address the House 
+for 1 minute and to revise and extend his remarks.)
+  Mr. BRESNAHAN. Mr. Speaker, I rise today to recognize the incredible 
+response to the fire at Lehigh Hospital-Dickson City last Wednesday 
+night.
+  Thanks to the quick action of hospital staff and first responders, 
+every patient and staff member was safely evacuated and relocated, many 
+to nearby hospitals, including Regional Hospital of Scranton, Wilkes-
+Barre General, Geisinger CMC, and Geisinger Wyoming Valley.
+  What could have been a devastating crisis instead showed the best of 
+northeastern Pennsylvania. First responders and hospital teams from 
+across the region stayed calm, worked together, and made sure every 
+patient was safe.
+  Our team monitored the situation from the district and our 
+congressional office throughout the night, staying in constant contact 
+with the White House, CMS, hospital leadership, State officials, and 
+local responders to make sure that everyone had the support they 
+needed.
+  As Lehigh Valley-Dickson City begins to recover, my office will 
+continue working alongside hospital leadership and local partners, 
+providing any help needed to get the facility back on its feet.
+  This is what NEPA does. We look out for our neighbors, and we take 
+care of one another.
+
+                          ____________________
+```
