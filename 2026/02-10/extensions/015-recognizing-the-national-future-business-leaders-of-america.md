@@ -1,0 +1,61 @@
+---
+granule: CREC-2026-02-10-pt1-PgE124-3
+date: 2026-02-10
+edition: CREC
+section: EXTENSIONS
+page: E124
+citation: 172 Cong. Rec. E124
+---
+
+# RECOGNIZING THE NATIONAL FUTURE BUSINESS LEADERS OF AMERICA WEEK
+
+**Speaking:** Murphy, Gregory F. (M001210) [R-NC]
+
+```
+    RECOGNIZING THE NATIONAL FUTURE BUSINESS LEADERS OF AMERICA WEEK
+
+                                 ______
+                                 
+
+                         HON. GREGORY F. MURPHY
+
+                           of north carolina
+
+                    in the house of representatives
+
+                       Tuesday, February 10, 2026
+
+  Mr. MURPHY. Mr. Speaker, I rise today in recognition of the Future 
+Business Leaders of America. I include in the Record the following 
+proclamation:
+
+       Whereas, Future Business Leaders of America, Inc. (FBLA) is 
+     a non-profit educational organization whose first chapter was 
+     established in Johnson City, Tennessee, in 1942; and
+       Whereas, Iowa became FBLA's first state chapter in 1947; 
+     and
+       Whereas, Junius H. Rose officially chartered its FBLA local 
+     chapter on January 21, 1969; and
+       Whereas, FBLA includes more than 250,000 members and 
+     advisers in 4,600 chapters nationwide in middle schools, high 
+     schools, colleges, universities, career and technical 
+     schools, and private business schools; and
+       Whereas, FBLA is a professional business organization 
+     dedicated to bringing business and education together in a 
+     positive working relationship through innovative leadership 
+     and career development programs; and
+       Whereas, FBLA members perform community service activities 
+     and strive to build a student's understanding of the 
+     realities of the modern business world; and
+       Whereas, FBLA teaches middle school, high school, and 
+     college students basic business and leadership principles; 
+     and assists them in the transition from school to work; and
+       Now, therefore, be it resolved that I, Greg Murphy, M.D., 
+     United States Representative for North Carolina's 3rd 
+     Congressional District, recognize February 9-15, 2026, as 
+     National FBLA Week in North Carolina's 3rd Congressional 
+     District, in recognition of the activities and efforts led by 
+     the students at J.H. Rose High School.
+
+                          ____________________
+```

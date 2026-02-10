@@ -1,0 +1,48 @@
+---
+granule: CREC-2026-02-10-pt1-PgE123
+date: 2026-02-10
+edition: CREC
+section: EXTENSIONS
+page: E123
+citation: 172 Cong. Rec. E123
+---
+
+# HONORING FLORIDA CITRUS SPORTS' 80 YEARS OF IMPACT
+
+**Speaking:** Frost, Maxwell (F000476) [D-FL]
+
+```
+           HONORING FLORIDA CITRUS SPORTS' 80 YEARS OF IMPACT
+
+                                 ______
+                                 
+
+                           HON. MAXWELL FROST
+
+                               of florida
+
+                    in the house of representatives
+
+                       Tuesday, February 10, 2026
+
+  Mr. FROST. Mr. Speaker, this month, I celebrate Florida Citrus Sports 
+and its significant impact and dedication to communities throughout 
+Central Florida. Since its founding in 1946, Florida Citrus Sports has 
+committed to hosting nationally and internationally recognized events, 
+some including the Florida Classic, the Cheezits Citrus Bowl, and 
+several competitions that gather people from all over the world.
+  Florida Citrus Sports has cultivated and supported opportunities for 
+employment, students, teachers, and communities that will continue to 
+contribute to the elevation of all Florida residents. Celebrating 80 
+Years of Impact demonstrates resilience and a growing passion for 
+community service, despite challenges faced and to come.
+  Through numerous partnerships and leadership, Florida Citrus Sports 
+has invested in the future of Florida's economy, education, and 
+countless neighborhood revitalization initiatives.
+  I thank Florida Citrus Sports for their 80 years of dedication and 
+service. Their contribution has, in many ways, enhanced Central 
+Florida's vision to maintain a strengthened, hope-filled, equitable, 
+and innovative legacy for all future residents.
+
+                          ____________________
+```

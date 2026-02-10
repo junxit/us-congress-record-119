@@ -1,0 +1,72 @@
+---
+granule: CREC-2026-02-10-pt1-PgE121-3
+date: 2026-02-10
+edition: CREC
+section: EXTENSIONS
+page: E121
+citation: 172 Cong. Rec. E121
+---
+
+# HONORING MR. CHARLES McLAURIN
+
+**Speaking:** Thompson, Bennie G. (T000193) [D-MS]
+
+```
+                     HONORING MR. CHARLES McLAURIN
+
+                                 ______
+                                 
+
+                        HON. BENNIE G. THOMPSON
+
+                             of mississippi
+
+                    in the house of representatives
+
+                       Tuesday, February 10, 2026
+
+  Mr. THOMPSON of Mississippi. Mr. Speaker, I rise today to honor Mr. 
+Charles McLaurin of Sunflower County, Mississippi, for his 
+extraordinary contributions to the civil rights movement and to the 
+advancement of democratic participation in the Mississippi Delta.
+  Mr. McLaurin came to Sunflower County in 1962 as a field secretary 
+with the Student Nonviolent Coordinating Committee (SNCC), at a time 
+when African Americans in the Mississippi Delta were systematically 
+denied the right to vote and subjected to economic retaliation and 
+violence for challenging segregation. Working out of Indianola, he 
+played a central role in launching SNCC's voter registration project in 
+the county, often accompanying local residents to the Sunflower County 
+courthouse to assert their constitutional right to register to vote.
+  Mr. McLaurin understood that meaningful change required trust, 
+persistence, and respect for local leadership. He worked closely with 
+community members who risked their livelihoods and personal safety 
+simply by attempting to register. Among those leaders was Mrs. Fannie 
+Lou Hamer, with whom Mr. McLaurin developed a close and enduring 
+partnership. He later served as campaign manager for Mrs. Hamer's 
+historic 1964 congressional campaign as part of the Mississippi Freedom 
+Democratic Party, an effort that challenged the legitimacy of 
+Mississippi's segregated political system and brought national 
+attention to voter suppression in the south.
+  Throughout the environment, Mr. McLaurin faced arrest, intimidation, 
+and constant surveillance. Yet he remained steadfast, guided by a
+
+[[Page E122]]
+
+belief that ordinary people--when organized and supported--could 
+reshape their communities. His work extended beyond voter registration 
+to broader efforts aimed at economic justice, political participation, 
+and local empowerment in the Mississippi Delta.
+  Following the height of the civil rights movement, Mr. McLaurin made 
+Indianola his home, continuing to serve the community through public 
+service and civic engagement. His story, preserved through oral history 
+by the Library of Congress Civil Rights History Project, stands as a 
+powerful testament to the bravery of grassroots organizers whose names 
+may not always appear in textbooks, but whose impact is woven into the 
+fabric of American democracy.
+  Mr. Speaker, Charles McLaurin's legacy is one of quiet heroism, moral 
+clarity, and unwavering dedication to equality under the law. I am 
+honored to ensure his contributions, his work, and sacrifice are 
+recognized for future generations.
+
+                          ____________________
+```
