@@ -1,0 +1,42 @@
+---
+granule: CREC-2026-02-11-pt1-PgH2173-4
+date: 2026-02-11
+edition: CREC
+section: HOUSE
+page: H2173
+citation: 172 Cong. Rec. H2173
+---
+
+# HONORING YVONNE FEDDERSON
+
+**Speaking:** Biggs, Andy (B001302) [R-AZ]
+
+```
+                       HONORING YVONNE FEDDERSON
+
+  (Mr. BIGGS of Arizona asked and was given permission to address the 
+House for 1 minute and to revise and extend his remarks.)
+  Mr. BIGGS of Arizona. Mr. Speaker, I rise in honor of Yvonne 
+Fedderson, cofounder of Childhelp, a national organization dedicated to 
+the prevention and treatment of child abuse.
+  Yvonne lived an amazing, divinely inspired life.
+  In 1959, Yvonne was in her mid-twenties and in the midst of a 
+successful acting career. She and Sara O'Meara, who became a close 
+friend and cofounder of Childhelp, were on a USO tour in Japan when 
+they found 11 Japanese-American orphans kicked out of their orphanage. 
+Yvonne and Sara responded, finding them shelter and long-term care.
+  What started as an effort to help these 11 children turned into a 
+lifelong calling. Yvonne and Sara went on to open orphanages in Japan 
+and Vietnam, saving tens of thousands of children.
+  In the mid-1970s, at the behest of Nancy Reagan, they opened their 
+first iteration of Childhelp in California. They have since created a 
+nationwide network of assistance, including a 24/7 hotline, treatment 
+centers, abuse prevention programs, and awareness campaigns. We are 
+honored that they chose to headquarter Childhelp in Arizona.
+  On January 23 of this year, at the age of 90, God called Yvonne home. 
+I count it as a tremendous blessing to have known Yvonne and witnessed 
+the profound impact she had on the lives of our most vulnerable, on our 
+community, our State, and our Nation. Her legacy will endure.
+
+                          ____________________
+```

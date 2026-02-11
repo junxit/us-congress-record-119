@@ -1,0 +1,62 @@
+---
+granule: CREC-2026-02-11-pt1-PgH2175
+date: 2026-02-11
+edition: CREC
+section: HOUSE
+page: H2175
+citation: 172 Cong. Rec. H2175
+---
+
+# HOUSING IS A HUMAN RIGHT
+
+**Speaking:** Tlaib, Rashida (T000481) [D-MI], Panetta, Jimmy (P000613) [D-CA]
+
+```
+                        HOUSING IS A HUMAN RIGHT
+
+  (Ms. TLAIB asked and was given permission to address the House for 1 
+minute.)
+  Ms. TLAIB. Mr. Speaker, we all know that right now the housing crisis 
+is real for so many of our families across the country, and I know many 
+of us in this Chamber, especially those on the left, have always said 
+housing is a human right.
+  To address this crisis, we know that we need action at every level of 
+government, but many local communities need additional assistance and 
+capacity. That is why I am so incredibly grateful that the House passed 
+the Housing Our Communities Act, part of the Housing for the 21st 
+Century Act legislative package.
+  The Housing Our Communities Act directs the HUD Secretary to 
+establish a competitive grant program to support a wide range of 
+affordable housing planning and implementation activities.
+  For example, grants can support officials in crafting their housing 
+plans, updating their zoning codes, or increasing capacity to conduct 
+housing inspections so that new developments are completed faster and 
+much more efficiently.
+  This bill provides civil servants and policymakers with the support 
+they need to make affordable housing a reality for so many of our 
+communities.
+  I urge my colleagues in the Senate to pass this legislation 
+immediately and begin to address the housing crisis that is devastating 
+our country.
+
+                              {time}  1910
+
+  Mr. PANETTA. Mr. Speaker, I recognize the 40th anniversary of the 
+Saka Nakodar massacre where four unarmed Sikh students, Ravinder Singh, 
+Jhilman Singh, Harminder Singh, and Baldhir Singh Multani, were shot 
+and killed while peacefully protesting the desecration of the sacred 
+Scripture of Sikhs.
+  The killing, which took place in the Punjab region of India on 
+February 4, 1986, was absolutely abhorrent, but the investigation was 
+definitely deplorable.
+  The victims' bodies were disposed of in secret. No perpetrator was 
+ever brought to justice, and reports, commissions, and other inquiries 
+on the massacre received absolutely no action.
+  The Saka Nakodar massacre continues to be a dark day for Sikhs in 
+Punjab but also for Sikhs right here in America.
+  That is why I recognize the Saka Nakodar massacre and the justice 
+that awaits not just for the four students and their families but for 
+the Sikh communities at home and abroad.
+
+                          ____________________
+```
