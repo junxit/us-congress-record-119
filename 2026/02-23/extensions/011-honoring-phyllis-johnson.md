@@ -1,0 +1,51 @@
+---
+granule: CREC-2026-02-23-pt1-PgE153-3
+date: 2026-02-23
+edition: CREC
+section: EXTENSIONS
+page: E153
+citation: 172 Cong. Rec. E153
+---
+
+# HONORING PHYLLIS JOHNSON
+
+**Speaking:** Matsui, Doris O. (M001163) [D-CA]
+
+```
+                        HONORING PHYLLIS JOHNSON
+
+                                  _____
+                                 
+
+                          HON. DORIS O. MATSUI
+
+                             of california
+
+                    in the house of representatives
+
+                       Monday, February 23, 2026
+
+  Ms. MATSUI. Mr. Speaker, it is with profound sadness that I rise 
+today to honor the life of Phyllis Johnson, who passed away on January 
+13, 2026. Phyllis was a pillar of our community, and her life was 
+marked by unwavering dedication and service to others.
+  Ms. Johnson worked with California State Retirees, Chapter 2, in 
+Sacramento. As a devoted member, she generously gave her time and 
+energy in numerous leadership roles, serving as both President and Vice 
+President, and contributing her talents on the Membership Committee. 
+Phyllis had a deep passion for supporting fellow members and 
+strengthening the organization she cared so deeply about. She was known 
+for her steady leadership, her willingness to lend a helping hand, and 
+her genuine concern for the well-being of others.
+  In addition, Phyllis worked with SEIU Local 1000 as DLC 762 President 
+and with the Sacramento Central Labor Council, where she was a tireless 
+advocate. She also served as a member of the City of Galt Commission on 
+Aging. Phyllis represented state workers, state retirees, working 
+families, and seniors.
+  Mr. Speaker, as family, friends, and the community gather to 
+celebrate the life of Phyllis Johnson, I ask my colleagues to join me 
+in honoring her remarkable legacy of service and compassion. She will 
+be deeply missed by all whose lives she touched.
+
+                          ____________________
+```

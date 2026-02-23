@@ -1,0 +1,51 @@
+---
+granule: CREC-2026-02-23-pt1-PgE153
+date: 2026-02-23
+edition: CREC
+section: EXTENSIONS
+page: E153
+citation: 172 Cong. Rec. E153
+---
+
+# RECOGNIZING ROHRER SEEDS FOR THEIR CENTURY OF SERVICE
+
+**Speaking:** Smucker, Lloyd (S001199) [R-PA]
+
+```
+         RECOGNIZING ROHRER SEEDS FOR THEIR CENTURY OF SERVICE
+
+                                  _____
+                                 
+
+                           HON. LLOYD SMUCKER
+
+                            of pennsylvania
+
+                    in the house of representatives
+
+                       Monday, February 23, 2026
+
+  Mr. SMUCKER. Mr. Speaker, I rise to recognize and congratulate Rohrer 
+Seeds, of Smoketown in Lancaster County, Pennsylvania, for over a 
+century in business.
+  Rohrer Seeds began in 1919 when P.L. Rohrer bought the business he 
+worked for and introduced a mail-order seed catalog. Four years later, 
+P.L. Rohrer built the company's retail store and headquarters in 
+Smoketown, where it remains to this day.
+  What began as a small seed store has since adapted to the changes in 
+both the market and in Lancaster County. While the customer base was 
+once mostly agricultural, Rohrer Seeds shifted and found success in 
+gardening and lawncare. Today, Rohrer Seeds sells hundreds of different 
+kinds of seeds, alongside gardening and lawn supplies, to customers and 
+other businesses. Their original service, the mail order catalogue, is 
+still released annually and attracts customers from across the region. 
+Rohrer Seeds continues to be family-owned and is led by P.L. Rohrer's 
+great-grandson, Doug Rohrer.
+  Few businesses can say they have lasted a century, and even fewer can 
+say that they have remained family owned during that time. I 
+congratulate Rohrer Seeds for their longevity, and I appreciate the 
+services that they have provided to generations of constituents. I wish 
+them another century of success.
+
+                          ____________________
+```
