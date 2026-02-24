@@ -1,0 +1,44 @@
+---
+granule: CREC-2026-02-24-pt1-PgH2268-9
+date: 2026-02-24
+edition: CREC
+section: HOUSE
+page: H2268
+citation: 172 Cong. Rec. H2268
+---
+
+# RECOGNIZING THE ROCHESTER AREA CHAMBER OF COMMERCE ON 160 YEARS
+
+**Speaking:** Finstad, Brad (F000475) [R-MN]
+
+```
+    RECOGNIZING THE ROCHESTER AREA CHAMBER OF COMMERCE ON 160 YEARS
+
+  (Mr. FINSTAD asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. FINSTAD. Mr. Speaker, I rise today to recognize the Rochester 
+Area
+
+[[Page H2269]]
+
+Chamber of Commerce and congratulate the organization on celebrating 
+160 years of support for local businesses and economic growth.
+  Since 1866, the Rochester Area Chamber of Commerce has been a strong 
+advocate for the business community, helping build the Rochester area 
+into the epicenter of economic activity that it is today.
+  For more than a century and a half, the chamber has supported 
+generations of entrepreneurs, employers, community members, and 
+businesses across the Rochester community, shaping the economic 
+development in our region with strong business advocacy, investments in 
+workforce and professional development, and meaningful networking 
+opportunities.
+  Mr. Speaker, I am thankful for the work of the chamber members and 
+their leaders and for the many contributions to fostering the 
+connections that make the Rochester community a great place to live, 
+work, and do business.
+  I congratulate the entire Rochester Area Chamber of Commerce family 
+on celebrating this incredible milestone, and I wish them continued 
+success for the next 160 years and beyond.
+
+                          ____________________
+```

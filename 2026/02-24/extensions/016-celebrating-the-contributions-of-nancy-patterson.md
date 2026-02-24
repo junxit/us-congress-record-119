@@ -1,0 +1,62 @@
+---
+granule: CREC-2026-02-24-pt1-PgE160-5
+date: 2026-02-24
+edition: CREC
+section: EXTENSIONS
+page: E160
+citation: 172 Cong. Rec. E160
+---
+
+# CELEBRATING THE CONTRIBUTIONS OF NANCY PATTERSON
+
+**Speaking:** Carter, John R. (C001051) [R-TX]
+
+```
+            CELEBRATING THE CONTRIBUTIONS OF NANCY PATTERSON
+
+                                 ______
+                                 
+
+                          HON. JOHN R. CARTER
+
+                                of texas
+
+                    in the house of representatives
+
+                       Tuesday, February 24, 2026
+
+  Mr. CARTER of Texas. Mr. Speaker, I rise today to recognize Nancy 
+Patterson, a U.S. Army veteran and accomplished leader in public 
+education, workforce development, and cross-sector collaboration. With 
+more than two decades of experience, Ms. Patterson has focused on 
+advancing College, Career, and Military Readiness (CCMR) for students 
+across Texas and the Nation.
+  She has held executive leadership roles in a public school system 
+that serves over 40,000 students, leading systemwide improvements that 
+enhanced accountability outcomes and student readiness. She is 
+recognized for supervising and coaching school leaders,
+
+[[Page E161]]
+
+strengthening leadership pipelines, and aligning people, processes, and 
+performance during times of organizational transition.
+  Ms. Patterson's work bridges education, workforce, military, and 
+higher education systems to align pathways with labor market needs, 
+expand postsecondary opportunities, and improve long-term economic 
+mobility for students and communities. She has served in advisory and 
+leadership roles for the Texas Education Agency, testified before the 
+Texas House Committee on Public Education, and contributed to boards 
+supporting military-connected students and workforce development. She 
+also served on the Texas State Advisory Council for Educational 
+Opportunities for Military-Connected Children.
+  Nationally, Ms. Patterson participated in the 2023 National Security 
+Seminar at the United States Army War College and was appointed advisor 
+to the Women's Leadership Program at Texas A&M University--Texarkana in 
+2024. In 2025, she was named one of the Top 10 School Executive 
+Directors by Education Insider. She holds a master's degree in 
+curriculum and instruction, completed post-master's coursework in 
+educational administration, and holds Texas principal certification.
+  I ask my colleagues to join me in honoring Nancy Patterson for her 
+dedicated service to strengthening education, workforce readiness, and 
+opportunities for military-connected students and families.
+```
