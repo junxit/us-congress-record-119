@@ -1,0 +1,67 @@
+---
+granule: CREC-2026-02-25-pt1-PgE165-3
+date: 2026-02-25
+edition: CREC
+section: EXTENSIONS
+page: E165
+citation: 172 Cong. Rec. E165
+---
+
+# HONORING THE LIFE, LEGACY AND EXTRAORDINARY SERVICE OF THELMA PETTIS
+
+**Speaking:** McClellan, Jennifer L. (M001227) [D-VA]
+
+```
+  HONORING THE LIFE, LEGACY AND EXTRAORDINARY SERVICE OF THELMA PETTIS
+
+                                 ______
+                                 
+
+                       HON. JENNIFER L. McCLELLAN
+
+                              of virginia
+
+                    in the house of representatives
+
+                      Wednesday, February 25, 2026
+
+  Ms. McCLELLAN. Mr. Speaker, I rise today to honor the life, legacy, 
+and extraordinary service of Thelma Pettis, a distinguished leader of 
+Delta Sigma Theta Sorority, Incorporated, whose passing is deeply felt 
+across the Commonwealth of Virginia and throughout the South Atlantic 
+Region.
+  Soror Pettis devoted more than eight decades of faithful service to 
+Delta Sigma Theta, exemplifying the sorority's highest ideals of 
+sisterhood, scholarship, service, and social action. Just recently, she 
+was lovingly celebrated by the Richmond Alumnae Chapter for her 
+remarkable 80 years of membership and was honored as a panelist during 
+``Delta Days'' in the Virginia General Assembly, continuing her 
+commitment to civic engagement and public service until her final days.
+  From 1986 to 1989, Soror Pettis served as the ninth South Atlantic 
+Regional Director, leading with wisdom, grace, and an unwavering 
+dedication to strengthening chapters, developing leaders, and advancing 
+the sorority's mission. Her tenure left an indelible mark on the 
+Region, and her leadership continues to inspire generations of Delta 
+women.
+  At the local level, Soror Pettis twice served as President of the 
+Richmond Alumnae Chapter, where under her leadership, she deepened the 
+chapter's impact and reinforced its role as a pillar of service in the 
+community. She also played a pivotal role in helping to charter the Rho 
+Rho Chapter at University of Richmond, extending the reach of Delta 
+Sigma Theta's mission to a new generation of student leaders and 
+ensuring the sorority's legacy of excellence and service would endure 
+on campus and beyond. As a charter member of Rho Rho, I benefited 
+greatly from her leadership and kindness.
+  Soror Thelma Pettis lived a life of purpose and principle. Her legacy 
+is one of service rendered with humility, leadership exercised with 
+compassion, and commitment sustained across a lifetime. She will be 
+deeply missed by her sorors, her community, and all who had the 
+privilege of knowing her.
+  I extend my heartfelt condolences to her daughter, Soror Karen Pettis 
+Walden, her family, loved ones, and the members of the Richmond Alumnae 
+Chapter. May they find comfort in knowing that Soror Pettis' life had a 
+profound impact, and that her legacy will continue to guide and uplift 
+generations to come.
+
+                          ____________________
+```

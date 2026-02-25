@@ -1,0 +1,71 @@
+---
+granule: CREC-2026-02-25-pt1-PgE166
+date: 2026-02-25
+edition: CREC
+section: EXTENSIONS
+page: E166
+citation: 172 Cong. Rec. E166
+---
+
+# HONORING MICHEAL A. PASSAGLIA
+
+**Speaking:** Thompson, Mike (T000460) [D-CA]
+
+```
+                     HONORING MICHEAL A. PASSAGLIA
+
+                                 ______
+                                 
+
+                           HON. MIKE THOMPSON
+
+                             of california
+
+                    in the house of representatives
+
+                      Wednesday, February 25, 2026
+
+  Mr. THOMPSON of California. Mr. Speaker, I rise today to honor Dr. 
+Micheal A. Passaglia, a new California Waterfowlers Hall of Fame 
+Inductee, who is being recognized for his lifelong commitment to the 
+preservation of waterfowl and their habitats throughout California.
+  Dr. Passaglia and his wife, Coral, reside in Yuba City and are the 
+proud parents of four children: Michael, Jr.; Teal; Patricia; and 
+Nicholas. He honorabjy served in the United States Navy before pursuing 
+higher education, earning an associate degree from Chabot Junior 
+College, followed by a Bachelor of Science from the University of 
+California, Berkeley. He later attended the University of the Pacific 
+School of Dentistry, where he earned his Doctor of Dental Surgery.
+  Throughout his life, Dr. Passaglia has been a steadfast leader in 
+wetland conservation and a respected advocate within the waterfowler 
+community. He co-founded the C and P Duck Company, which at its height 
+managed more than 3,500 acres of wetlands, provided individuals with 
+access to responsibly managed hunting lands, and helped promote long-
+term participation in waterfowling.
+  Dr. Passaglia has been recognized by the California Fish and Game 
+Commission for his leadership and experience with the Live Oak Gun 
+Club, where he implemented forward-looking wetland habitat management 
+practices that significantly increased local waterfowl populations. He 
+has also been recognized for multiple years by the Butte Sink 
+Landowners Association for his contributions to improving waterfowl 
+habitat in the region. In addition, he has served as a Board Director 
+of the California Waterfowl Association, remains an active member, and 
+is also a member of Ducks Unlimited. His philanthropic support includes 
+donating more than $100,000 to the California Waterfowl Association.
+  Dr. Passaglia's induction into the Waterfowlers Hall of Fame is a 
+well-deserved honor. Established in 2006, the Waterfowlers Hall of Fame 
+recognizes individuals who have made extraordinary contributions to 
+enhancing waterfowl populations and habitats in California. Inductees 
+have played a critical role in conserving waterfowl by preserving, 
+restoring, and enhancing natural habitats; managing agricultural lands 
+with wildlife in mind; advocating for sound conservation policy; and 
+implementing land-use practices specifically designed to benefit 
+nesting and wintering waterfowl populations.
+  Mr. Speaker, I thank Dr. Michael Passaglia for his persistence, 
+generosity, and decades of service to conservation, our environment, 
+and the broader community. His legacy will benefit California's 
+wetlands and waterfowl for generations to come. Therefore, it is 
+fitting and proper that we honor him here today.
+
+                          ____________________
+```
