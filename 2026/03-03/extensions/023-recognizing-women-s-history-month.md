@@ -1,0 +1,75 @@
+---
+granule: CREC-2026-03-03-pt1-PgE178-3
+date: 2026-03-03
+edition: CREC
+section: EXTENSIONS
+page: E178
+citation: 172 Cong. Rec. E178
+---
+
+# RECOGNIZING WOMEN'S HISTORY MONTH
+
+**Speaking:** Mrvan, Frank J. (M001214) [D-IN]
+
+```
+                   RECOGNIZING WOMEN'S HISTORY MONTH
+
+                                 ______
+                                 
+
+                          HON. FRANK J. MRVAN
+
+                               of indiana
+
+                    in the house of representatives
+
+                         Tuesday, March 3, 2026
+
+  Mr. MRVAN. Mr. Speaker, it is with great respect and sincere 
+admiration that I rise to celebrate Women's History Month and its 2026 
+theme--Leading the Change: Women Shaping a Sustainable Future. This 
+year's theme honors the women who are reimagining and rebuilding 
+systems to ensure long-term sustainability and create a future that is 
+rooted in equity, justice, and opportunity for all.
+  As we celebrate women who have dedicated their lives to shaping a 
+more sustainable future, I would like to recognize the extraordinary 
+women whose vision and leadership shaped one of Northwest Indiana's 
+most enduring conservation organizations. Save the Dunes was founded by 
+Dorothy Buell in her Ogden Dunes home in 1952, a time when women rarely 
+centered in public policy debates. The group, composed of all women, 
+was committed to preserving the Indiana Dunes within the protective 
+boundaries of a National Park. What began as a living room conversation 
+grew into a national grassroots movement that ultimately led to the 
+creation of the Indiana Dunes National Lakeshore, now the Indiana Dunes 
+National Park.
+  Many extraordinary women joined Dorothy in shaping Save the Dunes, 
+including the organization's first Executive Director, Charlotte Read, 
+who led efforts for the park's first successful expansion bill. Lee 
+Botts brought national attention to the importance of protecting the 
+Great Lakes. Sylvia Troy and Ruth Osann defended the dunes from intense 
+development pressures and mobilized community members for key advocacy 
+campaigns during pivotal moments in the organization's history.
+  Over 70 years later, Save the Dunes remains a women-led organization, 
+which is a testament to the enduring leadership of women in 
+conservation. Presidents including Susan MiHalo, Melli Hoppe, Dorreen 
+Carey, and Nancy Moldenhauer have guided the organization through 
+periods of growth and strategic impact. Executive Directors, including 
+Nicole Barker, Natalie Johnson, and Betsy Maher, have strengthened its 
+role as a leading partner to the Indiana Dunes National Park, expanded 
+habitat restoration initiatives, deepened community engagement, and 
+advanced environmental advocacy across Northwest Indiana. Today, women 
+serve in professional staff roles and as members of the Board of 
+Directors, guiding governance and strategy. For
+
+[[Page E179]]
+
+their environmental stewardship and generational leadership, the women 
+who volunteered their time and efforts to the Save the Dunes 
+organization are worthy of the highest praise.
+  Mr. Speaker, I ask you and my other distinguished colleagues to join 
+me in celebrating Women's History Month and recognizing the women of 
+Save the Dunes, who continue to shape a more sustainable future for 
+Northwest Indiana and our Nation.
+
+                          ____________________
+```

@@ -1,0 +1,89 @@
+---
+granule: CREC-2026-03-03-pt1-PgH2346-6
+date: 2026-03-03
+edition: CREC
+section: HOUSE
+page: H2346
+citation: 172 Cong. Rec. H2346
+---
+
+# NOTICE OF INTENTION TO OFFER RESOLUTION RAISING A QUESTION OF THE PRIVILEGES OF THE HOUSE
+
+**Speaking:** Mace, Nancy (M000194) [R-SC]
+
+```
+   NOTICE OF INTENTION TO OFFER RESOLUTION RAISING A QUESTION OF THE 
+                        PRIVILEGES OF THE HOUSE
+
+  Ms. MACE. Mr. Speaker, pursuant to clause 2(a)(1) of rule IX, I rise 
+to give notice of my intent to raise a question of the privileges of 
+the House.
+  The form of the resolution is as follows:
+  Directing the Committee on Ethics to preserve and publicly release 
+records of the Committee's review of violations or alleged violations 
+of clause 9 (as it pertains to acts of sexual harassment) and clause 18 
+of rule XXIII of the Rules of the House of Representatives.
+  Whereas, there is no place for sexual harassment or unwelcome sexual 
+advances in the House of Representatives;
+  Whereas, clause 9 of rule XXIII of the Rules of the House provides 
+``Member, Delegate, Resident Commissioner, officer, or employee of the 
+House may not discharge and may not refuse to hire an individual, or 
+otherwise discriminate against an individual with respect to 
+compensation, terms, conditions, or privileges of employment, because 
+of the race, color, religion, sex (including marital or parental 
+status), sexual orientation, gender identity, disability, age, or 
+national origin of such individual, including by committing an act of 
+sexual harassment against such individual'';
+  Whereas, clause 18(a) of rule XXIII of the Rules of the House 
+provides ``A Member, Delegate, or Resident Commissioner may not engage 
+in a sexual relationship with any employee of the House who works under 
+the supervision of the Member, Delegate, or Resident Commissioner, or 
+who is an employee of a committee on which the Member, Delegate, or 
+Resident Commissioner serves'';
+  Whereas, clause 18(b) of rule XXIII of the Rules of the House 
+provides ``A Member, Delegate, Resident Commissioner, officer, or 
+employee of the House may not engage in unwelcome sexual advances or 
+conduct toward another Member, Delegate, Resident Commissioner, 
+officer, or employee of the House'';
+  Whereas, sexual harassment and unwelcome sexual advances by Members, 
+Delegates, or Resident Commissioners, in violation of clause 9 and 
+clause 18 of rule XXIII of the Rules of the House, affect the safety, 
+dignity, and integrity of the proceedings of the House of 
+Representatives: Now, therefore, be it
+  Resolved, that the Committee on Ethics shall:
+  (1) preserve all documents and investigative materials related to any 
+violations or alleged violations of clause 9 (as it pertains to acts of 
+sexual harassment), clause 18, or any other clause (to the extent an 
+act of sexual harassment, unwelcome sexual advance, or sexual assault 
+constituted a violation or alleged violation of such clause) of rule 
+XXIII of the Rules of the House by a Member, Delegate, or Resident 
+Commissioner; and
+  (2) not later than 60 days after the date of the adoption of this 
+resolution, make publicly available all final reports, or in such cases 
+where there is not a final report, the most recent draft report, 
+conclusions, recommendations, exhibits, and attached or accompanying 
+materials, with the personally identifiable information of victims, 
+alleged victims, and witnesses redacted, related to the Committee's 
+investigations into violations or alleged violations of clause 9 (as it 
+pertains to acts of sexual harassment), clause 18, or any other clause 
+(to the extent an act of sexual harassment, unwelcome sexual advance, 
+or sexual assault constituted a violation or alleged violation of such 
+clause) of rule XXIII by a Member, a Delegate, or Resident 
+Commissioner.
+  The SPEAKER pro tempore. Under rule IX, a resolution offered from the
+
+[[Page H2347]]
+
+floor by a Member other than the majority leader or the minority leader 
+as a question of the privileges of the House has immediate precedence 
+only at a time designated by the Chair within 2 legislative days after 
+the resolution is properly noticed.
+  Pending that designation, the form of the resolution presented by the 
+gentlewoman from South Carolina will appear in the Record at this 
+point.
+  The Chair will not at this point determine whether the resolution 
+constitutes a question of privilege. That determination will be made at 
+the time designated for consideration of the resolution.
+
+                          ____________________
+```
