@@ -1,0 +1,52 @@
+---
+granule: CREC-2026-03-04-pt1-PgH2377
+date: 2026-03-04
+edition: CREC
+section: HOUSE
+page: H2377
+citation: 172 Cong. Rec. H2377
+---
+
+# HONORING GLADYS WEST
+
+**Speaking:** Foxx, Virginia (F000450) [R-NC]
+
+```
+                          HONORING GLADYS WEST
+
+  (Ms. Foxx of North Carolina was recognized to address the House for 5 
+minutes.)
+  Ms. FOXX. Mr. Speaker, March is Women's History Month, a time when we 
+make an extra effort to honor and recognize women across the United 
+States and the world who have made a positive, sustained impact upon 
+society.
+  The Wall Street Journal recently ran an article honoring the life of 
+Gladys West, a brilliant mathematician who played an integral role in 
+creating GPS technology.
+  Gladys was a 42-year civilian employee of the United States Navy. Due 
+to the classified nature of her work, few individuals knew of her 
+contributions to this now popular and essential technology as it was 
+being developed.
+  Here are quotes from the article I have referenced:
+  ``In her 42-year career as a civilian employee of the Navy, West 
+learned to program computers and solve mathematical problems she could 
+never have imagined in graduate school. Some of her work involved 
+measuring the precise contours of the Earth, on land and at sea, 
+allowing for the effects of tides and other forces. She was 
+particularly diligent about checking for accuracy. The research was 
+vital for creation of the Global Positioning System, or GPS, a priority 
+for the U.S. military in the 1970s and 1980s.''
+  Ms. West was inducted into the Air Force Space and Missile Pioneers 
+Hall of Fame in 2018 and was awarded the President's Award by the 
+Institute of Electrical and Electronics Engineers for her work in 
+helping create GPS.
+  Mr. Speaker, Ms. West's story is one of service, hard work, 
+determination, and perseverance, and I am quite certain that her story 
+and accomplishments will continue to serve as an inspiration for 
+generations of proud Americans to come.
+  I thank Gladys' family for sharing her so wonderfully with the rest 
+of the world. I thank Gladys, even though she is now gone, for the 
+wonderful work that she did in helping our country and the world.
+
+                          ____________________
+```

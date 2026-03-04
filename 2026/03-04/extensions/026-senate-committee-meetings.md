@@ -1,0 +1,89 @@
+---
+granule: CREC-2026-03-04-pt1-PgE189-4
+date: 2026-03-04
+edition: CREC
+section: EXTENSIONS
+page: E189
+citation: 172 Cong. Rec. E189
+---
+
+# SENATE COMMITTEE MEETINGS
+
+**Measures:** S.Res. 4, S. 953, S. 3135
+
+```
+                       SENATE COMMITTEE MEETINGS
+
+  Title IV of Senate Resolution 4, agreed to by the Senate of February 
+4, 1977, calls for establishment of a system for a computerized 
+schedule of all meetings and hearings of Senate committees, 
+subcommittees, joint committees, and committees of conference. This 
+title requires all such committees to notify the Office of the Senate 
+Daily Digest--designated by the Rules Committee--of the time, place and 
+purpose of the meetings, when scheduled and any cancellations or 
+changes in the meetings as they occur.
+  As an additional procedure along with the computerization of this 
+information, the Office of the Senate Daily Digest will prepare this 
+information for printing in the Extensions of Remarks section of the 
+Congressional Record on Monday and Wednesday of each week.
+  Meetings scheduled for Thursday, March 5, 2026 may be found in the 
+Daily Digest of today's Record.
+
+                           MEETINGS SCHEDULED
+
+                                MARCH 10
+     10 a.m.
+       Committee on the Budget
+         To hold hearings to examine sanctuary cities, focusing on 
+           law and order.
+                                                            SD-608
+     2:30 p.m.
+       Committee on the Judiciary
+       Subcommittee on the Constitution
+         To hold hearings to examine protecting American 
+           citizenship, focusing on birthright citizenship for 
+           illegal aliens and tourists.
+                                                            SD-226
+     3 p.m.
+       Committee on Agriculture, Nutrition, and Forestry
+         To hold hearings to examine increasing domestic 
+           consumption of United States-grown agricultural 
+           products.
+                                                            SD-106
+
+                                MARCH 11
+     10 a.m.
+       Committee on Environment and Public Works
+         To hold hearings to examine S. 3135, to require the 
+           Administrator of the Environmental Protection Agency to 
+           authorize manufacturers of certain vehicles to suspend 
+           engine derate or shutdown functions in prolonged cold 
+           weather conditions.
+                                                            SD-562
+     2:30 p.m.
+       Committee on Indian Affairs
+         To hold oversight hearings to examine Federal policies 
+           governing Indian water rights settlements, including S. 
+           953, to provide for the settlement of the
+
+[[Page E190]]
+
+           water rights claims of the Navajo Nation, the Hopi 
+           Tribe, and the San Juan Southern Paiute Tribe.
+                                                            SD-628
+       Committee on Small Business and Entrepreneurship
+         To hold hearings to examine main street, focusing on 
+           growing the small business pet economy.
+                                                           SR-428A
+     3 p.m.
+       Committee on Finance
+       Subcommittee on Fiscal Responsibility and Economic Growth
+         To hold hearings to examine the fiscal outlook, 2027-
+           2036.
+                                                            SD-215
+     3:30 p.m.
+       Special Committee on Aging
+         To hold hearings to examine foreign dependence, focusing 
+           on China and America's drug supply.
+                                                            SH-216
+```

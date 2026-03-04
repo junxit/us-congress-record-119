@@ -1,0 +1,53 @@
+---
+granule: CREC-2026-03-04-pt1-PgE185
+date: 2026-03-04
+edition: CREC
+section: EXTENSIONS
+page: E185
+citation: 172 Cong. Rec. E185
+---
+
+# RECOGNIZING JOHN MARRIOTT
+
+**Speaking:** Pettersen, Brittany (P000620) [D-CO]
+
+```
+                       RECOGNIZING JOHN MARRIOTT
+
+                                 ______
+                                 
+
+                        HON. BRITTANY PETTERSEN
+
+                              of colorado
+
+                    in the house of representatives
+
+                        Wednesday, March 4, 2026
+
+  Ms. PETTERSEN. Mr. Speaker, I rise today to recognize John Marriott 
+of Arvada, Colorado for receiving the Arvada Chamber of Commerce's 2025 
+Policy Leader of the Year Award.
+  John Marriott began his public service in 2007 as a member of the 
+Arvada Board of Adjustment. He was later elected to the Arvada City 
+Council from 2013 to 2025 and served as Mayor Pro-Tem from 2017 to 
+2019. In his time serving the Arvada community, John spearheaded 
+partnerships among Arvada, Jefferson County Schools, and Apex Parks & 
+Recreation that created the Fitzmorris and Arvada Aquatic Centers. He 
+also advanced major infrastructure projects like the Ralston Road and 
+72nd Avenue improvements. John has worked alongside community leaders 
+and championed policies to ensure our local businesses have the 
+resources and tools they need to serve our communities and drive 
+economic growth.
+  The Policy Leader of the Year is awarded to a public official who 
+demonstrates an extraordinary commitment to helping Arvada businesses 
+thrive, and John's dedication to strengthening our local economy, 
+fostering public-private partnerships, and delivering real solutions 
+for the community makes him a truly deserving recipient of this honor.
+  On behalf of the people of Colorado's 7th Congressional District, it 
+is my honor to congratulate John Marriott on receiving the Policy 
+Leader Award and thank him for his contributions to the Arvada 
+community.
+
+                          ____________________
+```

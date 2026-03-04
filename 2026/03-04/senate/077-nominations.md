@@ -1,0 +1,49 @@
+---
+granule: CREC-2026-03-04-pt1-PgS852-2
+date: 2026-03-04
+edition: CREC
+section: SENATE
+page: S852
+citation: 172 Cong. Rec. S852
+---
+
+# NOMINATIONS
+
+```
+                              NOMINATIONS
+
+  Executive nominations received by the Senate:
+
+
+                         FEDERAL RESERVE SYSTEM
+
+        KEVIN WARSH, OF FLORIDA, TO BE CHAIRMAN OF THE BOARD OF 
+     GOVERNORS OF THE FEDERAL RESERVE SYSTEM FOR A TERM OF FOUR 
+     YEARS, VICE JEROME H. POWELL, TERM EXPIRING.
+        KEVIN WARSH, OF FLORIDA, TO BE A MEMBER OF THE BOARD OF 
+     GOVERNORS OF THE FEDERAL RESERVE SYSTEM FOR A TERM OF 
+     FOURTEEN YEARS FROM FEBRUARY 1, 2026, VICE STEPHEN MIRAN, 
+     TERM EXPIRED.
+
+
+                              IN THE ARMY
+
+       THE FOLLOWING NAMED ARMY NATIONAL GUARD OF THE UNITED 
+     STATES OFFICER FOR APPOINTMENT IN THE RESERVE OF THE ARMY TO 
+     THE GRADE INDICATED UNDER TITLE 10, U.S.C., SECTIONS 12203 
+     AND 12211:
+
+                        To be brigadier general
+
+COL. ARNOLD RIVERA-SANCHEZ
+       THE FOLLOWING NAMED OFFICERS FOR APPOINTMENT IN THE RESERVE 
+     OF THE ARMY TO THE GRADE INDICATED UNDER TITLE 10, U.S.C., 
+     SECTION 12203:
+
+                        To be brigadier general
+
+COL. PAUL A. LUCCI, JR.
+COL. SCOTT C. VALLEY
+
+                          ____________________
+```

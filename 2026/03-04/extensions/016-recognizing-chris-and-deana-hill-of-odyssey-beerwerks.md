@@ -1,0 +1,52 @@
+---
+granule: CREC-2026-03-04-pt1-PgE187-2
+date: 2026-03-04
+edition: CREC
+section: EXTENSIONS
+page: E187
+citation: 172 Cong. Rec. E187
+---
+
+# RECOGNIZING CHRIS AND DEANA HILL OF ODYSSEY BEERWERKS
+
+**Speaking:** Pettersen, Brittany (P000620) [D-CO]
+
+```
+         RECOGNIZING CHRIS AND DEANA HILL OF ODYSSEY BEERWERKS
+
+                                 ______
+                                 
+
+                        HON. BRITTANY PETTERSEN
+
+                              of colorado
+
+                    in the house of representatives
+
+                        Wednesday, March 4, 2026
+
+  Ms. PETTERSEN. Mr. Speaker, I rise today to recognize Chris and Deana 
+Hill of Odyssey Beerwerks for receiving the Arvada Chamber of 
+Commerce's 2025 Entrepreneur of the Year Award.
+  Odyssey Beerwerks is a values-driven brewery that blends hospitality 
+with innovation. Chris and Deana have dedicated their lives to refining 
+beers, hosting events, and providing excellent service, all based 
+directly on customer feedback. Chris and Deana are deeply rooted in 
+Arvada as both residents and business owners. Chris has made a lasting 
+impact on the local business community through his service on the 
+Arvada Chamber of Commerce Board, where he founded the Chamber's 
+Business Mastery Group. He has also held leadership roles with the 
+Arvada Visitors Center Board, the Entrepreneurship KAPS Council, and 
+the Beverage Industry Roundtable, and regularly lends his expertise on 
+panels alongside city and county leaders.
+  Every year, the Entrepreneur of the Year Award recognizes the 
+commitment, investment, and innovation of business owners in the Arvada 
+community, and Chris and Deana's community involvement and dedication 
+to elevating both their craft and their peers make them truly deserving 
+of this recognition.
+  On behalf of the people of Colorado's 7th Congressional District, it 
+is my honor to congratulate Chris and Deana Hill for this award and 
+thank them for their commitment to the Arvada community.
+
+                          ____________________
+```
