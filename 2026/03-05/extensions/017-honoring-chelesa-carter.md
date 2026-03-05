@@ -1,0 +1,50 @@
+---
+granule: CREC-2026-03-05-pt1-PgE195-2
+date: 2026-03-05
+edition: CREC
+section: EXTENSIONS
+page: E195
+citation: 172 Cong. Rec. E195
+---
+
+# HONORING CHELESA CARTER
+
+**Speaking:** Thompson, Bennie G. (T000193) [D-MS]
+
+```
+                        HONORING CHELESA CARTER
+
+                                 ______
+                                 
+
+                        HON. BENNIE G. THOMPSON
+
+                             of mississippi
+
+                    in the house of representatives
+
+                        Thursday, March 5, 2026
+
+  Mr. THOMPSON of Mississippi. Mr. Speaker, I rise today to recognize 
+and honor Chelesa Carter of Greenville, Mississippi, for her 
+outstanding leadership and historic service to Washington County.
+  In 2017, Ms. Carter was appointed County Administrator for Washington 
+County, becoming the first African American woman to hold this 
+distinguished position. In this executive role, she oversees the daily 
+operations of county government, including administrative management, 
+financial oversight, personnel administration, and the implementation 
+of policies adopted by the Board of Supervisors. Her work ensures that 
+county services are delivered efficiently, responsibly, and in a manner 
+that serves the best interests of the citizens of Washington County.
+  Ms. Carter's appointment marked a significant milestone in the 
+history of local governance in the Mississippi Delta. Her leadership 
+reflects professionalism, integrity, and a steadfast commitment to 
+public service. By breaking barriers and serving with excellence, she 
+has paved the way for greater representation in government leadership 
+and has set an example for future generations of women and young people 
+aspiring to serve their communities.
+  Mr. Speaker, I ask my colleagues to join me in recognizing Chelesa 
+Carter for her historic achievement and her continued dedication to the 
+people of Washington County. Her contributions strengthen local 
+govemment and embody the very best of public service.
+```

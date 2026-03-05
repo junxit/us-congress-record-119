@@ -1,0 +1,66 @@
+---
+granule: CREC-2026-03-05-pt1-PgE192
+date: 2026-03-05
+edition: CREC
+section: EXTENSIONS
+page: E192
+citation: 172 Cong. Rec. E192
+---
+
+# HONORING MRS. LAURA McKIE FOR HER ENDLESS SERVICE TO OUR COMMUNITY
+
+**Speaking:** Vindman, Eugene Simon (V000138) [D-VA]
+
+```
+   HONORING MRS. LAURA McKIE FOR HER ENDLESS SERVICE TO OUR COMMUNITY
+
+                                 ______
+                                 
+
+                       HON. EUGENE SIMON VINDMAN
+
+                              of virginia
+
+                    in the house of representatives
+
+                        Thursday, March 5, 2026
+
+  Mr. VINDMAN. Mr. Speaker, I rise today to honor and recognize Mrs. 
+Laura McKie. a proud constituent of Woodbridge, Virginia as she 
+celebrates her 90th birthday on March 21, 2026. For years, Mrs. McKie 
+has been a leader of our community, advocating for education and 
+women's rights.
+  Mrs. McKie has had a distinguished career, earning a degree in 
+cultural anthropology from Washington University in St. Louis followed 
+by a master's degree from Harvard University. After graduating she went 
+on to serve as Director of Education at the Smithsonian's National 
+Museum of National History. In that role, she was responsible for the 
+Insect Zoo, Discovery Room, Marine Ecosystems Exhibit, and the 
+Naturalist Center including a staff of two dozen museum professionals 
+and 300 docents.
+  During her tenure, Mrs. McKie was also in charge of creating 
+educational materials and guides for exhibitions, as well as several 
+large-format films, and video productions. She served as the museum's 
+accessibility coordinator, managing the implementation of fully 
+accessible audio tours and ensuring that the museum's resources could 
+be enjoyed by all visitors.
+  After retiring, Mrs. McKie didn't just stop there; she continued her 
+dedication to public service. Most notably, she volunteered to develop 
+and direct the Lucy Burns Museum at the Workhouse Arts Center in 
+Lorton, Virginia, which documents the 91-year history of the prison 
+that housed inmates from the District of Columbia. She curated the 
+exhibitions highlighting the 1917 imprisonment, brutal treatment, and 
+hunger strikes of suffragists like Lucy Burns and Alice Paul. Through 
+her leadership, the museum tells the powerful story of the women of the 
+National Women's Party and preserves the legacy of those who demanded 
+the right to vote.
+  In March 2020, Mrs. McKie received a special proclamation from the 
+Fairfax County Commission for Women honoring her as a ``Valiant Woman 
+of the Vote'' for her devoted work in bringing the Lucy Burns Museum to 
+life and contributions to our community.
+  Mr. Speaker, I ask my colleagues to join me in congratulating Mrs. 
+Laura McKie on her remarkable life of service and leadership, and in 
+wishing her a very happy 90th birthday.
+
+                          ____________________
+```
