@@ -1,0 +1,26 @@
+---
+granule: CREC-2026-03-12-pt1-PgS1052-2
+date: 2026-03-12
+edition: CREC
+section: SENATE
+page: S1052
+citation: 172 Cong. Rec. S1052
+---
+
+# WITHDRAWALS
+
+```
+                              WITHDRAWALS
+
+  Executive Message transmitted by the President to the Senate on March 
+12, 2026 withdrawing from further Senate consideration the following 
+nominations:
+
+       JEREMY CARL, OF MONTANA, TO BE AN ASSISTANT SECRETARY OF 
+     STATE (INTERNATIONAL ORGANIZATIONS), VICE MICHELE JEANNE 
+     SISON, WHICH WAS SENT TO THE SENATE ON JANUARY 13, 2026.
+       WILLIAM HEWES III, OF MISSISSIPPI, TO BE A COMMISSIONER OF 
+     THE CONSUMER PRODUCT SAFETY COMMISSION FOR A TERM OF SEVEN 
+     YEARS FROM OCTOBER 27, 2024, VICE DOUGLAS DZIAK, RESIGNED, 
+     WHICH WAS SENT TO THE SENATE ON JANUARY 13, 2026.
+```

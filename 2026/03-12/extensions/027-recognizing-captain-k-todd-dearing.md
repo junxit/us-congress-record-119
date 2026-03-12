@@ -1,0 +1,52 @@
+---
+granule: CREC-2026-03-12-pt1-PgE213-2
+date: 2026-03-12
+edition: CREC
+section: EXTENSIONS
+page: E213
+citation: 172 Cong. Rec. E213
+---
+
+# RECOGNIZING CAPTAIN K. TODD DEARING
+
+**Speaking:** Van Duyne, Beth (V000134) [R-TX]
+
+```
+                  RECOGNIZING CAPTAIN K. TODD DEARING
+
+                                 ______
+                                 
+
+                          HON. BETH VAN DUYNE
+
+                                of texas
+
+                    in the house of representatives
+
+                        Thursday, March 12, 2026
+
+  Ms. VAN DUYNE. Mr. Speaker, I rise today to honor and recognize the 
+remarkable career of Captain K. Todd Dearing of the Grapevine Police 
+Department as he retires after 35 years of dedicated service to North 
+Texas.
+  Captain Dearing began his public safety career in 1991 as a 
+dispatcher and security officer with the University of North Texas. In 
+1992, he joined the Grapevine Police Department, where he served in 
+numerous roles throughout his career, including Patrol Officer, 
+Corporal, Sergeant, Lieutenant, before becoming Captain in 2018. His 
+leadership and commitment to public safety helped strengthen the 
+department and our North Texas community.
+  During his tenure, Captain Dearing helped launch the department's 
+Police Explorers program, mentoring local youth interested in careers 
+in law enforcement, and pioneered the Grapevine Volunteers in Police 
+Service (VIPS) program, which continues to support the department 
+through thousands of volunteer hours each year. In 2021, he was 
+appointed to lead the department's Management Services Division, where 
+he played an important role in shaping the department's operations. As 
+a Master Peace Officer, Captain Dearing holds a Master of Criminal 
+Justice from Tarleton State University and has completed nearly 3,300 
+hours of professional training throughout his distinguished career.
+  Captain K. Todd Dearing's service to law enforcement and our 
+community has left a lasting impact. As he enters his next chapter, I 
+extend my best wishes to him for a well-deserved retirement.
+```

@@ -1,0 +1,61 @@
+---
+granule: CREC-2026-03-12-pt1-PgE208-2
+date: 2026-03-12
+edition: CREC
+section: EXTENSIONS
+page: E208
+citation: 172 Cong. Rec. E208
+---
+
+# HONORING OLIVER G. GILBERT, III
+
+**Speaking:** Wilson, Frederica S. (W000808) [D-FL]
+
+```
+                    HONORING OLIVER G. GILBERT, III
+
+                                 ______
+                                 
+
+                        HON. FREDERICA S. WILSON
+
+                               of florida
+
+                    in the house of representatives
+
+                        Thursday, March 12, 2026
+
+  Ms. WILSON of Florida. Mr. Speaker, I rise today to honor Oliver G. 
+Gilbert, III for his philanthropy and dedication to at-risk youth.
+  On behalf of the 5000 Role Models of Excellence Project, I present 
+this Congressional Award in recognition of Mr. Gilbert's exemplary 
+leadership and commitment to Miami-Dade County. Each year, we 
+acknowledge distinguished Role Model Mentors, and it is my pleasure to 
+congratulate Mr. Gilbert as he joins this esteemed group.
+  His contributions as a Miami-Dade Commissioner have had a profound 
+impact on our community. Mr. Gilbert's advocacy for youth welfare 
+exemplifies the core values we seek to instill in the young men we 
+serve. His dedication to educational opportunities, equity, and 
+community upliftment has inspired many to pursue excellence. We 
+formally recognize Mr. Gilbert as an Honoree of the 5000 Role Models of 
+Excellence Project. His work not only fosters empowerment but also 
+emphasizes the importance of leadership with integrity and compassion.
+  Mr. Gilbert's initiatives resonate with our mission by supporting 
+young men of color to achieve their potential. His understanding of 
+community challenges and promotion of social equity have left a lasting 
+impact. It is with pride that we acknowledge his achievements and 
+express our gratitude for his efforts to empower the next generation. I 
+congratulate him on this well-deserved recognition. We look forward to 
+collaborating on creating a brighter future for the youth of Miami-Dade 
+County.
+  We now recognize Role Model Oliver Gilbert, III for his exceptional 
+contributions and significant influence as the Chairman of the Miami-
+Dade County Commission. His unwavering commitment to fostering 
+educational opportunities, advancing equity, and enhancing the quality 
+of life for all residents of Miami-Dade County has been widely 
+recognized. Mr. Gilbert serves as a beacon of hope and exemplifies true 
+leadership, consistently demonstrating integrity and compassion in his 
+efforts.
+
+                          ____________________
+```

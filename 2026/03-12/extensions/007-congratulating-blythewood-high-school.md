@@ -1,0 +1,48 @@
+---
+granule: CREC-2026-03-12-pt1-PgE208-3
+date: 2026-03-12
+edition: CREC
+section: EXTENSIONS
+page: E208
+citation: 172 Cong. Rec. E208
+---
+
+# CONGRATULATING BLYTHEWOOD HIGH SCHOOL
+
+**Speaking:** Wilson, Joe (W000795) [R-SC]
+
+```
+                 CONGRATULATING BLYTHEWOOD HIGH SCHOOL
+
+                                 ______
+                                 
+
+                            HON. JOE WILSON
+
+                           of south carolina
+
+                    in the house of representatives
+
+                        Thursday, March 12, 2026
+
+  Mr. WILSON of South Carolina. Mr. Speaker, I am grateful to recognize 
+the Blythewood High School girls' basketball team, ``The Bengals,'' as 
+they defeated Wando High School in the 2026 5A Division I South 
+Carolina High School League (SCHSL) State Championship. This marks the 
+second State Championship in team history.
+  In their final game, on March 6, 2026, the Bengals won the game 68-
+44, finishing off their record with 24 wins and only 5 losses.
+  The Blythewood High team includes players Madison Daniels, Kennedy 
+Anderson, Aniya Guerrero, Kirsten Fulton, Kylie Davis, Alayna Young, 
+Kylie Stovall, Hayley Hightower, Madison Thomas, Kaila Spain, Chase 
+Thomas, and India Williams. Alongside the players is talented coach, 
+Emily McElveen, and Statistician, Kevin Williams.
+  On behalf of all South Carolina, I congratulate the Blythewood High 
+Bengals on this impressive achievement and I wish them the best of luck 
+as they defend their title in the upcoming season. This victory of the 
+Blythewood High Bengals is well-deserved for the team, coaches, 
+families, and community for all their hard work and support, making 
+their dream come true.
+
+                          ____________________
+```

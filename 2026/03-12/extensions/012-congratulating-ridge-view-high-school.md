@@ -1,0 +1,50 @@
+---
+granule: CREC-2026-03-12-pt1-PgE209-3
+date: 2026-03-12
+edition: CREC
+section: EXTENSIONS
+page: E209
+citation: 172 Cong. Rec. E209
+---
+
+# CONGRATULATING RIDGE VIEW HIGH SCHOOL
+
+**Speaking:** Wilson, Joe (W000795) [R-SC]
+
+```
+                 CONGRATULATING RIDGE VIEW HIGH SCHOOL
+
+                                 ______
+                                 
+
+                            HON. JOE WILSON
+
+                           of south carolina
+
+                    in the house of representatives
+
+                        Thursday, March 12, 2026
+
+  Mr. WILSON of South Carolina. Mr. Speaker, I am grateful to recognize 
+Columbia's Ridge View High School boys' basketball team, ``The 
+Blazers,'' as they defeated Ashley Ridge High School in the 2026 Class 
+5A Division I South Carolina High School League (SCHSL) Basketball 
+State Championship. This marks their seventh state championship in the 
+past 9 years.
+  On March 6, 2026, the Blazers won the game 65-44, bringing their 
+final record to 27 wins and 3 losses.
+  The Ridge View High basketball team includes players Talan Stanley, 
+Jourdin Mack, Robert Wylie, RJ Davis, CJ Moore, Brayden Mack, Noah 
+Sanders, Khabir McLawhorn, Gregory Williams, Joshua Vankallen, Kaleb 
+Peters, Christopher Horton, and James Ross. Alongside the players are 
+their talented coaches, Joshua Staley, Devonte Coulter, Reginald 
+Murray, Kenneth Hunter, Christan Savage, David Smith, Chris Johnson, 
+and Rion Davis.
+  On behalf of all South Carolina, I congratulate the Ridge View High 
+Blazers on this impressive achievement and wish them the best of luck 
+as they defend their title in the upcoming season. These victories are 
+well-deserved for the teams, coaches, families, and community for all 
+their hard work and support, making their dream come true.
+
+                          ____________________
+```

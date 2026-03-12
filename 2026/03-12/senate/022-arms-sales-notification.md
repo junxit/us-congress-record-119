@@ -1,0 +1,123 @@
+---
+granule: CREC-2026-03-12-pt1-PgS1040-2
+date: 2026-03-12
+edition: CREC
+section: SENATE
+page: S1040
+citation: 172 Cong. Rec. S1040
+---
+
+# ARMS SALES NOTIFICATION
+
+**Speaking:** Risch, James E. (R000584) [R-ID]
+
+```
+                        ARMS SALES NOTIFICATION
+
+  Mr. RISCH. Mr. President, section 36(b) of the Arms Export Control 
+Act requires that Congress receive prior notification of certain 
+proposed arms sales as defined by that statute. Upon such notification, 
+the Congress has 30 calendar days during which the sale may be 
+reviewed. The provision stipulates that, in the Senate, the 
+notification of proposed sales shall be sent to the chairman of the 
+Senate Foreign Relations Committee.
+  In keeping with the committee's intention to see that relevant 
+information is still available to the full Senate, I ask unanimous 
+consent to have printed in the Record the notifications that have been 
+received. If the cover letter references a classified annex, then such 
+an annex is available to all Senators in the office of the Foreign 
+Relations Committee, room SD-423.
+  There being no objection, the material was ordered to be printed in 
+the Record, as follows:
+
+                                     U.S. Department of State,
+
+                                                   Washington, DC.
+
+
+             CONGRESSIONAL NOTIFICATION TRANSMITTAL LETTER
+
+       Please find enclosed the following notification from the 
+     Department of State.
+       Department Notification Number: RSAT 26-0F
+       Pursuant to the reporting requirements of Section 
+     36(b)(5)(C) of the Arms Export Control Act (AECA), as 
+     amended, we are forwarding Transmittal No. 26-0F. This 
+     notification relates to enhancements or upgrades from the 
+     level of sensitivity of technology or capability described in 
+     the Section 36(b)(1) AECA certification 24-78 of September 6, 
+     2024.
+       Recipients:
+       Speaker of the House of Representatives
+       House Committee on Foreign Affairs
+       Senate Committee on Foreign Relations
+           Sincerely,
+
+                                          Paul D. Guaglianone,
+
+                                           Senior Bureau Official,
+                                    Bureau of Legislative Affairs.
+
+
+               DEPARTMENT OF STATE TRANSMITTAL NO. 26-0F
+
+     Report of Enhancement or Upgrade of Sensitivity of Technology 
+         or Capability Pursuant to Section 36(b)(5)(C) of the Arms 
+         Export Control Act
+       (i) (U) Prospective Purchaser: Government of the 
+     Netherlands.
+       (ii) (U) Sec. 36(b)(1), AECA Transmittal No.: 24-78; Date: 
+     September 6, 2024; Implementing Agency: Navy.
+       (iii) (U) Description: On September 6, 2024, Congress was 
+     notified by congressional certification transmittal number 
+     24-78 of the
+
+[[Page S1041]]
+
+     possible sale, under Section 36(b)(1) of the Arms Export 
+     Control Act, of the Government of the Netherlands' request to 
+     buy two hundred forty-six (246) AIM 9X Sidewinder Block II 
+     tactical missiles; six (6) AIM 9X Block II Sidewinder captive 
+     air training missiles (CATM); two (2) AIM 9X Block II 
+     Sidewinder special air training missiles; fourteen (14) AIM 
+     9X Block II Sidewinder tactical guidance units; and two (2) 
+     AIM 9X Block II Sidewinder CATM guidance units. Also included 
+     were missile containers; spares; personal training and 
+     training equipment; classified and unclassified publications 
+     and technical documents; warranties; U.S. Government and 
+     contractor engineering, technical, and logistics support 
+     services; and other related elements of program and logistics 
+     support. The total estimated value was $691 million. Major 
+     defense equipment (MDE) constituted $591.7 million of this 
+     total.
+       This transmittal notifies the addition of up to eighty-
+     seven (87) AIM 9X Sidewinder Block II tactical missiles; and 
+     up to ten (10) AIM 9X Block II Sidewinder CATM. The following 
+     non-MDE items will also be included: additional support 
+     equipment; missiles support; and technical assistance. The 
+     estimated total value of the new items is $65 million. The 
+     estimated MDE value will increase by $60 million to a revised 
+     $651.7 million. The estimated non-MDE value will increase by 
+     $5 million to a revised $104.3 million. The estimated total 
+     case value will increase by $65 million to a revised $756 
+     million. MDE constitutes $651.7 million of this total.
+       (iv) (U) Significance: This notification is being provided 
+     because the additional MDE and non-MDE items were not 
+     enumerated in the original notification. The inclusion of 
+     this MDE and non-MDE represents an increase in capability 
+     over what was previously notified.
+       (v) (U) Justification: This proposed sale will support the 
+     foreign policy and national security objectives of the United 
+     States by improving the security of a NATO Ally which is an 
+     important force for political stability and economic progress 
+     in Europe.
+       (vi) (U) Sensitivity of Technology:
+       The Sensitivity of Technology Statement contained in the 
+     original notification applies to items reported here.
+       The highest level of classification of defense articles, 
+     components, and services included in this potential sale is 
+     SECRET.
+       (vii) (U) Date Report Delivered to Congress: March 6, 2026.
+
+                          ____________________
+```
