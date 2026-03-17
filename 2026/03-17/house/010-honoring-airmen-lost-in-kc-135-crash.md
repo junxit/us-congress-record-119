@@ -1,0 +1,71 @@
+---
+granule: CREC-2026-03-17-pt1-PgH2535-2
+date: 2026-03-17
+edition: CREC
+section: HOUSE
+page: H2535
+citation: 172 Cong. Rec. H2535
+---
+
+# HONORING AIRMEN LOST IN KC-135 CRASH
+
+**Speaking:** Sewell, Terri A. (S001185) [D-AL]
+
+```
+                  HONORING AIRMEN LOST IN KC-135 CRASH
+
+  (Ms. Sewell of Alabama was recognized to address the House for 5 
+minutes.)
+  Ms. SEWELL. Mr. Speaker, I rise today to honor six heroic Americans 
+who made the ultimate sacrifice and gave their lives in defense of the 
+United States.
+  On March 12, 2026, six American airmen were tragically killed when a 
+KC-
+
+[[Page H2536]]
+
+135 refueling aircraft supporting U.S. military operations in Iran 
+crashed in western Iraq.
+  Today, we remember them by name: Major John ``Alex'' Klinner, Captain 
+Ariana Savino, Captain Seth Koval, Captain Curtis Angst, Technical 
+Sergeant Ashley Pruitt, and Technical Sergeant Tyler Simmons.
+  Three of these brave airmen were members of the 99th Air Refueling 
+Squadron, which operates in Birmingham, Alabama, in my district.
+  I will take a moment to talk about the lives and legacies of these 
+three airmen.
+  Major Alex Klinner was 33 years old, a native of Auburn, Alabama. He 
+entered the Air Force through the ROTC program at Auburn University in 
+2017.
+  Major Klinner deployed in 2019, 2020, 2022, and 2026, and he served 
+as chief of the squadron's standardization and evaluation at the 99th 
+Air Refueling Squadron since 2024. He was promoted to major in January.
+  A devoted husband and father, Major Klinner is survived by his wife, 
+Libby, their 2-year-old son, and a 7-year-old set of twins.
+  Captain Ariana Savino was 31 years old. Captain Savino was a native 
+of Covington, Washington. She entered the Air Force through the ROTC 
+program at Central Washington University in 2017. Captain Savino 
+deployed in 2020 and in 2026 and had served as the chief current 
+operations pilot at the 99th Air Refueling Squadron since 2024.
+  Captain Savino was passionate about serving and supporting Latin 
+women in aviation.
+  A dedicated friend and sister, she is survived by her parents, 
+siblings, and pets.
+  Technical Sergeant Ashley Brooke Pruitt was 34 years old and a native 
+of Bardstown, Kentucky. She entered the Air Force in 2017, deploying 
+overseas three times and serving as an assistant flight chief of 
+operations at the 99th Air Refueling Squadron.
+  Technical Sergeant Pruitt is remembered as a selfless servant and a 
+radiant mother by those in her community. She is survived by her 
+husband, Gregory, 3-year-old daughter, and a stepson.
+  The loss of all six of these brave American patriots is devastating, 
+and my prayers are with their families as they grieve.
+  I know I speak for all of us in expressing our deep sorrow and 
+immense gratitude for their service to the United States.
+  On behalf of Alabama's Seventh Congressional District and a grateful 
+nation, I ask my colleagues to join me in remembering the lives of six 
+airmen who paid the ultimate price. May they rest in peace, and may we 
+never ever forget their sacrifice.
+  Mr. Speaker, I ask for a moment of silence.
+
+                          ____________________
+```
