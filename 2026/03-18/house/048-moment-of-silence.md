@@ -1,0 +1,45 @@
+---
+granule: CREC-2026-03-18-pt1-PgH2584-3
+date: 2026-03-18
+edition: CREC
+section: HOUSE
+page: H2584
+citation: 172 Cong. Rec. H2584
+---
+
+# MOMENT OF SILENCE
+
+**Speaking:** Guthrie, Brett (G000558) [R-KY]
+
+```
+                           MOMENT OF SILENCE
+
+  (Mr. GUTHRIE asked and was given permission to address the House for 
+1 minute.)
+  Mr. GUTHRIE. Mr. Speaker, tonight, the Kentucky congressional 
+delegation rises to honor Army Staff Sergeant Benjamin Pennington and 
+U.S. Air Force Technical Sergeant Ashley Pruitt, who were both killed 
+in the line of duty while serving in support of Operation Epic Fury. 
+Their selfless sacrifice will never be forgotten by the Commonwealth of 
+Kentucky and these United States of America.
+  Staff Sergeant Benjamin Pennington of Glendale, Kentucky, was 26 
+years old. Growing up in Hardin County, he ran track at Central Hardin 
+High School and was an Eagle Scout. After graduating in 2017, he 
+enlisted in the U.S. Army, serving with distinction ever since. He 
+leaves behind a loving family and community.
+  Technical Sergeant Ashley Pruitt of Bardstown, Kentucky, was 34 years 
+old and a native of Nelson County. In high school, she was a member of 
+the Air Force Junior ROTC program. Joining the Air Force in 2017, she 
+found her passion as a boom operator aboard the Boeing KC-135 aerial 
+refueling aircraft. She leaves behind her husband, Greg; their 3-year-
+old daughter, Emilia; her stepson, Oliver; and her loving parents.
+  The Commonwealth of Kentucky and the United States of America will 
+forever be grateful to these brave heroes who made the ultimate 
+sacrifice protecting our Nation. Their families and loved ones will 
+always remain in our prayers.
+  On behalf of the Kentucky congressional delegation and the House of 
+Representatives, I ask the United States House of Representatives to 
+observe a moment of silence in their honor.
+
+                          ____________________
+```

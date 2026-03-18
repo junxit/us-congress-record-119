@@ -1,0 +1,62 @@
+---
+granule: CREC-2026-03-18-pt1-PgH2553-3
+date: 2026-03-18
+edition: CREC
+section: HOUSE
+page: H2553
+citation: 172 Cong. Rec. H2553
+---
+
+# HONORING SEGERSTROM HIGH SCHOOL GIRLS' SOCCER TEAM
+
+**Speaking:** Correa, J. Luis (C001110) [D-CA]
+
+```
+           HONORING SEGERSTROM HIGH SCHOOL GIRLS' SOCCER TEAM
+
+  (Mr. Correa of California was recognized to address the House for 5 
+minutes.)
+  Mr. CORREA. Mr. Speaker, today I rise to honor the Segerstrom High 
+School girls' soccer team for earning a victory and the CIF Division 6 
+championship, again showing Santa Ana as the home of champs. The 
+Jaguars won 4-0, securing their first CIF championship in history. This 
+is a testament to their hard work and dedication.
+  Congratulations to Coach Diego Aguirre for his leadership, and 
+players Aymar Salgado, Isabella Barrera, and Jewel Orellana for scoring 
+in the CIF championship game.
+  Congratulations to all the players on the team's success. They have 
+made their school and the Santa Ana community so proud, and we look 
+forward to seeing their future successes.
+
+
+                          Honoring Bera Family
+
+  Mr. CORREA. Mr. Speaker, I rise today to honor the Bera family and 
+their multigenerational commitment to service, education, and our 
+community.
+  This family legacy began with Kanta and Babulal Bera, who came to the 
+United States from India in the late 1950s. Kanta and Babulal believed 
+that education was the pathway to opportunity in the middle class. They 
+worked multiple jobs, while pursuing graduate degrees and raising Raja, 
+Rimal, and Ami, their three sons.
+  The Beras' dedication to global health spanned from Orange County to 
+India. From starting an all-girls school in India that has graduated 
+more than 7,000 students to supporting health and housing efforts not 
+only in India but in southern California, the Beras have expanded 
+opportunities to countless communities to pursue their educational 
+opportunities.
+  Two generations now of Beras have attended UCI School of Medicine. 
+UCI School of Medicine has become the center of their efforts to 
+support future medical graduates.
+  In 2020, the Beras donated $100,000 to the UCI School of Medicine to 
+permanently support medical students traveling to India. These aspiring 
+medical students are able to work in global clinical environments and 
+underserved communities here in the United States.
+  The personal history of the Bera family inspires all of us to pursue 
+education and to give back to our communities, not only in America but 
+around the world.
+  Mr. Speaker, I thank the Bera family. I thank them for showing us how 
+it is done.
+
+                          ____________________
+```
