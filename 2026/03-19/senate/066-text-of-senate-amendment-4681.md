@@ -1,0 +1,227 @@
+---
+granule: CREC-2026-03-19-pt1-PgS1389
+date: 2026-03-19
+edition: CREC
+section: SENATE
+page: S1389
+citation: 172 Cong. Rec. S1389
+---
+
+# Text of Senate Amendment 4681
+
+**Speaking:** Merkley, Jeff (M001176) [D-OR]
+
+```
+  SA 4681. Mr. MERKLEY submitted an amendment intended to be proposed 
+by him to the bill S. 1383, to establish the Veterans Advisory 
+Committee on Equal Access, and for other purposes; which was ordered to 
+lie on the table; as follows:
+
+        Strike all after the enacting clause and insert the 
+     following:
+
+     SECTION 1. SHORT TITLE.
+
+       This Act may be cited as the ``End Crypto Corruption Act of 
+     2026''.
+
+     SEC. 2. PROHIBITED FINANCIAL TRANSACTIONS.
+
+       (a) In General.--Chapter 131 of title 5, United States 
+     Code, is amended by adding at the end the following:
+
+           ``SUBCHAPTER IV--PROHIBITED FINANCIAL TRANSACTIONS
+
+     ``Sec. 13151. Definitions
+
+       ``In this subchapter:
+       ``(1) Covered individual.--The term `covered individual' 
+     means--
+       ``(A) the President;
+       ``(B) the Vice President;
+       ``(C) a Member of Congress;
+       ``(D) an individual appointed to a Senate-confirmed 
+     position; or
+       ``(E) a special Government employee (as defined in section 
+     202 of title 18) associated with the Executive Office of the 
+     President.
+       ``(2) Dependent child; member of congress.--The terms 
+     `dependent child' and `Member of Congress' have the meanings 
+     given those terms in section 13101.
+       ``(3) Directly.--The term `directly' means by virtue of the 
+     ownership or beneficial interest of a covered individual, or 
+     the spouse or dependent child of a covered individual, in a 
+     financial interest described in paragraph (5)(A).
+       ``(4) Indirectly.--The term `indirectly' means by virtue of 
+     the financial interest of a covered individual, or the spouse 
+     or dependent child of a covered individual, in a business 
+     entity, partnership interest, company, investment fund, 
+     trust, or other third party in which the covered individual, 
+     or the spouse or dependent child of a covered individual, has 
+     an ownership or beneficial interest.
+       ``(5) Prohibited financial transaction.--
+       ``(A) In general.--The term `prohibited financial 
+     transaction' means--
+       ``(i) any issuance, sponsorship, or endorsement of a 
+     cryptocurrency, meme coin, token, non-fungible token, 
+     stablecoin, or other digital asset that is sold for 
+     remuneration;
+       ``(ii) any financial interest comparable to an interest 
+     described in clause (i) that is acquired through synthetic 
+     means, such as the use of a derivative, including an option, 
+     warrant, or other similar means; or
+       ``(iii) any financial interest comparable to an interest 
+     described in clause (i) that is acquired as part of an 
+     aggregation or compilation of such interests through a mutual 
+     fund, exchange-traded fund, or other similar means.
+       ``(B) Exclusions.--The term `prohibited financial 
+     transaction' does not include the mere purchase, sale, 
+     holding, or other conduct relating to financial instruments 
+     or assets routinely accessible to any member of the public.
+       ``(6) Senate-confirmed position.--The term `Senate-
+     confirmed position' means a position in a department or 
+     agency of the executive branch of the United States for which 
+     appointment is required to be made by the President, by and 
+     with the advice and consent of the Senate.
+
+[[Page S1390]]
+
+  
+
+
+     ``Sec. 13152. Prohibition on certain transactions
+
+       ``(a) Prohibition.--Except as provided in subsection (b), a 
+     covered individual, or the spouse or dependent child of a 
+     covered individual, may not engage directly or indirectly in 
+     a prohibited financial transaction--
+       ``(1) during the term of service of the covered individual; 
+     or
+       ``(2) during the 1-year period beginning on the date on 
+     which the service of the covered individual is terminated.
+       ``(b) Liability and Immunity.--For purposes of any 
+     immunities to civil liability, any conduct relating to a 
+     prohibited financial transaction under this section shall be 
+     deemed an unofficial act and beyond the scope of the official 
+     duties of the relevant covered individual.
+
+     ``Sec. 13153. Civil penalties
+
+       ``(a) Civil Action.--The Attorney General may bring a civil 
+     action in any appropriate district court of the United States 
+     against any covered individual who violates section 13152(a).
+       ``(b) Civil Penalty.--Any covered individual who knowingly 
+     violates section 13152(a) shall be subject to a civil 
+     monetary penalty equal to not more than 10 percent of the 
+     value of the financial interest that is the subject of the 
+     prohibited conduct, or the amount of financial gain, if any, 
+     that the covered individual benefitted from relating to the 
+     prohibited conduct, whichever is greater.
+       ``(c) Disgorgement.--A covered individual who is found to 
+     have violated section 13152(a) in a civil action under 
+     subsection (a) shall disgorge to the Treasury of the United 
+     States any profit from the prohibited conduct that is the 
+     subject of that civil action.''.
+       (b) Clerical Amendment.--The table of sections for chapter 
+     131 of title 5, United States Code, is amended by adding at 
+     the end the following:
+
+           ``subchapter iv--prohibited financial transactions
+
+``13151. Definitions.
+``13152. Prohibition on certain transactions.
+``13153. Civil penalties.''.
+
+     SEC. 3. CRIMINAL PENALTIES RELATING TO PROHIBITED FINANCIAL 
+                   TRANSACTIONS.
+
+       (a) In General.--Chapter 11 of title 18, United States 
+     Code, is amended by adding at the end the following:
+
+     ``Sec. 227A. Prohibited financial transactions
+
+       ``(a) Definitions.--In this section:
+       ``(1) Covered individual.--The term `covered individual' 
+     means--
+       ``(A) the President;
+       ``(B) the Vice President;
+       ``(C) a Member of Congress;
+       ``(D) an individual appointed to a Senate-confirmed 
+     position; or
+       ``(E) a special Government employee (as defined in section 
+     202) associated with the Executive Office of the President.
+       ``(2) Member of congress.--The term `Member of Congress' 
+     has the meaning given that term in section 13101 of title 5.
+       ``(3) Prohibited financial transaction.--
+       ``(A) In general.--The term `prohibited financial 
+     transaction' means--
+       ``(i) any issuance, sponsorship, or endorsement of a 
+     cryptocurrency, meme coin, token, non-fungible token, 
+     stablecoin, or other digital asset that is sold for 
+     remuneration; or
+       ``(ii) any financial interest comparable to an interest 
+     described in clause (i) that is acquired through synthetic 
+     means, such as the use of a derivative, including an option, 
+     warrant, or other similar means.
+       ``(B) Exclusions.--The term `prohibited financial 
+     transaction' does not include the mere purchase, sale, 
+     holding, or other conduct relating to financial instruments 
+     or assets routinely accessible to any member of the public.
+       ``(4) Senate-confirmed position.--The term `Senate-
+     confirmed position' means a position in a department or 
+     agency of the executive branch of the United States for which 
+     appointment is required to be made by the President, by and 
+     with the advice and consent of the Senate.
+       ``(b) Benefitting From Prohibited Financial Transaction.--
+     Any covered individual who--
+       ``(1) knowingly violates any provision of section 13152(a) 
+     of title 5; and
+       ``(2) through such violation--
+       ``(A) causes an aggregate loss of not less than $1,000,000 
+     to 1 or more persons in the United States; or
+       ``(B) benefits financially, through profit, gain, or 
+     advantage, directly or indirectly through any family member 
+     or business associate of the covered individual, from the 
+     sale, purchase, or distribution of the financial interest 
+     described in subsection (a)(3)(A)(i) issued, sponsored, or 
+     endorsed in violation of section 13152(a) of title 5,
+     shall be fined under this title, imprisoned for not more than 
+     5 years, or both.
+       ``(c) Bribery.--Any covered individual who--
+       ``(1) knowingly violates any provision of section 13152(a) 
+     of title 5; and
+       ``(2) directly or indirectly, corruptly demands, seeks, 
+     receives, accepts, or agrees to receive or accept any thing 
+     of value personally or for any other person or entity, in 
+     return for--
+       ``(A) being influenced in the performance of any official 
+     act;
+       ``(B) being influenced to commit or aid in committing, or 
+     to collude in, or allow, any fraud, or make opportunity for 
+     the commission of any fraud, on the United States; or
+       ``(C) being induced to do or omit to do any act in 
+     violation of the official duty of such official or person,
+     shall be fined under this title or not more than 2 times the 
+     monetary equivalent of the thing of value, whichever is 
+     greater, or imprisoned for not more than 5 years, or both, 
+     and may be disqualified from holding any office of honor, 
+     trust, or profit under the United States.
+       ``(d) Intent.--To incur criminal liability under this 
+     section, it shall not be required that a covered individual 
+     intended to create a financial interest described in 
+     subsection (a)(3)(A)(i) through the issuance, sponsorship or 
+     endorsement of the financial interest described in subsection 
+     (a)(3)(A)(i).
+       ``(e) Liability and Immunity.--For purposes of any 
+     immunities to civil and criminal liability, any conduct 
+     relating to a prohibited financial transaction under this 
+     section shall be deemed an unofficial act and beyond the 
+     scope of official duties of the relevant covered 
+     individual.''.
+       (b) Clerical Amendment.--The table of sections for chapter 
+     11 of title 18, United States Code, is amended by inserting 
+     after the item relating to section 227 the following:
+
+``227A. Prohibited financial transactions.''.
+                                 ______
+```

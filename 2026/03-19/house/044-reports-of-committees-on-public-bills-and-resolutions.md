@@ -1,0 +1,56 @@
+---
+granule: CREC-2026-03-19-pt1-PgH2620
+date: 2026-03-19
+edition: CREC
+section: HOUSE
+page: H2620
+citation: 172 Cong. Rec. H2620
+---
+
+# REPORTS OF COMMITTEES ON PUBLIC BILLS AND RESOLUTIONS
+
+**Measures:** H.Res. 1007, H.R. 1799, H.R. 6967, H.R. 7056, H.R. 7085, H.R. 7128
+
+```
+         REPORTS OF COMMITTEES ON PUBLIC BILLS AND RESOLUTIONS
+
+  Under clause 2 of rule XIII, reports of committees were delivered to 
+the Clerk for printing and reference to the proper calendar, as 
+follows:
+
+       Mr. HILL of Arkansas: Committee on Financial Services. H.R. 
+     1799. A bill to update thresholds for certain currency 
+     transaction reports and suspicious activity reports, and for 
+     other purposes; with an amendment (Rept. 119-556). Referred 
+     to the Committee of the Whole House on the state of the 
+     Union.
+       Mr. HILL of Arkansas: Committee on Financial Services. H.R. 
+     6967. A bill to amend the Securities Exchange Act of 1934 to 
+     establish within the Securities and Exchange Commission the 
+     Public Company Advisory Committee, and for other purposes; 
+     with an amendment (Rept. 119-557). Referred to the Committee 
+     of the Whole House on the state of the Union.
+       Mr. HILL of Arkansas: Committee on Financial Services. H.R. 
+     7056. A bill to index statutory thresholds, and for other 
+     purposes; with an amendment (Rept. 119-558). Referred to the 
+     Committee of the Whole House on the state of the Union.
+       Mr. HILL of Arkansas: Committee on Financial Services. H. 
+     Res. 1007. A resolution expressing the sense of the House of 
+     Representatives with respect to the use of artificial 
+     intelligence in the financial services and housing 
+     industries, with amendments (Rept. 119-559). Referred to the 
+     House Calendar.
+       Mr. HILL of Arkansas: Committee on Financial Services. H.R. 
+     7085. A bill to amend the Securities Exchange Act of 1934 to 
+     repeal certain disclosure requirements related to conflict 
+     minerals, and for other purposes; with an amendment (Rept. 
+     119-560). Referred to the Committee of the Whole House on the 
+     state of the Union.
+       Mr. HILL of Arkansas: Committee on Financial Services. H.R. 
+     7128. A bill to extend the Terrorism Risk Insurance Program, 
+     and for other purposes; with an amendment (Rept. 119-561). 
+     Referred to the Committee of the Whole House on the state of 
+     the Union.
+
+                          ____________________
+```

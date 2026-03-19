@@ -1,0 +1,38 @@
+---
+granule: CREC-2026-03-19-pt1-PgH2607-4
+date: 2026-03-19
+edition: CREC
+section: HOUSE
+page: H2607
+citation: 172 Cong. Rec. H2607
+---
+
+# WE ARE IN A DANGEROUS PLACE
+
+**Speaking:** Balint, Becca (B001318) [D-VT]
+
+```
+                      WE ARE IN A DANGEROUS PLACE
+
+  (Ms. BALINT asked and was given permission to address the House for 1 
+minute and to revise and extend her remarks.)
+  Ms. BALINT. Mr. Speaker, Americans do not want to live in a country 
+where masked agents can carry you away in an unmarked car.
+  Americans don't want to live in a country where innocent people are 
+just dumped on the side of the road in freezing temperatures because 
+ICE agents made a mistake and arrested the wrong person.
+  They don't want to live in a country where agents can bust down the 
+doors to their homes without a warrant.
+  They don't want to be stopped while they are out shopping and have 
+somebody in a mask and armed to the teeth asking them where their 
+papers are.
+  None of these things happen in a free country. They don't.
+  We are in a dangerous place right now.
+  We have a choice, all of us. We can either speak out and defend the 
+rights that are given to us in our Constitution, or we can watch them 
+slip away.
+  Those are the stakes. We have to push back. We have to speak out and 
+use our voices against this tyranny.
+
+                          ____________________
+```

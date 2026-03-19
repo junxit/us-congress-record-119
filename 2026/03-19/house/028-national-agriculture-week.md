@@ -1,0 +1,40 @@
+---
+granule: CREC-2026-03-19-pt1-PgH2608-3
+date: 2026-03-19
+edition: CREC
+section: HOUSE
+page: H2608
+citation: 172 Cong. Rec. H2608
+---
+
+# NATIONAL AGRICULTURE WEEK
+
+**Speaking:** Fedorchak, Julie (F000482) [R-ND]
+
+```
+                       NATIONAL AGRICULTURE WEEK
+
+  (Mrs. FEDORCHAK asked and was given permission to address the House 
+for 1 minute and to revise and extend her remarks.)
+  Mrs. FEDORCHAK. Mr. Speaker, during National Agriculture Week, I rise 
+to recognize the men and women who keep our country running: our 
+Nation's farmers and ranchers.
+  In North Dakota, agriculture isn't just an industry. It is our way of 
+life. It is early mornings, long days, and a commitment to see things 
+through, no matter the conditions.
+  As a lifelong North Dakotan, a fourth-generation, and the daughter of 
+a proud farmer and rancher, I have seen this commitment my entire life. 
+Our producers face real challenges: short growing seasons, 
+unpredictable weather, and volatile markets, but they continue to 
+deliver.
+  They feed our families, fuel our economy, and sew together the fabric 
+of rural America that is such a source of strength to our Nation.
+  They don't ask for much, just a chance to do their work, pass their 
+operations on to the next generation, and compete on a level playing 
+field.
+  This week and every week, we recognize the contributions of our 
+farmers and ranchers and recommit to policies that support American 
+agriculture and strengthen it for the future.
+
+                          ____________________
+```

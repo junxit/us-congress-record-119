@@ -1,0 +1,55 @@
+---
+granule: CREC-2026-03-19-pt1-PgH2606-7
+date: 2026-03-19
+edition: CREC
+section: HOUSE
+page: H2606
+citation: 172 Cong. Rec. H2606
+---
+
+# TO WAIVE THE 60-DAY NOTICE REQUIREMENT FOR THE POSTHUMOUS HONORARY PROMOTION OF CAPTAIN CODY KHORK, UNITED STATES ARMY
+
+**Speaking:** Rogers, Mike D. (R000575) [R-AL]
+
+**Measures:** S. 4138
+
+```
+                              {time}  1040
+  TO WAIVE THE 60-DAY NOTICE REQUIREMENT FOR THE POSTHUMOUS HONORARY 
+          PROMOTION OF CAPTAIN CODY KHORK, UNITED STATES ARMY
+
+  Mr. ROGERS of Alabama. Mr. Speaker, I ask unanimous consent to take 
+from the Speaker's table the bill (S. 4138) to waive the 60-day notice 
+requirement for the posthumous honorary promotion of Captain Cody 
+Khork, United States Army and ask for its immediate consideration in 
+the House.
+  The Clerk read the title of the bill.
+  The SPEAKER pro tempore (Mr. Jack). Is there objection to the request 
+of the gentleman from Alabama?
+  There was no objection.
+  The text of the bill is as follows:
+
+[[Page H2607]]
+
+  
+
+
+                                S. 4138
+
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled,
+
+     SECTION 1. WAIVER OF 60-DAY NOTICE REQUIREMENT FOR THE 
+                   POSTHUMOUS HONORARY PROMOTION OF CAPTAIN CODY 
+                   KHORK, UNITED STATES ARMY.
+
+       The 60-day notice requirement under section 1563a(b) of 
+     title 10, United States Code, is hereby waived for the 
+     purpose of the posthumous honorary promotion of Captain Cody 
+     Khork, United States Army, to the rank of major.
+
+  The bill was ordered to be read a third time, was read the third 
+time, and passed, and a motion to reconsider was laid on the table.
+
+                          ____________________
+```
