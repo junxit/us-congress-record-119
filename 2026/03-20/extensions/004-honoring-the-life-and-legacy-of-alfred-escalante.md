@@ -1,0 +1,50 @@
+---
+granule: CREC-2026-03-20-pt1-PgE248
+date: 2026-03-20
+edition: CREC
+section: EXTENSIONS
+page: E248
+citation: 172 Cong. Rec. E248
+---
+
+# HONORING THE LIFE AND LEGACY OF ALFRED ESCALANTE
+
+**Speaking:** Correa, J. Luis (C001110) [D-CA]
+
+```
+            HONORING THE LIFE AND LEGACY OF ALFRED ESCALANTE
+
+                                  _____
+                                 
+
+                          HON. J. LUIS CORREA
+
+                             of california
+
+                    in the house of representatives
+
+                         Friday, March 20, 2026
+
+  Mr. CORREA. Mr. Speaker, I rise today to honor the life and legacy of 
+Alfred Escalante, who has passed away at the age of 100.
+  Born in Texas, Alfred left for California as a young man in pursuit 
+of more opportunities. He embarked on a career as a car painter, 
+becoming a master of the trade and a lifelong resident of Santa Ana 
+along the way. Years into his career, he went to work for his son's 
+Custom Auto Service in Santa Ana, which is nationally renowned for 
+servicing and restoring Packard cars.
+  Together with his beloved wife Lucy, Alfred created a lifetime 
+centered around family and the importance of living together. Alfred 
+instilled in his children the importance of integrity, humility, and 
+perseverance.
+  He also served as a father figure to countless others in his 
+community, teaching them life skills such as faith and manners while 
+providing them with a second chance and lots of hope.
+  Alfred is survived by his children Alfred, Jr., Robert, David, Sandy, 
+Steve, and Cynthia, as well as by his grandchildren.
+  As he said to his family shortly before he passed, ``I did not leave 
+you any money but I left you a clean name. Protect it because it's 
+worth more than a pot of gold.''
+
+                          ____________________
+```

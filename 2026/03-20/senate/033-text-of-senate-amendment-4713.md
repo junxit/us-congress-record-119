@@ -1,0 +1,82 @@
+---
+granule: CREC-2026-03-20-pt1-PgS1446-2
+date: 2026-03-20
+edition: CREC
+section: SENATE
+page: S1446
+citation: 172 Cong. Rec. S1446
+---
+
+# Text of Senate Amendment 4713
+
+**Speaking:** Wyden, Ron (W000779) [D-OR]
+
+```
+  SA 4713. Mr. WYDEN submitted an amendment intended to be proposed by 
+him to the bill S. 1383, to establish the Veterans Advisory Committee 
+on Equal Access, and for other purposes; which was ordered to lie on 
+the table; as follows:
+
+       At the appropriate place, insert the following:
+
+     SEC. __. REFUND OF DUTIES IMPOSED UNDER INTERNATIONAL 
+                   EMERGENCY ECONOMIC POWERS ACT.
+
+       (a) In General.--Notwithstanding section 514 of the Tariff 
+     Act of 1930 (19 U.S.C. 1514) or any other provision of law, 
+     the Commissioner of U.S. Customs and Border Protection shall, 
+     not later than 180 days after the date of the enactment of 
+     this Act, refund, with interest, to each importer of a 
+     covered article all duties imposed under the International 
+     Emergency Economic Powers Act (50 U.S.C. 1701 et seq.) and 
+     paid with respect to the article.
+       (b) Reliquidation Authority.--In the case of an entry of a 
+     covered article that was liquidated before the date of the 
+     enactment of this Act, the Commissioner shall reliquidate the 
+     entry at the rate of duty applicable to the article in the 
+     absence of any duty imposed under the International Emergency 
+     Economic Powers Act (50 U.S.C. 1701 et seq.) in order to pay 
+     a refund required under subsection (a).
+       (c) Prioritization of Small Businesses.--The Commissioner 
+     shall, to the extent practicable, prioritize the payment of 
+     refunds under subsection (a) to small business concerns.
+       (d) Outreach to Small Businesses.--The Commissioner shall 
+     coordinate with the Administrator of the Small Business 
+     Administration to disseminate information to small business 
+     concerns about the payment of refunds under subsection (a), 
+     including any required documentation, actions small business 
+     concerns should take, and the expected timeline for refunds.
+       (e) Reports Required.--Not later than 30 days after the 
+     date of the enactment of this Act, and every 30 days 
+     thereafter until the payment of all refunds required under 
+     subsection (a) has been completed, the Commissioner shall 
+     submit to the Committee on Finance and the Committee on Small 
+     Business and Entrepreneurship of the Senate and the Committee 
+     on Ways and Means and the Committee on Small Business of the 
+     House of Representatives a report on the implementation of 
+     this section that includes--
+       (1) a statement of the number of refunds issued and the 
+     amount of duties refunded under subsection (a) during the 30-
+     day period preceding submission of the report, including a 
+     breakdown between small business concerns and other business 
+     concerns; and
+       (2) an estimate of the time anticipated to be required to 
+     complete the payment of refunds of all duties under 
+     subsection (a).
+       (f) Guidance on Drawbacks.--Not later than 60 days after 
+     the date of the enactment of this Act, the Commissioner shall 
+     issue guidance with respect to how to address claims for 
+     drawback under section 313 of the Tariff Act of 1930 (19 
+     U.S.C. 1313) of duties described in subsection (a).
+       (g) Definitions.--In this section:
+       (1) Covered article.--The term ``covered article'' means an 
+     article with respect to which the President imposed duties 
+     under the International Emergency Economic Powers Act (50 
+     U.S.C. 1701 et seq.).
+       (2) Enter; entry.--The terms ``enter'' and ``entry'' 
+     include a withdrawal from warehouse for consumption.
+       (3) Small business concern.--The term ``small business 
+     concern'' has the meaning given that term in section 3 of the 
+     Small Business Act (15 U.S.C. 632).
+                                 ______
+```
