@@ -1,0 +1,238 @@
+---
+granule: CREC-2026-03-22-pt1-PgS1522
+date: 2026-03-22
+edition: CREC
+section: SENATE
+page: S1522
+citation: 172 Cong. Rec. S1522
+---
+
+# GLOBAL INVESTMENT IN AMERICAN JOBS ACT OF 2025
+
+**Speaking:** Barrasso, John (B001261) [R-WY]
+
+**Measures:** S. 2563
+
+```
+             GLOBAL INVESTMENT IN AMERICAN JOBS ACT OF 2025
+
+  Mr. BARRASSO. Mr. President, I ask unanimous consent that the Senate 
+proceed to the immediate consideration of Calendar No. 356, S. 2563.
+  The ACTING PRESIDENT pro tempore. The clerk will report the bill by 
+title.
+  The legislative clerk read as follows:
+
+       A bill (S. 2563) to direct the Secretary of Commerce, in 
+     coordination with the heads of other relevant Federal 
+     departments and agencies, to conduct an interagency review of 
+     and report to Congress on ways to increase the global 
+     competitiveness of the United States in attracting foreign 
+     direct investment.
+
+  There being no objection, the Senate proceeded to consider the bill, 
+which had been reported from the Committee on Commerce, Science, and 
+Transportation with an amendment to strike all after the enacting 
+clause and insert the part printed in italic, as follows:
+
+     SECTION 1. SHORT TITLE.
+
+       This Act may be cited as the ``Global Investment in 
+     American Jobs Act of 2025''.
+
+     SEC. 2. DEFINITIONS.
+
+       In this Act:
+       (1) Foreign country of concern.--The term ``foreign country 
+     of concern'' has the meaning given the term in section 9901 
+     of the William M. (Mac) Thornberry National Defense 
+     Authorization Act for Fiscal Year 2021 (15 U.S.C. 4651).
+       (2) Responsible private sector entity.--The term 
+     ``responsible private sector entity'' means an entity that 
+     the Secretary determines is--
+       (A) not organized under the laws of a foreign country of 
+     concern; and
+       (B) not owned by, controlled by, or otherwise subject to 
+     the influence of a foreign country of concern.
+       (3) Secretary.--The term ``Secretary'' means the Secretary 
+     of Commerce.
+       (4) Trusted country.--The term ``trusted country'' means a 
+     country that is not a foreign country of concern.
+
+     SEC. 3. SENSE OF CONGRESS.
+
+       It is the sense of Congress that--
+       (1) the ability of the United States to attract foreign 
+     direct investment from responsible private sector entities 
+     based in trusted countries is directly linked to the long-
+     term economic prosperity, global competitiveness, and 
+     security of the United States;
+       (2) it is a top national priority to enhance the global 
+     competitiveness, economic prosperity, and security of the 
+     United States by--
+       (A) removing unnecessary barriers to foreign direct 
+     investment from responsible private sector entities based in 
+     trusted countries and the jobs that such investment creates 
+     throughout the United States;
+       (B) promoting policies to ensure the United States remains 
+     the premier global destination to invest, hire, innovate, 
+     provide services, and manufacture products;
+       (C) promoting policies to ensure the United States remains 
+     the global leader in developing and deploying cutting-edge 
+     technologies, such as self-driving vehicle technology, 
+     artificial intelligence, the Internet of Things, quantum 
+     computing, and blockchain; and
+       (D) promoting policies that maintain and expand resilient 
+     supply chains and reduce the dependence of the United States 
+     on supply chains from foreign countries of concern;
+       (3) maintaining the commitment of the United States to an 
+     open investment policy with private sector entities based in 
+     trusted countries encourages other countries to reciprocate 
+     and enables the United States to open new markets abroad for 
+     United States companies and their products;
+       (4) while foreign direct investment by responsible private 
+     sector entities based in trusted countries can enhance the 
+     economic strength of the United States, policies regarding 
+     foreign direct investment should reflect security interests;
+       (5) the efforts of the United States to attract foreign 
+     direct investment from responsible private sector entities 
+     based in trusted countries should be consistent with efforts 
+     to maintain and improve the domestic standard of living;
+       (6) as digital information becomes increasingly important 
+     to the economy of the United States and the development of 
+     new technologies and services that will be crucial to the 
+     competitiveness of the United States in the 21st century 
+     global economy, barriers, including data localization and 
+     infringement of intellectual property rights, must be further 
+     addressed; and
+       (7) foreign direct investment by companies or other 
+     entities owned, directed, supported, or influenced by a 
+     foreign country of concern is a threat to the security of the 
+     United States and merits an aggressive policy framework to 
+     protect the interests, jobs, intellectual property, and 
+     security of the United States.
+
+     SEC. 4. FOREIGN DIRECT INVESTMENT REVIEW.
+
+       (a) In General.--The Secretary and the Comptroller General 
+     of the United States, in consultation with relevant 
+     interagency working groups and the heads of other relevant 
+     Federal departments and agencies, shall conduct an 
+     interagency review of the global competitiveness of the 
+     United States in attracting foreign direct investment from 
+     responsible private sector entities based in trusted 
+     countries that addresses key foreign trade barriers that 
+     firms in advanced technology sectors face in the global 
+     digital economy.
+       (b) Specific Matters To Be Included.--The review conducted 
+     under subsection (a) shall include a review of the following:
+       (1) The current economic impact of foreign direct 
+     investment in the United States, with particular focus on 
+     manufacturing, services, trade (with an emphasis on digital 
+     trade), and jobs in the United States.
+       (2) Trends in global cross-border investment and data flows 
+     and the underlying factors for those trends.
+       (3) Federal Government policies that facilitate foreign 
+     direct investment attraction and retention from responsible 
+     private sector entities based in trusted countries.
+       (4) Foreign direct investment compared to direct investment 
+     by domestic entities.
+       (5) Foreign direct investment that takes the form of 
+     greenfield investment compared to foreign direct investment 
+     relating to merger and acquisition activity.
+       (6) The unique challenges posed by foreign direct 
+     investment, particularly acquisitions, in the United States 
+     by state-owned or state-backed enterprises, especially from 
+     state-directed economies, including companies or other 
+     entities owned, directed, supported, or influenced by foreign 
+     countries of concern.
+       (7) Specific information on the prevalence of investments 
+     made by state-owned or state-backed enterprises, especially 
+     from state-directed economies, including companies or other 
+     entities owned, directed, supported, or influenced by foreign 
+     countries of concern, with a particular focus on investments 
+     relating to manufacturing, services, trade (with an emphasis 
+     on digital trade), and jobs.
+       (8) How trusted countries are dealing with the challenge of 
+     state-directed and state-supported
+
+[[Page S1523]]
+
+     investment from foreign countries of concern and whether 
+     there are opportunities to work with like-minded countries to 
+     address that challenge.
+       (9) Ongoing Federal Government efforts to improve the 
+     investment climate and facilitate greater levels of foreign 
+     direct investment in the United States from responsible 
+     private sector entities based in trusted countries.
+       (10) Innovative and noteworthy initiatives by State and 
+     local governments to attract foreign investment from 
+     responsible private sector entities based in trusted 
+     countries.
+       (11) Initiatives by other trusted countries to identify 
+     best practices for increasing global competitiveness in 
+     attracting foreign direct investment from responsible private 
+     sector entities based in other trusted countries.
+       (12) The impact that protectionist policies by other 
+     countries, including forced data localization rules, forced 
+     localization of production, industrial subsidies, and the 
+     infringement of intellectual property rights, have on the 
+     advanced technology economy of the United States and the 
+     ability of firms located in the United States to develop 
+     innovative technologies, especially when those policies arise 
+     from foreign countries of concern.
+       (13) Other barriers to the ability of the United States to 
+     compete globally in an increasingly connected and digital 
+     global economy, including the use of technical barriers to 
+     trade, country-specific standards for technology products, 
+     and digital services.
+       (14) The adequacy of efforts by the Federal Government to 
+     encourage and facilitate foreign direct investment in the 
+     United States.
+       (15) Efforts by the Chinese Communist Party to circumvent 
+     existing laws to gain access to--
+       (A) markets in the United States;
+       (B) foreign direct investment in responsible private sector 
+     entities based in trusted countries; or
+       (C) intellectual property.
+       (c) Limitation.--The review conducted under subsection (a) 
+     shall not address laws or policies relating to the Committee 
+     on Foreign Investment in the United States.
+       (d) Public Comment.--
+       (1) Review.--Before the date on which the Secretary begins 
+     the review required under subsection (a), the Secretary 
+     shall--
+       (A) publish in the Federal Register notice of the review; 
+     and
+       (B) provide an opportunity for public comment on the 
+     matters to be covered by the review.
+       (2) Submission.--Before the date on which the Secretary 
+     submits the report required under subsection (e), the 
+     Secretary shall--
+       (A) publish in the Federal Register the proposed findings 
+     and recommendations contained in the report; and
+       (B) provide an opportunity for public comment.
+       (e) Report to Congress.--Not later than 1 year after the 
+     date of enactment of this Act, the Secretary, in coordination 
+     with relevant interagency working groups and the heads of 
+     relevant Federal departments and agencies, shall submit to 
+     Congress a report on the findings of the review required 
+     under subsection (a) that includes recommendations for 
+     increasing the global competitiveness of the United States in 
+     attracting foreign direct investment from responsible private 
+     sector entities based in trusted countries in a manner that 
+     strengthens or maintains the security, labor, consumer, 
+     financial, or environmental protections of the United States.
+
+  Mr. BARRASSO. I ask unanimous consent that the committee-reported 
+substitute amendment be considered and agreed to; that the bill, as 
+amended, be considered read a third time and passed; and that the 
+motion to reconsider be considered made and laid upon the table.
+  The ACTING PRESIDENT pro tempore. Without objection, it is so 
+ordered.
+  The committee-reported amendment, in the nature of a substitute, was 
+agreed to.
+  The bill (S. 2563), as amended, was ordered to be engrossed for a 
+third reading, was read the third time, and passed.
+
+                          ____________________
+```
