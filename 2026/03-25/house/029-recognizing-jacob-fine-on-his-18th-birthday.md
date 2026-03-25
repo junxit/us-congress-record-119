@@ -1,0 +1,37 @@
+---
+granule: CREC-2026-03-25-pt1-PgH2687-2
+date: 2026-03-25
+edition: CREC
+section: HOUSE
+page: H2687
+citation: 172 Cong. Rec. H2687
+---
+
+# RECOGNIZING JACOB FINE ON HIS 18TH BIRTHDAY
+
+**Speaking:** Fine, Randy (F000484) [R-FL]
+
+```
+                              {time}  1210
+              RECOGNIZING JACOB FINE ON HIS 18TH BIRTHDAY
+
+  (Mr. FINE asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. FINE. Mr. Speaker, 18 years ago at 6:08 this morning, my son 
+Jacob Fine was born. Six years after he was born, inspired by what he 
+dealt with as a first grader, I decided to run for office, and 12 years 
+later, here I am today.
+  Members of Congress give up a lot in order to serve, but it is their 
+families that give up even more.
+  Today, as Jacob turns 18, he is home in Florida, and I am here doing 
+the people's business, but I would be remiss if I did not wish him a 
+happy birthday and let him know of all the things that I and his mother 
+will accomplish in our lives, nothing will be more important than 
+having brought him and his younger brother into this world and 
+preparing them to be the amazing adults that I know that they will both 
+turn out to be.
+  So Jacob, happy birthday. I love you, and I look forward to seeing 
+you on Friday.
+
+                          ____________________
+```

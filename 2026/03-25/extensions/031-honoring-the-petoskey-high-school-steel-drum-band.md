@@ -1,0 +1,67 @@
+---
+granule: CREC-2026-03-25-pt1-PgE270-4
+date: 2026-03-25
+edition: CREC
+section: EXTENSIONS
+page: E270
+citation: 172 Cong. Rec. E270
+---
+
+# HONORING THE PETOSKEY HIGH SCHOOL STEEL DRUM BAND
+
+**Speaking:** Bergman, Jack (B001301) [R-MI]
+
+```
+           HONORING THE PETOSKEY HIGH SCHOOL STEEL DRUM BAND
+
+                                 ______
+                                 
+
+                           HON. JACK BERGMAN
+
+                              of michigan
+
+                    in the house of representatives
+
+                       Wednesday, March 25, 2026
+
+  Mr. BERGMAN. Mr. Speaker, I rise today to recognize the Petoskey High 
+School Steel Drum Band on being selected to represent Michigan in the 
+``Salute to Independence 250th-USA Celebration Parade,'' commemorating 
+America's Semiquincentennial Anniversary. This remarkable and well-
+deserved accomplishment reflects the band's commitment to excellence, 
+their dedication to one another, and the steadfast support of their 
+community.
+  For the last 30 years, the Petoskey Steel Drum Band has entertained 
+communities across Northern Michigan and has frequently performed in 
+Chicago and New Orleans. Founded by Petoskey Band Director, Barry 
+Bennett, this 40-piece ensemble goes beyond traditional Caribbean steel 
+drum music by thoughtfully blending this genre with a wide range of 
+contemporary and familiar favorites, from the Zac Brown Band and Jimmy 
+Buffett to classic Christmas carols.
+  On July 3, 2026, the band will march along a 2.4-mile parade route 
+that passes directly in front of and through the very streets walked by 
+our Founding Fathers 250 years ago. Immediately following the parade, 
+in a true testament to their gratitude and commitment to their 
+hometown, the band will board their motor coaches and begin the journey 
+back to Petoskey so they may perform in their own community's Fourth of 
+July parade the following evening at 6 p.m. In an extraordinary act of 
+leadership and generosity, Duane Willson, Director of Bands for Public 
+Schools of Petoskey, has committed to fully funding the trip. Currently 
+working to raise the $80,000 needed to make the experience possible, 
+his
+
+[[Page E271]]
+
+effort will ensure that every student has the opportunity to take part 
+in this historic celebration of our great Nation.
+  Mr. Speaker, please join me in honoring the Petoskey High School 
+Steel Drum Band on being selected to represent Michigan in the ``Salute 
+to Independence 250th-USA Celebration Parade.'' I extend my heartfelt 
+congratulations to the students, their director, the families, and the 
+entire Petoskey community. May they travel safely, perform proudly, and 
+continue to represent Michigan with excellence, integrity, and 
+patriotism.
+
+                          ____________________
+```

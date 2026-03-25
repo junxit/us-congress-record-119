@@ -1,0 +1,47 @@
+---
+granule: CREC-2026-03-25-pt1-PgE263-2
+date: 2026-03-25
+edition: CREC
+section: EXTENSIONS
+page: E263
+citation: 172 Cong. Rec. E263
+---
+
+# RECOGNIZING NURSE JESSICA PALMER
+
+**Speaking:** Bilirakis, Gus M. (B001257) [R-FL]
+
+```
+                    RECOGNIZING NURSE JESSICA PALMER
+
+                                 ______
+                                 
+
+                         HON. GUS M. BILIRAKIS
+
+                               of florida
+
+                    in the house of representatives
+
+                       Wednesday, March 25, 2026
+
+  Mr. BILIRAKIS. Mr. Speaker, I rise today to recognize one of my 
+outstanding constituents, Nurse Jessica Palmer, a dedicated registered 
+nurse whose skill, warmth, and dependability enrich our community 
+through her volunteer work at the Free Senior Health Clinic.
+  Nurse Palmer volunteers her time with remarkable consistency and a 
+joyful spirit, ensuring that every patient she sees feels seen, heard, 
+and understood. A bright and compassionate professional, she brings 
+both expertise and empathy to every encounter, providing care that is 
+thorough, insightful, and deeply reassuring. The volunteer physicians 
+with whom she works value her diligence, professionalism, and 
+commitment to gathering the information necessary to guide the best 
+possible patient care.
+  For her unwavering dedication, compassionate heart, and meaningful 
+impact on our community, I am proud to recognize Nurse Palmer as a 2026 
+Hero Among Us. I ask my colleagues to join me in honoring her 
+exceptional commitment, her remarkable skill, and the lasting, positive 
+influence she has on the lives of the patients she serves.
+
+                          ____________________
+```
