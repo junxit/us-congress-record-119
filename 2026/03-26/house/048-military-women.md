@@ -1,0 +1,39 @@
+---
+granule: CREC-2026-03-26-pt1-PgH2754
+date: 2026-03-26
+edition: CREC
+section: HOUSE
+page: H2754
+citation: 172 Cong. Rec. H2754
+---
+
+# MILITARY WOMEN
+
+**Speaking:** Latimer, George (L000606) [D-NY]
+
+```
+                             MILITARY WOMEN
+
+  (Mr. LATIMER asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. LATIMER. Mr. Speaker, since getting into office, Donald Trump and 
+Pete Hegseth have actively tried to undermine the brave women who 
+answer the call to service and joined the United States military.
+  When Pete Hegseth took office, six women, leaders at the highest 
+levels of our Armed Forces, were forced out of their positions. They 
+were not minor roles. These women were generals, captains, admirals, 
+and commandants who earned their rank through decades of service and 
+sacrifice, yet they were removed because Pete Hegseth couldn't accept 
+women holding the same authority and responsibility as their male 
+counterparts.
+  Additionally, executive orders were put into place to change 
+standards such as physical evaluations, harassment reporting, and equal 
+employment regulations.
+  At a time when military enrollment is at an all-time low, Trump and 
+Hegseth are doing everything in their power to make it even harder for 
+half of our population to serve and protect the country they love.
+  We salute and praise the women who show their love of country by 
+serving in the United States military.
+
+                          ____________________
+```

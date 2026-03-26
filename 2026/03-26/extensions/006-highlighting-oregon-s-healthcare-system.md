@@ -1,0 +1,55 @@
+---
+granule: CREC-2026-03-26-pt1-PgE274
+date: 2026-03-26
+edition: CREC
+section: EXTENSIONS
+page: E274
+citation: 172 Cong. Rec. E274
+---
+
+# HIGHLIGHTING OREGON'S HEALTHCARE SYSTEM
+
+**Speaking:** Hoyle, Val T. (H001094) [D-OR]
+
+```
+                HIGHLIGHTING OREGON'S HEALTHCARE SYSTEM
+
+                                 ______
+                                 
+
+                           HON. VAL T. HOYLE
+
+                               of oregon
+
+                    in the house of representatives
+
+                        Thursday, March 26, 2026
+
+  Ms. HOYLE of Oregon. Mr. Speaker, after 35 years PeaceHealth 
+Hospital, the only level 2 trauma center between Corvallis, Oregon and 
+Crescent City, California, abruptly ended its contract without the 
+local emergency room staffing and the group of Eugene Emergency 
+Physicians.
+  With little notice and significant local opposition, PeaceHealth has 
+awarded the contract to a Georgia based management and medical staffing 
+firm. Beyond losing locally based physicians who have met or exceeded 
+performance standards in a hospital that has refused to address the 
+lack of adequate patient care rooms, Apollo group appears to be a shell 
+company set up to get around Oregon's ban against corporate practices 
+in medicine law.
+  Apollo group bills itself as ``physician owned'', however their 
+office houses around 40 ``local'' groups in Atlanta which is also 
+housed in the same office as Valor Bridge, a venture capital fund 
+managed by the same person who manages the Apollo staffing firm. When 
+my office asked PeaceHealth CEO Jim McGovern about this obvious 
+conflict he said--and I quote--``that's just a side hustle. A side 
+hustle.''
+  Allowing venture capital firms and hedge funds to siphon off money 
+from our healthcare systems instead of providing quality, affordable 
+and appropriate care to our communities is what's wrong with our 
+healthcare system. We need to follow Oregon's lead and make this 
+practice illegal. And I assure you, we will fight to keep local 
+providers caring for our community.
+
+                          ____________________
+```
