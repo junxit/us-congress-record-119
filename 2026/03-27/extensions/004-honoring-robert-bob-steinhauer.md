@@ -1,0 +1,70 @@
+---
+granule: CREC-2026-03-27-pt1-PgE279-5
+date: 2026-03-27
+edition: CREC
+section: EXTENSIONS
+page: E279
+citation: 172 Cong. Rec. E279
+---
+
+# HONORING ROBERT "BOB" STEINHAUER
+
+**Speaking:** Thompson, Mike (T000460) [D-CA]
+
+```
+                   HONORING ROBERT ``BOB'' STEINHAUER
+
+                                 ______
+                                 
+
+                           HON. MIKE THOMPSON
+
+                             of california
+
+                    in the house of representatives
+
+                         Friday, March 27, 2026
+
+  Mr. THOMPSON of California. Mr. Speaker, I rise today to honor the 
+life and contributions of Robert ``Bob'' Steinhauer in recognition of 
+his extraordinary contributions to Napa Valley viticulture and our 
+greater wine community.
+  Bob Steinhauer was widely regarded as one of the most influential 
+viticulturists of his generation. Intellectually rigorous and deeply 
+curious, he challenged conventional thinking and helped shape the 
+direction of viticultural research statewide, often being the first to 
+apply new science in the field.
+  Bob earned his Bachelor of Science in Viticulture in 1965 and his 
+Masters in Plant Science in 1969 from California State University, 
+Fresno, He was among the first students to complete the newly created 
+viticulture degree, developed by Professor Vince Petrucci. Bob was 
+instrumental in raising funds for the establishment of Fresno State's 
+Vincent E. Petrucci Library.
+  A gifted storyteller and ``force of nature,'' Bob possessed an 
+encyclopedic knowledge of Napa Valley vineyards and elevated 
+viticulture into the modern profession of winegrowing. Bob served as 
+Vice President of Viticulture and Grower Relations at Beringer 
+Vineyards, where he worked for 25 years. His decades of leadership, 
+mentorship. and service to organizations in our wine community left a 
+lasting impact on generations of growers and winemakers including the 
+Napa Valley Grapegrowers, the Napa County Farm Bureau, the Winegrowers 
+of Napa County, the Napa Valley Vintners, and the American Vineyard 
+Foundation. Statewide. he was engaged with American Society for Enology 
+and Viticulture, California Association of Winegrape Growers, and the 
+Wine Institute. Nicknamed ``Tasmanian Devil'' for his energetic style, 
+he paired intensity with genuine respect for people, advocating for 
+fair wages, health insurance, and pension benefits for vineyard workers 
+he viewed as essential partners in crafting great wines.
+
+[[Page E280]]
+
+  Bob is survived by his wife of 57 years, Verna Grimm Steinhauer, his 
+children, Erik John Steinhauer (Audrey) and Anne Christine Steinhauer: 
+his granddaughter, Parker Gayle Steinhauer; and his cousin, Leonard 
+Hoskins.
+  Mr. Speaker, we thank Bob Steinhauer for his dedicated service to our 
+community, Therefore, it is fitting and proper that we honor him here 
+today.
+
+                          ____________________
+```

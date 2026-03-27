@@ -1,0 +1,78 @@
+---
+granule: CREC-2026-03-27-pt1-PgE280-5
+date: 2026-03-27
+edition: CREC
+section: EXTENSIONS
+page: E280
+citation: 172 Cong. Rec. E280
+---
+
+# HONORING THE LIFE AND LEGACY OF PASTOR WILLIAM O'NEILL McCURDY, SR.
+
+**Speaking:** Horsford, Steven (H001066) [D-NV]
+
+```
+  HONORING THE LIFE AND LEGACY OF PASTOR WILLIAM O'NEILL McCURDY, SR.
+
+                                 ______
+                                 
+
+                          HON. STEVEN HORSFORD
+
+                               of nevada
+
+                    in the house of representatives
+
+                         Friday, March 27, 2026
+
+  Mr. HORSFORD. Mr. Speaker, I rise today to honor the life and legacy 
+of a remarkable community leader, devoted public servant, and proud son 
+of Nevada, Pastor William O'Neill McCurdy, Sr.
+
+[[Page E281]]
+
+  Raised in the Historic Westside of Las Vegas, Pastor McCurdy was a 
+proud product of the city he would dedicate his life to serving. He 
+graduated from Valley High School and later attended Western Nevada 
+College in Carson City.
+  Pastor McCurdy's commitment to service began early and was rooted 
+deeply in his faith. In 1978, he began serving as a pastor, guiding 
+congregations with compassion, wisdom, and a steadfast commitment to 
+uplifting those in need. Through his ministry, he counseled families, 
+mentored young people, and helped countless members of the community 
+find hope.
+  Beyond the pulpit, Pastor McCurdy was deeply engaged in civic life. 
+Over the years, he served on numerous boards and advisory bodies that 
+helped shape Southern Nevada's growth and development. His leadership 
+included service on the Citizens' Advisory Committee for the Regional 
+Transportation Commission, the board of Habitat for Humanity, the 
+Mineral County Economic Advisory Committee, the City of Las Vegas 
+Community Block Grant Advisory Board, and the Southern Nevada Regional 
+Housing Authority Commission. Through these roles, he helped advance 
+policies that expanded opportunity, strengthened neighborhoods, and 
+supported working families throughout the region.
+  Moreover, Pastor McCurdy was a respected strategist and 
+communications professional. Through his work with McCurdy & McCurdy 
+Media Group, he helped countless public servants share their vision and 
+encouraged community members to engage in the democratic process. His 
+work empowered new voices and helped build a more representative 
+political system throughout the Silver State.
+  Yet those who knew him best remember not only his professional 
+accomplishments, but his generosity of spirit. Pastor McCurdy was 
+devoted to his wife, Ms. Billy McCurdy, and was a proud father, 
+grandfather, and great-grandfather. He also dedicated numerous years of 
+service to the Church of God in Christ, Inc., as the First 
+Administrative Assistant for Nevada's First Ecclesiastical 
+Jurisdiction. He was a mentor, a teacher, and a steady voice of wisdom 
+for many who sought his guidance. Pastor McCurdy believed that 
+leadership meant showing up for your community through listening, 
+advocating, and working every day to make life better for others.
+  Mr. Speaker, Pastor McCurdy leaves behind a lasting imprint on the 
+City of Las Vegas and the State of Nevada. His life reminds us that 
+meaningful change often begins in community--with individuals who care 
+deeply about their neighbors and are willing to dedicate themselves to 
+public service. May we continue to honor his life and celebrate his 
+legacy. I extend sincerest condolences for a life well lived.
+
+                          ____________________
+```

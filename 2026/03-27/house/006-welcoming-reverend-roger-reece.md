@@ -1,0 +1,41 @@
+---
+granule: CREC-2026-03-27-pt1-PgH2781-5
+date: 2026-03-27
+edition: CREC
+section: HOUSE
+page: H2781
+citation: 172 Cong. Rec. H2781
+---
+
+# WELCOMING REVEREND ROGER REECE
+
+**Speaking:** Stutzman, Marlin A. (S001188) [R-IN]
+
+```
+                     WELCOMING REVEREND ROGER REECE
+
+  The SPEAKER. Without objection, Mr. Stutzman of Indiana is recognized 
+for 1 minute.
+  There was no objection.
+  Mr. STUTZMAN. Mr. Speaker, I rise today to welcome today's guest 
+chaplain, my friend Roger Reece.
+  Roger is a faith-driven leader, an Army veteran, and a longtime 
+nonprofit executive.
+  Roger has faithfully served as executive director of the Associated 
+Churches of Fort Wayne and Allen County for over 16 years. He has 
+guided the organization through significant growth and expanded its 
+impact across our community. He is equipped with a strong theological 
+foundation from both Purdue University and the Methodist Theological 
+School of Ohio.
+  Roger has served in a variety of roles, including parish pastor, city 
+manager, and Army chaplain, with distinguished service in the 82nd 
+Airborne Division.
+  Through his leadership, Roger has fostered collaboration across 
+congregations, nonprofits, and civic institutions to better serve the 
+most vulnerable in northeast Indiana.
+  I thank Roger for today's opening prayer and wish him continued 
+blessings in his work serving others across the Hoosier State.
+  May God bless him.
+
+                          ____________________
+```
