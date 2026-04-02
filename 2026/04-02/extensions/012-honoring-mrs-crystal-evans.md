@@ -1,0 +1,73 @@
+---
+granule: CREC-2026-04-02-pt1-PgE299-4
+date: 2026-04-02
+edition: CREC
+section: EXTENSIONS
+page: E299
+citation: 172 Cong. Rec. E299
+---
+
+# HONORING MRS. CRYSTAL EVANS
+
+**Speaking:** Thompson, Bennie G. (T000193) [D-MS]
+
+```
+                      HONORING MRS. CRYSTAL EVANS
+
+                                 ______
+                                 
+
+                        HON. BENNIE G. THOMPSON
+
+                             of mississippi
+
+                    in the house of representatives
+
+                        Thursday, April 2, 2026
+
+  Mr. THOMPSON of Mississippi. Mr. Speaker, I rise today to honor Mrs. 
+Crystal Evans.
+  Crystal Evans resides in Crenshaw, Mississippi, with her husband, 
+Joeseph. She currently serves as an Alderwoman for the town of Crenshaw 
+and is in her second elected term, where she works collaboratively with 
+the Mayor and Board of Aldermen to advance the town's vision as a 
+``Small Town with Big Dreams.''
+
+[[Page E300]]
+
+  Crystal earned her Bachelor of Social Work from the University of 
+Mississippi and later obtained her master's degree from the University 
+of New England. Following her graduation in 2015, she began her 
+professional career at Region One Mental Health Center, where she 
+served Quitman, Coahoma, and Tallahatchie counties as a Co-Occurring 
+Disorder Specialist.
+  Driven by a strong commitment to community engagement and public 
+service, Crystal later joined Health Connect America as a Mental Health 
+Therapist. Her dedication to client advocacy, clinical excellence, and 
+leadership development led to her appointment as Clinical Supervisor at 
+Health Connect America in Senatobia, Mississippi, where she currently 
+works. In this role, she provides clinical oversight, supervision, and 
+support to ensure quality mental-health services for individuals and 
+families across the region.
+  Crystal is deeply passionate about advocating for others, 
+particularly vulnerable and underserved populations. Her civic service 
+is grounded in her belief in listening to understand and acting with 
+purpose and integrity. Through her work as an Alderwoman, she has 
+focused on fostering growth, positive change, accountability, and 
+resilience within the Crenshaw community.
+  Faith and service are central to Crystal's life. She is an active 
+member of Pleasant Grove Missionary Baptist Church, where she serves as 
+a choir member, conference call coordinator, deaconess, Bible class 
+facilitator, and director of the Mental Health Ministry.
+  Crystal was initiated into Zeta Phi Beta Sorority, Incorporated, 
+Upsilon Tau Zeta Chapter, on December 16, 2017. Through Zeta's 
+principles, she has strengthened her commitment to sisterhood, service, 
+leadership, and community engagement.
+  Crystal remains dedicated to building stronger communities through 
+ethical leadership, and compassionate service, and a steadfast 
+commitment to progress.
+  Mr. Speaker, I ask my colleagues to join me in recognizing Mrs. 
+Crystal Evans for her dedication in serving her community.
+
+                          ____________________
+```

@@ -1,0 +1,63 @@
+---
+granule: CREC-2026-04-02-pt1-PgE297-5
+date: 2026-04-02
+edition: CREC
+section: EXTENSIONS
+page: E297
+citation: 172 Cong. Rec. E297
+---
+
+# HONORING THE SERVICE OF JOHN A. BURGH
+
+**Speaking:** DeSaulnier, Mark (D000623) [D-CA]
+
+```
+                 HONORING THE SERVICE OF JOHN A. BURGH
+
+                                 ______
+                                 
+
+                          HON. MARK DeSAULNIER
+
+                             of california
+
+                    in the house of representatives
+
+                        Thursday, April 2, 2026
+
+  Mr. DeSAULNIER. Mr. Speaker, I rise today to recognize and honor the 
+public service of John A. Burgh from the Contra Costa Water District 
+Board of Directors after 22 years of dedicated service on behalf of 
+residents of Contra Costa County.
+  John was appointed to the Contra Costa Water District in 2004, 
+representing Division 2,
+
+[[Page E298]]
+
+which includes Martinez, Pleasant Hill, Port Costa, and part of 
+Concord. Throughout his tenure, he has provided critical leadership on 
+numerous committees, including the Public Information & Conservation, 
+Operations & Engineering, Finance, and the Retirement & OPEB Joint 
+Advisory Committees. John currently serves as Chair of the Public 
+Information & Conservation Committee.
+  As a retired engineer, John brought vital expertise to the Board, 
+drawing on 42 years of experience working on water and wastewater 
+projects throughout the world. Further, he has worked for an 
+environmental engineering consulting firm for the last years 30 years, 
+retiring from the firm as Vice President. John's wealth of knowledge 
+has provided him with the tools necessary to guide the district as it 
+prioritized regional collaboration, transparency in spending, and 
+making evidence-based decisions that will benefit customers for 
+generations to come.
+  Additionally, as a Concord resident for over 35 years, John has 
+worked tirelessly to give back to our community and our country. He is 
+a past President of the Contra Costa County Historical Society, a 
+member of the Pleasant Hill Rotary Club and is a volunteer driver for 
+Meals on Wheels, delivering meals to senior citizens. John is also an 
+Air Force veteran, serving our Nation with honor.
+  Please join me in thanking Director John A. Burgh for his dedicated 
+service on the Contra Costa Water District Board and his steadfast 
+commitment to our community and country.
+
+                          ____________________
+```

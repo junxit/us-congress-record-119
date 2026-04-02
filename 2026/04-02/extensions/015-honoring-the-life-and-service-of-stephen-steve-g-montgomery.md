@@ -1,0 +1,46 @@
+---
+granule: CREC-2026-04-02-pt1-PgE300-3
+date: 2026-04-02
+edition: CREC
+section: EXTENSIONS
+page: E300
+citation: 172 Cong. Rec. E300
+---
+
+# HONORING THE LIFE AND SERVICE OF STEPHEN "STEVE" G. MONTGOMERY
+
+```
+    HONORING THE LIFE AND SERVICE OF STEPHEN ``STEVE'' G. MONTGOMERY
+
+                                 ______
+                                 
+
+                          HON. MARK DeSAULNIER
+
+                             of california
+
+                    in the house of representatives
+
+                        Thursday, April 2, 2026
+
+  Mr. DeSaulnier. Mr. Speaker, I rise today to recognize the life and 
+service of Stephen ``Steve'' G. Montgomery.
+  Steve was an Orinda resident for 65 years and a third generation Bay 
+Area resident. He dedicated his life to spreading joy and sharing his 
+love for food with our community. He began his career in the restaurant 
+industry working as a busboy in Lightners Cafe in Orinda, where he 
+first learned the principles of providing outstanding customer service. 
+He went on to work at Scott's Seafood and Zza's Trattoria, but his most 
+fulfilling professional chapter came when he began working at Italian 
+Colors in Montclair. Here, Steve and his partner Alan cultivated a 
+space for the community to gather, laugh together, and enjoy delicious, 
+high-quality food. Steve took the time to get to know his regulars, 
+knowing not just their favorite dishes or seating preferences, but also 
+about their families and their lives.
+  Steve is survived by his brothers Rob and Ron; his nieces Ashleigh 
+(Adi) and Alicia (Caroline); his godson Dylan; his nephews Jeffrey 
+(Joycelyn) and James; and his sister in law Julietta.
+  Steve will be remembered for his kindness. hospitality, and great 
+sense of humor. Please join me in recognizing Stephen G. Montgomery for 
+his many contributions to our community.
+```
