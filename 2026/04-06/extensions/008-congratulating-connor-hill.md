@@ -1,0 +1,48 @@
+---
+granule: CREC-2026-04-06-pt1-PgE302-4
+date: 2026-04-06
+edition: CREC
+section: EXTENSIONS
+page: E302
+citation: 172 Cong. Rec. E302
+---
+
+# CONGRATULATING CONNOR HILL
+
+**Speaking:** Thompson, Glenn (T000467) [R-PA]
+
+```
+                       CONGRATULATING CONNOR HILL
+
+                                 ______
+                                 
+
+                          HON. GLENN THOMPSON
+
+                            of pennsylvania
+
+                    in the house of representatives
+
+                         Monday, April 6, 2026
+
+  Mr. THOMPSON of Pennsylvania. Mr. Speaker, I rise today to recognize 
+Connor Hill of Port Matilda, Pennsylvania. Connor recently won the 
+Regeneron Science Talent Search competition.
+  The Regeneron Science Talent Search is one of the oldest math and 
+science competitions in our nation. Each year, high school seniors 
+across the country are invited to compete.
+  For 84 years, this competition has inspired students to address 
+global issues. Connor is a senior at Delta High School in State 
+College, Pennsylvania. He was among the 40 finalists who were invited 
+to Washington, D.C. earlier this month to present their final projects. 
+The 40 finalists received more than $1.8 million in awards. Connor 
+received the top award of $250,000 dollars.
+  Connor's research solved a long-standing mathematical mystery by 
+identifying every possible ``noble polyhedron.'' This is a shape where 
+every face and corner is identical. Connor created a computer program 
+to analyze how these shapes can exist. He discovered 146 unique 
+examples.
+  Congratulations to Connor on this amazing accomplishment.
+
+                          ____________________
+```
