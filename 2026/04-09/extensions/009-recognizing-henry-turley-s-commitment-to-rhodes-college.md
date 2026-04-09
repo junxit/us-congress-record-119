@@ -1,0 +1,48 @@
+---
+granule: CREC-2026-04-09-pt1-PgE307-3
+date: 2026-04-09
+edition: CREC
+section: EXTENSIONS
+page: E307
+citation: 172 Cong. Rec. E307
+---
+
+# RECOGNIZING HENRY TURLEY'S COMMITMENT TO RHODES COLLEGE
+
+**Speaking:** Cohen, Steve (C001068) [D-TN]
+
+```
+        RECOGNIZING HENRY TURLEY'S COMMITMENT TO RHODES COLLEGE
+
+                                 ______
+                                 
+
+                            HON. STEVE COHEN
+
+                              of tennessee
+
+                    in the house of representatives
+
+                        Thursday, April 9, 2026
+
+  Mr. COHEN. Mr. Speaker, I rise today to recognize my friend Henry 
+Turley and specifically commend his dedication to Rhodes College, which 
+is recognizing its 100th year in Memphis and showcasing Mr. Turley's 
+commitment to its continued excellence.
+  Henry and his late wife, Lynne, created the Turley Memphis Center for 
+Community Engagement, conceived in 2012 as a hub for the college's 
+community outreach programs and formalized as the Lynne and Henry 
+Turley Center in 2018. They recognized Rhodes' commitment to Memphis 
+and its neighbors and wanted its students to be involved in Memphis and 
+its ongoing progress. Rhodes is now recognized nationally as one of the 
+finest examples of a college committed to its community. The center has 
+also sponsored guest lectures with nationally recognized experts and 
+hosted a series of community events. That work will be celebrated at an 
+April 15th Lawn Party with friends, community partners and alumni.
+  Henry Turley's remarkable contributions to his community are 
+extraordinary and his work with Rhodes will be remembered for 
+generations. I congratulate my friend for this much-deserved 
+recognition and appreciate his continued support and thoughtfulness.
+
+                          ____________________
+```

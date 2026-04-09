@@ -1,0 +1,48 @@
+---
+granule: CREC-2026-04-09-pt1-PgE307-2
+date: 2026-04-09
+edition: CREC
+section: EXTENSIONS
+page: E307
+citation: 172 Cong. Rec. E307
+---
+
+# HONORING THE HARDIN COUNTY CHAMBER AND BUSINESS ALLIANCE 2026 AWARDS WINNERS
+
+**Speaking:** Jordan, Jim (J000289) [R-OH]
+
+```
+ HONORING THE HARDIN COUNTY CHAMBER AND BUSINESS ALLIANCE 2026 AWARDS 
+                                WINNERS
+
+                                 ______
+                                 
+
+                            HON. JIM JORDAN
+
+                                of ohio
+
+                    in the house of representatives
+
+                        Thursday, April 9, 2026
+
+  Mr. JORDAN. Mr. Speaker, the Hardin County Chamber and Business 
+Alliance will hold its 2026 awards banquet and gala on Thursday, April 
+16, 2026, on the Ohio Northern University campus in Ada, Ohio. I 
+commend to the House and include in the Record this year's honorees:
+
+       Business of the Year: Scooter's Coffee
+       Small Business of the Year: Stillwater Metal LLC
+       Non-Profit of the Year: Hardin Leadership, Inc.
+       Community Service Award: Ohio Northern University Office of 
+     Admissions
+       Citizen of the Year: Sarah Johnson
+       R. E. Allen Lifetime Achievement Award: Stephen McCullough
+
+  On behalf of the people of Ohio's 4th Congressional District, I am 
+pleased to join in the accolades for these distinguished professionals 
+and thank them for their dedication to making Hardin County a great 
+place to live and work.
+
+                          ____________________
+```
