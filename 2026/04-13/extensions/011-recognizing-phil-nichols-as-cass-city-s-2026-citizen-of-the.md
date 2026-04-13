@@ -1,0 +1,58 @@
+---
+granule: CREC-2026-04-13-pt1-PgE315-3
+date: 2026-04-13
+edition: CREC
+section: EXTENSIONS
+page: E315
+citation: 172 Cong. Rec. E315
+---
+
+# RECOGNIZING PHIL NICHOLS AS CASS CITY'S 2026 CITIZEN OF THE YEAR
+
+**Speaking:** McClain, Lisa C. (M001136) [R-MI]
+
+```
+    RECOGNIZING PHIL NICHOLS AS CASS CITY'S 2026 CITIZEN OF THE YEAR
+
+                                  _____
+                                 
+
+                          HON. LISA C. McCLAIN
+
+                              of michigan
+
+                    in the house of representatives
+
+                         Monday, April 13, 2026
+
+  Mrs. McCLAIN. Mr. Speaker, I rise today to honor an extraordinary 
+member of the Cass City community, Phil Nichols, as the recipient of 
+the Cass City 2026 Citizen of the Year Award. His leadership, 
+dedication, and lifelong commitment to service have made a profound and 
+lasting impact on our community.
+  Phil has devoted much of his life to mentoring and supporting the 
+youth of Cass City, encouraging their growth, achievements, and 
+involvement in community service. Through his guidance and example, he 
+has inspired young people to reach their potential and contribute 
+meaningfully to the community around them.
+  In addition to his work with youth, Phil has been actively involved 
+in numerous community and service organizations, helping strengthen 
+these institutions through his reliability, leadership, and selfless 
+dedication.
+  Phil's character has also been shaped by a lifetime of service, 
+including honorable military duty beginning in 1968. During nineteen 
+months of service, he demonstrated extraordinary courage and 
+patriotism, earning distinguished honors such as the Bronze Star and 
+the Purple Heart. Even beyond his military service, Phil has continued 
+to serve his community through volunteerism, mentorship, and 
+leadership, embodying the spirit of servant leadership.
+  Above all, Phil's contributions reflect a life devoted to helping 
+others, strengthening Cass City, and setting an example of integrity, 
+generosity, and commitment.
+  Mr. Speaker, I ask my colleagues to join me in recognizing Phil 
+Nichols for his exceptional contributions to the Cass City community. 
+His leadership, character, and dedication set a standard for all, and 
+his legacy of service will continue to inspire generatIons to come.
+
+                          ____________________
+```

@@ -1,0 +1,69 @@
+---
+granule: CREC-2026-04-13-pt1-PgE313-3
+date: 2026-04-13
+edition: CREC
+section: EXTENSIONS
+page: E313
+citation: 172 Cong. Rec. E313
+---
+
+# RECOGNIZING MR. ARTHUR J. "ART" FUXAN, JR.
+
+**Speaking:** Bilirakis, Gus M. (B001257) [R-FL]
+
+```
+              RECOGNIZING MR. ARTHUR J. ``ART'' FUXAN, JR.
+
+
+
+ =========================== NOTE =========================== 
+
+  
+  On April 13, 2026, page E313, in the second column, the 
+following appeared: ``ART'' FUXUN, JR.
+  
+  The online version has been corrected to read: ``ART'' FUXAN, 
+JR.
+
+
+ ========================= END NOTE ========================= 
+
+
+                                  _____
+                                 
+
+                         HON. GUS M. BILIRAKIS
+
+                               of florida
+
+                    in the house of representatives
+
+                         Monday, April 13, 2026
+
+  Mr. BILIRAKIS. Mr. Speaker, I rise today to recognize and celebrate 
+an extraordinary American, Mr. Arthur J. ``Art'' Fuxan, Jr., on the 
+occasion of his 100th birthday. His century of life reflects faith, 
+service, devotion to family, and an enduring love of country. Born in 
+New Orleans as the eldest of ten children, Art faced hardship early, 
+helping raise his siblings after the loss of his mother while working 
+to support his family. In 1944, at just 18, he enlisted in the Army Air 
+Corps during World War II, serving as a Radio Operator Mechanic and Air 
+Crewman in Guam, where he worked on B-29 aircraft and volunteered for a 
+mission preparing for the invasion of Japan.
+  During his service, Art maintained a devoted correspondence with his 
+future wife, Pat. They married in 1949, raised four children, and built 
+a life grounded in faith and community, blessed with generations of 
+descendants.
+  After the war, Art earned a business degree from Loyola University 
+through the G.I. Bill and went on to a successful career in sales and 
+industrial engineering. He also dedicated himself to service as an 
+Eagle Scout, Scoutmaster, Eucharistic Minister, and Knight of Columbus. 
+Art showed remarkable devotion caring for his wife during her battle 
+with Alzheimer's and has continued to live a life of faith and 
+fellowship. Even at 100, he remains an inspiration to all who know him.
+  Mr. Fuxan embodies the very best of the Greatest Generation. I ask my 
+colleagues to join me in honoring his lifetime of service and wishing 
+him continued health and happiness on this extraordinary milestone.
+
+                          ____________________
+```
