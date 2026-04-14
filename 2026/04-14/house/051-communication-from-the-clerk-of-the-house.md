@@ -1,0 +1,74 @@
+---
+granule: CREC-2026-04-14-pt1-PgH2874-5
+date: 2026-04-14
+edition: CREC
+section: HOUSE
+page: H2874
+citation: 172 Cong. Rec. H2874
+---
+
+# COMMUNICATION FROM THE CLERK OF THE HOUSE
+
+```
+               COMMUNICATION FROM THE CLERK OF THE HOUSE
+
+  The SPEAKER laid before the House the following communication from 
+the Clerk of the House of Representatives:
+
+                                              Office of the Clerk,
+
+
+                                     House of Representatives,
+
+                                    Washington, DC, April 9, 2026.
+     Hon. Mike Johnson,
+     Speaker, House of Representatives,
+     Washington, DC.
+       Dear Mr. Speaker: I have the honor to transmit herewith a 
+     copy of a letter received from Mr. J. Blake Evans, Elections 
+     Director, with the Georgia Office of the Secretary of State 
+     indicating that, according to the unofficial results for the 
+     Special General Election held on April 7, 2026, the Honorable 
+     Clay Fuller was elected Representative to Congress for the 
+     Fourteenth Congressional District of Georgia.
+       With best wishes, I am,
+           Sincerely,
+                                                Kevin F. McCumber,
+                                                            Clerk.
+       Enclosure.
+                                  ____
+
+                                                 State of Georgia,
+
+
+                                 Office of Secretary of State,
+
+                                       Atlanta, GA, April 9, 2026.
+     Hon. Kevin F. McCumber,
+     Clerk, House of Representatives,
+     Washington, DC.
+       Dear Mr. McCumber: This is to advise you that the 
+     unofficial results of the Special Runoff Election held on 
+     Tuesday, April 7,
+
+[[Page H2875]]
+
+     2026, for Representative in Congress from the Fourteenth 
+     Congressional District of Georgia, show that Clay Fuller 
+     received a total of 72,304 votes or 55.9% of the votes cast 
+     for that office.
+       It would appear from these unofficial results that Clay 
+     Fuller was elected as Representative in Congress from the 
+     Fourteenth Congressional District of Georgia. To the best of 
+     our knowledge and belief at this time, there is no contest to 
+     this election.
+       As soon as the official results are certified to this 
+     office by all jurisdictions involved, an official Certificate 
+     of Election will be prepared for transmittal as required by 
+     law.
+           Best,
+                                                   J. Blake Evans,
+     Elections Director.
+
+                          ____________________
+```
