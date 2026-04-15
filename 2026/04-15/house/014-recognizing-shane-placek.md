@@ -1,0 +1,40 @@
+---
+granule: CREC-2026-04-15-pt1-PgH2890-4
+date: 2026-04-15
+edition: CREC
+section: HOUSE
+page: H2890
+citation: 172 Cong. Rec. H2890
+---
+
+# RECOGNIZING SHANE PLACEK
+
+**Speaking:** Flood, Mike (F000474) [R-NE]
+
+```
+                              {time}  1010
+                        RECOGNIZING SHANE PLACEK
+
+  (Mr. FLOOD asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. FLOOD. Mr. Speaker, I rise today to recognize an often overlooked 
+segment of our Nation's legal profession: rural lawyers.
+  Across the First District and in communities throughout our State, 
+rural lawyers represent the very best of the profession: selfless 
+service and meaningful local impact.
+  Today, I recognize the outstanding career of Shane Placek of Fremont. 
+While Shane practices in a range of areas, he has earned particular 
+respect among his peers for his work in domestic law. Shane's skill and 
+tenacity are deeply appreciated by his clients and respected by judges, 
+and even the counsel on the other side appreciates him. His thorough 
+preparation, professionalism, and record of success demonstrate his 
+unwavering dedication to families navigating difficult times.
+  A proud son of Fremont, Shane returned to his hometown after earning 
+his J.D. from the University of Minnesota, choosing to serve the very 
+community that shaped him.
+  It is a privilege to recognize Shane's distinguished career, which 
+reflects the hard work, integrity, and grit that define rural lawyers 
+across our State.
+
+                          ____________________
+```
