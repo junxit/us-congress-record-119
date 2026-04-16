@@ -1,0 +1,51 @@
+---
+granule: CREC-2026-04-16-pt1-PgE338-2
+date: 2026-04-16
+edition: CREC
+section: EXTENSIONS
+page: E338
+citation: 172 Cong. Rec. E338
+---
+
+# HONORING MR. VINCE SMITHERS FOR OVER 40 YEARS OF SERVICE
+
+**Speaking:** Vindman, Eugene Simon (V000138) [D-VA]
+
+```
+        HONORING MR. VINCE SMITHERS FOR OVER 40 YEARS OF SERVICE
+
+                                 ______
+                                 
+
+                       HON. EUGENE SIMON VINDMAN
+
+                              of virginia
+
+                    in the house of representatives
+
+                        Thursday, April 16, 2026
+
+  Mr. VINDMAN. Mr. Speaker, I rise today to honor Mr. Vince Smithers on 
+his 40 years of federal service.
+  Throughout his career, including at the Office of Personnel 
+Management within the Healthcare and Insurance arena--Mr. Smithers has 
+exemplified professionalism, integrity, and an unwavering commitment to 
+those around him. As a federal warrant holder, he carried out his 
+responsibilities with the highest ethical standards, playing a critical 
+role in supporting the Federal Employees Health Benefits Program, one 
+of the largest employer sponsored health programs in the Nation.
+  Though he is known for his quiet demeanor, Mr. Smithers' presence has 
+a way of uplifting every room he enters, his colleagues describe him as 
+a true team player--thoughtful, kind, and dedicated to fostering a 
+healthy work-life balance within the workplace.
+  I want to personally thank Mr. Smithers for the outstanding impact he 
+has had on his colleagues, his workplace, and the many individuals he 
+has served over the past four decades. His leadership and expertise 
+reflect the very best of public service.
+  Mr. Speaker, I ask my colleagues to join me in recognizing Mr. Vince 
+Smithers, honoring his service and the difference he has made in our 
+communities. I wish him all the best in his well-earned retirement and 
+in the years ahead.
+
+                          ____________________
+```

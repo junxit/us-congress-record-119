@@ -1,0 +1,53 @@
+---
+granule: CREC-2026-04-16-pt1-PgE336
+date: 2026-04-16
+edition: CREC
+section: EXTENSIONS
+page: E336
+citation: 172 Cong. Rec. E336
+---
+
+# CELEBRATING THE 175TH ANNIVERSARY OF THE MARILLA COUNTRY STORE
+
+**Speaking:** Langworthy, Nicholas A. (L000600) [R-NY]
+
+```
+     CELEBRATING THE 175TH ANNIVERSARY OF THE MARILLA COUNTRY STORE
+
+                                 ______
+                                 
+
+                      HON. NICHOLAS A. LANGWORTHY
+
+                              of new york
+
+                    in the house of representatives
+
+                        Thursday, April 16, 2026
+
+  Mr. LANGWORTHY. Mr. Speaker, I rise today to celebrate the 175th 
+anniversary of the Marilla Country Store, an institution that has truly 
+stood the test of time.
+  Since opening its doors in 1851, this store has remained a constant 
+in a world of change. Through generations, through wars, economic 
+hardship, and even global pandemics, it has never once closed, serving 
+as a steadfast presence in the heart of Marilla, New York and a symbol 
+of resilience across Western New York.
+  But what makes this place truly special is not just its age, it's the 
+people. For 175 years, only a handful of families have carried this 
+store forward, preserving its character, its traditions, and its deep 
+connection to the community. Today, that legacy continues under the 
+leadership of Sandy Gingerich Grunzweig, whose family roots run deep in 
+Marilla and whose commitment ensures the store remains a proud pillar 
+of the community.
+  The Marilla Country Store is more than a business--it is a gathering 
+place, a living museum, and a testament to what endures when community, 
+family, and tradition come together.
+  As we celebrate 175 years, we honor not just the past, but the 
+generations who will carry this legacy forward.
+  Mr. Speaker, I ask my colleagues to join me in recognizing the 
+Marilla Country Store for its lasting legacy, and in celebrating the 
+Grunzweig family as they carry this success long into the future.
+
+                          ____________________
+```
