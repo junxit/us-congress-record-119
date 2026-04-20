@@ -1,0 +1,42 @@
+---
+granule: CREC-2026-04-20-pt1-PgH2984
+date: 2026-04-20
+edition: CREC
+section: HOUSE
+page: H2984
+citation: 172 Cong. Rec. H2984
+---
+
+# HUNGARIAN ELECTIONS
+
+**Speaking:** Kaptur, Marcy (K000009) [D-OH]
+
+```
+                          HUNGARIAN ELECTIONS
+
+  (Ms. KAPTUR asked and was given permission to address the House for 1 
+minute and to revise and extend her remarks.)
+  Ms. KAPTUR. Mr. Speaker, I rise today to recognize the victory in the 
+fight for liberty on the continent of Europe, our closest tested 
+allies.
+  Earlier this month, the people of Hungary voted in record numbers to 
+end the repressive rule of its former Russia-leaning Prime Minister.
+  As co-chair of the Congressional Hungarian Caucus, I cheered with 
+Hungarian Americans and just was thrilled at the victory of liberty in 
+Hungary in the person of its new Prime Minister Peter Magyar.
+  For 16 years, Hungarians endured a cadre of kleptocrats that 
+plundered their country and sold it out to the interests of Russian 
+dictator Vladimir Putin. Shocking tapes reveal how Orban's top 
+officials plotted with Russia to undermine neighboring Ukraine and the 
+rest of Europe and even help the Ayatollah in Iran.
+  The former Prime Minister's betrayal of the Hungarian people and the 
+NATO Alliance is why Congressman   Don Bacon and I introduced the BLOCK 
+PUTIN Act to hold these corrupt officials accountable.
+  Thank God the people of good will won in Hungary.
+  When Soviet Russia invaded the beautiful country in 1956, it took 
+decades before they got a victory for democracy.
+  You have friends in America, our dear, dear friends in Hungary. We 
+love liberty, too. Bravo. Onward.
+
+                          ____________________
+```

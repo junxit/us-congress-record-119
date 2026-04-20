@@ -1,0 +1,46 @@
+---
+granule: CREC-2026-04-20-pt1-PgH2981
+date: 2026-04-20
+edition: CREC
+section: HOUSE
+page: H2981
+citation: 172 Cong. Rec. H2981
+---
+
+# MOMENT OF SILENCE IN MEMORY OF THE HONORABLE ELIOT ENGEL
+
+**Speaking:** Nadler, Jerrold (N000002) [D-NY]
+
+```
+        MOMENT OF SILENCE IN MEMORY OF THE HONORABLE ELIOT ENGEL
+
+  (Mr. NADLER asked and was given permission to address the House for 1 
+minute.)
+  Mr. NADLER. Mr. Speaker, it is with a heavy heart that I rise today, 
+alongside my colleagues in the New York delegation, to mourn the loss 
+of our dear friend and former colleague, Eliot Engel.
+  Over the course of a lifetime in public service, including more than 
+three decades in Congress, Eliot was a tireless champion for the people 
+of the Bronx, Westchester, and Rockland County.
+  Throughout his career, his hard work and fierce advocacy improved the 
+lives of countless people in the United States and across the world.
+  As a member of the Energy and Commerce Committee, he was a leader on 
+such issues as healthcare, energy, and consumer protection. Yet, Eliot 
+had perhaps his greatest impact as chair of the Foreign Affairs 
+Committee, which he led with integrity and experience, lending strength 
+and credibility to America's role in the world.
+  Among his many accomplishments, he played a crucial role in 
+protecting the people of Kosovo and combating child labor.
+  Most of all, he will be remembered as an unwavering friend to Israel. 
+As the Congressional Jewish Caucus noted upon his passing, Eliot Engel 
+``is among the pantheon of champions of our people who have served with 
+distinction in the Halls of Congress.''
+  His legacy of service to New York, to the Nation, and to the world 
+lives on through the issues he fought for and the lives he touched.
+  Our thoughts are with his wife, Pat, and all of his loved ones. May 
+his memory be a blessing.
+  Mr. Speaker, I ask that all Members and staff rise for a moment of 
+silence in remembrance of Chairman Eliot Engel.
+
+                          ____________________
+```
