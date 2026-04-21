@@ -1,0 +1,55 @@
+---
+granule: CREC-2026-04-21-pt1-PgE347-5
+date: 2026-04-21
+edition: CREC
+section: EXTENSIONS
+page: E347
+citation: 172 Cong. Rec. E347
+---
+
+# RECOGNIZING THE HAMILTON COLLEGE MEN'S ICE HOCKEY NCAA DIII NATIONAL CHAMPIONSHIP
+
+**Speaking:** Mannion, John W. (M001231) [D-NY]
+
+```
+ RECOGNIZING THE HAMILTON COLLEGE MEN'S ICE HOCKEY NCAA DIII NATIONAL 
+                              CHAMPIONSHIP
+
+                                 ______
+                                 
+
+                          HON. JOHN W. MANNION
+
+                              of new york
+
+                    in the house of representatives
+
+                        Tuesday, April 21, 2026
+
+  Mr. MANNION. Mr. Speaker, I rise today to honor and celebrate the 
+Hamilton College Men's Ice Hockey NCAA DIII National Champions. The 
+Continentals brought home their first ever national championship title 
+with a 2-
+
+[[Page E348]]
+
+1 overtime victory over the three-time defending champions, Hobart 
+Statesman. I commend these young men for their sportsmanship and 
+dedication to their craft. I congratulate the team, coaches, families, 
+and entire Hamilton community for a great season and an outstanding 
+performance en route to victory. I include in the Record the names of 
+the coaches and players from this National Championship winning team:
+
+       Head Coach Rob Haberbusch, Assistant Coach Stephen 
+     Castriota, Goaltending Coach Casey Boone, Aksel Reid, 
+     Garrison Schultz, Noah Leibl, Connor Thue, John 
+     Wojciechowski, Ryan Sordillo, Thomas Beaudoin, Sebastian 
+     Hamming, Brendan Waivada, Devon de Vries, Clarence Beltz, 
+     Cameron Miranda, Trey Williams, Zach Walsh, Alex Danis, Max 
+     Bulwaka, Curtiss Sturgeon, Michael Gallary, Carson Hall, Ben 
+     Zimmerman, Liam Varmecky, Jackson Krock, Luke Tchor, Justin 
+     Biraben, Joey Luvullo, Tyler Bloomfield, Josh Nadler, Lucas 
+     Constantine, Vincent Gould, and Jacob Ierfino.
+
+                          ____________________
+```

@@ -1,0 +1,37 @@
+---
+granule: CREC-2026-04-21-pt1-PgS1846-3
+date: 2026-04-21
+edition: CREC
+section: SENATE
+page: S1846
+citation: 172 Cong. Rec. S1846
+---
+
+# HAITI
+
+**Speaking:** Schumer, Charles E. (S000148) [D-NY]
+
+```
+                                 HAITI
+
+  Mr. SCHUMER. Mr. President, on Haiti, later today, I am meeting with 
+Haiti Prime Minister Alix Didier Fils-Aime to discuss how we can 
+support Haiti's path to security and democracy by helping its 
+government stop violence and root out corruption.
+  The Haitian community is woven into the fabric of American society, 
+and it is particularly true in New York, which is the proud home of the 
+largest Haitian-American diaspora in the country.
+  Sadly, Donald Trump continues to vilify and demean Haitian-Americans 
+with his bigoted attacks. He repeated vile, baseless stereotypes about 
+Haitians on the campaign trail and tried to strip them of temporary 
+protected status.
+  In defiance of the process that Congress established, Trump 
+threatened Haitians' TPS, even though the dangerous conditions they 
+fled in Haiti persist and are even getting worse. That is cruel, and 
+that won't fix our broken immigration system.
+  I will continue fighting for the Haitian community in New York and 
+beyond to help Haiti make progress on the challenges it faced today, 
+and I look forward to meeting with the Prime Minister.
+
+                          ____________________
+```

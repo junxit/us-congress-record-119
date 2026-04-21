@@ -1,0 +1,45 @@
+---
+granule: CREC-2026-04-21-pt1-PgS1849-2
+date: 2026-04-21
+edition: CREC
+section: SENATE
+page: S1849
+citation: 172 Cong. Rec. S1849
+---
+
+# RECONCILIATION
+
+**Speaking:** Schumer, Charles E. (S000148) [D-NY]
+
+```
+                             RECONCILIATION
+
+  Mr. SCHUMER. Mr. President, earlier today, we caught our first 
+glimpse of the Senate Republicans' budget resolution. Forget being on 
+the same page; Republicans aren't even on the same planet as the 
+American people. They want to give $140 billion for ICE and Border 
+Patrol without any reforms but zero dollars to lower Americans' costs.
+  Let me say that again: $140 billion for ICE and Border Patrol--no 
+reforms, no accountability, no strings attached; zero dollars to lower 
+Americans' costs.
+
+[[Page S1850]]
+
+That is their priority. That is why they are dragging the Senate 
+through an arduous, convoluted reconciliation process--to put money in 
+the coffers of Trump's rogue Agencies rather than in Americans' 
+pockets.
+  Democrats want to lower Americans' grocery, gas, healthcare, and 
+housing costs. Senate Republicans want to appease Donald Trump and 
+Stephen Miller by giving ICE and Border Patrol tens of billions of 
+dollars to continue spreading violence in our streets.
+  Democrats are going to make sure that the contrast is on open display 
+during reconciliation. If Senate Republicans would rather acquiesce to 
+Donald Trump and Stephen Miller than stand up for the American people, 
+so be it. We are going to make them own that decision amendment after 
+amendment, vote after vote.
+  I yield the floor.
+  The PRESIDING OFFICER. The majority leader.
+
+                          ____________________
+```

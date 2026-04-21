@@ -1,0 +1,54 @@
+---
+granule: CREC-2026-04-21-pt1-PgH3002
+date: 2026-04-21
+edition: CREC
+section: HOUSE
+page: H3002
+citation: 172 Cong. Rec. H3002
+---
+
+# SAN FERNANDO VALLEY MOURNS THE LOSS OF BELINDA BARRAGAN
+
+**Speaking:** Rivas, Luz M. (R000620) [D-CA]
+
+```
+        SAN FERNANDO VALLEY MOURNS THE LOSS OF BELINDA BARRAGAN
+
+  (Ms. Rivas of California was recognized to address the House for 5 
+minutes.)
+  Ms. RIVAS. Mr. Speaker, the San Fernando Valley mourns the loss of 
+Belinda Barragan.
+  Belinda was a proud, lifelong resident of the San Fernando Valley, 
+graduating from St. Genevieve High School in Panorama City. For over 30 
+years, she was at the forefront of public service, advocating for 
+working families and Latinos, ensuring that they had all the 
+opportunities and support to thrive.
+  Belinda uplifted thousands of women and community members with her 
+uniquely warm, funny, and love-centered leadership. Her career in 
+public service has often been behind the scenes, and she has taught us 
+the definition of steadfast leadership.
+  Through her work with HOPE Leadership Institute, Belinda empowered 
+hundreds of Latina professionals and created opportunities for these 
+women to strengthen their confidence and grow as leaders.
+  Her integrity and compassionate leadership helped build the careers 
+of grassroots community leaders as well as those in the public and 
+private sectors. She supported many Latino elected officials when they 
+first started in politics, including former Congressman Tony Cardenas 
+and Senator Alex Padilla.
+  Congressman Cardenas said that Belinda always helped everyone around 
+her to be their best. Her intensity was infectious. Belinda's caring 
+and loving personality matched her tough, ``let's get the job done'' 
+attitude. He called her a force for good and positive change.
+  Senator Padilla called Belinda Barragan the nicest person you would 
+ever meet and that she had a special ability to keep you on task and on 
+deadline when there was work to be done.
+  Senator Padilla asked Belinda to be his campaign manager when he 
+first ran for city council. He said that seeing Belinda at HOPE events 
+over the years always brought him back to his early days in politics. 
+Belinda will be remembered for her unwavering integrity, empathetic 
+leadership, and her lifelong residency in the San Fernando Valley.
+  Her memory will live on in the hearts of all who knew and loved her.
+  Mr. Speaker, I ask for a moment of silence in honor of Belinda.
+
+                          ____________________
+```
