@@ -1,0 +1,20 @@
+---
+granule: CREC-2026-04-22-pt1-PgH3049-4
+date: 2026-04-22
+edition: CREC
+section: HOUSE
+page: H3049
+citation: 172 Cong. Rec. H3049
+---
+
+# THE JOURNAL
+
+```
+                              THE JOURNAL
+
+  The SPEAKER pro tempore. The Chair has examined the Journal of the 
+last day's proceedings and announces to the House the approval thereof.
+  Pursuant to clause 1 of rule I, the Journal stands approved.
+
+                          ____________________
+```

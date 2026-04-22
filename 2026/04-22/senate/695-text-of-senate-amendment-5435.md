@@ -1,0 +1,43 @@
+---
+granule: CREC-2026-04-22-pt1-PgS2039-3
+date: 2026-04-22
+edition: CREC
+section: SENATE
+page: S2039
+citation: 172 Cong. Rec. S2039
+---
+
+# Text of Senate Amendment 5435
+
+**Speaking:** Heinrich, Martin (H001046) [D-NM]
+
+```
+  SA 5435. Mr. HEINRICH submitted an amendment intended to be proposed 
+by him to the concurrent resolution S. Con. Res. 33, setting forth the 
+congressional budget for the United States Government for fiscal year 
+2026 and setting forth the appropriate budgetary levels for fiscal 
+years 2027 through 2035; which was ordered to lie on the table; as 
+follows:
+
+       At the end of title III, add the following:
+
+     SEC. 3___. DEFICIT-NEUTRAL RESERVE FUND RELATING TO 
+                   EXPEDITING ADJUDICATIONS OF IMMIGRATION CASES.
+
+       The Chairman of the Committee on the Budget of the Senate 
+     may revise the allocations of a committee or committees, 
+     aggregates, and other appropriate levels in this resolution, 
+     and make adjustments to the pay-as-you-go ledger, for one or 
+     more bills, joint resolutions, amendments, amendments between 
+     the Houses, motions, or conference reports relating to 
+     expediting the adjudication of immigration cases, which may 
+     include the retention of immigration judges in the absence of 
+     good cause for their removal, the rehiring of recently 
+     dismissed immigration judges, and the hiring of additional 
+     immigration judges, by the amounts provided in such 
+     legislation for those purposes, provided that such 
+     legislation would not increase the deficit over the period of 
+     the total of fiscal years 2026 through 2035.
+
+                          ____________________
+```

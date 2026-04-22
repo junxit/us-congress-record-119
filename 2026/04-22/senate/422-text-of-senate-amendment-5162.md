@@ -1,0 +1,43 @@
+---
+granule: CREC-2026-04-22-pt1-PgS1999-3
+date: 2026-04-22
+edition: CREC
+section: SENATE
+page: S1999
+citation: 172 Cong. Rec. S1999
+---
+
+# Text of Senate Amendment 5162
+
+**Speaking:** Kaine, Tim (K000384) [D-VA]
+
+```
+  SA 5162. Mr. KAINE submitted an amendment intended to be proposed by 
+him to the concurrent resolution S. Con. Res. 33, setting forth the 
+congressional budget for the United States Government for fiscal year 
+2026 and setting forth the appropriate budgetary levels for fiscal 
+years 2027 through 2035; which was ordered to lie on the table; as 
+follows:
+
+       At the end of title III, add the following:
+
+     SEC. 3___. DEFICIT-NEUTRAL RESERVE FUND RELATING TO 
+                   PRIORITIZING CHILD CARE OVER WARS IN THE MIDDLE 
+                   EAST.
+
+       The Chairman of the Committee on the Budget of the Senate 
+     may revise the allocations of a committee or committees, 
+     aggregates, and other appropriate levels in this resolution, 
+     and make adjustments to the pay-as-you-go ledger, for one or 
+     more bills, joint resolutions, amendments, amendments between 
+     the Houses, motions, or conference reports relating to making 
+     child care more affordable, which may include legislation 
+     that ends hostilities with Iran to redirect funding, that 
+     would otherwise have been used to support those hostilities, 
+     to expand support for child care facilities, child care 
+     workers, or parents, by the amounts provided in such 
+     legislation for those purposes, provided that such 
+     legislation would not increase the deficit over the period of 
+     the total of fiscal years 2026 through 2035.
+                                 ______
+```
