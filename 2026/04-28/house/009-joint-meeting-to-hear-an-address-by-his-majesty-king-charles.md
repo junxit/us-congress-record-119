@@ -1,0 +1,363 @@
+---
+granule: CREC-2026-04-28-pt1-PgH3127-8
+date: 2026-04-28
+edition: CREC
+section: HOUSE
+page: H3127
+citation: 172 Cong. Rec. H3127
+---
+
+# JOINT MEETING TO HEAR AN ADDRESS BY HIS MAJESTY KING CHARLES III OF THE UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND
+
+```
+JOINT MEETING TO HEAR AN ADDRESS BY HIS MAJESTY KING CHARLES III OF THE 
+          UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND
+
+  During the recess, the House was called to order by the Speaker at 2 
+o'clock and 38 minutes p.m.
+  The Assistant Sergeant at Arms of Protocol and Special Events, Mrs. 
+Seton Gardner, announced the Vice President and Members of the U.S. 
+Senate, who entered the Hall of the House of Representatives, the Vice 
+President taking the chair at the right of the Speaker, and the Members 
+of the Senate the seats reserved for them.
+  The SPEAKER. The joint meeting will come to order.
+  The Chair appoints as members of the committee on the part of the 
+House to escort His Majesty King Charles III of the United Kingdom of 
+Great Britain and Northern Ireland into the Chamber:
+  The gentleman from Louisiana (Mr. Scalise);
+  The gentleman from Minnesota (Mr. Emmer);
+  The gentlewoman from Michigan (Mrs. McClain);
+  The gentleman from North Carolina (Mr. Hudson);
+  The gentleman from Pennsylvania (Mr. Reschenthaler);
+  The gentleman from California (Mr. Obernolte);
+  The gentleman from Utah (Mr. Moore);
+  The gentlewoman from Indiana (Mrs. Houchin);
+  The gentleman from Florida (Mr. Mast);
+
+[[Page H3128]]
+
+  The gentleman from Ohio (Mr. Latta);
+  The gentleman from South Carolina (Mr. Wilson);
+  The gentleman from North Carolina (Mr. Rouzer);
+  The gentleman from New York (Mr. Jeffries);
+  The gentlewoman from Massachusetts (Ms. Clark);
+  The gentleman from California (Mr. Aguilar);
+  The gentleman from California (Mr. Lieu);
+  The gentleman from Colorado (Mr. Neguse);
+  The gentlewoman from Washington (Ms. DelBene);
+  The gentlewoman from California (Ms. Pelosi);
+  The gentleman from Maryland (Mr. Hoyer);
+  The gentleman from New York (Mr. Meeks);
+  The gentleman from Connecticut (Mr. Himes);
+  The gentleman from Colorado (Mr. Crow); and
+  The gentleman from Rhode Island (Mr. Amo).
+  The VICE PRESIDENT. The President of the Senate, at the direction of 
+that body, appoints the following Senators as members of the committee 
+on the part of the Senate to escort His Majesty King Charles III into 
+the House Chamber:
+  The Senator from South Dakota (Mr. Thune);
+  The Senator from Wyoming (Mr. Barrasso);
+  The Senator from Iowa (Mr. Grassley);
+  The Senator from Arkansas (Mr. Cotton);
+  The Senator from West Virginia (Mrs. Capito);
+  The Senator from Oklahoma (Mr. Lankford);
+  The Senator from South Carolina (Mr. Scott);
+  The Senator from Idaho (Mr. Risch);
+  The Senator from New York (Mr. Schumer);
+  The Senator from Illinois (Mr. Durbin);
+  The Senator from Minnesota (Ms. Klobuchar);
+  The Senator from Washington (Mrs. Murray);
+  The Senator from Wisconsin (Ms. Baldwin); and
+  The Senator from New Hampshire (Mrs. Shaheen).
+  The Assistant Sergeant at Arms announced the Acting Dean of the 
+Diplomatic Corps, Her Excellency Mathilde Mukantabana, the Ambassador 
+of the Republic of Rwanda.
+  The Acting Dean of the Diplomatic Corps entered the Hall of the House 
+of Representatives and took the seat reserved for her.
+  The Assistant Sergeant at Arms announced the Cabinet of the President 
+of the United States.
+  The members of the Cabinet of the President of the United States 
+entered the Hall of the House of Representatives and took the seats 
+reserved for them in front of the Speaker's rostrum.
+  At 3 o'clock and 5 minutes p.m., the Sergeant at Arms, the Honorable 
+William P. McFarland, announced Their Majesties King Charles III and 
+Queen Camilla.
+  His Majesty King Charles III, escorted by the committee of Senators 
+and Representatives, entered the Hall of the House of Representatives 
+and stood at the Clerk's desk. Queen Camilla took the chair to his 
+left.
+  (Applause, the Members rising.)
+  The SPEAKER. Members of Congress, I have the high privilege and the 
+distinct honor of presenting to you His Majesty King Charles III.
+  (Applause, the Members rising.)
+  HIS MAJESTY CHARLES III. Mr. Vice President, Mr. Speaker, Members of 
+Congress, Representatives of the American people across all States, 
+territories, cities, and communities, I would like, if I may, to take 
+this opportunity to express my particular gratitude to all for the 
+great honor of addressing this joint meeting of Congress and, on behalf 
+of the Queen and myself, to thank the American people for welcoming us 
+to the United States to mark this semiquincentennial year of the 
+Declaration of Independence.
+  For all of that time, our destinies as nations have been interlinked. 
+As Oscar Wilde said: ``We have really everything in common with America 
+nowadays, except, of course, language.''
+  So, ladies and gentlemen, we meet in times of great uncertainty, in 
+times of conflict from Europe to the Middle East, which pose immense 
+challenges for the international community, and whose impact is felt in 
+communities the length and breadth of our own countries.
+  We meet, too, in the aftermath of the incident not far from this 
+great building that sought to harm the leadership of your Nation and to 
+foment wider fear and discord. Let me say with unshakable resolve: Such 
+acts of violence will never succeed.
+  Whatever our differences, whatever disagreements we may have, we 
+stand united in our commitment to uphold democracy, to protect all our 
+people from harm, and to salute the courage of those who daily risk 
+their lives in the service of our countries.
+  Standing here today, it is hard not to feel a weight of history on my 
+shoulder because the modern relationship between our two nations and 
+our own peoples spans not merely 250 years but over four centuries. It 
+is extraordinary to think that I am the 19th in our line of sovereigns 
+to study with daily attention the affairs of America, so I come here 
+today with the highest respect for the United States Congress, this 
+citadel of democracy created to represent the voice of all American 
+people to advance sacred rights and freedoms.
+  Speaking in this renowned Chamber of debate and deliberation, I 
+cannot help but think of my late mother, Queen Elizabeth, who in 1991, 
+was also afforded this signal honor and similarly spoke under the 
+watchful eye of the Statue of Freedom above us.
+  Today, I am here on this great occasion in the life of our nations to 
+express the highest regard and friendship of the British people to the 
+people of the United States.
+  Now, as you may know, when I address my own Parliament at 
+Westminster, we still follow an age-old tradition and take a Member of 
+Parliament hostage, holding him or her at Buckingham Palace until I am 
+safely returned. These days, we look after our guests rather well, to 
+the point that they often do not want to leave. I don't know, Mr. 
+Speaker, if there were any volunteers for that role here today.
+  As I look back across the centuries, Mr. Speaker, there emerge 
+certain patterns, certain self-evident truths from which we can learn 
+and draw mutual strength. With the spirit of 1776 in our minds, we can 
+perhaps agree that we do not always agree, at least in the first 
+instance.
+  Indeed, the very principle on which your Congress was founded--no 
+taxation without representation--was at once a fundamental disagreement 
+between us, and at the same time a shared democratic value which you 
+inherited from us.
+  Ours is a partnership born out of dispute, but no less strong for it. 
+So perhaps in this example, we can discern that our nations are, in 
+fact, instinctively like-minded, a product of the common democratic, 
+legal, and social traditions in which our governance is rooted to this 
+day.
+  Drawing on these values and traditions time and again, our two 
+countries have always found ways to come together and, by Jove, Mr. 
+Speaker, when we have found that way to agree, what great change is 
+brought about, not just for the benefit of our peoples, but of all 
+peoples. This, I believe, is the special ingredient in our 
+relationship.
+  As President Trump himself observed during his state visit to Britain 
+last autumn, the bond of kinship and identity between America and the 
+United Kingdom is priceless and eternal. It is irreplaceable and 
+unbreakable.
+  Mr. Speaker, this is by no means my first visit to Washington, D.C., 
+the capital of this great Republic. It is, in fact, my 20th visit to 
+the United States and my first as King and head of the Commonwealth. 
+This is a city which symbolizes a period in our shared history or what 
+Charles Dickens might have called a tale of two Georges: The first 
+President, George Washington, and my five-times great-grandfather, King 
+George III.
+  King George, as you know, never set foot in America, and please rest 
+assured, ladies and gentlemen, I am not here as part of some cunning 
+rear-guard action.
+  The Founding Fathers were bold and imaginative rebels with a cause. 
+Two
+
+[[Page H3129]]
+
+hundred fifty years ago or, as we say in the United Kingdom, just the 
+other day, they declared independence. By balancing contending forces 
+and drawing strength and diversity, they united 13 disparate Colonies 
+to forge a nation on the revolutionary idea of ``life, liberty, and the 
+pursuit of happiness.''
+  They carried with them, and carried forward, the great inheritance of 
+the British Enlightenment, as well as the ideals which had an even 
+deeper history in English common law and Magna Carta. These roots run 
+deep, and they are still vital. Our Declaration of Rights of 1689 was 
+not only the foundation of our constitutional monarchy but also 
+provided the source of so many of the principles reiterated, often 
+verbatim, in the American Bill of Rights of 1791, and those roots go 
+even further back in history. The U.S. Supreme Court Historical Society 
+has calculated that Magna Carta is cited in at least 160 Supreme Court 
+cases since 1789, not least as the foundation of the principle that 
+executive power is subject to checks and balances.
+  This is the reason why there stands a stone by the River Thames at 
+Runnymede, where Magna Carta was signed in the year 1215. This stone 
+records that an acre of that ancient and historic site was given to the 
+United States of America by the people of the United Kingdom, to 
+symbolize our shared resolve in support of liberty, and in memory of 
+President John F. Kennedy.
+  Distinguished Members of the 119th Congress, it is here in these very 
+Halls that this spirit of liberty and the promise of America's Founders 
+is present in every session and every vote cast, not by the will of one 
+but by the deliberation of many, representing the living mosaic of the 
+United States.
+  In both of our countries, it is the very fact of our vibrant, 
+diverse, and free societies that gives us our collective strength, 
+including to support victims of some of the ills that so tragically 
+exist in both our societies today.
+  And, Mr. Speaker, for many here, and for myself, the Christian faith 
+is a firm anchor and daily inspiration that guides us not only 
+personally but together as members of our community. Having devoted a 
+large part of my life to interfaith relationships and greater 
+understanding, it is that faith in the triumph of light over darkness 
+which I have found confirmed countless times.
+  Through it, I am inspired by the profound respect that develops as 
+people of different faiths grow in their understanding of each other. 
+It is why it is my hope, my prayer, that, in these turbulent times, 
+working together and with our international partners, we can stem the 
+beating of plowshares into swords.
+  I am mindful that we are still in the season of Easter, the season 
+that most strengthens my hope. It is why I believe, with all my heart, 
+that the essence of our two nations is a generosity of spirit and a 
+duty to foster compassion, to promote peace, to deepen mutual 
+understanding, and to value all people of all faiths and of none.
+  The alliance that our two nations have built over the centuries, and 
+for which we are profoundly grateful to the American people, is truly 
+unique. And that alliance is part of what Henry Kissinger described as 
+Kennedy's ``soaring vision'' of an Atlantic partnership based on twin 
+pillars: Europe and America. That partnership, I believe, Mr. Speaker, 
+is more important today than it has ever been.
+  The first reigning British sovereign to set foot in America was my 
+grandfather, King George VI. He visited, in 1939, with my beloved 
+grandmother, Queen Elizabeth, The Queen Mother. The forces of fascism 
+in Europe were on the march, and some time before the United States had 
+joined us in the defense of freedom, our shared values prevailed.
+  Today, we find ourselves in a new era, but those values remain. It is 
+an era that is, in many ways, more volatile and more dangerous than the 
+world to which my late mother spoke in this Chamber in 1991.
+  The challenges we face are too great for any one Nation to bear 
+alone. But in this unpredictable environment, our alliance cannot rest 
+on past achievements or assume that foundational principles simply 
+endure.
+  As my Prime Minister said last month, ours is an indispensable 
+partnership. We must not disregard everything that has sustained us for 
+the last 80 years. Instead, we must build on it.
+  Renewal today starts with security. The United Kingdom recognizes 
+that the threats we face demand a transformation in British defense. 
+That is why our country, in order to be fit for the future, has 
+committed to the biggest sustained increase in defense spending since 
+the Cold War--during part of which, over 50 years ago, I served with 
+the immense pride in the Royal Navy, following in the naval footsteps 
+of my father, Prince Philip, Duke of Edinburgh; my grandfather, King 
+George VI; my great uncle, Lord Mountbatten; and my great-grandfather, 
+King George V.
+  This year, of course, also marks the 25th anniversary of 9/11. This 
+atrocity was a defining moment for America, and your pain and shock 
+were felt around the whole world.
+  During my visit to New York, my wife and I will again pay our 
+respects to the victims, the families, and the bravery shown in the 
+face of terrible loss. We stood with you then, and we stand with you 
+now in solemn remembrance of a day that shall never be forgotten.
+  In the immediate aftermath of 9/11, when NATO invoked Article 5 for 
+the first time, and the United Nations Security Council was united in 
+the face of terror, we answered the call together as our people have 
+done so for more than a century, shoulder to shoulder, through two 
+World Wars, the Cold War, Afghanistan, and moments that have defined 
+our shared security.
+  Today, Mr. Speaker, that same unyielding resolve is needed for the 
+defense of Ukraine and her most courageous people. It is needed in 
+order to secure a truly just and lasting peace.
+  From the depths of the Atlantic to the disastrously melting ice caps 
+of the Arctic, the commitment and expertise of the United States Armed 
+Forces and its allies lie at the heart of NATO, pledged to each other's 
+defense, protecting our citizens and interests, keeping North Americans 
+and Europeans safe from our common adversaries.
+  Our defense, intelligence, and security ties are hardwired together 
+through relationships measured not in years but in decades.
+  Today, thousands of U.S. service personnel, defense officials, and 
+their families are stationed in the United Kingdom, as British 
+personnel serve with equal pride across 30 American States. We are 
+building F-35s together and, we have agreed, the most ambitious 
+submarine program in history, AUKUS. And we are doing it in partnership 
+with Australia, a country which I am also immensely proud to serve as 
+sovereign.
+  We do not embark on these remarkable endeavors together out of 
+sentiment. We do so because they build greater shared resilience for 
+the future, so making our citizens safer for generations to come.
+  Our common ideals were not only crucial for liberty and equality. 
+They are also the foundation of our shared prosperity.
+  The rule of law, the certainty of stable and accessible rules, an 
+independent judiciary resolving disputes and delivering impartial 
+justice: These features created the conditions for centuries of 
+unmatched economic growth in our two countries. This is why our 
+governments are concluding new economic and technology agreements to 
+write the next chapter of our joint prosperity and ensure that British 
+and American ingenuity continues to lead the world.
+  Our nations are combining talent and resources in the technologies of 
+tomorrow, our new partnerships in nuclear fusion and quantum computing, 
+and in AI and drug discovery, holding the promise of saving countless 
+lives.
+  More broadly, we celebrate the $430 billion in annual trade that 
+continues to grow, the $1.7 trillion in mutual investment that fuels 
+that innovation, and the millions of jobs on both sides of the Atlantic 
+supported across both economies.
+  These are strong foundations on which to continue to build for 
+generations yet unborn. Our ties in education, research, and cultural 
+exchange empower citizens and future leaders of both countries.
+  The Marshall Scholarship, named after the great General George 
+Marshall, and the association of which I am so proud to be a patron, 
+are emblematic of the connection between our
+
+[[Page H3130]]
+
+two countries. Since its founding, more than 2,300 scholarships have 
+been awarded, opening doors for Americans from all walks of life to 
+study at the United Kingdom's leading universities.
+  So as we look toward the next 250 years, we must also reflect on our 
+shared responsibility to safeguard nature, our most precious and 
+irreplaceable asset.
+  Millennia--millennia before our nations existed, before any border 
+drawn, the mountains of Scotland and Appalachia were one--a single, 
+continuous range, forged in the ancient collision of continents.
+  The natural wonders of the United States of America are indeed a 
+unique asset, and generations of Americans have risen to this calling. 
+Indigenous, political, and civic leaders, people in rural communities 
+and cities alike, have all helped to protect and nurture what President 
+Theodore Roosevelt called the glorious heritage of this land's 
+extraordinary natural splendor, on which so much of its prosperity has 
+always depended.
+  Yet, even as we celebrate the beauty that surrounds us, our 
+generation must decide how to address the collapse of critical natural 
+systems, which threatens far more than the harmony and essential 
+diversity of nature. We ignore at our peril the fact that these natural 
+systems--in other words, nature's own economy--provide the foundation 
+for our prosperity and our national security.
+  The story of the United Kingdom and the United States is, at its 
+heart, a story of reconciliation, renewal, and remarkable partnership.
+  From the bitter divisions of 250 years ago, we forged a friendship 
+that has grown into one of the most consequential alliances in human 
+history.
+  I pray with all my heart that our alliance will continue to defend 
+our shared values with our partners in Europe and the Commonwealth and 
+across the world and that we ignore the clarion calls to become ever 
+more inward-looking.
+  Mr. Speaker, Mr. Vice President, distinguished ladies and gentlemen: 
+America's words carry weight and meaning, as they have since 
+independence. The actions of this great Nation matter even more. 
+President Lincoln understood this so well, with his reflection in the 
+magisterial Gettysburg Address that: The world may little note what we 
+say but will never forget what we do.
+  And so, to the United States of America: On your 250th birthday, let 
+our two countries rededicate ourselves to each other in the selfless 
+service of our peoples and of all the peoples of the world.
+  God bless the United States, and God bless the United Kingdom.
+  (Applause, the Members rising.)
+  At 3 o'clock and 39 minutes p.m., His Majesty King Charles III, 
+accompanied by the committee of escort, retired from the Hall of the 
+House of Representatives.
+  The Assistant Sergeant at Arms escorted the invited guests from the 
+Chamber in the following order:
+  The members of the President's Cabinet;
+  The Dean of the Diplomatic Corps.
+
+                          ____________________
+```
