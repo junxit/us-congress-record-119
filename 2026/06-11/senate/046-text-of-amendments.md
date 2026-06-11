@@ -1,0 +1,204 @@
+---
+granule: CREC-2026-06-11-pt1-PgS2769
+date: 2026-06-11
+edition: CREC
+section: SENATE
+page: S2769
+citation: 172 Cong. Rec. S2769
+---
+
+# TEXT OF AMENDMENTS
+
+**Measures:** S. 162, S. 567
+
+```
+                           TEXT OF AMENDMENTS
+
+  SA 5820. Mr. THUNE (for Mr. Whitehouse) proposed an amendment to the 
+bill S. 567, to award a Congressional Gold Medal, collectively, to the 
+First Rhode Island Regiment, in recognition of their dedicated service 
+during the Revolutionary War; as follows:
+
+        Strike all after the enacting clause and insert the 
+     following:
+
+     SECTION 1. SHORT TITLE.
+
+       This Act may be cited as the ``First Rhode Island Regiment 
+     Congressional Gold Medal Act''.
+
+     SEC. 2. FINDINGS.
+
+       Congress finds the following:
+       (1) During the winter at Valley Forge, from 1777-1778, the 
+     Continental Army had difficulty recruiting the necessary 
+     quotas of men set by the Congress.
+       (2) At the same time, the State of Rhode Island was ordered 
+     to supply two battalions while a British force occupied the 
+     City of Newport.
+       (3) In January 1778, at the urging of Brigadier General 
+     James Varnum, General George Washington wrote to Governor 
+     Nicholas Cooke of the State of Rhode Island requesting 
+     assistance recruiting men for the Continental Line.
+       (4) On February 14, 1778, the Rhode Island General Assembly 
+     voted to allow the enlistment of ``every able-bodied negro, 
+     mulatto, or Indian man slave''.
+       (5) In addition, the Rhode Island General Assembly provided 
+     that any enlisted slave ``upon his passing muster before 
+     Colonel Christopher Greene, be immediately discharged from 
+     the service of his master or mistress, and be absolutely free 
+     as though he had never been encumbered with any kind of 
+     servitude or slavery''.
+       (6) As a result, between February 1778 and June 1778, 
+     Colonel Christopher Greene, Lieutenant Colonel Jeremiah 
+     Olney, and Major Samuel Ward recruited men of African 
+     heritage and Indigenous descent who formed the core of the 
+     First Rhode Island Regiment.
+       (7) The First Rhode Island Regiment became among the first 
+     units in American History in which men of every race and 
+     ethnicity were recruited to serve.
+       (8) On August 29, 1778, at the Battle of Rhode Island, 
+     following an attempted siege of British-occupied Newport 
+     along with the newly allied French fleet, the First Rhode 
+     Island Regiment acted heroically in holding back Hessian 
+     forces and causing them to retreat.
+       (9) During the Battle of Rhode Island, the First Rhode 
+     Island Regiment's losses included three killed, nine wounded 
+     and eleven missing soldiers.
+       (10) Soldiers of color from the First Rhode Island Regiment 
+     continued to fight bravely to win American independence for 5 
+     more years in an integrated Rhode Island Regiment that 
+     included men of African, European, and Indigenous descent.
+       (11) By early 1784, the last Rhode Island soldiers were 
+     discharged at Saratoga, New York.
+       (12) Their commander, Colonel Jeremiah Olney, praised the 
+     Regiment for ``faithfully preserving in the best of causes, 
+     in every stage of service, with unexampled fortitude and 
+     patience through all the danger and toils of a long and 
+     severe war''.
+       (13) Afterwards, some veterans of the First Rhode Island 
+     Regiment had to consistently resist efforts at re-enslavement 
+     and fought for back wages from the Rhode Island General 
+     Assembly.
+       (14) According to the Rhode Island State Archives, the 
+     First Rhode Island Regiment included at least the following 
+     soldiers: Babcock, Priamus (Primus); Bent, Prince; Bours, 
+     Cato; Brown, Priamus (Primus); Burk, Africa; Burroughs, John; 
+     Carpenter, Cudgo; Champlin, Dick; Champlin, Jack; Champlin, 
+     July; Champlin, Newport; Champlin, Sharper; Champlin, York; 
+     Clark, James; Coddington, Jack; Fones, Jack; Gardner, Cuff; 
+     Gardner, Hercules; Gardner, Minkl; Gardner, Preamus (Primus); 
+     Gardner, Rutter; Gray, Ebenezer; Green, Cuff; Greene, Cato; 
+     Greene, Jack; Greene, Pero; Greene, William; Hammond, Prince; 
+     Harriss, Cesar; Hazard, Backus; Hazard, Jabin; Hazard, Jacob; 
+     Hazard, Peter; Hazard, Peter; Lefavour, Thom; Mason, Warsen; 
+     Mawney, Cyrus; Minturn, Jack; Mowrey, Pero; Nichols, Thomas; 
+     Perry, Ganset; Phillips, Philow; Pierce, Titus; Potter, 
+     David; Randall, Prince; Rhodes, Bristol; Rhodes, Priamus; 
+     Rhodes, Richard; Rhodes, Samuel; Richmond, Ebenezer; 
+     Robinson, Mingo; Rodman, Isaac; Rodman, Mingo; Rodman, 
+     Prince; Rose, Cesar; Saltonstall, Brittain; Saunders, 
+     Sampson; Sheldon, Cesar; Slave; Slave; Smith, Juba; Sweeling, 
+     Query; Talbot, Sigby; Tanner, Quam; Tillinghast, Cuff; 
+     Updike, Cesar; Updike, Moses; Vaughan, Prince; Vernon, Cato; 
+     Watson, Fortune; Wells, Cesar; Wickes, Nat; and Willbour, 
+     Boston.
+
+     SEC. 3. CONGRESSIONAL GOLD MEDAL.
+
+       (a) Award Authorized.--The Speaker of the House of 
+     Representatives and the President pro tempore of the Senate 
+     shall make appropriate arrangements for the award, on behalf 
+     of the Congress, of a single gold medal of appropriate design 
+     to the First Rhode Island Regiment, collectively in 
+     recognition of their dedicated service during the 
+     Revolutionary War.
+       (b) Design and Striking.--For the purposes of the award 
+     referred to in subsection (a), the Secretary of the Treasury 
+     (hereafter in this Act referred to as the ``Secretary'') 
+     shall strike the gold medal with suitable emblems, devices, 
+     and inscriptions, to be determined by the Secretary.
+       (c) Rhode Island State Library.--
+       (1) In general.--Following the award of the gold medal in 
+     honor of the First Rhode Island Regiment of the Revolutionary 
+     War under subsection (a), the gold medal shall be given to 
+     the Rhode Island State Library, where it will be displayed as 
+     appropriate and made available for research.
+       (2) Sense of congress.--It is the sense of Congress that 
+     the Rhode Island State Library should make the gold medal 
+     received under paragraph (1) available for display elsewhere, 
+     particularly at other appropriate locations associated with 
+     the First Rhode Island Regiment of the Revolutionary War.
+
+     SEC. 4. DUPLICATE MEDALS.
+
+       The Secretary may strike and sell duplicates in bronze of 
+     the gold medal struck under section 3, at a price sufficient 
+     to cover the costs thereof, including labor, materials, dies, 
+     use of machinery, and overhead expenses.
+
+     SEC. 5. STATUS OF MEDALS.
+
+       (a) National Medals.--Medals struck pursuant to this Act 
+     are national medals for purposes of chapter 51 of title 31, 
+     United States Code.
+       (b) Numismatic Items.--For purposes of sections 5134 and 
+     5136 of title 31, United States Code, all medals struck under 
+     this Act shall be considered to be numismatic items.
+
+     SEC. 6. AUTHORITY TO USE FUND AMOUNTS; PROCEEDS OF SALE.
+
+       (a) Authority To Use Fund Amounts.--There is authorized to 
+     be charged against the United States Mint Public Enterprise 
+     Fund such amounts as may be necessary to pay for the costs of 
+     the medals struck under this Act.
+       (b) Proceeds of Sale.--Amounts received from the sale of 
+     duplicate bronze medals authorized under section 4 shall be 
+     deposited into the United States Mint Public Enterprise Fund.
+                                 ______
+                                 
+  SA 5821. Mr. THUNE (for Mr. Grassley) proposed an amendment to the 
+bill S. 162, to amend parts B and E of title IV of the Social Security 
+Act to improve foster and adoptive parent recruitment and retention, 
+and for other purposes; as follows:
+
+       Beginning on page 4, strike line 22 and all that follows 
+     through page 6, line 8, and insert the following:
+       (b) Effective Date.--
+       (1) In general.--Except as provided in paragraph (2), the 
+     amendment made by this subsection shall take effect on 
+     October 1, 2027.
+       (2) Delay permitted if state legislation required.--In the 
+     case of a State plan approved under subpart 1 of part B of 
+     title IV of the Social Security Act which the Secretary of 
+     Health and Human Services determines requires State 
+     legislation (other than legislation appropriating funds) in 
+     order for the plan to meet the additional requirements 
+     imposed by this subsection, the State plan shall not be 
+     regarded as failing to comply with the requirements of such 
+     part solely on the basis of the failure of the plan to meet 
+     such additional requirements before the first day of the 
+     first calendar quarter beginning after the close of the first 
+     regular session of the State legislature that begins after 
+     the date of enactment of this subsection. For purposes of the 
+     previous sentence, in the case of a State that has a 2-year 
+     legislative session, each year of such session shall be 
+     deemed to be a separate regular session of the State 
+     legislature.
+
+     SEC. 3. INCLUSION OF INFORMATION ON FOSTER AND ADOPTIVE 
+                   FAMILIES IN ANNUAL CHILD WELFARE OUTCOMES 
+                   REPORT TO CONGRESS.
+
+       Section 479A(a) of the Social Security Act (42 U.S.C. 
+     679b(a)) is amended--
+       (1) in paragraph (6)(C), by striking ``and'' after the 
+     semicolon;
+       (2) in paragraph (7)(B), by striking the period and 
+     inserting ``; and''; and
+       (3) by adding at the end the following:
+       ``(8) include in the report submitted pursuant to paragraph 
+     (5) for fiscal year 2028 or any succeeding fiscal year--
+
+                          ____________________
+```

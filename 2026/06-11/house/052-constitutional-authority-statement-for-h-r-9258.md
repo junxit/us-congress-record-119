@@ -1,0 +1,21 @@
+---
+granule: CREC-2026-06-11-pt1-PgH4112-3
+date: 2026-06-11
+edition: CREC
+section: HOUSE
+page: H4112
+citation: 172 Cong. Rec. H4112
+---
+
+# Constitutional Authority Statement for H.R. 9258
+
+**Measures:** H.R. 9258
+
+```
+           By Mr. YAKYM:
+        H.R. 9258.
+        Congress has the power to enact this legislation pursuant 
+     to the following:
+       Article 1, Section 8, Clause 1 of the United States 
+     Constitution
+```
