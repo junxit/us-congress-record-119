@@ -1,0 +1,100 @@
+---
+granule: CREC-2026-06-17-pt1-PgS2909-2
+date: 2026-06-17
+edition: CREC
+section: SENATE
+page: S2909
+citation: 172 Cong. Rec. S2909
+---
+
+# Text of Senate Amendment 5853
+
+**Speaking:** Cruz, Ted (C001098) [R-TX]
+
+```
+  SA 5853. Mr. CRUZ submitted an amendment intended to be proposed by 
+him to the bill S. 4784, to authorize appropriations for fiscal year 
+2027 for military activities of the Department of Defense, for military 
+construction, and for defense activities of the Department of Energy, 
+to prescribe military personnel strengths for such fiscal year, and for 
+other purposes; which was ordered to lie on the table; as follows:
+
+       At the appropriate place in title XII, insert the 
+     following:
+
+     SEC. 12__. LIMITATION ON ENGAGEMENT WITH MEXICO UNTIL MEXICO 
+                   PROVIDES WATER PURSUANT TO TREATY OBLIGATIONS.
+
+       (a) Report Required.--
+       (1) In general.--Not later than 180 days after the date of 
+     the enactment of this Act, and annually thereafter, the 
+     Secretary of State shall submit to the appropriate committees 
+     of Congress a report regarding deliveries of water by Mexico 
+     pursuant to the Treaty relating to the Utilization of Waters 
+     of the Colorado and Tijuana Rivers and of the Rio Grande, 
+     signed at Washington February 3, 1944 (9 Bevans 1166), 
+     between the United States and Mexico (in this section 
+     referred to as the ``Treaty'').
+       (2) Elements.--The report required by paragraph (1) shall 
+     include--
+       (A) a determination of whether Mexico has, during the 
+     calendar year preceding the submission of the report, 
+     delivered to the United States a minimum of 350,000 acre-feet 
+     of water;
+       (B) an assessment of Mexico's capabilities for delivering 
+     1,750,000 acre-feet of water by the final year of the five-
+     year cycle described in the Treaty; and
+       (C) an identification of significant economic sectors or 
+     activities in Mexico that are situated in, or substantially 
+     dependent upon, irrigation districts that benefit from--
+       (i) water delivered to Mexico by the United States; or
+       (ii) the 6 tributaries of the Rio Grande from which Mexico 
+     is obligated to deliver water pursuant to the Treaty.
+       (b) Limitation on Engagement.--
+       (1) In general.--If, in a report required by subsection 
+     (a), the Secretary makes a negative determination under 
+     paragraph (2)(A) of that subsection, the President--
+       (A) shall deny all non-Treaty requests by Mexico; and
+       (B) may limit or terminate engagement with the Government 
+     of Mexico related to the sectors or activities in Mexico 
+     identified under subsection (a)(2)(C), other than engagement 
+     to counter the flow of fentanyl, fentanyl precursors, 
+     xylazine, and other synthetic drugs into the United States.
+       (2) Exception.--The limitation described in paragraph 
+     (1)(A) shall not apply to a non-Treaty request by Mexico if 
+     the Secretary submits to the appropriate committees of 
+     Congress, not later than 120 days after the submission of the 
+     report described in paragraph (1), and every 120 days 
+     thereafter, a certification that--
+       (A) the water delivered through such channels--
+       (i) will be used exclusively to address an ongoing 
+     ecological, environmental, or humanitarian emergency; and
+       (ii) will not be used for--
+
+       (I) municipal purposes;
+       (II) industrial purposes;
+       (III) normal water supply needs;
+       (IV) water infrastructure deficiencies; or
+       (V) maintenance work; and
+
+       (B) fulfilling the request is vital to the national 
+     interests of the United States.
+       (c) Definitions.--In this section:
+       (1) Appropriate committees of congress.--The term 
+     ``appropriate committees of Congress'' means--
+       (A) the Committee on Foreign Relations of the Senate; and
+       (B) the Committee on Foreign Affairs of the House of 
+     Representatives.
+       (2) Non-treaty request.--The term ``non-Treaty request'' 
+     means an emergency request for special delivery channels for 
+     the delivery of water made pursuant to any current or future 
+     Minute of the International Boundary and Water Commission 
+     based on the principles established in Commission Minute No. 
+     240, entitled ``Emergency Deliveries of Colorado River Waters 
+     for Use in Tijuana'', dated June 13, 1972, as subsequently 
+     amended and extended, most recently by Commission Minute No. 
+     327, entitled ``Emergency Deliveries of Colorado River Waters 
+     For Use In the City of Tijuana, Baja California'', dated 
+     January 28, 2022.
+                                 ______
+```
