@@ -1,0 +1,227 @@
+---
+granule: CREC-2026-06-18-pt1-PgS2922-2
+date: 2026-06-18
+edition: CREC
+section: SENATE
+page: S2922
+citation: 172 Cong. Rec. S2922
+---
+
+# MODERNIZATION, ACCOUNTABILITY, AND PLANNING FOR BROADBAND FUNDING ACT
+
+**Speaking:** Fischer, Deb (F000463) [R-NE]
+
+**Measures:** S. 2585
+
+```
+ MODERNIZATION, ACCOUNTABILITY, AND PLANNING FOR BROADBAND FUNDING ACT
+
+  Mrs. FISCHER. Mr. President, I rise today to discuss an issue that is 
+near and dear to the State of Nebraska and to rural America, and that 
+is the issue of closing the digital divide for unserved and underserved 
+communities.
+  My husband Bruce and I raised our family on a cattle ranch near 
+Valentine, NE, so I know what it means to
+
+[[Page S2923]]
+
+live in a community where reliable internet is a luxury--it is not a 
+given--and I know the opportunities rural America is missing as a 
+result, from education and telehealth to entrepreneurship and precision 
+agriculture.
+  Over the past decade, Congress has provided tens of billions of 
+dollars for hundreds of programs administered by more than a dozen 
+Federal Agencies. The centerpiece of that investment was the BEAD 
+Program--a more than $40 billion broadband deployment initiative 
+included in the Infrastructure Investment and Jobs Act, and it was 
+enacted into law nearly 5 years ago.
+  As part of that legislation, I worked in a bipartisan fashion with 
+Senator Cortez Masto to create the Broadband Funding Map--an FCC tool 
+that provides a public overview of broadband infrastructure deployment 
+projects that are funded with Federal dollars. But now we must ask, are 
+those dollars making a difference for the families, for the businesses, 
+and for the communities that need them the most? The American people, 
+Federal Agencies, and broadband providers deserve clarity so they can 
+make informed decisions about where additional investment is needed. 
+This will also help avoid duplicative Federal funding.
+  Since then, we have identified a need for fresh oversight of the 
+FCC's management of this tool. That is why Senator Cortez Masto and I 
+introduced the MAP for Broadband Funding Act. At its core, this bill is 
+about accountability. It will strengthen oversight of the Federal 
+Communications Commission and direct it to review how usable and 
+accurate that map really is for the public and also for providers. It 
+also tasks the Government Accountability Office with ensuring Federal 
+Agencies are reporting information correctly. If the map is flawed, 
+then the billions of dollars that are tied to it risk missing the mark.
+  I am proud that this bipartisan bill cleared the Senate Commerce 
+Committee unanimously in February. Now it is time for the full Senate 
+to pass it too. Americans will be better connected and better served 
+because of it.
+  Mr. President, as if in legislative session and notwithstanding rule 
+XXII, I ask unanimous consent that the Senate proceed to the immediate 
+consideration of Calendar No. 407, S. 2585.
+  The PRESIDING OFFICER. The clerk will report the bill by title.
+  The senior assistant legislative clerk read as follows:
+
+       A bill (S. 2585) to modernize and improve the Broadband 
+     Funding Map in order to promote the most efficient use of 
+     Federal funds for broadband deployment, and for other 
+     purposes.
+
+  There being no objection, the Senate proceeded to consider the bill, 
+which had been reported from the Committee on Commerce, Science, and 
+Transportation, with an amendment to strike all after the enacting 
+clause and insert the part printed in italic, as follows:
+
+     SECTION 1. SHORT TITLE.
+
+       This Act may be cited as the ``Modernization, 
+     Accountability, and Planning for Broadband Funding Act'' or 
+     the ``MAP for Broadband Funding Act''.
+
+     SEC. 2. DEFINITIONS.
+
+       In this Act:
+       (1) Appropriate congressional committees.--The term 
+     ``appropriate congressional committees'' means--
+       (A) the Committee on Commerce, Science, and Transportation 
+     of the Senate; and
+       (B) the Committee on Energy and Commerce of the House of 
+     Representatives.
+       (2) Broadband funding map.--The term ``Broadband Funding 
+     Map'' means the Deployment Locations Map, as defined in 
+     section 60105(a) of the Infrastructure Investment and Jobs 
+     Act (47 U.S.C. 1704(a)).
+       (3) Broadband infrastructure.--The term ``broadband 
+     infrastructure'' has the meaning given that term in section 
+     60105(a) of the Infrastructure Investment and Jobs Act (47 
+     U.S.C. 1704(a)).
+       (4) Commission.--The term ``Commission'' means the Federal 
+     Communications Commission.
+       (5) NTIA.--The term ``NTIA'' means the National 
+     Telecommunications and Information Administration.
+
+     SEC. 3. BROADBAND FUNDING MAP MODERNIZATION.
+
+       (a) In General.--The Commission, in coordination with NTIA, 
+     shall collect data submitted for the Broadband Funding Map by 
+     relevant Federal agencies on a reasonable and timely basis 
+     pursuant to section 60105(d) of the Infrastructure Investment 
+     and Jobs Act (47 U.S.C. 1704(d)), in order to promote the 
+     most efficient use of Federal funds for broadband deployment 
+     and prevent inefficient use or fragmentation of Federal 
+     funding for broadband infrastructure.
+       (b) Inquiry.--
+       (1) Notice of inquiry.--
+       (A) In general.--Subject to subparagraph (B), not later 
+     than 270 days after the date of enactment of this Act, the 
+     Commission shall initiate a notice of inquiry concerning the 
+     optimum functionality and transparency of the Broadband 
+     Funding Map, including the quality and completeness of the 
+     data populated to the Broadband Funding Map.
+       (B) Request for vote.--Any Commissioner may request a vote 
+     at the Commission level prior to the initiation of a notice 
+     of inquiry required under subparagraph (A). Upon such 
+     request, the notice of inquiry required under subparagraph 
+     (A) may not proceed unless a majority of the Commissioners 
+     vote to approve the notice of inquiry.
+       (2) Evaluation considerations.--In the inquiry, the 
+     Commission shall include evaluation of the following 
+     considerations:
+       (A) The adequacy with which Federal agencies have been able 
+     to collect and submit the required categories of data 
+     pursuant to section 60105(d) of the Infrastructure Investment 
+     and Jobs Act (47 U.S.C. 1704(d)) to date.
+       (B) The usability of such existing categories of data 
+     described in subparagraph (A) to the public, and whether any 
+     category should be added, eliminated, or otherwise altered 
+     for improved user experience.
+       (C) The timeliness of periodic updates from Federal 
+     agencies to the Broadband Funding Map pursuant to section 
+     60105(e) of the Infrastructure Investment and Jobs Act (47 
+     U.S.C. 1704(e).
+       (D) Whether the scope of programmatic data to be reported 
+     to the Broadband Funding Map pursuant to section 60105(d)(1) 
+     of the Infrastructure Investment and Jobs Act (47 U.S.C. 
+     1704(d)(1)) should be expanded.
+       (E) Whether third-party mapping data should be incorporated 
+     to improve the functionality and transparency of the 
+     Broadband Funding Map.
+       (F) Any manners in which the Commission should potentially 
+     augment or streamline the Broadband Funding Map with existing 
+     Commission mapping tools.
+       (3) Completion.--Not later than 120 days after the 
+     initiation of the inquiry under paragraph (1), the Commission 
+     shall complete the inquiry.
+
+     SEC. 4. GAO STUDY AND REPORT.
+
+       (a) In General.--Not later than 180 days after the date of 
+     enactment of this Act, the Comptroller General of the United 
+     States shall--
+       (1) conduct a study on the roles, responsibilities, and 
+     progress to date of Federal agencies to maintain the 
+     Broadband Funding Map and ensure the completeness and 
+     continued relevance of the Broadband Funding Map; and
+       (2) submit to the appropriate congressional committees a 
+     report on the study under paragraph (1) that includes the 
+     findings and conclusions of the Comptroller General.
+       (b) Requirements.--In conducting the study required under 
+     subsection (a), the Comptroller General shall review the 
+     following:
+       (1) The extent to which each eligible Federal agency is 
+     submitting programmatic data to the Broadband Funding Map 
+     adequately and in compliance with section 60105 of the 
+     Infrastructure Investment and Jobs Act (47 U.S.C. 1704), 
+     including identification of any--
+       (A) successful best practices in submitting such data to 
+     the Commission; and
+       (B) challenges resulting in incomplete data submissions 
+     from an agency or individual program to the Commission.
+       (2) The proficiency of the Commission's management of the 
+     Broadband Funding Map and related interagency collaboration.
+       (3) Whether the Commission has sufficient authority to 
+     collect the necessary data from Federal agencies to populate 
+     the Broadband Funding Map.
+       (4) The respective data collection efforts of NTIA pursuant 
+     to the ACCESS BROADBAND Act (47 U.S.C. 1307) and section 
+     60105 of the Infrastructure Investment and Jobs Act ( 47 
+     U.S.C. 1704).
+       (5) The effectiveness of coordination among the Commission, 
+     NTIA, and other relevant Federal agencies that provide 
+     funding for broadband infrastructure deployment, including 
+     the Department of Agriculture, the Department of Health and 
+     Human Services, the Department of the Treasury, the 
+     Department of Housing and Urban Development, and the 
+     Institute of Museum and Library Services, pursuant to section 
+     60105(g) of the Infrastructure Investment and Jobs Act (47 
+     U.S.C. 1704(g)).
+       (6) How enhanced use of the Broadband Funding Map by 
+     relevant Federal agencies could improve taxpayer savings.
+       (7) The feasibility and potential benefits of incorporating 
+     third-party mapping data into the Broadband Funding Map.
+
+  Mrs. FISCHER. Mr. President, I ask unanimous consent that the 
+committee-reported substitute amendment be agreed to and that the bill, 
+as amended, be considered read a third time.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The committee-reported amendment in the nature of a substitute was 
+agreed to.
+  The bill was ordered to be engrossed for a third reading and was read 
+the third time.
+  Mrs. FISCHER. I know of no further debate on the bill, as amended.
+  The PRESIDING OFFICER. Is there further debate?
+  If not, the bill having been read the third time, the question is, 
+Shall the bill pass?
+  The bill (S. 2585), as amended, was passed.
+  Mrs. FISCHER. I ask unanimous consent that the motion to reconsider 
+be
+
+[[Page S2924]]
+
+considered made and laid upon the table.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  Mrs. FISCHER. I yield the floor.
+
+                          ____________________
+```
