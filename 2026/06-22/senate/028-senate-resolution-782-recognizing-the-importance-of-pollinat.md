@@ -1,0 +1,87 @@
+---
+granule: CREC-2026-06-22-pt1-PgS2987
+date: 2026-06-22
+edition: CREC
+section: SENATE
+page: S2987
+citation: 172 Cong. Rec. S2987
+---
+
+# SENATE RESOLUTION 782--RECOGNIZING THE IMPORTANCE OF POLLINATORS TO ECOSYSTEM HEALTH AND AGRICULTURE IN THE UNITED STATES BY DESIGNATING JUNE 22 THROUGH JUNE 28, 2026, AS "NATIONAL POLLINATOR WEEK"
+
+**Measures:** S.Res. 782
+
+```
+                         SUBMITTED RESOLUTIONS
+
+                                 ______
+                                 
+
+  SENATE RESOLUTION 782--RECOGNIZING THE IMPORTANCE OF POLLINATORS TO 
+ ECOSYSTEM HEALTH AND AGRICULTURE IN THE UNITED STATES BY DESIGNATING 
+     JUNE 22 THROUGH JUNE 28, 2026, AS ``NATIONAL POLLINATOR WEEK''
+
+  Mr. MERKLEY submitted the following resolution; which was referred to 
+the Committee on Environment and Public Works:
+
+                              S. Res. 782
+
+       Whereas pollinators like native bees, butterflies and 
+     moths, birds and bats, and beetles play a vital role in 
+     agriculture throughout the United States and help produce a 
+     healthy and affordable food supply while also maintaining the 
+     health and diversity of ecosystems;
+       Whereas various native pollinator species help reproduce at 
+     least 80 percent of flowering plants, making pollinators 
+     indispensable for sustaining the biodiversity of natural 
+     ecosystems;
+       Whereas enhancing native pollinator and honey bee 
+     populations can result in improved and essential pollination 
+     services for neighboring land, including agriculture and 
+     wildlife ecosystems;
+       Whereas it is in the strong economic interest of 
+     agricultural producers and consumers in the United States to 
+     help ensure healthy, sustainable pollinator populations, as 
+     pollinators add more than $18,000,000,000 in revenue to crop 
+     production in the United States each year, including more 
+     than 100 crops that either need or benefit from native 
+     pollinators;
+       Whereas pollinators also contribute to clean air and water, 
+     stable soil, and a diversity of wildlife needed for healthy 
+     and productive natural ecosystems;
+       Whereas a number of North American bumble bees are 
+     threatened or endangered, while iconic species like the 
+     Western monarch butterfly have declined by 99 percent due to 
+     dwindling habitat, disease, and other threats;
+       Whereas the Western monarch butterfly population has 
+     significantly declined from nearly 10,000,000 butterflies in 
+     the 1980s to fewer than 2,000 butterflies in 2020, and the 
+     population of this iconic species remains perilously small 
+     and vulnerable to yearly fluctuations, prompting the monarch 
+     butterfly to be proposed as threatened;
+       Whereas more than 70 native pollinator species are listed 
+     by the Federal Government as threatened or endangered, with 
+     the rusty patched bumble bee, the Powesheik skipperling, and 
+     the Dakota skipper listed within the past decade; and
+       Whereas declines in the health and population of native 
+     pollinators potentially pose a substantial threat to global 
+     food webs, ecological diversity, and human health: Now, 
+     therefore, be it
+       Resolved, That the Senate--
+       (1) expresses support for the designation of June 22 
+     through June 28, 2026, as ``National Pollinator Week'';
+       (2) acknowledges the significance that all types of 
+     pollinators play in sustaining agriculture, promoting 
+     biodiversity, and maintaining the overall health of natural 
+     ecosystems;
+       (3) encourages the people of the United States to observe 
+     National Pollinator Week with appropriate ceremonies and 
+     conservation and educational activities; and
+       (4) intends to--
+       (A) continue working to conserve native pollinator species 
+     and their various habitats; and
+       (B) work to improve the overall understanding of the 
+     importance of native pollinators.
+
+                          ____________________
+```
