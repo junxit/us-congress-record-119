@@ -1,0 +1,486 @@
+---
+granule: CREC-2026-06-23-pt1-PgS3113-2
+date: 2026-06-23
+edition: CREC
+section: SENATE
+page: S3113
+citation: 172 Cong. Rec. S3113
+---
+
+# Text of Senate Amendment 5976
+
+**Speaking:** Cornyn, John (C001056) [R-TX]
+
+```
+  SA 5976. Mr. CORNYN (for himself and Mr. Kaine) submitted an 
+amendment intended to be proposed by him to the bill S. 4784, to 
+authorize appropriations for fiscal year 2027 for military activities 
+of the Department of Defense, for military construction, and for 
+defense activities of the Department of Energy, to prescribe military 
+personnel strengths for such fiscal year, and for other purposes; which 
+was ordered to lie on the table; as follows:
+
+        At the end of title XII, add the following:
+
+             Subtitle F--Legal Gold and Mining Partnership
+
+     SEC. 1271. SHORT TITLE.
+
+       This subtitle may be cited as the ``United States Legal 
+     Gold and Mining Partnership Act''.
+
+     SEC. 1272. FINDINGS.
+
+       Congress makes the following findings:
+       (1) The illicit mining, trafficking, and commercialization 
+     of gold in the Western Hemisphere--
+       (A) negatively affects the region's economic and social 
+     dynamics;
+       (B) strengthens transnational criminal organizations and 
+     other international illicit actors; and
+       (C) has a deleterious impact on the environment, indigenous 
+     peoples, and food security.
+       (2) A lack of economic opportunities and the weak rule of 
+     law promote illicit activities, such as illicit gold mining, 
+     which increases the vulnerability of individuals in mining 
+     areas, including indigenous communities, which have been 
+     subjected to trafficking in persons, other human rights 
+     abuses, and population displacement in relation to mining 
+     activity, particularly in the artisanal and small-scale 
+     mining sector.
+       (3) Illicit gold mining in Latin America often involves and 
+     benefits transnational criminal organizations, drug 
+     trafficking organizations, terrorist groups, and other 
+     illegal armed groups that extort miners and enter into 
+     illicit partnerships with them in order to gain revenue from 
+     the illicit activity.
+       (4) Illicit gold supply chains are international in nature 
+     and frequently involve--
+       (A) the smuggling of gold and supplies, such as mercury;
+       (B) trade-based money laundering; and
+       (C) other cross-border flows of illicit assets.
+       (5) In Latin America, mineral traders and exporters, local 
+     processors, and shell companies linked to transnational 
+     criminal networks and illegally armed groups all play a key 
+     role in the trafficking, laundering, and commercialization of 
+     illicit gold from the region.
+       (6) According to a report on illegally mined gold in Latin 
+     America by the Global Initiative Against Transnational 
+     Organized Crime--
+       (A) more than 70 percent of the gold mined in several Latin 
+     American countries, such as Colombia, Ecuador, and Peru, is 
+     mined through illicit means; and
+       (B) about 80 percent of the gold mined in Venezuela is 
+     mined through illicit means and a large percentage of such 
+     gold is sold--
+       (i) to Mibiturven, a joint venture operated by authorities 
+     in Venezuela and composed of Minerven, a gold processor that 
+     has been designated by the Office of Foreign Assets Control 
+     of the Department of the Treasury, pursuant to Executive 
+     Order 13850 (relating to blocking property of additional 
+     persons contributing to the situation in Venezuela), and 
+     Marilyns Proje Yatirim, S.A., which is a Turkish company; or
+       (ii) through other trafficking and commercialization 
+     networks from which authorities in Venezuela benefit 
+     financially.
+       (7) Illegal armed groups and foreign terrorist 
+     organizations, such as the Ejercito de Liberacion Nacional 
+     (National Liberation Army--ELN), work with transnational 
+     criminal organizations in Venezuela that participate in the 
+     illicit mining, trafficking, and commercialization of gold.
+       (8) Transnational criminal organizations based in 
+     Venezuela, such as El Tren de Aragua, have expanded their 
+     role in the illicit mining, trafficking, and 
+     commercialization of gold to increase their criminal profits.
+       (9) Nicaragua's gold exports during 2023 were valued at an 
+     estimated $1,240,000,000, of which--
+       (A) gold valued at an estimated $637,000,000 was shipped to 
+     the United States;
+       (B) gold valued at an estimated $353,000,000 was shipped to 
+     Canada;
+       (C) gold valued at an estimated $244,000,000 was shipped to 
+     Switzerland; and
+       (D) gold valued at an estimated $6,560,000 was shipped to 
+     Italy.
+       (10) U.S. Customs and Border Protection has recognized that 
+     illegal logging is the
+
+[[Page S3114]]
+
+     world's most profitable natural resource crime and that 
+     profits from illegal logging finance illegal mining.
+
+     SEC. 1273. DEFINITIONS.
+
+       In this subtitle:
+       (1) Appropriate congressional committees.--The term 
+     ``appropriate congressional committees'' means--
+       (A) the Committee on Foreign Relations of the Senate;
+       (B) the Committee on the Judiciary of the Senate;
+       (C) the Committee on Banking, Housing, and Urban Affairs of 
+     the Senate;
+       (D) the Select Committee on Intelligence of the Senate;
+       (E) the Committee on Foreign Affairs of the House of 
+     Representatives;
+       (F) the Committee on the Judiciary of the House of 
+     Representatives;
+       (G) the Committee on Financial Services of the House of 
+     Representatives; and
+       (H) the Permanent Select Committee on Intelligence of the 
+     House of Representatives.
+       (2) Artisanal and small-scale mining; asm.--The terms 
+     ``artisanal and small-scale mining'' and ``ASM'' refer to a 
+     form of mining common in the developing world that--
+       (A) typically employs rudimentary, simple, and low-cost 
+     extractive technologies and manual labor-intensive 
+     techniques;
+       (B) is frequently subject to limited regulation; and
+       (C) often features harsh and dangerous working conditions.
+       (3) Key stakeholders.--The term ``key stakeholders'' means 
+     private sector organizations, industry representatives, and 
+     civil society groups that represent communities in areas 
+     affected by illicit mining and trafficking of gold, including 
+     indigenous groups, that are committed to the implementation 
+     of the Legal Gold and Mining Partnership Strategy.
+       (4) Legal gold and mining partnership strategy; strategy.--
+     The terms ``Legal Gold and Mining Partnership Strategy'' and 
+     ``Strategy'' mean the strategy developed pursuant to section 
+     1274.
+       (5) Relevant federal departments and agencies.--The term 
+     ``relevant Federal departments and agencies'' means the 
+     Department of State and all other Federal departments and 
+     agencies designated by the President as having significant 
+     domestic or foreign affairs equities in countering illicit 
+     mining.
+       (6) Secretary.--The term ``Secretary'' means the Secretary 
+     of State.
+
+     SEC. 1274. LEGAL GOLD AND MINING PARTNERSHIP STRATEGY.
+
+       (a) Strategy Required.--The Secretary, in coordination with 
+     the heads of relevant Federal departments and agencies, shall 
+     develop a comprehensive, multi-year strategy, which shall be 
+     known as the Legal Gold and Mining Partnership Strategy, to 
+     combat illicit gold mining in the Western Hemisphere.
+       (b) Elements.--The Strategy shall include policies, 
+     programs, and initiatives--
+       (1) to interrupt the linkages between gold mining, 
+     including ASM, and illicit actors that profit from illicit 
+     mining in the Western Hemisphere;
+       (2) to deter ASM in environmentally protected areas, such 
+     as national parks and conservation zones, to prevent mining-
+     related contamination of critical natural resources, such as 
+     water resources, soil, tropical forests, and other flora and 
+     fauna, and aerosol contamination linked to detrimental health 
+     impacts;
+       (3) to counter the financing and enrichment of actors 
+     involved in the illicit mining, trafficking, and 
+     commercialization of gold, and the abetting of their 
+     activities by--
+       (A) promoting the exercise of due diligence and the use of 
+     responsible sourcing methods in the purchase and trade of 
+     ASM;
+       (B) preventing and prohibiting foreign persons who control 
+     commodity trading chains linked to illicit actors from 
+     enjoying the benefits of access to the territory, markets or 
+     financial system of the United States, and halting any such 
+     ongoing activity by such foreign persons;
+       (C) combating related impunity afforded to illicit actors 
+     by addressing corruption in government institutions and 
+     interrupting linkages between corrupt officials and illicit 
+     actors that exploit ASM miners;
+       (D) supporting the capacity of financial intelligence 
+     units, customs agencies, and other government institutions 
+     focused on anti-money laundering initiatives and combating 
+     the financing of criminal activities and terrorism to 
+     exercise oversight consistent with the threats posed by 
+     illicit gold mining; and
+       (E) working with the governments and appropriate 
+     institutions of countries that host gold refineries or 
+     processing centers to deter the importation of illicit gold 
+     and implement greater due diligence practices;
+       (4) to build the capacity of foreign civilian law 
+     enforcement institutions in the Western Hemisphere to 
+     effectively counter--
+       (A) linkages between illicit gold mining, illicit actors, 
+     money laundering, and other financial crimes, including 
+     trade-based money laundering;
+       (B) linkages between illicit gold mining, illicit actors, 
+     trafficking in persons, and forced or coerced labor, 
+     including sex work and child labor;
+       (C) linkages between illicit gold mining, illicit actors, 
+     and the illegal timber trade;
+       (D) the cross-border trafficking of illicit gold, and the 
+     mercury, cyanide, explosives, and other hazardous materials 
+     used in illicit gold mining, particularly those originating 
+     in China or trafficked by transnational criminal 
+     organizations; and
+       (E) surveillance and investigation of illicit and related 
+     activities that are related to or are indicators of illicit 
+     gold mining activities;
+       (5) to ensure the successful implementation of the existing 
+     Memoranda of Understanding signed with the Governments of 
+     Peru and of Colombia in 2017 and 2018, respectively, to 
+     expand bilateral cooperation to combat illicit gold mining;
+       (6) to work with governments in the Western Hemisphere, 
+     bolster the effectiveness of anti-money laundering efforts to 
+     combat the financing of illicit actors in Latin America and 
+     the Caribbean and counter the laundering of proceeds related 
+     to illicit gold mining by--
+       (A) fostering international and regional cooperation and 
+     facilitating intelligence sharing, as appropriate, to 
+     identify and disrupt financial flows related to the illicit 
+     gold mining, trafficking, and commercialization of gold and 
+     other minerals and illicit metals; and
+       (B) supporting the formulation of strategies to ensure the 
+     compliance of reporting institutions involved in the mining 
+     sector and to promote transparency in mining-sector 
+     transactions;
+       (7) to support foreign government efforts--
+       (A) to facilitate licensing and formalization processes for 
+     ASM miners;
+       (B) to develop mechanisms to support regulated cultural 
+     artisanal mining and artisanal mining as a job growth area; 
+     and
+       (C) to implement existing environmental standards;
+       (8) to engage the mining industry and relevant trade or 
+     industry associations to encourage the building of technical 
+     expertise in best practices and access to new technologies;
+       (9) to support the establishment of gold commodity supply 
+     chain due diligence, responsible sourcing, tracing and 
+     tracking capacities, and standards-compliant commodity 
+     certification systems in countries in Latin America and the 
+     Caribbean, including efforts recommended in the OECD Due 
+     Diligence Guidance for Responsible Supply Chains of Minerals 
+     from Conflict-Affected and High Risk Areas, Third Edition 
+     (2016);
+       (10) to engage with civil society to reduce the negative 
+     environmental impacts of ASM, particularly--
+       (A) the use of mercury in preliminary refining;
+       (B) the destruction of tropical forests;
+       (C) the construction of illegal and unregulated dams and 
+     the resulting valley floods;
+       (D) the pollution of water resources and soil; and
+       (E) the release of dust, which can contain toxic chemicals 
+     and heavy metals that can cause severe health problems;
+       (11) to aid and encourage ASM miners--
+       (A) to formalize their business activities, including 
+     through skills training, technical and business assistance, 
+     and access to financing, loans, and credit;
+       (B) to utilize mercury-free gold refining technologies and 
+     mining methods that minimize deforestation, air pollution, 
+     and water and soil contamination;
+       (C) to reduce the costs associated with formalization and 
+     compliance with mining regulations; and
+       (D) to fully break away from the influence of illicit 
+     actors who leverage the control of territory and use violence 
+     to extort miners and push them into illicit arrangements;
+       (12) to interrupt the illicit gold trade in Nicaragua, 
+     including through the use of targeted United States measures 
+     against the government led by President Daniel Ortega and 
+     Vice-President Rosario Murillo and their collaborators 
+     pursuant to Executive Order 14088 (relating to taking 
+     additional steps to address the national emergency with 
+     respect to the situation in Nicaragua), which was issued on 
+     October 24, 2022;
+       (13) to assist local journalists with investigations of 
+     illicit mining, trafficking, and commercialization of gold 
+     and its supplies in the Western Hemisphere;
+       (14) to promote responsible sourcing and due diligence at 
+     all levels of gold supply chains, including through the use 
+     of existing widely-adopted, industry-standard responsible 
+     sourcing and due diligence standards;
+       (15) to engage the private sector to develop industry-led 
+     global processing initiatives that aim to redirect illicit 
+     gold flows away from bad actors; and
+       (16) to prevent the intentional misinvoicing of the origins 
+     of gold shipments at transshipment points.
+       (c) Assessment of Challenges.--The Strategy shall include 
+     an assessment of the challenges posed by, and policy 
+     recommendations to address--
+       (1) linkages between ASM sector production and trade, 
+     particularly relating to gold, to the activities of illicit 
+     actors, including linkages that help to finance or enrich 
+     such illicit actors or abet their activities;
+       (2) linkages between illicit or grey market trade, and 
+     markets in gold and other metals or minerals and legal trade 
+     and commerce in such commodities, notably with respect to 
+     activities that abet the entry of such commodities into legal 
+     commerce, including--
+       (A) illicit cross-border trafficking, including with 
+     respect to goods, persons and illegal narcotics;
+       (B) money-laundering;
+       (C) the financing of illicit actors or their activities; 
+     and
+       (D) the extralegal entry into the United States of--
+
+[[Page S3115]]
+
+       (i) metals or minerals, whether of legal foreign origin or 
+     not; and
+       (ii) the proceeds of such metals or minerals;
+       (3) linkages between the illicit mining, trafficking, and 
+     commercialization of gold, diamonds, and precious metals and 
+     stones, and the financial and political activities of 
+     authorities in Venezuela;
+       (4) factors that--
+       (A) produce linkages between ASM miners and illicit actors, 
+     prompting some ASM miners to utilize mining practices that 
+     are environmentally damaging and unsustainable, notably 
+     mining or related ore processing practices that--
+       (i) involve the use of elemental mercury; or
+       (ii) result in labor, health, environmental, and safety 
+     code infractions and workplace hazards; and
+       (B) lead some ASM miners to operate in the extralegal or 
+     poorly regulated informal sector, and often prevent such 
+     miners from improving the socioeconomic status of themselves 
+     and their families and communities, or hinder their ability 
+     to formalize their operations, enhance their technical and 
+     business capacities, and access finance of fair market prices 
+     for their output;
+       (5) mining-related trafficking in persons and forced or 
+     coerced labor, including sex work and child labor; and
+       (6) the use of elemental mercury and cyanide in ASM 
+     operations, including the technical aims and scope of such 
+     usage and its impact on human health and the environment, 
+     including flora, fauna, water resources, soil, and air 
+     quality.
+       (d) Foreign Assistance.--The Strategy shall describe--
+       (1) existing foreign assistance programs that address 
+     elements of the Strategy; and
+       (2) additional foreign assistance resources needed to fully 
+     implement the Strategy.
+       (e) Best Practices.--The Strategy shall, to the extent 
+     practicable, avoid duplication of effort in the development 
+     of due diligence and responsible sourcing standards, 
+     including through the use of existing widely-adopted industry 
+     standards.
+       (f) Submission.--Not later than 180 days after the date of 
+     the enactment of this Act, the President shall submit the 
+     Strategy to the appropriate congressional committees.
+       (g) Semiannual Briefings.--Not later than 180 days after 
+     submission of the Strategy, and semiannually thereafter for 
+     the following 3 years, the Secretary, or the Secretary's 
+     designee, shall provide a briefing to the appropriate 
+     congressional committees regarding--
+       (1) the implementation of the strategy, including efforts 
+     to leverage international support and develop a public-
+     private partnership to build responsible gold value chains 
+     with other governments;
+       (2) revisions to the Strategy that are needed to better 
+     align the Strategy to new or emerging challenges in combating 
+     illicit gold mining; and
+       (3) recommendations from the Strategy that can be applied 
+     to combat illicit gold mining on a global scale.
+
+     SEC. 1275. CLASSIFIED BRIEFING ON ILLICIT GOLD MINING IN 
+                   VENEZUELA.
+
+       Not later than 90 days after the date of the enactment of 
+     this Act, the Secretary, or the Secretary's designee, in 
+     coordination with the Director of National Intelligence, or 
+     the Director's designee, shall provide a classified briefing 
+     to the appropriate congressional committees, the Select 
+     Committee on Intelligence of the Senate, and the Permanent 
+     Select Committee on Intelligence of the House of 
+     Representatives that describes--
+       (1) the activities related to illicit gold mining, 
+     including the illicit mining, trafficking, and 
+     commercialization of gold, inside Venezuelan territory 
+     carried out by illicit actors, including defectors from the 
+     Revolutionary Armed Forces of Colombia (FARC) and members of 
+     the National Liberation Army (ELN); and
+       (2) Venezuela's illicit gold trade with foreign 
+     governments, including the Government of the Republic of 
+     Turkey and the Government of the Islamic Republic of Iran.
+
+     SEC. 1276. INVESTIGATION OF THE ILLICIT GOLD TRADE IN 
+                   VENEZUELA.
+
+       The Secretary, in coordination with relevant Federal 
+     departments and agencies, and allied and partner governments 
+     in the Western Hemisphere, shall--
+       (1) lead a coordinated international effort to carry out 
+     financial investigations to identify and track assets taken 
+     from the people and institutions in Venezuela that are linked 
+     to money laundering and illicit activities, including mining-
+     related activities, by sharing financial investigations 
+     intelligence, as appropriate and as permitted by law; and
+       (2) provide technical assistance to help eligible 
+     governments in Latin America establish legislative and 
+     regulatory frameworks capable of imposing and effectively 
+     implementing targeted sanctions on--
+       (A) authorities in Venezuela who are directly engaged in 
+     the illicit mining, trafficking, and commercialization of 
+     gold; and
+       (B) foreign persons engaged in the laundering of illicit 
+     gold assets linked to designated terrorist and drug 
+     trafficking organizations.
+
+     SEC. 1277. LEVERAGING INTERNATIONAL SUPPORT.
+
+       In implementing the Strategy pursuant to section 1274, the 
+     President should direct United States representatives 
+     accredited to relevant multilateral institutions and 
+     development banks and United States ambassadors in the 
+     Western Hemisphere to use the influence of the United States 
+     to foster international cooperation to achieve the objectives 
+     of this subtitle, including--
+       (1) marshaling resources and political support; and
+       (2) encouraging the development of policies and 
+     consultation with key stakeholders to accomplish such 
+     objectives and provisions.
+
+     SEC. 1278. PUBLIC-PRIVATE PARTNERSHIP TO BUILD RESPONSIBLE 
+                   GOLD VALUE CHAINS.
+
+       (a) In General.--The Secretary shall coordinate with the 
+     Governments of Colombia, of Ecuador, of Peru, and of other 
+     democratically-elected governments in the region determined 
+     by the Secretary to establish a public-private partnership to 
+     support programming in participating countries that will--
+       (1) support the ASM gold mining sector's formalization and 
+     compliance with the existing environmental and labor 
+     standards in participating countries;
+       (2) increase awareness of access to financing for ASM gold 
+     miners who are taking significant steps to formalize their 
+     operations and comply with the existing labor and 
+     environmental standards in participating countries;
+       (3) enhance the traceability and support the establishment 
+     of a certification process for ASM gold;
+       (4) support a public relations campaign to promote 
+     responsibly-sourced gold;
+       (5) include representatives of local civil society to work 
+     towards soliciting the free and informed consent of those 
+     living on lands with mining potential;
+       (6) facilitate contact between vendors of responsibly-
+     sourced gold and United States companies; and
+       (7) promote policies and practices in participating 
+     countries that are conducive to the formalization of ASM gold 
+     mining and promoting adherence of ASM to internationally-
+     recognized best practices and standards.
+
+     SEC. 1279. RULE OF CONSTRUCTION REGARDING NOT AUTHORIZING THE 
+                   USE OF MILITARY FORCE.
+
+       Nothing in this subtitle may be construed as authorizing 
+     the use of military force or the introduction of United 
+     States forces into hostilities.
+
+     SEC. 1280. CONSIDERATION OF CERTAIN TRANSACTIONS INVOLVING 
+                   PRECIOUS METALS FOR PURPOSES OF IDENTIFYING 
+                   PRIMARY MONEY LAUNDERING CONCERNS.
+
+       Section 5318A(c)(2)(A) of title 31, United States Code, is 
+     amended--
+       (1) in clause (vi), by striking ``and'' at the end;
+       (2) in clause (vii), by striking the period at the end and 
+     inserting ``; and''; and
+       (3) by adding at the end the following:
+       ``(viii) the extent to which transnational criminal 
+     organizations, drug trafficking organizations, terrorist 
+     groups, and other illegal armed groups exploit that 
+     jurisdiction to derive significant revenue through the 
+     illicit mining or trafficking of precious metals.''.
+                                 ______
+```
