@@ -1,0 +1,210 @@
+---
+granule: CREC-2026-06-24-pt1-PgS3548-3
+date: 2026-06-24
+edition: CREC
+section: SENATE
+page: S3548
+citation: 172 Cong. Rec. S3548
+---
+
+# Text of Senate Amendment 6427
+
+**Speaking:** Cortez Masto, Catherine (C001113) [D-NV]
+
+```
+  SA 6427. Ms. CORTEZ MASTO (for herself and Ms. Ernst) submitted an 
+amendment intended to be proposed by her to the bill S. 4784, to 
+authorize appropriations for fiscal year 2027 for military activities 
+of the Department of Defense, for military construction, and for 
+defense activities of the Department of Energy, to prescribe military 
+personnel strengths for such fiscal year, and for other purposes; which 
+was ordered to lie on the table; as follows:
+
+       At the end of title XII, add the following:
+
+                  Subtitle F--Pacific Partnership Act
+
+     SEC. 1281. SHORT TITLE.
+
+       This subtitle may be cited as the ``Pacific Partnership 
+     Act''.
+
+     SEC. 1282. SENSE OF CONGRESS.
+
+       It is the sense of Congress as follows:
+       (1) The United States has longstanding and enduring 
+     cultural, historic, economic, strategic, and people-to-people 
+     connections with the Pacific Islands, based on shared values, 
+     cultural histories, common interests, and a commitment to 
+     fostering mutual understanding and cooperation.
+       (2) Successive United States administrations have 
+     recognized the critical importance of the Pacific Islands, to 
+     the world in high-level strategic documents, including the--
+       (A) 2015 National Security Strategy, which first declared 
+     the rebalance to Asia and the Pacific, affirmed the United 
+     States as a Pacific nation, and paved the way for subsequent 
+     United States engagement with the Pacific Islands;
+       (B) 2017 National Security Strategy, which includes a 
+     commitment to ``shore up fragile partner states in the 
+     Pacific Islands region to reduce their vulnerability to 
+     economic fluctuations and natural disasters'';
+       (C) 2019 Indo-Pacific Strategy Report, which identified the 
+     Pacific Islands as ``critical to United States strategy 
+     because of our shared values, interests, and commitments'';
+       (D) 2022 Indo-Pacific Strategy Report, which recognized the 
+     need to engage further with the Pacific Islands on shared 
+     security goals; and
+       (E) 2022 Strategy for Pacific Partnership, which outlined 
+     goals and methods for deepening the United States 
+     partnerships with Pacific Island nations.
+       (3) The United States Government should further develop, 
+     expand, and support a comprehensive and multifaceted United 
+     States policy for the Pacific Islands that--
+       (A) promotes peace, security, and prosperity for all 
+     countries that respects the sovereignty and political 
+     independence of all nations;
+       (B) preserves the Pacific Ocean as a corridor for 
+     international maritime economic opportunities and growth and 
+     promotes sustainable development;
+       (C) supports regional efforts to address shared challenges, 
+     including by strengthening resilience to natural disasters 
+     and stewardship of natural resources; and
+       (D) strengthens democratic governance and the rule of law, 
+     and promotes internationally recognized human rights and the 
+     preservation of the region's cultural heritages.
+       (4) The United States should collaborate closely with 
+     existing regional multilateral institutions and frameworks, 
+     such as the Pacific Islands Forum and the Pacific Community.
+       (5) The United States should work closely with United 
+     States allies and partners with existing relationships and 
+     interests in the Pacific Islands, such as Australia, Japan, 
+     South Korea, New Zealand, and Taiwan, and regional 
+     institutions like the Pacific Islands Forum.
+
+     SEC. 1283. STRATEGY FOR PACIFIC PARTNERSHIP.
+
+       (a) In General.--Not later than January 1, 2026, and again 
+     not later than January 1, 2030, the President, in 
+     coordination with the Secretary of State, shall develop and 
+     submit to the appropriate congressional committees a strategy 
+     entitled the ``Strategy for Pacific Partnership'' (in this 
+     section referred to as the ``Strategy'').
+       (b) Matters To Be Included.--The Strategy shall include 
+     each of the following:
+
+[[Page S3549]]
+
+       (1) A description of overarching goals for United States 
+     engagement in the Pacific Islands region, including United 
+     States diplomatic posts, defense posture, and economic 
+     engagement.
+       (2) An assessment of threats and pressures to the Pacific 
+     Islands region including those caused by factors such as--
+       (A) natural disasters;
+       (B) illegal, unreported, and unregulated fishing;
+       (C) non-United States military presence and activity;
+       (D) developmental challenges;
+       (E) economic coercion and corruption; and
+       (F) other factors assessed to be causing a direct risk to 
+     the United States national interests in the Pacific Islands.
+       (3) A plan to address the threats assessed pursuant to 
+     paragraph (2).
+       (4) A plan for the resources necessary for the United 
+     States to meet its goals in the Pacific Islands region.
+       (5) Mechanisms, including existing forums, for coordinating 
+     and cooperating on shared goals among the following, as 
+     appropriate:
+       (A) the governments of Pacific Island countries;
+       (B) regional partners in the Pacific Islands region, 
+     including multilateral forums and organizations, such as the 
+     Pacific Islands Forum;
+       (C) civil society in the Pacific Islands; and
+       (D) United States subnational governments in the Pacific.
+       (c) Consultation.--In developing the Strategy, the 
+     President should consult, as appropriate, with--
+       (1) relevant United States governmental agencies;
+       (2) regional organizations, such as the Pacific Islands 
+     Forum, the Pacific Islands Development Program, the Pacific 
+     Community, the Forum Fisheries Agency, and the Secretariat of 
+     the Pacific Regional Environment Programme;
+       (3) the governments of the countries in the Pacific 
+     Islands;
+       (4) civil society stakeholders;
+       (5) United States allies and partners; and
+       (6) United States Pacific territories and States.
+
+     SEC. 1284. ALLIES AND PARTNERS IN THE PACIFIC ISLANDS REGION.
+
+       (a) In General.--The President, in consultation with the 
+     Secretary of State, and the relevant heads of other Federal 
+     departments and agencies, should consult and coordinate with 
+     allies and partners in the Pacific Islands region, including 
+     Australia, Japan, New Zealand, Taiwan, and regional 
+     institutions, such as the Pacific Islands Forum, the Pacific 
+     Islands Development Program, the Pacific Community and 
+     Secretariat for the Pacific Regional Environment Programme, 
+     with respect to programs to provide assistance to the Pacific 
+     Islands, including for purposes of--
+       (1) deconflicting programming;
+       (2) ensuring that any programming does not adversely affect 
+     the absorptive capacity of the Pacific Islands;
+       (3) ensuring complementary programs benefit the Pacific 
+     Islands to the maximum extent practicable; and
+       (4) ensuring that programming aligns with regional 
+     development goals to promote a shared vision for the future 
+     of the Pacific Islands.
+       (b) Formal Consultative Process.--The President should 
+     establish a formal consultative process with such regional 
+     allies and partners to coordinate with respect to such 
+     programs and future-years programming.
+
+     SEC. 1285. REPORTING.
+
+       (a) Updates of Certain Reports.--
+       (1) In general.--The Secretary of State, in coordination 
+     with the heads of other Federal departments and agencies as 
+     appropriate, shall annually update the reports listed in 
+     paragraph (2) to include within the scope of such reports a 
+     regional discussion of transnational crime affecting the 
+     Pacific Islands.
+       (2) Reports listed.--The reports listed in this paragraph 
+     are the following:
+       (A) The International Narcotics Control Strategy report 
+     required by section 489 of the Foreign Assistance Act of 1961 
+     (22 U.S.C. 2291h).
+       (B) The Improving International Fisheries Management report 
+     required by section 607 of title VI of the Fisheries Act of 
+     1995 (16 U.S.C. 1826h).
+       (C) The Trafficking in Persons report submitted under 
+     section 110 of the Trafficking Victims Protection Act of 2000 
+     (22 U.S.C. 7107).
+       (b) Modification to Report on Indo-Pacific Region.--Section 
+     5595(c) of the James M. Inhofe National Defense Authorization 
+     Act for Fiscal Year 2023 (Public Law 117-263; 136 Stat. 3393) 
+     is amended--
+       (1) by striking paragraph (1) and redesignating paragraph 
+     (2) as paragraph (1);
+       (2) in paragraph (1), as so redesignated, by striking ``the 
+     2022 Indo-Pacific Strategy, or successor documents,'' and 
+     inserting ``any relevant guidance documents''; and
+       (3) by inserting after paragraph (1), as so redesignated, 
+     the following:
+       ``(2) Implementing any relevant guidance documents that set 
+     forth the United States Government strategy toward the 
+     Pacific Islands region.''.
+
+     SEC. 1286. DEFINITIONS.
+
+       In this subtitle:
+       (1) Appropriate congressional committees.--The term 
+     ``appropriate congressional committees'' means--
+       (A) the Committee on Foreign Affairs of the House of 
+     Representatives; and
+       (B) the Committee on Foreign Relations of the Senate.
+       (2) Pacific islands; pacific islands region.--The term 
+     ``Pacific Islands'' and ``Pacific Islands region'' mean the 
+     nations, territories, and other jurisdictions in the Pacific 
+     Ocean within the broad groupings of Melanesia, Micronesia, 
+     and Polynesia.
+                                 ______
+```
