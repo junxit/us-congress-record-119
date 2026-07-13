@@ -1,0 +1,148 @@
+---
+granule: CREC-2026-07-13-pt1-PgS3820-2
+date: 2026-07-13
+edition: CREC
+section: SENATE
+page: S3820
+citation: 172 Cong. Rec. S3820
+---
+
+# Text of Senate Amendment 6615
+
+**Speaking:** Duckworth, Tammy (D000622) [D-IL]
+
+```
+  SA 6615. Ms. DUCKWORTH submitted an amendment intended to be proposed 
+by her to the bill S. 4784, to authorize appropriations for fiscal year 
+2027 for military activities of the Department of Defense, for military 
+construction, and for defense activities of the Department of Energy, 
+to prescribe military personnel strengths for such fiscal year, and for 
+other purposes; which was ordered to lie on the table; as follows:
+        At the end of subtitle D of title VII, add the following:
+
+     SEC. 771. CODIFICATION OF AUTHORITY FOR JOINT DEPARTMENT OF 
+                   DEFENSE-DEPARTMENT OF VETERANS AFFAIRS MEDICAL 
+                   FACILITY DEMONSTRATION FUND.
+
+       (a) In General.--Chapter 55 of title 10, United States 
+     Code, is amended by adding at the end the following new 
+     section:
+
+     ``Sec. 1110c. Joint Medical Facility Demonstration Fund
+
+       ``(a) Establishment.--There is established on the books of 
+     the Treasury under the Department of Veterans Affairs a fund 
+     to be known as the `Joint Department of Defense-Department of 
+     Veterans Affairs Medical Facility Demonstration Fund' (in 
+     this section referred to as the `Fund' ).
+       ``(b) Use of Amounts.--Amounts in the Fund shall be used to 
+     facilitate the joint funding of designated combined Federal 
+     medical facilities of the Department of Defense and the 
+     Department of Veterans Affairs.
+       ``(c) Transfers to Fund.--
+       ``(1) In general.--Amounts may be transferred to the Fund 
+     by the Secretary of Defense only from amounts first 
+     authorized and appropriated specifically for that purpose on 
+     and after the date of the enactment of the National Defense 
+     Authorization Act for Fiscal Year 2027 for the Department of 
+     Defense and by the Secretary of Veterans Affairs only from 
+     amounts first authorized and appropriated specifically for 
+     that purpose on and after such date for the Department of 
+     Veterans Affairs, and as determined by a methodology jointly 
+     established by the Secretary of Defense and the Secretary of 
+     Veterans Affairs that reflects the mission-specific 
+     activities, workload, and costs of provision of health care 
+     at the facilities of the Department of Defense and the 
+     Department of Veterans Affairs, respectively.
+       ``(2) Transfers of amounts from medical care collections.--
+     Amounts may be transferred to the Fund from medical care 
+     collections under the following authorities for health care 
+     provided at designated combined Federal medical facilities of 
+     the Department of Defense and the Department of Veterans 
+     Affairs:
+       ``(A) Section 1095 of this title.
+       ``(B) Section 1729 of title 38.
+       ``(C) The Act entitled `An Act to provide for the recovery 
+     from tortiously liable third persons of the cost of hospital 
+     and medical care and treatment furnished by the United 
+     States' (Public Law 87-693; 42 U.S.C. 2651 et seq.; commonly 
+     known as the `Federal Medical Care Recovery Act').''.
+       ``(d) Availability of Amounts in Fund.--
+       ``(1) In general.--Amounts transferred to the Fund under 
+     subsection (c) shall be available to fund the operations of 
+     designated combined Federal medical facilities of the 
+     Department of Defense and the Department of Veterans Affairs, 
+     including capital equipment, real property maintenance, and 
+     minor construction projects that are not required to be 
+     specifically authorized by law under section 2805 of this 
+     title or section 8104 of title 38.
+       ``(2) Captain james a. lovell federal health care center.--
+     Amounts transferred to the Fund by the Secretary of Defense 
+     under subsection (c) may be used for facility operations of 
+     the Captain James A. Lovell Federal Health Care Center, 
+     consisting of the North Chicago Veterans Affairs Medical 
+     Center, the Navy Ambulatory Care Center, and supporting 
+     facilities designated as a combined Federal medical facility 
+     under an operational agreement covered by section 706 of the 
+     Duncan Hunter National Defense Authorization Act for Fiscal 
+     Year 2009 (Public Law 110-417; 122 Stat. 4500).
+       ``(3) Limitation.--The availability of amounts transferred 
+     to the Fund under subsection (c)(2) shall be subject to the 
+     provisions of section 1729A of title 38.
+       ``(4) Period of availability.--
+       ``(A) In general.--Except as provided in subparagraph (B), 
+     amounts transferred to the Fund under subsection (c) shall 
+     remain available under this subsection until the end of the 
+     first fiscal year beginning after the date of the transfer.
+       ``(B) Exception.--Of the amount transferred to the Fund 
+     under subsection (c) in a fiscal year, an amount not to 
+     exceed two percent of such amount shall remain available
+
+[[Page S3821]]
+
+     under this subsection until the end of the second fiscal year 
+     beginning after the date of the transfer.
+       ``(e) Executive Agreement.--
+       ``(1) Fund administration.--
+       ``(A) In general.--The Fund shall be administered in 
+     accordance with an executive agreement between the Secretary 
+     of Defense and the Secretary of Veterans Affairs.
+       ``(B) Guidelines.--The executive agreement under 
+     subparagraph (A) shall be consistent with section 706 of the 
+     Duncan Hunter National Defense Authorization Act for Fiscal 
+     Year 2009 (Public Law 110-417; 122 Stat. 4500) and shall 
+     provide for an independent review of the methodology 
+     established under subsection (c)(1).
+       ``(2) Financial reconciliation.--
+       ``(A) In general.--The executive agreement between the 
+     Secretary of Defense and the Secretary of Veterans Affairs 
+     under paragraph (1)(A) shall provide for the development and 
+     implementation of an integrated financial reconciliation 
+     process that meets the fiscal reconciliation requirements of 
+     the Department of Defense and the Department of Veterans 
+     Affairs.
+       ``(B) Identification of contributions.--The process under 
+     subparagraph (A) shall permit the Department of Defense and 
+     the Department of Veterans Affairs to identify their fiscal 
+     contributions to the Fund, taking into consideration 
+     accounting, workload, and financial management 
+     differences.''.
+       (b) Conforming Repeal.--Section 1704 of the National 
+     Defense Authorization Act for Fiscal Year 2010 (Public Law 
+     111-84; 123 Stat. 2571), as most recently amended by section 
+     1421 of the Servicemember Quality of Life Improvement and 
+     National Defense Authorization Act for Fiscal Year 2025 
+     (Public Law 118-159; 138 Stat. 2129), is repealed.
+       (c) Report.--Not later than 180 days after the date of the 
+     enactment of this Act, the Secretary of Defense and the 
+     Secretary of Veterans Affairs shall jointly submit to the 
+     Committee on Veterans' Affairs and the Committee on 
+     Appropriations of the Senate and the Committee on Veterans' 
+     Affairs and the Committee on Appropriations of the House of 
+     Representatives a report indicating medical facilities of the 
+     Department of Defense or the Department of Veterans Affairs 
+     that either Secretary, or both, considers appropriate to be 
+     designated as combined Federal medical facilities of the 
+     Department of Defense and the Department of Veterans Affairs.
+                                 ______
+```
