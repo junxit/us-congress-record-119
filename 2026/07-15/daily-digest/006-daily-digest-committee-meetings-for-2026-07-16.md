@@ -1,0 +1,144 @@
+---
+granule: CREC-2026-07-15-pt1-PgD716-2
+date: 2026-07-15
+edition: CREC
+section: DAILYDIGEST
+page: D716
+citation: 172 Cong. Rec. D716
+---
+
+# Daily Digest/COMMITTEE MEETINGS FOR 2026-07-16
+
+**Measures:** H.R. 249, S. 365, S. 764, S. 791, S. 888, S. 945, S. 1088, S. 1175, S. 1341, S. 1349, S. 1413, S. 1476, H.R. 1729, S. 1737, S. 1870, S. 2554, S. 2754, S. 3526, S. 3725, S. 3732, H.R. 5911
+
+```
+                    COMMITTEE MEETINGS FOR THURSDAY,
+
+                             JULY 16, 2026
+
+        (Committee meetings are open unless otherwise indicated)
+
+
+                                 Senate
+
+  Committee on Armed Services: to hold hearings to examine the 
+nomination of Lieutenant General Douglas A. Schiess, USSF, to be 
+general and Chief of Space Operations, 9:30 a.m., SD-G50.
+  Committee on Banking, Housing, and Urban Affairs: to hold hearings 
+to examine the Consumer Financial Protection Bureau Semi-Annual 
+Report, focusing on a new day at the CFPB through reform, 10 a.m., 
+SD-538.
+  Committee on Commerce, Science, and Transportation: to hold 
+hearings to examine the nomination of David Cummins, of Virginia, to 
+be Administrator of the Transportation Security Administration, 10 
+a.m., SR-253.
+  Committee on Energy and Natural Resources: business meeting to 
+consider S. 365 and H.R. 1729, bills to amend the John D. Dingell, 
+Jr. Conservation, Management, and Recreation Act to allow for 
+additional entities to be eligible to complete the maintenance work 
+on Bolts Ditch and the Bolts Ditch Headgate within the Holy Cross 
+Wilderness, Colorado, S. 764, to provide for the designation of 
+certain wilderness areas, recreation management areas, and 
+conservation areas in the State of Colorado, S. 791, to establish 
+the Justice Thurgood Marshall National Historic Site in the State of 
+Maryland as an affiliated area of the National Park System, S. 888, 
+to designate certain land administered by the Bureau of Land 
+Management and the Forest Service in the State of Oregon as 
+wilderness and national recreation areas, to withdraw certain land 
+located in Curry County and Josephine County, Oregon, from all forms 
+of entry, appropriation, or disposal under the public land laws, 
+location, entry, and patent under the mining laws, and operation 
+under the mineral leasing and geothermal leasing laws, S. 945, to 
+amend the Smith River National Recreation Area Act to include 
+certain additions to the Smith River National Recreation Area, to 
+amend the Wild and Scenic Rivers Act to designate certain wild 
+rivers in the State of Oregon, S. 1088, to provide that the memorial 
+to commemorate the sacrifice and service of the women who worked on 
+the home front to support the efforts of the United States military 
+during World War II may be located on the National Mall, S. 1175, to 
+amend section 6903 of title 31, United States Code, to provide for 
+additional population tiers, S. 1341, to amend the Colorado 
+Wilderness Act of 1993 to add certain land to the Sarvis Creek 
+Wilderness, S. 1349, to withdraw the National Forest System land in 
+the Ruby Mountains subdistrict of the Humboldt-Toiyabe National 
+Forest and the National Wildlife Refuge System land in Ruby Lake 
+National Wildlife Refuge, Elko and White Pine Counties, Nevada, from 
+operation under the mineral leasing laws, S. 1413, to authorize 
+additional funding for the San Joaquin River Restoration Settlement 
+Act, S. 1476, to amend the Wild and Scenic Rivers Act to designate 
+certain segments of the Gila River system in the State of New Mexico 
+as components of the National Wild and Scenic Rivers System, to 
+provide for the transfer of administrative jurisdiction over certain 
+Federal land in the State of New Mexico, S. 1737, to designate and 
+expand wilderness areas in Olympic National Forest in the State of 
+Washington, and to designate certain rivers in Olympic National 
+Forest and Olympic National Park as wild and scenic rivers, S. 1870, 
+to adjust the boundary of the Santa Monica Mountains National 
+Recreation Area to include the Rim of the Valley Corridor, S. 2554, 
+to provide for the recognition of certain Alaska Native communities 
+and the settlement of certain claims under the Alaska Native Claims 
+Settlement Act, S. 2754 and H.R. 5911, to direct the Secretary of 
+Agriculture to convey to the City of Ouray, Colorado, certain land 
+managed by the Forest Service, together with a reservoir, S. 3526, 
+to provide for the protection of and investment in certain Federal 
+land in the State of California, S. 3725, to require the Secretary 
+of the Interior to conduct a study to determine the feasibility of 
+constructing a project to supply municipal, rural, and industrial 
+water to expand the capacity and reach of the Lewis
+
+[[Page D717]]
+
+and Clark Rural Water System, Inc. (doing business as ``Lewis & 
+Clark Regional Water System''), in the States of Iowa, Minnesota, 
+and South Dakota, S. 3732, to amend the Water Infrastructure 
+Improvements for the Nation Act to authorize assistance under the 
+storage program, H.R. 249, to redesignate certain facilities at 
+Paterson Great Falls National Historical Park in honor of 
+Congressman Bill Pascrell, Jr, and the nominations of William Hague, 
+of Washington, to be an Assistant Secretary, Kevin Lilly, of Texas, 
+to be Assistant Secretary for Fish and Wildlife, both of the 
+Department of the Interior, and Kaveh Farzad, of Maryland, to be an 
+Assistant Secretary of Energy (International Affairs), 9:30 a.m., 
+SD-366.
+  Committee on Finance: to hold hearings to examine the nominations 
+of Francis Brooke, of Virginia, to be Deputy Secretary, Erin Browne, 
+of New York, to be an Under Secretary, and Sriprakash Kothari, of 
+Massachusetts, and George McMaster, of South Carolina, both to be an 
+Assistant Secretary, all of the Department of the Treasury, 10 a.m., 
+SD-215.
+  Committee on Foreign Relations: to hold hearings to examine the 
+nominations of Donald Blome, of Illinois, to be an Assistant 
+Secretary of State (Near Eastern Affairs), Christopher Anderson, of 
+Wisconsin, to be Ambassador to the Kingdom of Cambodia, Douglas 
+Mastriano, of Pennsylvania, to be Ambassador to the Slovak Republic, 
+Daniel Perez, of Florida, to be Ambassador to the Federative 
+Republic of Brazil, and Laurence Socha, of Illinois, to be 
+Ambassador to the Republic of The Gambia, all of the Department of 
+State, 11 a.m., SD-419.
+  Committee on Health, Education, Labor, and Pensions: to hold 
+hearings to examine the nomination of Keith Sonderling, of Florida, 
+to be Secretary of Labor, 10 a.m., SD-430.
+  Committee on the Judiciary: business meeting to consider the 
+nominations of Daniel Desmond Domenico, of Colorado, to be United 
+States Circuit Judge for the Tenth Circuit, Daniel Mack Traynor, of 
+North Dakota, to be United States Circuit Judge for the Eighth 
+Circuit, Matthew R. Byrne, to be United States District Judge for 
+the Southern District of Ohio, Angela Veronica Colmenero, to be 
+United States District Judge for the Southern District of Texas, 
+Kasdin Miller Mitchell, to be United States District Judge for the 
+Northern District of Texas, Michael C. Martin, to be United States 
+District Judge for the Eastern District of Michigan, Antonio M. 
+Pozos, to be United States District Judge for the Eastern District 
+of Pennsylvania, and Christopher Nassar, to be United States 
+Attorney for the Northern District of Oklahoma, Department of 
+Justice; to be immediately followed by a continuation of hearings to 
+examine the nomination of Todd Blanche, of Florida, to be Attorney 
+General, 9 a.m., SH-216.
+
+
+                                 House
+
+  Committee on the Budget, Full Committee, markup on legislation on 
+the Concurrent Resolution on the Budget for Fiscal Year 2027, 9 
+a.m., 210 Cannon.
+```
