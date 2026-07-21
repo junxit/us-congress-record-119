@@ -1,0 +1,98 @@
+---
+granule: CREC-2026-07-21-pt1-PgS4168-2
+date: 2026-07-21
+edition: CREC
+section: SENATE
+page: S4168
+citation: 172 Cong. Rec. S4168
+---
+
+# Nomination of Kara Marie Westercamp (Executive Calendar)
+
+**Speaking:** Durbin, Richard J. (D000563) [D-IL]
+
+```
+                  Nomination of Kara Marie Westercamp
+
+  Mr. DURBIN. Mr. President, those seeking to recoup losses from 
+President Trump's disastrous tariff policies will appear before what is 
+called the Court of International Trade.
+  As is the case with many of President Trump's judicial nominees in 
+his second term, his choice to fill a vacancy on this Court Kara 
+Westercamp was tapped because of her obvious loyalty to the President 
+who nominated her instead of her loyalty to the law.
+  Her offensive, inflammatory, juvenile social media posts demonstrate 
+she lacks the independence and the maturity and the temperament to be a 
+judge.
+  Ms. Westercamp tried to delete her old tweets so we wouldn't see them 
+on the committee. She failed. Our staff was able to recover them.
+  In these tweets, Ms. Westercamp spread conspiracy theories about the 
+January 6 insurrection at the Capitol and attacked Republicans and 
+Democrats alike for being insufficiently loyal to President Trump.
+  She elevated claims that the January 6 attack was ``orchestrated by 
+Members of the Senate, and members of the [Capitol] police.''
+  Let me repeat that. In her tweets, she claimed that the January 6 
+attack on the Capitol, which we all saw the news of, was ``orchestrated 
+by Members of the Senate, and members of the [Capitol] police.
+  So much for the judgment of this would-be judge.
+  I was in this Chamber during the counting of electoral votes for the 
+2020 election. Vice President Pence was sitting where the Presiding 
+Officer sits today.
+  Members of Congress watched as Secret Service evacuated the Vice 
+President. Within minutes, we were told to leave as well because a 
+violent mob of armed insurrectionists intended to prevent the 
+certification of the 2020 Presidential election results, which Donald 
+Trump had lost by 7 million popular votes.
+  But Ms. Westercamp dismissed this event entirely. She retweeted a 
+post that read--and I quote:
+
+       We're all supposed to be sending thoughts and prayers to 
+     traumatized Members of Congress whose workday was interrupted 
+     for a couple of hours.
+
+  Mr. President, did you see the video? Did you see the mob? Did you 
+see the damage they did to this U.S. Capitol Building?
+  Yes, we left for our lives. The Vice President was spirited out of 
+here by the Secret Service to protect his life.
+  Ms. Westercamp has also repeatedly attacked Senator Mitch McConnell 
+of Kentucky for supposedly ``betraying President Trump.'' She even 
+called Senator McConnell ``a modern-day Benedict Arnold,'' and she 
+repeatedly called him ``Cocaine Mitch''--an inflammatory nickname used 
+by MAGA critics of Senator McConnell, the Republican Senator and former 
+leader from Kentucky.
+  I am not going to be able to repeat some of the things that she wrote 
+in her tweets. They are just too much. But of the late Senator Lindsey 
+Graham, she wrote:
+
+       True to NO ONE but [his] own self-preservation.
+
+  She crudely called him a name that I can't repeat in the Record for 
+not toeing the MAGA line. There is much,
+
+[[Page S4169]]
+
+much more that she had to say about Senator Graham.
+  Ms. Westercamp accused Senator Collins of Maine of prioritizing her 
+``own personal political power'' over loyalty to President Trump and 
+called for her removal, as well as the removal of Senators Murkowski 
+and Cassidy following their vote on the second impeachment effort 
+against the President.
+  Ms. Westercamp even posted a sexually explicit image and joke about 
+former House Speaker Nancy Pelosi--a post that Ms. Westercamp herself 
+later described as ``not safe for work.''
+  Notably, it appears some of her inflammatory, overtly political posts 
+were made while Ms. Westercamp was on duty, actually, as an attorney at 
+the Department of Justice; she was tweeting away. That would violate 
+Federal law.
+  Last week, Leader Thune filed cloture so that we could move more 
+quickly to Ms. Westercamp's nomination. After you have heard about her 
+background, what do you think as a Senator?
+  Despite her disrespectful and inflammatory comments, she is a 
+priority for the other side. It is a disgrace that Senate Republicans 
+are moving forward on this nomination while Senator McConnell is still 
+in the hospital and so soon after Senator Graham's passing.
+  Judges are chosen for judgment, for character, for maturity, for 
+competence, for independence, and most especially, for their 
+temperament. Ms. Westercamp does not meet that standard. I urge my 
+colleagues to oppose her nomination.
+```
