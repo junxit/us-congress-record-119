@@ -1,0 +1,53 @@
+---
+granule: CREC-2026-07-22-pt1-PgS4203-7
+date: 2026-07-22
+edition: CREC
+section: SENATE
+page: S4203
+citation: 172 Cong. Rec. S4203
+---
+
+# CAITLIN CLARK
+
+**Speaking:** Grassley, Chuck (G000386) [R-IA], Thune, John (T000250) [R-SD]
+
+```
+                             CAITLIN CLARK
+
+  Mr. GRASSLEY. Mr. President, on a second matter, I want to talk about 
+Caitlin Clark, a native of West Des Moines, IA. Caitlin Clark played 
+basketball at the University of Iowa. She changed women's college 
+basketball but also inspired athletes of all ages across all sports. 
+She plays professionally for the Indiana Fever.
+  Since joining the professional ranks 3 years ago, Caitlin has been 
+the subject of very unfair treatment on the basketball court, and the 
+referees are not doing their job.
+  Recently, she got a fist to her throat by a player. Yet, the refs at 
+the time did not call a foul. I am glad that the WNBA corrected this 
+matter a few days later by charging a foul and suspending the player, 
+but the unfair treatment of Caitlin and others in the WNBA has got to 
+stop.
+  Officials are human, but we have seen time after time where Caitlin 
+has suffered physically--beyond what you would expect in competitive 
+professional sports--with little accountability from the people that 
+run the WNBA or from the referees.
+  So I hope for Caitlin--and for the growth of women's basketball--
+things improve quickly in the WNBA. Caitlin is a generational talent. 
+Her hard work and dedication should be rewarded, not penalized.
+  She has revolutionized WNBA. Attendance has shot up since she has 
+been with the Indiana Fever, and income has shot up for the league and 
+their teams. Salaries for players went from five figures to six 
+figures, all because of her playing. So every player of all teams are 
+better off. They should be thanking Caitlin as opposed to mistreating 
+her on the floor.
+  Someday I would like to meet Caitlin Clark.
+  I yield the floor.
+  Mr. President, I suggest the absence of a quorum.
+  The PRESIDING OFFICER. The clerk will call the roll.
+  The senior assistant legislative clerk proceeded to call the roll.
+  Mr. THUNE. Mr. President, I ask unanimous consent that the order for 
+the quorum call be rescinded.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+
+                          ____________________
+```

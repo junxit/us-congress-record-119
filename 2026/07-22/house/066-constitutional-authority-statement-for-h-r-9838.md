@@ -1,0 +1,22 @@
+---
+granule: CREC-2026-07-22-pt1-PgH5177-17
+date: 2026-07-22
+edition: CREC
+section: HOUSE
+page: H5177
+citation: 172 Cong. Rec. H5177
+---
+
+# Constitutional Authority Statement for H.R. 9838
+
+**Measures:** H.R. 9838
+
+```
+           By Mr. CALVERT:
+       H.R. 9838.
+       Congress has the power to enact this legislation pursuant 
+     to the following:
+       The constitutional authority of Congress to enact this 
+     legislation is provided by Article 1, Section 8 of the United 
+     States Constitution, specifically Clause 1 and Clause 18.
+```
