@@ -1,0 +1,42 @@
+---
+granule: CREC-2026-09-23-pt1-PgS4958-6
+date: 2026-09-23
+edition: CREC
+section: SENATE
+page: S4958
+citation: 172 Cong. Rec. S4958
+---
+
+# CONFIRMATIONS
+
+```
+                             CONFIRMATIONS
+
+  Executive nominations confirmed by the Senate September 23, 2026:
+
+
+                             THE JUDICIARY
+
+       ANGELA VERONICA COLMENERO, OF TEXAS, TO BE UNITED STATES 
+     DISTRICT JUDGE FOR THE SOUTHERN DISTRICT OF TEXAS.
+
+
+                           IN THE COAST GUARD
+
+       THE FOLLOWING NAMED OFFICER FOR APPOINTMENT IN THE UNITED 
+     STATES COAST GUARD TO THE GRADE INDICATED UNDER TITLE 14, 
+     U.S.C., SECTION 2121(E):
+
+                    To be rear admiral (lower half)
+
+CAPT. STANLEY P. FIELDS
+       THE FOLLOWING NAMED OFFICERS FOR APPOINTMENT IN THE UNITED 
+     STATES COAST GUARD TO THE GRADE INDICATED UNDER TITLE 14, 
+     U.S.C., SECTION 2121(D):
+
+                           To be rear admiral
+
+JEFFREY W. NOVAK
+GREGORY C. ROTHROCK
+       COAST GUARD NOMINATION OF WADE E. ARNOLD, TO BE COMMANDER.
+```
