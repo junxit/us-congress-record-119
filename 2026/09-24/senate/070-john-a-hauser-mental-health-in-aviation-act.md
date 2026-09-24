@@ -1,0 +1,466 @@
+---
+granule: CREC-2026-09-24-pt1-PgS5017-3
+date: 2026-09-24
+edition: CREC
+section: SENATE
+page: S5017
+citation: 172 Cong. Rec. S5017
+---
+
+# JOHN A. HAUSER MENTAL HEALTH IN AVIATION ACT
+
+**Speaking:** Husted, Jon (H001104) [R-OH]
+
+**Measures:** S. 3257
+
+```
+              JOHN A. HAUSER MENTAL HEALTH IN AVIATION ACT
+
+  Mr. HUSTED. Madam President, I ask unanimous consent that the Senate 
+proceed to the immediate consideration of Calendar No. 558, S. 3257.
+  The PRESIDING OFFICER. The clerk will report the bill by title.
+  The legislative clerk read as follows:
+
+       A bill (S. 3257) to require the Administrator of the 
+     Federal Aviation Administration to revise regulations for 
+     certain individuals carrying out aviation activities who 
+     disclose a mental health diagnosis or condition, and for 
+     other purposes.
+
+  There being no objection, the Senate proceeded to consider the bill, 
+which had been reported from the Committee on Commerce, Science, and 
+Transportation with an amendment to strike all after the enacting 
+clause and insert the part printed in italic, as follows:
+
+     SECTION 1. SHORT TITLE.
+
+       This Act may be cited as the ``John A. Hauser Mental Health 
+     in Aviation Act''.
+
+     SEC. 2. DEFINITIONS.
+
+       In this Act:
+       (1) Administrator.--The term ``Administrator'' means the 
+     Administrator of the Federal Aviation Administration.
+       (2) Appropriate committees of congress.--The term 
+     ``appropriate committees of Congress'' means--
+       (A) the Committee on Transportation and Infrastructure of 
+     the House of Representatives; and
+       (B) the Committee on Commerce, Science, and Transportation 
+     of the Senate.
+       (3) FAA.--The term ``FAA'' means the Federal Aviation 
+     Administration.
+       (4) Special issuance.--The term ``special issuance'' has 
+     the meaning given such term in section 67.401 of title 14, 
+     Code of Federal Regulations.
+
+     SEC. 3. REGULATIONS FOR INDIVIDUALS CARRYING OUT AVIATION 
+                   ACTIVITIES.
+
+       (a) In General.--Not later than 18 months after the date of 
+     enactment of this Act, the Administrator shall update 
+     regulations, including in part 67 of title 14, Code of 
+     Federal Regulations, and issue relevant guidance as 
+     appropriate to encourage individuals to--
+       (1) seek help for mental health conditions or symptoms of 
+     mental health conditions; and
+       (2) to disclose conditions or symptoms described in 
+     paragraph (1).
+       (b) Solicit Feedback; Report Requirements.--Section 411(d) 
+     of the FAA Reauthorization Act of 2024 (49 U.S.C. 44703 note) 
+     is amended--
+       (1) in paragraph (3), by striking subparagraph (B) and 
+     inserting the following:
+       ``(B) soliciting feedback from aviation industry 
+     professionals or other licensed professionals representing 
+     air carrier operations under part 121 and part 135 of title 
+     14, Code of Federal Regulations, and general aviation 
+     operations under part 91 of title 14, Code of Federal 
+     Regulations, the exclusive bargaining representatives of air 
+     traffic controllers of the FAA certified under section 7111 
+     of title 5, United States Code, organizations representing 
+     collective bargaining representatives of airline pilots, 
+     institutions of higher education that are accredited by the 
+     Aviation Accreditation Board International, and professional 
+     pilot flight training schools certificated under part 141 of 
+     title 14, Code of Federal Regulations;''; and
+       (2) in paragraph (4)--
+       (A) in subparagraphs (A) and (B), by striking ``and'' at 
+     the end;
+       (B) in subparagraph (C), by striking the period at the end 
+     and inserting a semicolon; and
+       (C) by adding at the end the following new subparagraphs:
+       ``(D) a review and evaluation of any recommendations 
+     reached by the National Transportation Safety Board related 
+     to aviation workforce mental health; and
+       ``(E) a description of relevant clinical studies, research, 
+     diagnostic manuals, and protocols relied upon by the task 
+     group in developing their recommendations.''.
+       (c) Implementation.--
+       (1) In general.--Not later than 180 days after the date of 
+     enactment of this Act, and for any report issued thereafter, 
+     not later than 180 days after the submission of each report 
+     required under section 411(f) of the FAA Reauthorization Act 
+     of 2024 (49 U.S.C. 44703 note), the Administrator may take 
+     action, as appropriate, to implement the recommendations of 
+     such report.
+       (2) Justification.--In the event that the Administrator 
+     decides not to implement a recommendation described in 
+     paragraph (1), the Administrator shall submit to the 
+     appropriate committees of Congress the justification for such 
+     decision not later than 90 days after receiving the report 
+     containing such recommendation.
+
+     SEC. 4. REVIEW OF MENTAL HEALTH SPECIAL ISSUANCE PROCESS.
+
+       Beginning on the date that is 180 days after the 
+     Administrator submits the first report pursuant to section 
+     411(f) of the FAA Reauthorization Act of 2024 (49 U.S.C. 
+     44703 note), and annually for the 1st 2 years thereafter, and 
+     triennially thereafter, the Administrator shall conduct a 
+     review of the special issuance process, and update, as 
+     appropriate, the applicable regulations, policies, orders, 
+     and guidance on mental health-related special issuance for 
+     pilots and air traffic controllers to--
+       (1) consider the reclassification of additional medications 
+     and evidence-based treatments that may be safely prescribed 
+     to treat mental health conditions;
+       (2) provide enhanced mental health knowledge and training 
+     for aviation medical examiners, consistent with the 
+     recommendations of the Mental Health & Aviation Medical 
+     Clearances Aviation Rulemaking Committee described in section 
+     6;
+       (3) if the Administrator determines appropriate, consider 
+     expanding opportunities in which an aviation medical examiner 
+     may issue a certificate consistent with the recommendations 
+     of the Mental Health & Aviation Medical Clearances Aviation 
+     Rulemaking Committee described in section 6, provided that 
+     such examiner has completed enhanced mental health training, 
+     as described in paragraph (2), to ensure such personnel have 
+     the requisite knowledge and ability to appropriately evaluate 
+     individuals for FAA medical certification; and
+       (4) improve the special issuance process for pilots and air 
+     traffic controllers.
+
+     SEC. 5. IMPROVING CAPACITY FOR THE OFFICE OF AEROSPACE 
+                   MEDICINE.
+
+       Of the amounts made available pursuant to section 106(k)(1) 
+     of title 49, United States Code, the Administrator shall 
+     designate not more than $15,000,000 for each of fiscal years 
+     2026 through 2028 to--
+       (1) recruit, select, and train additional aviation medical 
+     examiners and human intervention motivation study aviation 
+     medical examiners, including those who are psychiatrists;
+       (2) expand capacity to provide oversight of aviation 
+     medical examiners and clear the backlog of special issuance 
+     requests and cases awaiting review at the Office of Aerospace 
+     Medicine of the FAA;
+       (3) provide enhanced mental health training to aviation 
+     medical examiners to ensure such personnel have requisite 
+     knowledge and the ability to appropriately evaluate 
+     individuals for FAA medical certification; and
+       (4) support any other related activities, as determined 
+     appropriate by the Administrator.
+
+     SEC. 6. IMPLEMENTATION OF AVIATION RULEMAKING COMMITTEE 
+                   RECOMMENDATIONS.
+
+       (a) In General.--Not later than 2 years after the date of 
+     enactment of this Act, the Administrator shall implement, as 
+     appropriate, the recommendations of the Mental Health & 
+     Aviation Medical Clearances Aviation Rulemaking Committee, 
+     which were submitted to the Administrator on April 1, 2024 
+     (in this section referred to as the ``ARC'').
+       (b) Consultation.--In carrying out subsection (a), the 
+     Administrator shall consult with
+
+[[Page S5018]]
+
+     the stakeholders described in section 411(d)(3)(B) of the FAA 
+     Reauthorization Act of 2024 (as amended by this Act).
+       (c) Validation.--With respect to recommendation 6 of the 
+     ARC, the Administrator shall leverage and cite relevant 
+     clinical studies, research, diagnostic manuals, and protocols 
+     to inform the recommendation, as determined by the 
+     Administrator. The Administrator may, as appropriate, 
+     commission any such studies that may be needed to fill data 
+     gaps. Any such studies shall document the data gap and be 
+     completed not later than 1 year after the enactment of this 
+     Act.
+       (d) Justification.--If the Administrator decides not to 
+     implement a recommendation described in the ARC, the 
+     Administrator shall submit to the appropriate committees of 
+     Congress their justification for such decision not later than 
+     90 days after the deadline described in such subsection.
+
+     SEC. 7. PUBLIC INFORMATION CAMPAIGN.
+
+       (a) In General.--For fiscal years 2026 through 2028, the 
+     Administrator shall carry out a public information campaign 
+     or similar public education efforts to--
+       (1) destigmatize individuals in (or interested in joining) 
+     the aviation industry who seek mental health care;
+       (2) broaden awareness of available supportive services; and
+       (3) improve trust between the FAA and pilots and air 
+     traffic controllers.
+       (b) Requirements.--The public information campaign or 
+     similar public education efforts described in subsection (a) 
+     shall include--
+       (1) making publicly available (in an easily accessible 
+     format and location online)--
+       (A) information that would help destigmatize the reporting 
+     of mental health concerns impacting the aviation workforce, 
+     and encourage individuals to seek help for such concerns; and
+       (B) other information to effectuate the outcomes described 
+     in subsection (a);
+       (2) posting the information described in paragraph (1) at 
+     Aviation Medical Examiner offices; and
+       (3) collaborating with air carriers (as defined in section 
+     40102 of title 49, United States Code), flight training 
+     institutions and entities (as described in parts 61 and 141 
+     of title 14, Code of Federal Regulations), and small, medium, 
+     and large hub airports (as defined in such section 40102) to 
+     encourage such entities to make such information easily 
+     accessible to airmen and air traffic controllers.
+       (c) Briefing and Report to Congress.--
+       (1) Briefing.--Not later than 90 days after the 
+     Administrator establishes the public information campaign 
+     described in subsection (a), the Administrator shall brief 
+     the appropriate committees of Congress on the actions taken 
+     to develop the campaign and the plans to implement the 
+     campaign.
+       (2) Report.--Not later than 2 years after the Administrator 
+     implements the public information campaign, the Administrator 
+     shall submit to the appropriate committees of Congress a 
+     report describing the engagement and outreach resulting from 
+     such campaign, including a description of any applicable 
+     feedback from aviation industry stakeholders on the efficacy 
+     of the campaign.
+  Mr. HUSTED. Madam President, I ask unanimous consent that the 
+committee-reported substitute amendment be withdrawn and the Hoeven 
+substitute amendment at the desk be agreed to; that the bill, as 
+amended, be considered read a third time and passed; and that the 
+motion to reconsider be considered made and laid upon the table.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The committee-reported amendment, in the nature of a substitute, was 
+withdrawn.
+  The amendment (No. 6834), in the nature of a substitute, was agreed 
+to, as follows:
+
+               (Purpose: In the nature of a substitute.)
+
+        Strike all after the enacting clause and insert the 
+     following:
+
+     SECTION 1. SHORT TITLE.
+
+       This Act may be cited as the ``John A. Hauser Mental Health 
+     in Aviation Act''.
+
+     SEC. 2. DEFINITIONS.
+
+       In this Act:
+       (1) Administrator.--The term ``Administrator'' means the 
+     Administrator of the Federal Aviation Administration.
+       (2) Appropriate committees of congress.--The term 
+     ``appropriate committees of Congress'' means--
+       (A) the Committee on Transportation and Infrastructure of 
+     the House of Representatives; and
+       (B) the Committee on Commerce, Science, and Transportation 
+     of the Senate.
+       (3) FAA.--The term ``FAA'' means the Federal Aviation 
+     Administration.
+       (4) Special issuance.--The term ``special issuance'' has 
+     the meaning given such term in section 67.401 of title 14, 
+     Code of Federal Regulations.
+
+     SEC. 3. REGULATIONS FOR INDIVIDUALS CARRYING OUT AVIATION 
+                   ACTIVITIES.
+
+       (a) In General.--Not later than 18 months after the date of 
+     enactment of this Act, the Administrator shall update 
+     regulations, including in part 67 of title 14, Code of 
+     Federal Regulations, and issue relevant guidance as 
+     appropriate to encourage individuals to--
+       (1) seek help for mental health conditions or symptoms of 
+     mental health conditions; and
+       (2) disclose conditions or symptoms described in paragraph 
+     (1).
+       (b) Solicit Feedback; Report Requirements.--Section 411(d) 
+     of the FAA Reauthorization Act of 2024 (49 U.S.C. 44703 note) 
+     is amended--
+       (1) in paragraph (3), by striking subparagraph (B) and 
+     inserting the following:
+       ``(B) soliciting feedback from aviation industry 
+     professionals or other licensed professionals representing 
+     air carrier operations under part 121 and part 135 of title 
+     14, Code of Federal Regulations, and general aviation 
+     operations under part 91 of title 14, Code of Federal 
+     Regulations, the exclusive bargaining representatives of air 
+     traffic controllers of the FAA certified under section 7111 
+     of title 5, United States Code, organizations representing 
+     collective bargaining representatives of airline pilots, 
+     institutions of higher education that are accredited by the 
+     Aviation Accreditation Board International, and professional 
+     pilot flight training schools certificated under part 141 of 
+     title 14, Code of Federal Regulations;''; and
+       (2) in paragraph (4)--
+       (A) in subparagraphs (A) and (B), by striking ``and'' at 
+     the end;
+       (B) in subparagraph (C), by striking the period at the end 
+     and inserting a semicolon; and
+       (C) by adding at the end the following new subparagraphs:
+       ``(D) a review and evaluation of any recommendations 
+     reached by the National Transportation Safety Board related 
+     to aviation workforce mental health; and
+       ``(E) a description of relevant clinical studies, research, 
+     diagnostic manuals, and protocols relied upon by the task 
+     group in developing their recommendations.''.
+       (c) Implementation.--
+       (1) In general.--Not later than 180 days after the date of 
+     enactment of this Act, and for any report issued thereafter, 
+     not later than 180 days after the submission of each report 
+     required under section 411(f) of the FAA Reauthorization Act 
+     of 2024 (49 U.S.C. 44703 note), the Administrator may take 
+     action, as appropriate, to implement the recommendations of 
+     such report.
+       (2) Justification.--In the event that the Administrator 
+     decides not to implement a recommendation described in 
+     paragraph (1), the Administrator shall submit to the 
+     appropriate committees of Congress the justification for such 
+     decision not later than 90 days after receiving the report 
+     containing such recommendation.
+
+     SEC. 4. REVIEW OF MENTAL HEALTH SPECIAL ISSUANCE PROCESS.
+
+       Beginning on the date that is 180 days after the 
+     Administrator submits the first report pursuant to section 
+     411(f) of the FAA Reauthorization Act of 2024 (49 U.S.C. 
+     44703 note), and annually for the 1st 2 years thereafter, and 
+     triennially thereafter, the Administrator shall conduct a 
+     review of the special issuance process, and update, as 
+     appropriate, the applicable regulations, policies, orders, 
+     and guidance on mental health-related special issuance for 
+     pilots and air traffic controllers to--
+       (1) consider the reclassification of additional medications 
+     and evidence-based treatments that may be safely prescribed 
+     to treat mental health conditions;
+       (2) provide enhanced mental health knowledge and training 
+     for aviation medical examiners, consistent with the 
+     recommendations of the Mental Health & Aviation Medical 
+     Clearances Aviation Rulemaking Committee described in section 
+     6;
+       (3) if the Administrator determines appropriate, consider 
+     expanding opportunities in which an aviation medical examiner 
+     may issue a certificate consistent with the recommendations 
+     of the Mental Health & Aviation Medical Clearances Aviation 
+     Rulemaking Committee described in section 6, provided that 
+     such examiner has completed enhanced mental health training, 
+     as described in paragraph (2), to ensure such personnel have 
+     the requisite knowledge and ability to appropriately evaluate 
+     individuals for FAA medical certification; and
+       (4) improve the special issuance process for pilots and air 
+     traffic controllers.
+
+     SEC. 5. IMPROVING CAPACITY FOR THE OFFICE OF AEROSPACE 
+                   MEDICINE.
+
+       Section 106(k)(2) of title 49, United States Code, is 
+     amended by adding at the end the following new subparagraph:
+       ``(E) Not more than $15,000,000 for each of fiscal years 
+     2026 through 2028 to--
+       ``(i) recruit, select, and train additional aviation 
+     medical examiners and human intervention motivation study 
+     aviation medical examiners, including those who are 
+     psychiatrists;
+       ``(ii) expand capacity to provide oversight of aviation 
+     medical examiners and clear the backlog of special issuance 
+     requests and cases awaiting review at the Office of Aerospace 
+     Medicine of the FAA;
+       ``(iii) provide enhanced mental health training to aviation 
+     medical examiners to ensure such personnel have requisite 
+     knowledge and the ability to appropriately evaluate 
+     individuals for FAA medical certification; and
+       ``(iv) support any other related activities, as determined 
+     appropriate by the Administrator.''.
+
+     SEC. 6. IMPLEMENTATION OF AVIATION RULEMAKING COMMITTEE 
+                   RECOMMENDATIONS.
+
+       (a) In General.--Not later than 2 years after the date of 
+     enactment of this Act, the Administrator shall implement, as 
+     appropriate, the recommendations of the Mental Health & 
+     Aviation Medical Clearances Aviation Rulemaking Committee, 
+     which were submitted to the Administrator on April 1,
+
+[[Page S5019]]
+
+     2024 (in this section referred to as the ``ARC'').
+       (b) Consultation.--In carrying out subsection (a), the 
+     Administrator shall consult with the stakeholders described 
+     in section 411(d)(3)(B) of the FAA Reauthorization Act of 
+     2024 (as amended by this Act).
+       (c) Validation.--With respect to recommendation 6 of the 
+     ARC, the Administrator shall leverage and cite relevant 
+     clinical studies, research, diagnostic manuals, and protocols 
+     to inform the recommendation, as determined by the 
+     Administrator. The Administrator may, as appropriate, 
+     commission any such studies that may be needed to fill data 
+     gaps. Any such studies shall document the data gap and be 
+     completed not later than 1 year after the enactment of this 
+     Act.
+       (d) Justification.--If the Administrator decides not to 
+     implement a recommendation described in the ARC, the 
+     Administrator shall submit to the appropriate committees of 
+     Congress their justification for such decision not later than 
+     90 days after the deadline described in such subsection.
+
+     SEC. 7. PUBLIC INFORMATION CAMPAIGN.
+
+       (a) In General.--For fiscal years 2026 through 2028, the 
+     Administrator shall carry out a public information campaign 
+     or similar public education efforts to--
+       (1) destigmatize individuals in (or interested in joining) 
+     the aviation industry who seek mental health care;
+       (2) broaden awareness of available supportive services; and
+       (3) improve trust between the FAA and pilots and air 
+     traffic controllers.
+       (b) Requirements.--The public information campaign or 
+     similar public education efforts described in subsection (a) 
+     shall include--
+       (1) making publicly available (in an easily accessible 
+     format and location online)--
+       (A) information that would help destigmatize the reporting 
+     of mental health concerns impacting the aviation workforce, 
+     and encourage individuals to seek help for such concerns; and
+       (B) other information to effectuate the outcomes described 
+     in subsection (a);
+       (2) posting the information described in paragraph (1) at 
+     Aviation Medical Examiner offices; and
+       (3) collaborating with air carriers (as defined in section 
+     40102 of title 49, United States Code), flight training 
+     institutions and entities (as described in parts 61 and 141 
+     of title 14, Code of Federal Regulations), and small, medium, 
+     and large hub airports (as defined in such section 40102) to 
+     encourage such entities to make such information easily 
+     accessible to airmen and air traffic controllers.
+       (c) Briefing and Report to Congress.--
+       (1) Briefing.--Not later than 90 days after the 
+     Administrator establishes the public information campaign 
+     described in subsection (a), the Administrator shall brief 
+     the appropriate committees of Congress on the actions taken 
+     to develop the campaign and the plans to implement the 
+     campaign.
+       (2) Report.--Not later than 2 years after the Administrator 
+     implements the public information campaign, the Administrator 
+     shall submit to the appropriate committees of Congress a 
+     report describing the engagement and outreach resulting from 
+     such campaign, including a description of any applicable 
+     feedback from aviation industry stakeholders on the efficacy 
+     of the campaign.
+  The bill (S. 3257), as amended, was ordered to be engrossed for a 
+third reading, was read the third time, and passed.
+
+                          ____________________
+```

@@ -1,0 +1,20 @@
+---
+granule: CREC-2026-09-24-pt1-PgH6005-32
+date: 2026-09-24
+edition: CREC
+section: HOUSE
+page: H6005
+citation: 172 Cong. Rec. H6005
+---
+
+# Constitutional Authority Statement for H.R. 10583
+
+**Measures:** H.R. 10583
+
+```
+           By Mr. MULLIN:
+       H.R. 10583.
+       Congress has the power to enact this legislation pursuant 
+     to the following:
+       Clause 18 of section 8 of article 1 of the Constitution
+```

@@ -1,0 +1,73 @@
+---
+granule: CREC-2026-09-24-pt1-PgD936
+date: 2026-09-24
+edition: CREC
+section: DAILYDIGEST
+page: D936
+citation: 172 Cong. Rec. D936
+---
+
+# Daily Digest/Senate Committee Meetings
+
+```
+Committee Meetings
+(Committees not listed did not meet)
+DEPARTMENT OF DEFENSE BUDGET
+Committee on Armed Services: Committee received a closed briefing on an 
+update on the budget of the Department of Defense from Stephen A. 
+Feinberg, Deputy Secretary, Troy E. Meink, Secretary of the Air Force, 
+Michael P. Duffey, Under Secretary for Acquisition and Sustainment, 
+Jules W. Hurst III, Under Secretary (Comptroller), Macon D. Hughes, 
+Assistant Secretary for Legislative Affairs, and General Christopher J. 
+Mahoney, USMC, Vice Chairman of the Joint Chiefs of Staff, all of the 
+Department of Defense.
+BUSINESS MEETING
+Committee on Finance: Committee ordered favorably reported the 
+nominations of Gerard Klomp, of Utah, to be Deputy Secretary, and Ge 
+Bai, of Virginia, to be an Assistant Secretary, both of the Department 
+of Health and Human Services, James Gadwood, of Maryland, to be Chief 
+Counsel for the Internal Revenue Service and an Assistant General 
+Counsel in the Department of the Treasury, and Andrew A. De Mello, of 
+Virginia, to be a Judge of the United States Tax Court.
+NOMINATIONS
+Committee on Foreign Relations: Committee concluded a hearing to 
+examine the nominations of William Grayson, of California, to be 
+Ambassador to the Republic of Indonesia, and Nicholas Checker, of 
+Wisconsin, to be Ambassador to the Republic of Rwanda, who were both 
+introduced by Senator Hagerty, Mark Abreu, of Florida, to be Ambassador 
+to the Republic of El Salvador, Natasha Franceschi, of California, a 
+Career Member of the Senior Foreign Service, Class of Minister-
+Counselor, to be Ambassador to the Republic of Nicaragua, and John 
+McIntyre, of Texas, a Career Member of the Senior Foreign Service, 
+Class of Minister-Counselor, to be Ambassador to the Republic of 
+Malawi, all of the Department of State, after the nominees testified 
+and answered questions in their own behalf.
+NOMINATION
+Committee on Health, Education, Labor, and Pensions: Committee 
+concluded a hearing to examine the nomination of Heidi Overton, of New 
+Mexico, to be
+
+[[Page D937]]
+
+Commissioner of Food and Drugs, Department of Health and Human 
+Services, after the nominee, who was introduced by Senator Hagerty, 
+testified and answered questions in her own behalf.
+BUSINESS MEETING
+Committee on the Judiciary: Committee ordered favorably reported the 
+nominations of Anna St. John, of Louisiana, to be United States Circuit 
+Judge for the Fifth Circuit, Gregory Carl Cook, to be United States 
+District Judge for the Northern District of Alabama, and John Peter 
+Cronan, of New York, Jason Manion, of Ohio, Claire McCusker Murray, of 
+Maryland, and Luis Felipe Restrepo, of Pennsylvania, each to be a 
+Member of the United States Sentencing Commission, and D. Adam Candeub, 
+of the District of Columbia, to be an Assistant Attorney General, Joy 
+Lynne Pittman Thorp, to be United States Attorney for the Eastern 
+District of Oklahoma, Steven Weinhoeft, to be United States Attorney 
+for the Southern District of Illinois, William Gerald Hardy, to be 
+United States Marshal for the Northern District of Alabama, Philip 
+Lewis III, to be United States Marshal for the Middle District of 
+Pennsylvania, Seth Reister, to be United States Marshal for the 
+Northern District of Florida, and Jurgen Ryan Soekhoe, to be United 
+States Marshal for the District of Columbia, all of the Department of 
+Justice.
+```
