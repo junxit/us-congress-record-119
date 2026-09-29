@@ -1,0 +1,142 @@
+---
+granule: CREC-2026-09-29-pt1-PgS5184-2
+date: 2026-09-29
+edition: CREC
+section: SENATE
+page: S5184
+citation: 172 Cong. Rec. S5184
+---
+
+# TRIBAL ACCESS TO ELECTRONIC EVIDENCE ACT
+
+**Speaking:** Thune, John (T000250) [R-SD]
+
+**Measures:** S. 1574
+
+```
+                TRIBAL ACCESS TO ELECTRONIC EVIDENCE ACT
+
+  Mr. THUNE. Madam President, I ask unanimous consent that the 
+Committee on the Judiciary be discharged from further consideration of 
+S. 1574 and the Senate proceed to its immediate consideration.
+  The PRESIDING OFFICER. The clerk will report the bill by title.
+  The bill clerk read as follows:
+
+       A bill (S. 1574) to amend the Stored Communications Act to 
+     include Tribal courts as courts of competent jurisdiction.
+
+  There being no objection, the committee was discharged, and the 
+Senate proceeded to consider the bill.
+  Mr. THUNE. Madam President, I ask unanimous consent that the Cortez 
+Masto substitute amendment at the desk be considered and agreed to; 
+that the bill, as amended, be considered read a third time and passed; 
+and that the motion to reconsider be considered made and laid upon the 
+table.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The amendment (No. 6844), in the nature of a substitute, was agreed 
+to as follows:
+
+                (Purpose: In the nature of a substitute)
+
+       Strike all after the enacting clause and insert the 
+     following:
+
+     SECTION 1. SHORT TITLE.
+
+       This Act may be cited as the ``Tribal Access to Electronic 
+     Evidence Act''.
+
+     SEC. 2. TRIBAL COURTS AS COURTS OF COMPETENT JURISDICTION 
+                   UNDER STORED COMMUNICATIONS ACT.
+
+       (a) Definitions.--Section 2711 of title 18, United States 
+     Code, is amended--
+       (1) in paragraph (3)--
+       (A) in subparagraph (B), by striking ``or'' at the end;
+       (B) by redesignating subparagraph (C) as subparagraph (D);
+       (C) by inserting after subparagraph (B) the following:
+       ``(C) a Tribal court; or''; and
+       (D) in subparagraph (D), as so redesignated, by striking 
+     ``and'' at the end; and
+       (2) by striking paragraph (4) and inserting the following:
+       ``(4) the term `governmental entity' means a department or 
+     agency of--
+       ``(A) the United States;
+       ``(B) any State or political subdivision thereof; or
+       ``(C) any Indian Tribe or political subdivision thereof;
+       ``(5) the term `Indian Tribe' means any Indian or Alaska 
+     Native tribe, band, nation, pueblo, village, community, 
+     component band, or component reservation individually 
+     identified (including parenthetically) on the most recent 
+     list published by the Secretary of the Interior under section 
+     104 of the Federally Recognized Indian Tribe List Act of 1994 
+     (25 U.S.C. 5131); and
+       ``(6) the term `Tribal court' means a court of general 
+     criminal jurisdiction of an Indian Tribe authorized by the 
+     law of that Indian Tribe to issue search warrants.''.
+       (b) Required Disclosure of Customer Communications or 
+     Records.--Section 2703 of title 18, United States Code, is 
+     amended--
+       (1) in subsection (a)--
+       (A) by striking the first sentence and inserting the 
+     following:
+       ``(1) In storage 180 days or less.--A governmental entity 
+     may require the disclosure by a provider of electronic 
+     communication service of the contents of a wire or electronic 
+     communication, that is in electronic storage in an electronic 
+     communications system for 180 days or less, only pursuant to 
+     a warrant issued by a court of competent jurisdiction--
+       ``(A) issued using the procedures described in the Federal 
+     Rules of Criminal Procedure;
+       ``(B) in the case of a State court, issued using State 
+     warrant procedures;
+       ``(C) in the case of a court-martial or other proceeding 
+     under chapter 47 of title 10 (the Uniform Code of Military 
+     Justice), issued under section 846 of that title, in 
+     accordance with regulations prescribed by the President); or
+       ``(D) in the case of a Tribal court, issued using warrant 
+     procedures that comply with section 202(a)(2) of Public Law 
+     90-284 (commonly known as the `Indian Civil Rights Act of 
+     1968') (25 U.S.C. 1302(a)(2)).
+       ``(2) In storage more than 180 days.--''; and
+       (B) in paragraph (2), as so designated, by striking ``one 
+     hundred and eighty days'' and inserting ``180 days'';
+       (2) in subsection (b)(1)--
+       (A) in subparagraph (A), by striking ``using the procedures 
+     described in the Federal Rules of Criminal Procedure'' and 
+     all that follows through ``prescribed by the President)'' and 
+     inserting ``in accordance with subsection (a)(1)''; and
+       (B) in subparagraph (B)(i), by striking ``or State'' each 
+     place it appears and inserting ``, State, or Tribal''; and
+       (3) in subsection (c)--
+       (A) in paragraph (1)(A), by striking ``using the procedures 
+     described in the Federal Rules of Criminal Procedure'' and 
+     all that follows through ``prescribed by the President)'' and 
+     inserting ``in accordance with subsection (a)(1)''; and
+       (B) in paragraph (2), in the undesignated matter following 
+     subparagraph (F), by striking ``or State'' each place it 
+     appears and inserting ``, State, or Tribal''.
+       (c) Delayed Notice.--Section 2705(a)(1)(B) of title 18, 
+     United States Code, is amended by striking ``or State'' each 
+     place it appears and inserting ``, State, or Tribal''.
+       (d) Civil Action.--Section 2707(g) of title 18, United 
+     States Code, is amended, in the second sentence, by inserting 
+     ``Tribal,'' after ``State,''.
+       (e) Wrongful Disclosure of Video Tape Rental or Sale 
+     Records.--Section 2710 of title 18, United States Code, is 
+     amended--
+       (1) in subsection (b)(2)(C), by inserting after ``an 
+     equivalent State warrant,'' the following: ``a warrant issued 
+     by a Tribal court using warrant procedures that comply with 
+     section 202(a)(2) of Public Law 90-284 (commonly known as the 
+     `Indian Civil Rights Act of 1968') (25 U.S.C. 1302(a)(2)),''; 
+     and
+       (2) in subsection (d), by striking ``a State, or a 
+     political subdivision of a State'' and inserting ``a State or 
+     a political subdivision thereof, or an Indian Tribe or a 
+     political subdivision thereof''.
+  The bill (S. 1574), as amended, was ordered to be engrossed for a 
+third reading, was read the third time, and passed.
+
+                          ____________________
+```
