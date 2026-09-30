@@ -1,0 +1,145 @@
+---
+granule: CREC-2026-09-30-pt1-PgS5296
+date: 2026-09-30
+edition: CREC
+section: SENATE
+page: S5296
+citation: 172 Cong. Rec. S5296
+---
+
+# SNOW WATER SUPPLY FORECASTING PROGRAM REAUTHORIZATION ACT OF 2026
+
+**Speaking:** Thune, John (T000250) [R-SD]
+
+**Measures:** S. 2437
+
+```
+   SNOW WATER SUPPLY FORECASTING PROGRAM REAUTHORIZATION ACT OF 2026
+
+  Mr. THUNE. Mr. President, I ask unanimous consent that the Senate 
+proceed to the immediate consideration of Calendar No. 637, S. 2437.
+  The PRESIDING OFFICER. The clerk will report the bill by title.
+  The senior assistant legislative clerk read as follows:
+
+       A bill (S. 2437) to amend the Snow Water Supply Forecasting 
+     Program Authorization Act to reauthorize the Snow Water 
+     Supply Forecasting Program, and for other purposes.
+
+  There being no objection, the Senate proceeded to consider the bill, 
+which had been reported from the Committee on Energy and Natural 
+Resources with an amendment to strike all after the enacting clause and 
+insert in lieu thereof the following:
+
+     SECTION 1. SHORT TITLE.
+
+       This Act may be cited as the ``Snow Water Supply 
+     Forecasting Program Reauthorization Act of 2026''.
+
+     SEC. 2. SNOW WATER SUPPLY FORECASTING PROGRAM.
+
+       The Snow Water Supply Forecasting Program Authorization Act 
+     (43 U.S.C. 1477) is amended--
+       (1) in subsection (c)(2)--
+       (A) in subparagraph (A)--
+       (i) by striking ``develop'' and inserting ``continue 
+     developing''; and
+       (ii) by striking ``culminating in the report required under 
+     subsection (d)(3)'' and inserting ``with an emphasis on 
+     development and deployment of more accurate, timely, and 
+     cost-effective snow monitoring technologies and water supply 
+     forecasting, including technologies that integrate snowpack 
+     measuring and modeling''; and
+       (B) in subparagraph (B)--
+       (i) by striking ``after submitting the report required by 
+     subsection (d)(3),''; and
+       (ii) by inserting ``and to improve water supply 
+     forecasting'' after ``watersheds'';
+       (2) in subsection (d)--
+       (A) in paragraph (1)--
+       (i) in the paragraph heading, by inserting ``and water 
+     supply forecasting'' after ``data'';
+       (ii) in the matter preceding subparagraph (A), by striking 
+     ``emerging technologies for snowpack measurement, such as'' 
+     and inserting ``technologies for snowpack measurements and 
+     methods to forecast water supply, including'';
+       (iii) in subparagraph (B), by striking ``and'' at the end; 
+     and
+       (iv) by striking subparagraph (C) and inserting the 
+     following:
+       ``(C) imaging spectroscopy;
+       ``(D) machine learning;
+       ``(E) snowpack and hydrologic modeling; and
+       ``(F) other technologies that the Secretary determines are 
+     likely to provide more accurate or timely snowpack 
+     measurement data or analytical methods utilizing snowpack 
+     data that can improve water supply forecasting to inform 
+     water management and reservoir operations.'';
+       (B) in paragraph (2), by striking ``emerging technologies 
+     for snowpack measurement'' and inserting ``technologies for 
+     snowpack measurement and models, including the Department of 
+     Agriculture and the National Oceanic and Atmospheric 
+     Administration''; and
+       (C) by striking paragraph (3);
+       (3) in subsection (e)--
+       (A) in paragraph (1)--
+       (i) by striking ``After submitting the report required 
+     under subsection (d)(3), the'' and inserting ``The''; and
+       (ii) by striking ``in particular watersheds'' and inserting 
+     ``and water supply forecasts in particular watersheds and to 
+     explore new statistical, machine learning, or physical models 
+     to generate improved water supply forecasts utilizing 
+     snowpack data''; and
+       (B) by striking paragraph (2) and inserting the following:
+       ``(2) Focus.--The program shall focus on activities that 
+     will maintain, establish, expand, or advance snowpack 
+     measurement and modeling projected water supply, with an 
+     emphasis on--
+       ``(A) enhancing activities to achieve improved snow and 
+     water supply forecasting results that are more responsive to 
+     changing weather and watershed conditions;
+       ``(B) activities in river basins where activities described 
+     in this section relating to snowpack measurement and water 
+     supply forecasting can inform water management decisions or 
+     models at a multi-water user, multi-basin, or multi-State 
+     scale, including interstate water management decisions; and
+       ``(C) building the capacity of program partners to 
+     implement and adapt to the new measurement and forecasting 
+     capabilities enabled under the program.'';
+       (4) in subsection (f)--
+       (A) in the matter preceding paragraph (1), by striking 
+     ``this Act'' and inserting ``the Snow Water Supply 
+     Forecasting Program Reauthorization Act of 2026'';
+       (B) in paragraph (2), by striking ``or sub-basin'';
+       (C) by redesignating paragraph (2) as paragraph (4); and
+       (D) by striking paragraph (1) and inserting the following:
+       ``(1) a list of basins for which snowpack measurement and 
+     integrated modeling technologies are being used under the 
+     program, including a description of each application, 
+     outcome, and data resource used;
+       ``(2) an assessment of which technologies best inform water 
+     supply forecasting for multiple water districts, communities, 
+     or States;
+       ``(3) an assessment of forecasts generated using new 
+     technologies authorized under this Act compared against water 
+     supply forecast benchmarks from the Department of Agriculture 
+     and the National Oceanic and Atmospheric Administration; 
+     and''; and
+       (5) in subsection (g), by striking ``$15,000,000, in the 
+     aggregate, for fiscal years 2022 through 2026'' and inserting 
+     ``$3,000,000 for each of fiscal years 2027 through 2031''.
+
+  Mr. THUNE. Mr. President, I ask unanimous consent that the committee-
+reported substitute amendment be agreed to; that the bill, as amended, 
+be considered read a third time and passed; and that the motion to 
+reconsider be considered made and laid upon the table.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The committee-reported amendment, in the nature of a substitute, was 
+agreed to.
+
+[[Page S5297]]
+
+  The bill (S. 2437), as amended, was ordered to be engrossed for a 
+third reading, was read the third time, and passed.
+
+                          ____________________
+```
