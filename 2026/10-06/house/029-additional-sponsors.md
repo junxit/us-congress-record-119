@@ -1,0 +1,118 @@
+---
+granule: CREC-2026-10-06-pt1-PgH6031-19
+date: 2026-10-06
+edition: CREC
+section: HOUSE
+page: H6031
+citation: 172 Cong. Rec. H6031
+---
+
+# ADDITIONAL SPONSORS
+
+**Measures:** H.R. 31, H.Con.Res. 44, H.R. 491, H.R. 492, H.R. 537, H.Res. 819, H.R. 1394, H.Res. 1603, H.R. 1616, H.R. 1657, H.R. 2357, H.R. 2694, H.R. 2710, H.R. 2743, H.R. 2766, H.R. 2941, H.R. 3037, H.R. 3132, H.R. 3226, H.R. 3418, H.R. 3521, H.R. 3913, H.R. 3964, H.R. 4206, H.R. 4504, H.R. 4517, H.R. 4669, H.R. 4718, H.R. 4792, H.R. 4806, H.R. 5011, H.R. 5357, H.R. 5536, H.R. 5544, H.R. 5575, H.R. 6137, H.R. 6152, H.R. 6160, H.R. 6683, H.R. 6729, H.R. 6736, H.R. 6853, H.R. 6857, H.R. 6990, H.R. 7126, H.R. 7188, H.R. 7480, H.R. 7549, H.R. 7853, H.R. 7875, H.R. 7945, H.R. 8081, H.R. 8254, H.R. 8375, H.R. 8582, H.R. 8691, H.R. 8895, H.R. 8917, H.R. 9042, H.R. 9090, H.R. 9259, H.R. 9298, H.R. 9304, H.R. 9325, H.R. 9396, H.R. 9401, H.R. 9417, H.R. 9489, H.R. 9554, H.R. 9594, H.R. 9693, H.R. 9734, H.R. 9849, H.R. 9901, H.R. 9936, H.R. 9988, H.R. 10045, H.R. 10052, H.R. 10216, H.R. 10269, H.R. 10295, H.R. 10345, H.R. 10374, H.R. 10446, H.R. 10449, H.R. 10574, H.R. 10597, H.R. 10612, H.R. 10642, H.R. 10651, H.R. 10654, H.R. 10680, H.R. 10691, H.R. 10693, H.R. 10715, H.R. 10745
+
+```
+                          ADDITIONAL SPONSORS
+
+  Under clause 7 of rule XII, sponsors were added to public bills and 
+resolutions, as follows:
+
+       H.R. 31: Mr. Gosar and Mr. Smucker.
+       H.R. 491: Mr. Amo.
+       H.R. 492: Mr. Amo.
+       H.R. 537: Mr. Thanedar.
+       H.R. 1394: Ms. Scholten.
+       H.R. 1616: Mr. Bilirakis.
+       H.R. 1657: Ms. Pressley.
+       H.R. 2357: Mr. Lieu.
+       H.R. 2694: Mr. Gosar.
+       H.R. 2710: Mrs. Sykes.
+       H.R. 2743: Mr. Stanton.
+       H.R. 2766: Mr. Cisneros.
+       H.R. 2941: Mrs. Sykes and Ms. Mejia.
+       H.R. 3037: Mrs. Beatty.
+       H.R. 3132: Mr. Gosar.
+       H.R. 3226: Ms. Lee of Nevada.
+       H.R. 3418: Ms. Mejia.
+       H.R. 3521: Mr. Smucker, Ms. Bynum, Mr. Keating, Mr. Miller 
+     of Ohio, Ms. Sewell, and Mr. Moulton.
+       H.R. 3913: Mr. Gosar.
+       H.R. 3964: Mrs. Sykes.
+       H.R. 4206: Mr. Calvert and Mr. Garcia of California.
+       H.R. 4504: Mrs. Sykes.
+       H.R. 4517: Mr. Stanton and Mr. Lawler.
+       H.R. 4669: Mr. Finstad and Mr. Gottheimer.
+       H.R. 4718: Mr. Peters.
+       H.R. 4792: Mr. Bilirakis.
+       H.R. 4806: Mrs. Kiggans of Virginia and Ms. Craig.
+       H.R. 5011: Mr. Carbajal.
+       H.R. 5357: Mr. Moylan.
+       H.R. 5536: Ms. Goodlander.
+       H.R. 5544: Mr. Thanedar.
+       H.R. 5575: Mr. Lawler.
+       H.R. 6137: Ms. DeLauro.
+       H.R. 6152: Mr. Sorensen.
+       H.R. 6160: Mr. Soto.
+       H.R. 6683: Mr. Lynch.
+       H.R. 6729: Mr. Peters.
+       H.R. 6736: Ms. Ansari and Mr. Quigley.
+       H.R. 6853: Mr. Gosar.
+       H.R. 6857: Ms. Norton and Mr. Suozzi.
+       H.R. 6990: Mr. Lieu.
+       H.R. 7126: Mr. Gosar.
+       H.R. 7188: Ms. Castor of Florida.
+       H.R. 7480: Mr. Garcia of California.
+       H.R. 7549: Mr. Stanton.
+       H.R. 7853: Mr. Horsford.
+       H.R. 7875: Mr. Van Orden and Mr. Walkinshaw.
+       H.R. 7945: Mr. Lawler.
+       H.R. 8081: Ms. Norton.
+       H.R. 8254: Ms. Moore of Wisconsin.
+       H.R. 8375: Mr. Carson.
+       H.R. 8582: Mr. Pallone.
+       H.R. 8691: Ms. King-Hinds.
+       H.R. 8895: Ms. Lee of Nevada.
+       H.R. 8917: Mr. Gosar.
+       H.R. 9042: Mr. Lieu.
+       H.R. 9090: Mr. Pocan, Ms. Wilson of Florida, Mr. Ivey, and 
+     Mr. Lawler.
+       H.R. 9259: Mr. Pocan.
+       H.R. 9298: Mr. Baird.
+       H.R. 9304: Mr. Fine.
+       H.R. 9325: Mr. Ellzey.
+       H.R. 9396: Mr. Bresnahan.
+       H.R. 9401: Ms. Randall and Mr. Walkinshaw.
+       H.R. 9417: Ms. Scholten, Mr. Gottheimer, and Mr. LaLota.
+       H.R. 9489: Mr. Guest and Ms. Budzinski.
+       H.R. 9554: Mrs. Sykes.
+       H.R. 9594: Mr. Lieu.
+       H.R. 9693: Ms. Chu.
+       H.R. 9734: Mr. Bresnahan.
+       H.R. 9849: Mr. Van Orden.
+       H.R. 9901: Mr. Beyer.
+       H.R. 9936: Mr. Fleischmann.
+       H.R. 9988: Mr. Carter of Georgia.
+       H.R. 10045: Mr. Cisneros and Ms. Balint.
+       H.R. 10052: Mr. Peters.
+       H.R. 10216: Mr. Thanedar.
+       H.R. 10269: Mr. Lawler.
+       H.R. 10295: Mr. Vicente Gonzalez of Texas.
+       H.R. 10345: Mr. Thanedar.
+       H.R. 10374: Ms. Castor of Florida.
+       H.R. 10446: Ms. Ansari.
+       H.R. 10449: Mr. Steube.
+       H.R. 10574: Mr. Khanna.
+       H.R. 10597: Mr. Takano and Mr. Cisneros.
+       H.R. 10612: Mr. Hernandez.
+       H.R. 10642: Mrs. McIver.
+       H.R. 10651: Mr. Casten.
+       H.R. 10654: Ms. Ansari.
+       H.R. 10680: Mr. Lawler.
+       H.R. 10691: Ms. Pingree and Ms. Omar.
+       H.R. 10693: Mr. Lawler.
+       H.R. 10715: Ms. Clarke of New York.
+       H.R. 10745: Mr. Kennedy of Utah and Mr. Baird.
+       H. Con. Res. 44: Ms. Mejia.
+       H. Res. 819: Mr. Thanedar.
+       H. Res. 1603: Ms. Balint.
+```
