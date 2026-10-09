@@ -1,0 +1,20 @@
+---
+granule: CREC-2026-10-09-pt1-PgH6036-6
+date: 2026-10-09
+edition: CREC
+section: HOUSE
+page: H6036
+citation: 172 Cong. Rec. H6036
+---
+
+# Constitutional Authority Statement for H.R. 10777
+
+**Measures:** H.R. 10777
+
+```
+           By Mr. FALLON:
+       H.R. 10777.
+       Congress has the power to enact this legislation pursuant 
+     to the following:
+       Article I, Section 8
+```
