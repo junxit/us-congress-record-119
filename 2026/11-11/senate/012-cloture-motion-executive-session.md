@@ -1,0 +1,37 @@
+---
+granule: CREC-2026-11-11-pt1-PgS5569-4
+date: 2026-11-11
+edition: CREC
+section: SENATE
+page: S5569
+citation: 172 Cong. Rec. S5569
+---
+
+# Cloture Motion (Executive Session)
+
+**Speaking:** Thune, John (T000250) [R-SD]
+
+```
+                             Cloture Motion
+
+  Mr. THUNE. Mr. President, I send a cloture motion to the desk.
+  The PRESIDING OFFICER. The cloture motion having been presented under 
+rule XXII, the Chair directs the clerk to read the motion.
+  The senior assistant legislative clerk read as follows:
+
+                             Cloture Motion
+
+       We, the undersigned Senators, in accordance with the 
+     provisions of rule XXII of the Standing Rules of the Senate, 
+     do hereby move to bring to a close debate on the nomination 
+     of Executive Calendar No. 969, Courtney Leigh Coker, of 
+     Texas, to be United States District Judge for the Northern 
+     District of Texas.
+         John Thune, Jim Banks, Tom Cotton, John R. Curtis, James 
+           Lankford, Tim Sheehy, John Barrasso, Mike Lee, Cindy 
+           Hyde-Smith, Mike Rounds, Rick Scott of Florida, Kevin 
+           Cramer, Mike Crapo, Bernie Moreno, John Boozman, 
+           Darline Graham, Cynthia M. Lummis.
+
+                          ____________________
+```
