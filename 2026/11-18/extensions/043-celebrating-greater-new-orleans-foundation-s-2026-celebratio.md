@@ -1,0 +1,175 @@
+---
+granule: CREC-2026-11-18-pt1-PgE1249-3
+date: 2026-11-18
+edition: CREC
+section: EXTENSIONS
+page: E1249
+citation: 172 Cong. Rec. E1249
+---
+
+# CELEBRATING GREATER NEW ORLEANS FOUNDATION'S 2026 CELEBRATION OF BLACK PHILANTHROPY HONOREES RHESA AND ALDEN J. McDONALD, JR.
+
+**Speaking:** Carter, Troy A. (C001125) [D-LA]
+
+```
+CELEBRATING GREATER NEW ORLEANS FOUNDATION'S 2026 CELEBRATION OF BLACK 
+         PHILANTHROPY HONOREES RHESA AND ALDEN J. McDONALD, JR.
+
+                                 ______
+                                 
+
+                          HON. TROY A. CARTER
+
+                              of louisiana
+
+                    in the house of representatives
+
+                      Wednesday, November 18, 2026
+
+  Mr. CARTER of Louisiana. Mr. Speaker, I rise today to honor Rhesa and 
+Alden J. McDonald, Jr., an incredible couple, widely regarded as one of 
+Louisiana's most philanthropic families, shaping public understanding 
+of state and local giving for more than five decades as constituents of 
+Louisiana's 2nd Congressional District, which I represent. Rhesa is the 
+daughter of deceased parents Revius Oliver Ortique, Jr., Associate 
+Justice Louisiana Supreme Court and Miriam Victorianne Ortique. Alden 
+is the son of deceased parents Alden Joseph McDonald, Sr. and Celestine 
+Bevrotte McDonald. The couple have been married for 51 years. The 
+couple renewed their marital vows before their children and 
+grandchildren at the iconic St. Peter's Basilica in Rome, Italy. They 
+are the proud parents of three children, Heidi, Alden, III, MD, and 
+Todd.
+  Rhesa Ortique McDonald is a retired lifelong educator in the public 
+school system for over 50 years. She is most notably known for 
+integrating Ursuline Academy over 60 years ago. Alden McDonald Jr. says 
+he did not come from money but was rich in other ways. ``I developed a 
+lot of skills, working skills and personal skills back then because we 
+had to hustle. We had to hustle to make a living,'' McDonald Jr. told 
+Scripps News. As a waiter working an event in the 1960s, he was 
+approached about the need for Black bankers. ``I've always had more 
+than one job, and at the time of the job that I had at the time, I got 
+off at 3:00. So, I said, well, I'll go work part-time,'' he recalled.
+  Alden, Jr., Co-Chairman of the Board & Chief Executive Officer, has 
+held his current position since the bank's inception in 1972, making 
+him the longest tenured African American financial executive in the 
+country. With over 50 years of experience in the banking industry, Mr. 
+McDonald's strategic vision and hard work have been crucial to the 
+success of the bank. Under his leadership, the bank's assets have grown 
+from a mere $2 million in 1972 to over $1 billion currently. In 2022, 
+Mr. McDonald transitioned the duties of President to his son, Todd 
+McDonald.
+  Over the past 50 plus years, Alden and Rhesa have led the 
+philanthropic efforts of Liberty Bank contributing across the Greater 
+New Orleans Community. In addition to being a solid financial 
+institution, Liberty Bank established itself under their direction as a 
+responsible corporate citizen, especially as it relates to ensuring 
+that all our citizens are provided access to a quality education. With 
+very limited public relations staff, Liberty Bank and its employees 
+raised and contributed nearly $500,000 annually to local causes
+  I include in the Record the following list of examples of education 
+related projects that continue to make an impact under the leadership 
+of Liberty Bank:
+
+       New Orleans Public Schools Superintendent's Back to School 
+     Race: Without first being solicited, Liberty Bank volunteered 
+     to commit financial resources to the first annual New Orleans 
+     Public School superintendent's race at a time when no major 
+     corporate donors stepped forward. Thanks to vision of the 
+     McDonalds and Liberty Bank, more than 3,000 people 
+     participated and enjoyed the event, while welcoming then, new 
+     superintendent to his position. This type of philanthropic 
+     support is typical of the belief in education espoused by 
+     Liberty Bank directors, management, and employees. The 
+     Support our Schools Campaign: Held annually each year since 
+     1992, Liberty Bank organized a city-wide raffle whose 
+     proceeds are used to provide for the unfunded needs of 
+     elementary and secondary schools, the majority of which were 
+     members of the New Orleans Public School System. In 1998, 92 
+     schools used this opportunity to raise a record $215,000, 
+     which they used on such things as the purchase of textbooks 
+     as well as capital projects such as the installation of air 
+     conditioning and other upgrades. The program was unique in 
+     that individual schools were motivated to participate because 
+     they receive 100 percent of the raffle proceeds generated by 
+     their students and faculty. Additionally, this event was 
+     significant because of the important lessons students learn 
+     by participating, namely that philanthropy is critical to the 
+     betterment of our community. This is a lesson, thanks to 
+     Liberty Bank, was cultivated and developed throughout these 
+     students' lives.
+       The Liberty Bank Track Meet: an event that provided an 
+     opportunity for area high school students to participate in a 
+     professionally managed track meet. This event was held prior 
+     to the state track events so that student athletes can have 
+     an opportunity to prepare for their competition. Liberty Bank 
+     invested nearly $50,000 in this event so that students can 
+     participate at no cost to their institutions.
+       The United Negro College Fund Ball: Founded officially in 
+     1994, the UNCF Ball was created by Liberty Bank as a major 
+     fundraising event to benefit students attending local UNCF 
+     member institutions. Since its inception, the ball has raised 
+     nearly $500,000. More than 1,000 participants attended the 
+     1999 event, which generated gross revenue of $78,000. The net 
+     proceeds were then used to qualify for generated gross 
+     revenue of $78,000. The net proceeds allow the local chapter 
+     to qualify for matching gift funds from the national 
+     fundraising efforts of the United Negro College Fund, Inc., 
+     more than quadrupling the impact of this gift. Before this 
+     activity became an official fundraising opportunity, this 
+     event was originally hosted at the home of Mr. and Mrs.
+
+[[Page E1250]]
+
+     Rhesa and Alden McDonald. The event has grown over the years 
+     and has transformed into the Mayor's Mask Ball.
+       Thanksgiving Basket distribution: Each Thanksgiving Liberty 
+     Bank's employees work with local social services 
+     organizations to assemble and distribute more than 600 
+     baskets to needy citizens of the New Orleans community. The 
+     project is totally funded by Liberty Bank and Trust.
+       Student Summer Internships: Liberty Bank provides summer 
+     internships for local community high school students so that 
+     they can be exposed to the professional business environment. 
+     Among the skills taught are computer programming and customer 
+     service familiarity.
+       Volunteerism: Alden McDonald continues to serve on many 
+     boards in the city of New Orleans, to include the UNCF 
+     Leadership Committee Board, The Dock Board, and formerly the 
+     Loyola University Board of Trustees and Catholic Charities 
+     Archdiocese of New Orleans, while Rhesa McDonald is engaged 
+     in many organizations that allow volunteerism including 
+     Second Harvest of New Orleans and the Links, to name a few.
+
+  In 2001, McDonald received the prestigious Loving Cup from New 
+Orleans' major newspaper, The Times-Picayune. This award is considered 
+the highest honor in the New Orleans Metropolitan Area. He then became 
+the chairman of the New Orleans Chamber of Commerce. McDonald became 
+the co-chair of the Greater New Orleans Education Foundation. In 2004, 
+he became the first chairman for Greater New Orleans, Inc., established 
+for the economic development of the New Orleans region.
+  In 2005, in the aftermath of Hurricane Katrina, McDonald led efforts 
+toward the economic rehabilitation of New Orleans as well as his own, 
+Liberty Bank and Trust. Katrina devastated Liberty's headquarters, 
+branches and spread the bank's customers throughout the Nation. Despite 
+these obstacles, he moved back into his community to concentrate his 
+efforts toward the economic rehabilitation of New Orleans. McDonald 
+enacted creative policy decisions for his bank and opened new branches 
+that helped overturn the economic downturn of the New Orleans economy, 
+thus cutting his bank's estimated losses dramatically.
+  Most recently, following Rhesa McDonald's diagnosis of diabetes, the 
+McDonalds, helped to create the ``Get New Orleans East Hospital Fit: 
+`Healthy You, Healthy Me' initiative'' launching diabetes friendly 
+restaurant menu program. The program is aimed for the New Orleans 
+community by empowering them to make health-conscious decisions when 
+dining out at participating restaurants. The ``Healthy You, Healthy 
+Me'' initiative is a joint effort between Rhesa and Alden J. McDonald 
+and the Sue Ellen and Joseph Canizaro Diabetes Center (Diabetes Center) 
+and the Goldring Family Foundation Center for Jewish-Multicultural 
+Affairs (CJMA), an in-house initiative of the Jewish Federation of 
+Greater New Orleans(Federation).
+  I thank Rhesa and Alden McDonald for all their continued 
+philanthropic efforts, assuring many legacies throughout the Greater 
+New Orleans Community continue.
+
+                          ____________________
+```
